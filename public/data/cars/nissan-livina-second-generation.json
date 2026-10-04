@@ -1,0 +1,41 @@
+{
+  "id": "nissan-livina-second-generation",
+  "make": "Nissan",
+  "model": "Livina",
+  "generation": "Second generation",
+  "aka": [
+    "Grand Livina",
+    "Livina X-Gear",
+    "Livina Geniss",
+    "X-Gear",
+    "Grand Livina X-Gear"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nissan_Livina_ND1W_1.5_VL_Diamond_Pearl_White_02.jpg/960px-Nissan_Livina_ND1W_1.5_VL_Diamond_Pearl_White_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Livina is a compact MPV model produced by the Japanese automobile manufacturer Nissan. It was introduced in July 2006 by Dongfeng Nissan at the Guangzhou International Motor Show and went on sale in December 2006. Sharing the same platform with the first-generation Note, the first-generation Livina was the first Nissan vehicle to debut in China before being released in other countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Livina",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nissan_Livina_ND1W_1.5_VL_Diamond_Pearl_White_02.jpg/1920px-Nissan_Livina_ND1W_1.5_VL_Diamond_Pearl_White_02.jpg",
+  "sketchfab": {
+    "uid": "e19cca9161c54ea8a7b442fb6d162f68",
+    "name": "Nissan Livina 2019",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "chevrolet-spark-fourth-generation",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "generation": "Fourth generation",
+  "aka": [
+    "M3X",
+    "Matiz",
+    "Pontiac Matiz",
+    "Pontiac G2",
+    "Pontiac Matiz G2",
+    "Chevy Spark",
+    "Chevy Joy",
+    "Chevy Matiz"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2020_Chevrolet_Spark_LT_CVT%2C_front_left_%28Silver%29.jpg/960px-2020_Chevrolet_Spark_LT_CVT%2C_front_left_%28Silver%29.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 38,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Spark"
+  ],
+  "description": "The Chevrolet Spark is a city car manufactured by General Motors's subsidiary GM Korea from 1998 to 2022. The vehicle was developed by Daewoo and introduced in 1998 as the Daewoo Matiz. In 2002, General Motors purchased Daewoo Motors, which was marketing the vehicle with several GM marques and nameplates.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Spark",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2020_Chevrolet_Spark_LT_CVT%2C_front_left_%28Silver%29.jpg/1920px-2020_Chevrolet_Spark_LT_CVT%2C_front_left_%28Silver%29.jpg",
+  "sketchfab": {
+    "uid": "71785d8bb6bf4b0cac8cdb51ce9d6f9c",
+    "name": "2021 Chevrolet Spark LS 1.2",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "shelby-mustang-3rd-generation",
+  "make": "Shelby",
+  "model": "Mustang",
+  "generation": "3rd generation",
+  "aka": [
+    "GT350",
+    "GT500",
+    "Ford Shelby GT",
+    "Ford Shelby GT500",
+    "Mustang Cobra",
+    "Mustang shelby",
+    "Ford Shelby GT-H",
+    "Mustang GT500"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg/960px-1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mustang GT"
+  ],
+  "description": "The Shelby Mustang is a high-performance variant of the Ford Mustang built by Shelby American from 1965 to 1967 and by the Ford Motor Company from 1968 to 1970.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shelby_Mustang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg/1920px-1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

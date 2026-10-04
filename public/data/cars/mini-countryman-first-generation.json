@@ -1,0 +1,52 @@
+{
+  "id": "mini-countryman-first-generation",
+  "make": "MINI",
+  "model": "Countryman",
+  "generation": "First generation",
+  "aka": [
+    "ALL4",
+    "Countryman Plug-in Hybrid",
+    "Cooper Countryman",
+    "Cooper S E Countryman ALL4 plug-in hybrid",
+    "Crossover",
+    "Countryman Electric"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2016_Mini_Countryman_%28R60_LCI%29_Cooper_hatchback_%282018-09-03%29_01.jpg/960px-2016_Mini_Countryman_%28R60_LCI%29_Cooper_hatchback_%282018-09-03%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 29,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Countryman"
+  ],
+  "description": "The Mini Countryman, also called Mini Crossover in Japan until 2024, is a compact crossover SUV, the first vehicle of this type to be launched by BMW under the Mini marque. It was launched in 2010 and received a facelift in 2014. The second generation vehicle was released in 2017 and received a facelift in 2020. The third generation of the Countryman was released in 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Countryman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2016_Mini_Countryman_%28R60_LCI%29_Cooper_hatchback_%282018-09-03%29_01.jpg/1920px-2016_Mini_Countryman_%28R60_LCI%29_Cooper_hatchback_%282018-09-03%29_01.jpg",
+  "sketchfab": {
+    "uid": "24a56f93ef4c41da917e6d3292d3c6a7",
+    "name": "2015 mini countryman all4racing x-raid",
+    "author": "amogusstrikesback2",
+    "authorUrl": "https://sketchfab.com/amogusstrikesback2",
+    "license": "CC Attribution"
+  }
+}

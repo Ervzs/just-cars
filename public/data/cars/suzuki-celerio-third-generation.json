@@ -1,0 +1,29 @@
+{
+  "id": "suzuki-celerio-third-generation",
+  "make": "Suzuki",
+  "model": "Celerio",
+  "generation": "Third generation",
+  "aka": [
+    "Maruti suzuki celerio"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Toyota_Vitz_2023_Front.jpg/960px-Toyota_Vitz_2023_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Celerio is a hatchback city car produced by the Japanese manufacturer Suzuki since 2008. Originally a rebadged Alto/A-Star city car for some markets, the Celerio was made as a global nameplate and a standalone model replacing the A-Star in 2014. Suzuki unveiled the second-generation Celerio at the Auto Expo 2014 in India, after being previewed as the A:Wind concept model at the Thailand International Motor Expo in November 2013. The third-generation model was unveiled in November 2021. In 2023, the third-generation model was also marketed by Toyota in African markets as the Toyota Vitz.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Celerio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Toyota_Vitz_2023_Front.jpg/1280px-Toyota_Vitz_2023_Front.jpg",
+  "sketchfab": null
+}

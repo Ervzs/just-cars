@@ -1,0 +1,29 @@
+{
+  "id": "nissan-rogue-fourth-generation",
+  "make": "Nissan",
+  "model": "Rogue",
+  "generation": "Fourth generation",
+  "aka": [
+    "Rouge",
+    "Rogue Plug-in Hybrid"
+  ],
+  "years": [],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg/960px-2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. It made its debut in October 2007 for the 2008 model year. Beginning in 2013 for the 2014 model year, the model has been merged with the X-Trail sold outside the North American market, making them identical.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Rogue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg/1920px-2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg",
+  "sketchfab": {
+    "uid": "bd4773760fb144d8aa0176dc7388df05",
+    "name": "Nissan_ Rogue",
+    "author": "ColstonJones",
+    "authorUrl": "https://sketchfab.com/ColstonJones",
+    "license": "CC Attribution"
+  }
+}

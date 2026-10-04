@@ -1,0 +1,54 @@
+{
+  "id": "toyota-prius-third-generation",
+  "make": "Toyota",
+  "model": "Prius",
+  "generation": "Third generation",
+  "aka": [
+    "Prius II",
+    "Thepri.us",
+    "Pryus",
+    "Prius Touring",
+    "Prii",
+    "Prium",
+    "Priuses",
+    "Prien"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Toyota_Prius_ZVW30_front_20100725.jpg/960px-Toyota_Prius_ZVW30_front_20100725.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 49,
+    "mpgHighway": 46,
+    "mpgCombined": 48,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prius"
+  ],
+  "description": "The Toyota Prius   is a car produced by Toyota since 1997 over five generations. The Prius has a hybrid drivetrain, called Hybrid Synergy Drive, which combines an internal combustion engine and an electric motor. Initially offered as a subcompact four-door saloon, it has been produced only as a compact five-door liftback since 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Toyota_Prius_ZVW30_front_20100725.jpg/1920px-Toyota_Prius_ZVW30_front_20100725.jpg",
+  "sketchfab": {
+    "uid": "04eaf6b288cc466785365b7d985e3b29",
+    "name": "Toyota Prius 2012",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

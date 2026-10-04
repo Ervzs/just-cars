@@ -1,0 +1,37 @@
+{
+  "id": "toyota-yaris-xp150",
+  "make": "Toyota",
+  "model": "Yaris (XP150)",
+  "generation": null,
+  "aka": [
+    "Yaris Legian"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2015_Toyota_Yaris_1.5_G_hatchback_%28NCP150R%3B_12-22-2018%29%2C_South_Tangerang.jpg/960px-2015_Toyota_Yaris_1.5_G_hatchback_%28NCP150R%3B_12-22-2018%29%2C_South_Tangerang.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The XP150 series Toyota Yaris is a subcompact car produced and sold by Toyota under the Yaris nameplate since 2013. Marketed exclusively for emerging markets, it is the hatchback counterpart of the XP150 series Vios subcompact sedan, which in some markets also shared the same Yaris nameplate. It is larger and longer than the unrelated XP130 series Yaris hatchback which was marketed in Japan, North America, Europe and Australasia, and the succeeding TNGA-based XP210 series Yaris.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris_(XP150)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2015_Toyota_Yaris_1.5_G_hatchback_%28NCP150R%3B_12-22-2018%29%2C_South_Tangerang.jpg/1920px-2015_Toyota_Yaris_1.5_G_hatchback_%28NCP150R%3B_12-22-2018%29%2C_South_Tangerang.jpg",
+  "sketchfab": null
+}

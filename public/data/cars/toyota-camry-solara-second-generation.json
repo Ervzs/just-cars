@@ -1,0 +1,29 @@
+{
+  "id": "toyota-camry-solara-second-generation",
+  "make": "Toyota",
+  "model": "Camry Solara",
+  "generation": "Second generation",
+  "aka": [
+    "Solara"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/07-08_Toyota_Solara_Convertible.jpg/960px-07-08_Toyota_Solara_Convertible.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Camry Solara, popularly known as the Toyota Solara, is a mid-size coupé/convertible built by Toyota. The Camry Solara is mechanically based on the Toyota Camry and effectively replaced the discontinued Camry Coupé (XV10); however, in contrast with its predecessor's conservative design, the Camry Solara was designed with a greater emphasis on sportiness, with more rakish styling, and uprated suspension and engine tuning intended to provide a sportier feel. The coupe was launched in late 1998 for model year 1999. In 2000, the convertible was introduced, effectively replacing the Celica convertible in Toyota's North American lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry_Solara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/07-08_Toyota_Solara_Convertible.jpg/1920px-07-08_Toyota_Solara_Convertible.jpg",
+  "sketchfab": null
+}

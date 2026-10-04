@@ -1,0 +1,44 @@
+{
+  "id": "toyota-fortuner-second-generation",
+  "make": "Toyota",
+  "model": "Fortuner",
+  "generation": "Second generation",
+  "aka": [
+    "Hilux SW4",
+    "SW4",
+    "Legender",
+    "Fortuner Legender"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_Fortuner_2.4_GD-6.jpg/960px-Toyota_Fortuner_2.4_GD-6.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Fortuner, also known as the Toyota SW4, is a mid-size SUV manufactured by the Japanese automaker Toyota since 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Fortuner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_Fortuner_2.4_GD-6.jpg/1920px-Toyota_Fortuner_2.4_GD-6.jpg",
+  "sketchfab": {
+    "uid": "a70b997f11b7482e9affbf318a508f85",
+    "name": "Toyota Fortuner 2021",
+    "author": "Asadawut.Kaewma",
+    "authorUrl": "https://sketchfab.com/Asadawut.Kaewma",
+    "license": "CC Attribution"
+  }
+}

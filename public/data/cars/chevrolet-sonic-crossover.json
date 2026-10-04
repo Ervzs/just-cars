@@ -1,0 +1,42 @@
+{
+  "id": "chevrolet-sonic-crossover",
+  "make": "Chevrolet",
+  "model": "Sonic (crossover)",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2026_Chevrolet_Sonic_front.jpg/960px-2026_Chevrolet_Sonic_front.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 34,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sonic"
+  ],
+  "description": "The Chevrolet Sonic is a subcompact crossover SUV produced by General Motors do Brasil since 2026 under the Chevrolet brand. The model is derived from the Chevrolet Onix family and known internally as Project Carbon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Sonic_(crossover)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2026_Chevrolet_Sonic_front.jpg/1920px-2026_Chevrolet_Sonic_front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "bmw-7-series-sixth-generation",
+  "make": "BMW",
+  "model": "7 Series",
+  "generation": "Sixth generation",
+  "aka": [
+    "700 Series",
+    "7",
+    "745",
+    "745i",
+    "750i",
+    "750",
+    "760i",
+    "7 Series Sedan"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium and Electricity",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2019_BMW_740Li_Automatic_facelift_3.0.jpg/960px-2019_BMW_740Li_Automatic_facelift_3.0.jpg",
+  "has3d": false,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": 290
+  },
+  "variants": [
+    "7 Series"
+  ],
+  "description": "The BMW 7 Series is a full-size luxury sedan manufactured and marketed by the German automaker BMW since 1977. It is the successor to the BMW E3 \"New Six\" sedan and is now in its seventh generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_7_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2019_BMW_740Li_Automatic_facelift_3.0.jpg/1920px-2019_BMW_740Li_Automatic_facelift_3.0.jpg",
+  "sketchfab": null
+}

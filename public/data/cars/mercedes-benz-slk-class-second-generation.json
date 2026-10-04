@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-slk-class-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "SLK-Class",
+  "generation": "Second generation",
+  "aka": [
+    "Mercedes SLK500",
+    "Mercedes SLK",
+    "SLK",
+    "SLT-Class",
+    "Mercedes slk 55 amg",
+    "Mercedes Benz SLK-Class",
+    "Mercedes SLK-Class",
+    "MB SLK-Class"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercedes_SLK_200_Kompressor_%28R171%29_front_20100402.jpg/960px-Mercedes_SLK_200_Kompressor_%28R171%29_front_20100402.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SLK-Class"
+  ],
+  "description": "The Mercedes-Benz SLK-Class is a compact executive roadster, produced by Mercedes-Benz. It was released in 1996 and was manufactured at the Mercedes plant in Bremen, Germany, until 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercedes_SLK_200_Kompressor_%28R171%29_front_20100402.jpg/1920px-Mercedes_SLK_200_Kompressor_%28R171%29_front_20100402.jpg",
+  "sketchfab": null
+}

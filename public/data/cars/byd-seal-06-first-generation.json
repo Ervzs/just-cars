@@ -1,0 +1,30 @@
+{
+  "id": "byd-seal-06-first-generation",
+  "make": "BYD",
+  "model": "Seal 06",
+  "generation": "First generation",
+  "aka": [
+    "Seal 06 EV"
+  ],
+  "years": [
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/BYD_Seal_06_DM-i_002.jpg/960px-BYD_Seal_06_DM-i_002.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Seal 06 is a series of mid-size car manufactured by BYD Auto since 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Seal_06",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/BYD_Seal_06_DM-i_002.jpg/1920px-BYD_Seal_06_DM-i_002.jpg",
+  "sketchfab": {
+    "uid": "5beac99c87fd496daac93229be7f2305",
+    "name": "2024 BYD Seal 06 GT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

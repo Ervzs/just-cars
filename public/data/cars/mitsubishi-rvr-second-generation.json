@@ -1,0 +1,40 @@
+{
+  "id": "mitsubishi-rvr-second-generation",
+  "make": "Mitsubishi",
+  "model": "RVR",
+  "generation": "Second generation",
+  "aka": [
+    "Space Runner",
+    "Expo LRV",
+    "Eagle Summit Wagon",
+    "Eagle Summit LX",
+    "Mitsu asx"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/1997_Mitsubishi_RVR_01.jpg/960px-1997_Mitsubishi_RVR_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi RVR is a range of cars produced by Japanese manufacturer Mitsubishi Motors from 1991 to 2002 and then from 2010 to present. The first two generations were classified as compact multi-purpose vehicles (MPV), and the model introduced in 2010 is a subcompact SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_RVR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/1997_Mitsubishi_RVR_01.jpg/1280px-1997_Mitsubishi_RVR_01.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "subaru-outback-sixth-generation",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Sixth generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2023_Subaru_Outback_Wilderness_in_Autumn_Green_Metallic%2C_Front_Left%2C_04-29-2023.jpg/960px-2023_Subaru_Outback_Wilderness_in_Autumn_Green_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outback"
+  ],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2023_Subaru_Outback_Wilderness_in_Autumn_Green_Metallic%2C_Front_Left%2C_04-29-2023.jpg/1920px-2023_Subaru_Outback_Wilderness_in_Autumn_Green_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "sketchfab": {
+    "uid": "a44abee6689e429881209fc6299f505c",
+    "name": "2022 Subaru Outback",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

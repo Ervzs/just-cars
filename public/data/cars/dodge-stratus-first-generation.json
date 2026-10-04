@@ -1,0 +1,49 @@
+{
+  "id": "dodge-stratus-first-generation",
+  "make": "Dodge",
+  "model": "Stratus",
+  "generation": "First generation",
+  "aka": [
+    "Cloud Cars",
+    "Chrysler Stratus",
+    "Stratus coupe"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1st_Dodge_Stratus_ES_--_03-18-2011.jpg/960px-1st_Dodge_Stratus_ES_--_03-18-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Stratus"
+  ],
+  "description": "The Dodge Stratus is a mid-size car introduced by Dodge and Chrysler in December 1994, built on the four-door sedan Chrysler JA platform. Immediately recognized for its design and performance, the Stratus, alongside its platform mates, the Plymouth Breeze and Chrysler Cirrus, gained Car and Driver magazine's \"Ten Best list\" for 1996 and 1997. While initial critical acclaim was high, its ratings eventually declined.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Stratus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1st_Dodge_Stratus_ES_--_03-18-2011.jpg/1280px-1st_Dodge_Stratus_ES_--_03-18-2011.jpg",
+  "sketchfab": {
+    "uid": "a0dae1f84cd74acebd34b9b9cf67b852",
+    "name": "1999 Dodge Stratus",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

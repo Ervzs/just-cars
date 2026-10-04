@@ -2,6 +2,8 @@
   "id": "infiniti-q70",
   "make": "Infiniti",
   "model": "Q70",
+  "generation": null,
+  "aka": [],
   "years": [
     2014,
     2015,
@@ -27,6 +29,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Q70"
+  ],
   "description": "The Infiniti Q70 and Q70L is a line of mid-size luxury (executive) cars from Nissan luxury division Infiniti. Essentially an update to the Infiniti M series with minor cosmetic changes, the Q70 name was introduced to reflect Infiniti's updated \"Q\" nomenclature.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_Q70",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2016_Infiniti_Q70L_front_4.24.18.jpg/1920px-2016_Infiniti_Q70L_front_4.24.18.jpg",

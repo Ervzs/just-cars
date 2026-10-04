@@ -2,6 +2,8 @@
   "id": "mclaren-automotive-senna",
   "make": "McLaren Automotive",
   "model": "Senna",
+  "generation": null,
+  "aka": [],
   "years": [
     2019
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "Senna"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

@@ -2,6 +2,10 @@
   "id": "volkswagen-routan",
   "make": "Volkswagen",
   "model": "Routan",
+  "generation": null,
+  "aka": [
+    "VW Routan"
+  ],
   "years": [
     2009,
     2010,
@@ -27,6 +31,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Routan"
+  ],
   "description": "The Volkswagen Routan is a seven-seat minivan marketed and sold by Volkswagen from the 2009 to 2014 model years. It is a rebadged variant of the Chrysler RT platform, with revised styling, content features, and suspension tuning from the fifth-generation Dodge Grand Caravan and Chrysler Town & Country.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Routan",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2009_Volkswagen_Routan_SE.jpg/1920px-2009_Volkswagen_Routan_SE.jpg",

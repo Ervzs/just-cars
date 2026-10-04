@@ -1,0 +1,52 @@
+{
+  "id": "mitsubishi-outlander-third-generation",
+  "make": "Mitsubishi",
+  "model": "Outlander",
+  "generation": "Third generation",
+  "aka": [
+    "Evolander",
+    "Outlander Plug-in Hybrid",
+    "Outlander P-HEV"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2014_Mitsubishi_Outlander_%28ZJ_MY14%29_LS_2WD_wagon_%282016-07-07%29_02.jpg/960px-2014_Mitsubishi_Outlander_%28ZJ_MY14%29_LS_2WD_wagon_%282016-07-07%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outlander"
+  ],
+  "description": "The Mitsubishi Outlander  is a compact crossover SUV manufactured by Japanese automaker Mitsubishi Motors since 2001. It was originally known as the Mitsubishi Airtrek  when it was introduced in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Outlander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2014_Mitsubishi_Outlander_%28ZJ_MY14%29_LS_2WD_wagon_%282016-07-07%29_02.jpg/1920px-2014_Mitsubishi_Outlander_%28ZJ_MY14%29_LS_2WD_wagon_%282016-07-07%29_02.jpg",
+  "sketchfab": {
+    "uid": "d20cf86913754f7f900948778278057a",
+    "name": "Mitsubishi Outlander 2016",
+    "author": "lazercar",
+    "authorUrl": "https://sketchfab.com/lazercar",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

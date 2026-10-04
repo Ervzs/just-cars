@@ -1,0 +1,56 @@
+{
+  "id": "cadillac-eldorado-twelfth-generation",
+  "make": "Cadillac",
+  "model": "Eldorado",
+  "generation": "Twelfth generation",
+  "aka": [
+    "Eldorado Brougham",
+    "Eldorado Seville",
+    "Eldorado Biarritz",
+    "ETC",
+    "Fleetwood Eldorado"
+  ],
+  "years": [
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1992_Cadillac_Eldorado_Touring_Coupe_in_Medium_Garnet_Red_Metallic%2C_Front_Right%2C_06-29-2019.jpg/960px-1992_Cadillac_Eldorado_Touring_Coupe_in_Medium_Garnet_Red_Metallic%2C_Front_Right%2C_06-29-2019.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 25,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Eldorado"
+  ],
+  "description": "The Cadillac Eldorado is a luxury car manufactured and marketed by the Cadillac Motor Car Division of General Motors from 1952 until 2002, over twelve generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Eldorado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1992_Cadillac_Eldorado_Touring_Coupe_in_Medium_Garnet_Red_Metallic%2C_Front_Right%2C_06-29-2019.jpg/1920px-1992_Cadillac_Eldorado_Touring_Coupe_in_Medium_Garnet_Red_Metallic%2C_Front_Right%2C_06-29-2019.jpg",
+  "sketchfab": {
+    "uid": "8e212317cdf34a0f9d99a8acb0dd392b",
+    "name": "Cadillac Eldorado",
+    "author": "Savelliy 07",
+    "authorUrl": "https://sketchfab.com/savelliy07",
+    "license": "CC Attribution"
+  }
+}

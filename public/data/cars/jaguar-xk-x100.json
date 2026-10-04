@@ -1,0 +1,43 @@
+{
+  "id": "jaguar-xk-x100",
+  "make": "Jaguar",
+  "model": "XK (X100)",
+  "generation": null,
+  "aka": [
+    "XK8",
+    "XKR-R concept"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jaguar_XKR_Coupe.jpg/960px-Jaguar_XKR_Coupe.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XK8"
+  ],
+  "description": "The Jaguar XK8 is a grand tourer launched by Jaguar Cars in 1996, and was the first generation of a new XK series. The XK8 was available in two-door coupé or two-door convertible body styles with the new 4.0-litre Jaguar AJ-V8 engine. In 1998, the XKR was introduced with a supercharged version of the engine. In 2003, the engines were replaced by the new 4.2-litre AJ34 engines in both the naturally aspirated and supercharged variations. The first-generation of the XK series shares its XJS-derived platform with the Aston Martin DB7, with both cars tracing their history back to an abandoned Jaguar development study in the mid-1980s known as XJ41/XJ42, which had been mooted to be known as the F-Type.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XK_(X100)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jaguar_XKR_Coupe.jpg/1920px-Jaguar_XKR_Coupe.jpg",
+  "sketchfab": null
+}

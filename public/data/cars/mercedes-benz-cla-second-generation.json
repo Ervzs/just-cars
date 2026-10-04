@@ -1,0 +1,46 @@
+{
+  "id": "mercedes-benz-cla-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "CLA",
+  "generation": "Second generation",
+  "aka": [
+    "Mercedes cla",
+    "C117",
+    "Mercedes CLA-Class",
+    "Concept Style Coupé",
+    "CLA-Class",
+    "CLA-Klasse"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mercedes-Benz_CLA_250_e_Shooting_Brake_AMG_Line_%28X_118%29_%E2%80%93_h_11042021.jpg/960px-Mercedes-Benz_CLA_250_e_Shooting_Brake_AMG_Line_%28X_118%29_%E2%80%93_h_11042021.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CLA-Class"
+  ],
+  "description": "The Mercedes-Benz CLA is a series of luxury subcompact executive cars manufactured by Mercedes-Benz since 2013. The first generation was a four-door sedan based on the platform of the W176 A-Class and W246 B-Class compact cars, marketed as a four-door coupé. In 2015, Mercedes-Benz expanded the CLA family to include a station wagon configuration which it markets as a Shooting Brake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mercedes-Benz_CLA_250_e_Shooting_Brake_AMG_Line_%28X_118%29_%E2%80%93_h_11042021.jpg/1920px-Mercedes-Benz_CLA_250_e_Shooting_Brake_AMG_Line_%28X_118%29_%E2%80%93_h_11042021.jpg",
+  "sketchfab": null
+}

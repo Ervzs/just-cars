@@ -2,6 +2,8 @@
   "id": "isuzu-i-290-extended-cab",
   "make": "Isuzu",
   "model": "i-290 Extended Cab",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008
@@ -23,6 +25,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "i-290 Extended Cab"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

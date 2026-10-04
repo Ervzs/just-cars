@@ -1,0 +1,52 @@
+{
+  "id": "mercedes-benz-cla-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "CLA",
+  "generation": "First generation",
+  "aka": [
+    "Mercedes cla",
+    "C117",
+    "Mercedes CLA-Class",
+    "Concept Style Coupé",
+    "CLA-Class",
+    "CLA-Klasse"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium or E85",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg/960px-Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CLA-Class"
+  ],
+  "description": "The Mercedes-Benz CLA is a series of luxury subcompact executive cars manufactured by Mercedes-Benz since 2013. The first generation was a four-door sedan based on the platform of the W176 A-Class and W246 B-Class compact cars, marketed as a four-door coupé. In 2015, Mercedes-Benz expanded the CLA family to include a station wagon configuration which it markets as a Shooting Brake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "a727a676ab5240b386c25492fe29f5e5",
+    "name": "2015 Mercedes-Benz CLA 45 AMG Racing Series",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

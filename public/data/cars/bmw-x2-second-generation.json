@@ -1,0 +1,46 @@
+{
+  "id": "bmw-x2-second-generation",
+  "make": "BMW",
+  "model": "X2",
+  "generation": "Second generation",
+  "aka": [
+    "X2 xDrive25e",
+    "iX2"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BMW_U10_DSC_7505.jpg/960px-BMW_U10_DSC_7505.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 34,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X2"
+  ],
+  "description": "The BMW X2 is a subcompact luxury crossover SUV produced by BMW since 2017. It is marketed as a sports activity coupé (SAC), and is considered a sportier and less practical alternative to the X1, as is the case with other even-numbered X models with their respective odd-numbered counterparts. As of 2026, it is positioned between the X1 and the larger X3 in BMW's SUV global lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BMW_U10_DSC_7505.jpg/1920px-BMW_U10_DSC_7505.jpg",
+  "sketchfab": {
+    "uid": "aa0df9842f974bdda5ca3dff26226f05",
+    "name": "BMW X2",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

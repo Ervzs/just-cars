@@ -1,0 +1,47 @@
+{
+  "id": "kia-k5-third-generation",
+  "make": "Kia",
+  "model": "K5",
+  "generation": "Third generation",
+  "aka": [
+    "Magentis",
+    "Optima Regal",
+    "Lotze",
+    "Mangentis",
+    "Optima",
+    "Optima Hybrid",
+    "Optima SXL",
+    "Optima PHEV"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kia_K5_2.0_T-GDi_TF_Snow_White_Pearl_%283%29_%28cropped%29.jpg/960px-Kia_K5_2.0_T-GDi_TF_Snow_White_Pearl_%283%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Optima"
+  ],
+  "description": "The Kia K5, formerly known as the Kia Optima, is a mid-size car manufactured by Kia since 2000 and marketed globally through various nameplates. First generation cars were mostly marketed as the Optima, although the Kia Magentis name was used in Europe and Canada when sales began there in 2002. For the second-generation models, Kia used the Kia Lotze and Kia K5 name for the South Korean market, and the Magentis name globally, except in the United States, Canada, Malaysia and the Middle East, where the Optima name was retained until the 2021 model year. The K5 name is used for all markets since the introduction of the fifth generation in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kia_K5_2.0_T-GDi_TF_Snow_White_Pearl_%283%29_%28cropped%29.jpg/1920px-Kia_K5_2.0_T-GDi_TF_Snow_White_Pearl_%283%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

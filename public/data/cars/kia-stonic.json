@@ -1,0 +1,39 @@
+{
+  "id": "kia-stonic",
+  "make": "Kia",
+  "model": "Stonic",
+  "generation": null,
+  "aka": [
+    "KX1"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2017_Kia_Stonic_First_Edition_1.0.jpg/960px-2017_Kia_Stonic_First_Edition_1.0.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Stonic is a (B-segment) subcompact crossover hatchback manufactured by Kia Motors since 2017. Its name is derived from the words \"speedy\" and \"tonic\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Stonic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2017_Kia_Stonic_First_Edition_1.0.jpg/1920px-2017_Kia_Stonic_First_Edition_1.0.jpg",
+  "sketchfab": {
+    "uid": "886d95ac4c2b40f2bb7725c2ba426acd",
+    "name": "Kia Stonic",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

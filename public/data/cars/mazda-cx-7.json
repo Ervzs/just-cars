@@ -2,6 +2,11 @@
   "id": "mazda-cx-7",
   "make": "Mazda",
   "model": "CX-7",
+  "generation": null,
+  "aka": [
+    "Crossport",
+    "MX-Crossport"
+  ],
   "years": [
     2007,
     2008,
@@ -27,6 +32,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "CX-7"
+  ],
   "description": "The Mazda CX-7 is a mid-size crossover SUV from Mazda, and is the production version of the MX-Crossport concept car. It was shown publicly for the first time at the 2006 LA Auto Show in January. Production officially began on February 20, 2006 in Mazda's Ujina #2 factory in Hiroshima, and went on sale in April 2006 as a 2007 model. The CX-7 was Mazda's first mid-size SUV since the Navajo was discontinued in 1994, although the CX-7 is considered more of a 'Soft Roader'.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-7",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg/1920px-2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg",

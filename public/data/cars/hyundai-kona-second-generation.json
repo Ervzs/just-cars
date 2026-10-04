@@ -1,0 +1,49 @@
+{
+  "id": "hyundai-kona-second-generation",
+  "make": "Hyundai",
+  "model": "Kona",
+  "generation": "Second generation",
+  "aka": [
+    "Kauai",
+    "Encino",
+    "Kona Electric",
+    "Kona EV",
+    "Kona N"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hyundai_Kona_Hybrid_1.6_HEV_Inspiration_SX2_HEV_Atlas_White_%283%29_%28cropped%29.jpg/960px-Hyundai_Kona_Hybrid_1.6_HEV_Inspiration_SX2_HEV_Atlas_White_%283%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 32,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Kona"
+  ],
+  "description": "The Hyundai Kona is a subcompact crossover SUV produced by the South Korean manufacturer Hyundai. The first-generation Kona debuted in June 2017 and the production version was revealed later that year. The current, second-generation model was revealed in December 2022 and launched in 2023. It was developed first as a battery-electric model before being adapted for petrol and hybrid variants, which are offered depending on the market. Depending on the market, the Kona is positioned above either the Venue or the Bayon and below the Tucson in Hyundai's crossover SUV line-up. The battery-electric version, called the Kona Electric or Kona EV, was first launched in South Korea during the first half of 2018 and was rolled out gradually worldwide afterwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Kona",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hyundai_Kona_Hybrid_1.6_HEV_Inspiration_SX2_HEV_Atlas_White_%283%29_%28cropped%29.jpg/1920px-Hyundai_Kona_Hybrid_1.6_HEV_Inspiration_SX2_HEV_Atlas_White_%283%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "26c27a6e061d4776b750e483b933df79",
+    "name": "2025 Hyundai Kona N Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

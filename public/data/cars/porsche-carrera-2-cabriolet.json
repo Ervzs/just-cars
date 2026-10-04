@@ -2,6 +2,8 @@
   "id": "porsche-carrera-2-cabriolet",
   "make": "Porsche",
   "model": "Carrera 2 Cabriolet",
+  "generation": null,
+  "aka": [],
   "years": [
     2003,
     2004,
@@ -14,7 +16,7 @@
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Premium",
   "engine": "3.6L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2003_Porsche_911_Carrera_4S_coupe%2C_front_left%2C_06-08-2024.jpg/960px-2003_Porsche_911_Carrera_4S_coupe%2C_front_left%2C_06-08-2024.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2009,
   "specs": {
@@ -28,8 +30,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Porsche 996 is the fifth generation of the 911 model sports car manufactured by the German automaker Porsche from 1997 until 2006. It was replaced by the 997 in 2004, but the high performance Turbo S, GT2 and GT3 variants remained in production until 2006. The 996 had little in common with its predecessor, with the first all new chassis platform since the original 911 and a new water-cooled engine. Technically, it was a major change, a complete break from the original car other than the overall layout.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_(996)",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2003_Porsche_911_Carrera_4S_coupe%2C_front_left%2C_06-08-2024.jpg/1920px-2003_Porsche_911_Carrera_4S_coupe%2C_front_left%2C_06-08-2024.jpg",
+  "variants": [
+    "Carrera 2 Cabriolet"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

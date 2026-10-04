@@ -1,0 +1,32 @@
+{
+  "id": "dodge-dakota-fourth-generation",
+  "make": "Dodge",
+  "model": "Dakota",
+  "generation": "Fourth generation",
+  "aka": [
+    "Chrysler N platform",
+    "Ram Dakota"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ram_Dakota_South_America_front_right_-_Autosdeprimera_%28cropped%29.jpg/960px-Ram_Dakota_South_America_front_right_-_Autosdeprimera_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Dodge Dakota, marketed as the Ram Dakota for the final two years of production, is a mid-size pickup truck manufactured by Chrysler and marketed by its Dodge Truck division and later its Ram Truck division (2010–2011) — across three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Dakota",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ram_Dakota_South_America_front_right_-_Autosdeprimera_%28cropped%29.jpg/1280px-Ram_Dakota_South_America_front_right_-_Autosdeprimera_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "3d8563df156f453cbd525557e9cddb59",
+    "name": "Dodge-dakota",
+    "author": "HypePerformance",
+    "authorUrl": "https://sketchfab.com/HypePerformance",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "honda-prelude-fifth-generation",
+  "make": "Honda",
+  "model": "Prelude",
+  "generation": "Fifth generation",
+  "aka": [
+    "Prelude INX"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Honda_Prelude_5th_Japan.jpg/960px-Honda_Prelude_5th_Japan.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prelude"
+  ],
+  "description": "The Honda Prelude  is a sport compact car produced by the Japanese company Honda. It was produced over five generations from 1978 to 2001, and reintroduced in 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Prelude",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Honda_Prelude_5th_Japan.jpg/960px-Honda_Prelude_5th_Japan.jpg",
+  "sketchfab": {
+    "uid": "d539a25580d347a6b3447fdc82031280",
+    "name": "Honda Prelude 1997 Free",
+    "author": "Black Snow",
+    "authorUrl": "https://sketchfab.com/BlackSnow02",
+    "license": "CC Attribution"
+  }
+}

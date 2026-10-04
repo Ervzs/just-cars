@@ -1,0 +1,54 @@
+{
+  "id": "ford-ecosport-second-generation",
+  "make": "Ford",
+  "model": "EcoSport",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg/960px-2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "EcoSport"
+  ],
+  "description": "The Ford EcoSport is a subcompact crossover SUV (B-segment) manufactured by Ford between 2003 and 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_EcoSport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg/1920px-2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg",
+  "sketchfab": {
+    "uid": "4e491913d5f74b60a838555cb7ab610b",
+    "name": "2012 Ford EcoSport",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

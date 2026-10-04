@@ -1,0 +1,29 @@
+{
+  "id": "geely-xingrui-first-generation",
+  "make": "Geely",
+  "model": "Xingrui",
+  "generation": "First generation",
+  "aka": [
+    "Preface"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Geely_Preface_003.jpg/960px-Geely_Preface_003.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Xingrui or Geely Preface is a mid-size sedan produced by Geely Auto for China since 2020. It was revealed in September 2020 at Auto China.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Xingrui",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Geely_Preface_003.jpg/1920px-Geely_Preface_003.jpg",
+  "sketchfab": null
+}

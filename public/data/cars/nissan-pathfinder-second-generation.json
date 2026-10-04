@@ -1,0 +1,56 @@
+{
+  "id": "nissan-pathfinder-second-generation",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "generation": "Second generation",
+  "aka": [
+    "Infiniti QX4",
+    "The Nissan Pathfinder",
+    "Pathfinder Hybrid",
+    "Terrano",
+    "Infiniti T30",
+    "Dunehawk"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/NISSAN_Terrano_StarFire.jpg/960px-NISSAN_Terrano_StarFire.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pathfinder",
+    "QX4"
+  ],
+  "description": "The Nissan Pathfinder is a range of sport utility vehicles manufactured by Nissan since 1985. Until the third-generation model, the Pathfinder is based on Nissan's compact pickup truck platform which it shares with the Navara/Frontier.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pathfinder",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/NISSAN_Terrano_StarFire.jpg/1920px-NISSAN_Terrano_StarFire.jpg",
+  "sketchfab": {
+    "uid": "5b1161db49fa4bf295b8bce699c5ea5d",
+    "name": "2000 Nissan Pathfinder offroad body and rim",
+    "author": "Driving501",
+    "authorUrl": "https://sketchfab.com/Driving501",
+    "license": "Free Standard"
+  }
+}

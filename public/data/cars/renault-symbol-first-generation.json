@@ -1,0 +1,35 @@
+{
+  "id": "renault-symbol-first-generation",
+  "make": "Nissan",
+  "model": "Renault Symbol",
+  "generation": "First generation",
+  "aka": [
+    "Platina",
+    "Renault Thalia",
+    "Renault Clio Symbol",
+    "Renault Clio Classic"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Renault_Thalia_in_Krakow.jpg/960px-Renault_Thalia_in_Krakow.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Symbol, Clio or Thalia in some markets, is a subcompact sedan produced by the French automobile manufacturer Renault. It was introduced in late 1999, under the Clio Symbol name, as the derivative version of the second generation Renault Clio, and unlike the hatchback it was marketed only in those countries where saloons were traditionally preferred over hatchbacks, while it was not sold in Western Europe. It was actually sold in France, but only in overseas departments/regions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Symbol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Renault_Thalia_in_Krakow.jpg/1920px-Renault_Thalia_in_Krakow.jpg",
+  "sketchfab": null
+}

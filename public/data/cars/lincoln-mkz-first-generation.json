@@ -1,0 +1,42 @@
+{
+  "id": "lincoln-mkz-first-generation",
+  "make": "Lincoln",
+  "model": "MKZ",
+  "generation": "First generation",
+  "aka": [
+    "MKZ Hybrid"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/06ZephyrExt.jpg/960px-06ZephyrExt.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 41,
+    "mpgHighway": 35,
+    "mpgCombined": 38,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MKZ"
+  ],
+  "description": "\n\nThe Lincoln MKZ is a mid-size, four-door, five-passenger, front- or all-wheel drive luxury sedan manufactured by Ford and marketed by its Lincoln brand across two generations in North America and China (2015–2020). Co-developed with the Ford Fusion and Mercury Milan, the MKZ was available with either gasoline or gasoline-electric hybrid powertrains.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKZ",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/06ZephyrExt.jpg/960px-06ZephyrExt.jpg",
+  "sketchfab": null
+}

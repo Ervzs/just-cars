@@ -2,6 +2,8 @@
   "id": "nissan-frontier",
   "make": "Nissan",
   "model": "Frontier",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -49,6 +51,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Frontier"
+  ],
   "description": "The Nissan Frontier is a nameplate used on three different pickup truck models by Nissan:Nissan Frontier (international), an alternative nameplate for the NP300/Navara on some markets.\nNissan Frontier, a rebadged NP300/Navara from 1997 to 2021, then became a separate model since 2021.\nNissan Frontier Pro, a rebadged Dongfeng Z9 that will be available from 2025.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Frontier",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2021_Nissan_Frontier_Pro_4X_%28Colombia%3B_facelift%29_front_view_01.png/1920px-2021_Nissan_Frontier_Pro_4X_%28Colombia%3B_facelift%29_front_view_01.png",

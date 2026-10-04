@@ -2,6 +2,8 @@
   "id": "dodge-nitro",
   "make": "Dodge",
   "model": "Nitro",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008,
@@ -26,6 +28,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Nitro"
+  ],
   "description": "The Dodge Nitro is a compact SUV manufactured and marketed by Dodge for model years 2007–2012 across a single generation — as a close variant of the second-generation Jeep Liberty. Both vehicles use a composite unitized construction integrating the body structure with full-length frame rails.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Nitro",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dodge_Nitro_.jpg/1920px-Dodge_Nitro_.jpg",

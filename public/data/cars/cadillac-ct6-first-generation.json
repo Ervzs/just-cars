@@ -1,0 +1,44 @@
+{
+  "id": "cadillac-ct6-first-generation",
+  "make": "Cadillac",
+  "model": "CT6",
+  "generation": "First generation",
+  "aka": [
+    "CT6 Plug-in Hybrid",
+    "CT6 PHEV",
+    "CT6-V"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cadillac_CT6_3.6_Premium_6KM69_Phantom_Gray_Metallic_%281%29_%28cropped%29.jpg/960px-Cadillac_CT6_3.6_Premium_6KM69_Phantom_Gray_Metallic_%281%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CT6"
+  ],
+  "description": "The Cadillac CT6 is a full-size luxury car manufactured by Cadillac starting in 2016 over two generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CT6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cadillac_CT6_3.6_Premium_6KM69_Phantom_Gray_Metallic_%281%29_%28cropped%29.jpg/1920px-Cadillac_CT6_3.6_Premium_6KM69_Phantom_Gray_Metallic_%281%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

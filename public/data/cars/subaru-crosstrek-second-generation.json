@@ -1,0 +1,52 @@
+{
+  "id": "subaru-crosstrek-second-generation",
+  "make": "Subaru",
+  "model": "Crosstrek",
+  "generation": "Second generation",
+  "aka": [
+    "XV",
+    "XV Crosstrek",
+    "XV Crosstek",
+    "Crosstek",
+    "XV Crosstrek Hybrid",
+    "Crosstrek Hybrid",
+    "Crosstrek Plug-in Hybrid"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Subaru_XV_AWD_%28II%29_%E2%80%93_h_04082025.jpg/960px-Subaru_XV_AWD_%28II%29_%E2%80%93_h_04082025.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Crosstrek"
+  ],
+  "description": "The Subaru Crosstrek  is a compact crossover SUV produced by Subaru since 2012. It is a successor to the Outback Sport in North America, and the Impreza XV globally. Like the Outback Sport, the Crosstrek is a lifted Impreza hatchback with minor differences, though with a more substantial lift than the Outback Sport.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Crosstrek",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Subaru_XV_AWD_%28II%29_%E2%80%93_h_04082025.jpg/1920px-Subaru_XV_AWD_%28II%29_%E2%80%93_h_04082025.jpg",
+  "sketchfab": {
+    "uid": "a5263a4756cd4e4f9bad818502c76d91",
+    "name": "SUBARU CROSSTREK 2018",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

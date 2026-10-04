@@ -1,0 +1,47 @@
+{
+  "id": "toyota-iq",
+  "make": "Scion",
+  "model": "Toyota iQ",
+  "generation": null,
+  "aka": [
+    "Toyota iQ PHEV",
+    "iQ",
+    "Aston Martin Cygnet",
+    "iQ EV",
+    "Toyota iQ EV",
+    "Toyota eQ",
+    "Singulato iC3",
+    "Aston Martin V8 Cygnet"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2010_Toyota_iQ2_VVT-i_1.0_Front.jpg/960px-2010_Toyota_iQ2_VVT-i_1.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.3L 4-cyl",
+    "displacementL": 1.3,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 36,
+    "mpgHighway": 37,
+    "mpgCombined": 37,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "iQ"
+  ],
+  "description": "The Toyota iQ is a city car manufactured by Toyota and marketed in a single generation for Japan (2008–2016); Europe (2008–2015); and North America (2012–2015), where it was marketed as the Scion iQ. A rebadged variant was marketed in Europe as the Aston Martin Cygnet (2011–2013).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_iQ",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2010_Toyota_iQ2_VVT-i_1.0_Front.jpg/1920px-2010_Toyota_iQ2_VVT-i_1.0_Front.jpg",
+  "sketchfab": null
+}

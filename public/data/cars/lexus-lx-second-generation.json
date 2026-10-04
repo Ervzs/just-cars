@@ -1,0 +1,54 @@
+{
+  "id": "lexus-lx-second-generation",
+  "make": "Lexus",
+  "model": "LX",
+  "generation": "Second generation",
+  "aka": [
+    "LX 570",
+    "Toyota Land Cruiser Cygnus",
+    "LX 470",
+    "LX450",
+    "LX 600"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "4.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Toyota_Land_Cruiser_%28eighth_generation%29_%28100_Cygnus%29_%28front%29%2C_Serdang.jpg/960px-Toyota_Land_Cruiser_%28eighth_generation%29_%28100_Cygnus%29_%28front%29%2C_Serdang.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.7L 8-cyl",
+    "displacementL": 4.7,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LX"
+  ],
+  "description": "The Lexus LX  is a full-size luxury SUV sold by Lexus, a luxury division of Toyota, since January 1996, having entered manufacturing in November 1995. As the flagship SUV from Lexus, it is the company's largest and most expensive SUV. Four generations have been produced, all based heavily on the long-running Toyota Land Cruiser SUVs. The first-generation LX 450 started production in 1995 as Lexus' first entry into the SUV market. Its successor, the LX 470, premiered in 1998 and was manufactured until 2007. The third-generation LX debuted at the New York International Auto Show in April 2007. The fourth-generation LX debuted in October 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Toyota_Land_Cruiser_%28eighth_generation%29_%28100_Cygnus%29_%28front%29%2C_Serdang.jpg/1920px-Toyota_Land_Cruiser_%28eighth_generation%29_%28100_Cygnus%29_%28front%29%2C_Serdang.jpg",
+  "sketchfab": {
+    "uid": "1e2a4a0d99844ce7b56956fc0ea0d8a7",
+    "name": "Lexus LX J100 2003",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

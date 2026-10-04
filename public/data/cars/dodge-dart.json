@@ -2,6 +2,17 @@
   "id": "dodge-dart",
   "make": "Dodge",
   "model": "Dart",
+  "generation": null,
+  "aka": [
+    "Dart Sport",
+    "Dart Swinger",
+    "Swinger",
+    "Dart Phoenix",
+    "Dart Demon",
+    "Dart I",
+    "Dart 1",
+    "3700"
+  ],
   "years": [
     2013,
     2014,
@@ -25,6 +36,9 @@
     "mpgCombined": 30,
     "evRangeMiles": null
   },
+  "variants": [
+    "Dart"
+  ],
   "description": "The Dodge Dart is a line of passenger cars produced by Dodge from the 1959 to 1976 model years in North America, with production extended to later years in various other markets.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Dart",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg/1920px-1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg",

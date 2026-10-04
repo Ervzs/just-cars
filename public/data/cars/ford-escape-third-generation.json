@@ -1,0 +1,53 @@
+{
+  "id": "ford-escape-third-generation",
+  "make": "Ford",
+  "model": "Escape",
+  "generation": "Third generation",
+  "aka": [
+    "Escape Hybrid",
+    "Mercury Mariner Hybrid",
+    "Mazda Tribute Hybrid",
+    "hybrid escape",
+    "Escape Plug-in Hybrid",
+    "Escape PHEV"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ford_Escape_SE_2.0_EcoBoost_2013_%2831853736798%29.jpg/960px-Ford_Escape_SE_2.0_EcoBoost_2013_%2831853736798%29.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escape"
+  ],
+  "description": "The Ford Escape is a compact crossover SUV manufactured and marketed by the Ford Motor Company from the 2001 to the 2026 model years across four generations, as Ford's first SUV derived from a car platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Escape",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ford_Escape_SE_2.0_EcoBoost_2013_%2831853736798%29.jpg/1920px-Ford_Escape_SE_2.0_EcoBoost_2013_%2831853736798%29.jpg",
+  "sketchfab": {
+    "uid": "151f53c4542b4fcaad1e1de2492ab4b6",
+    "name": "Ford Escape ST Line 2018",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

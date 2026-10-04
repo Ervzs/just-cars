@@ -2,6 +2,8 @@
   "id": "polestar-4",
   "make": "Polestar",
   "model": "4",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2026
@@ -23,6 +25,9 @@
     "mpgCombined": 95,
     "evRangeMiles": 310
   },
+  "variants": [
+    "4"
+  ],
   "description": "The Polestar 4 is a battery electric compact luxury crossover SUV marketed by Polestar, an affiliate of Geely Holding and Volvo Cars, since 2023. It was originally manufactured by Geely Holding in a factory located in Hangzhou Bay, China.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Polestar_4",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Polestar_4_DSC_8232_%28cropped_2%29.jpg/1920px-Polestar_4_DSC_8232_%28cropped_2%29.jpg",

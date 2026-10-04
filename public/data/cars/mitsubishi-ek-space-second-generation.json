@@ -1,0 +1,28 @@
+{
+  "id": "mitsubishi-ek-space-second-generation",
+  "make": "Nissan",
+  "model": "Mitsubishi eK Space",
+  "generation": "Second generation",
+  "aka": [
+    "Dayz Roox"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Mitsubishi_eK_Space_Tokyo_Auto_Salon_2020_IMG_0027_edited.jpg/960px-Mitsubishi_eK_Space_Tokyo_Auto_Salon_2020_IMG_0027_edited.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi eK Space is a tall-height wagon kei car with rear sliding doors, based on the Mitsubishi eK. The eK Space is also sold by Nissan as the Nissan Dayz Roox from 2014 to 2020 and as the Nissan Roox from 2020; the Roox name had earlier been used on a rebadged Suzuki Palette.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_eK_Space",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Mitsubishi_eK_Space_Tokyo_Auto_Salon_2020_IMG_0027_edited.jpg/1920px-Mitsubishi_eK_Space_Tokyo_Auto_Salon_2020_IMG_0027_edited.jpg",
+  "sketchfab": null
+}

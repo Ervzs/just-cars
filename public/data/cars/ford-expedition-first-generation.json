@@ -1,0 +1,49 @@
+{
+  "id": "ford-expedition-first-generation",
+  "make": "Ford",
+  "model": "Expedition",
+  "generation": "First generation",
+  "aka": [
+    "Expedition electric",
+    "Expedition SUV",
+    "Expedition MAX"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/97-98_Ford_Expedition.jpg/960px-97-98_Ford_Expedition.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Expedition"
+  ],
+  "description": "The Ford Expedition is a full-size SUV produced by Ford Motor Company since the 1997 model year. Introduced as the replacement for the 1978–1996 Ford Bronco, the Expedition again maintained commonality with the F-150, shifting its form factor to a truck-based five-door station wagon. Initially competing between the Chevrolet Tahoe and Chevrolet Suburban, the Expedition also serves a competitor against the Toyota Sequoia, Nissan Armada, and the Jeep (Grand) Wagoneer. From 2000 to 2006, the Expedition was slotted below the Ford Excursion in size. Currently in its fifth generation, the Expedition is produced in two wheelbases, with both versions offering seating for up to eight passengers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Expedition",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/97-98_Ford_Expedition.jpg/1920px-97-98_Ford_Expedition.jpg",
+  "sketchfab": {
+    "uid": "69525ab0f7504d4fab9e0fd834d55549",
+    "name": "Ford Expedition 1997",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

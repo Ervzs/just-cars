@@ -1,0 +1,50 @@
+{
+  "id": "hyundai-santa-fe-third-generation",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "generation": "Third generation",
+  "aka": [
+    "Santa Fe FCEV",
+    "Santa Fe XL",
+    "Maxcruz",
+    "Santa Fe Sport"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28III%29_%E2%80%93_Heckansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/960px-Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28III%29_%E2%80%93_Heckansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Santa Fe"
+  ],
+  "description": "The Hyundai Santa Fe is a series of crossover SUVs produced across five generations by the South Korean manufacturer Hyundai since 2000. It is named after the city of Santa Fe, New Mexico, and was introduced for the 2001 model year as Hyundai's first SUV. The Santa Fe was a milestone in the company's restructuring program of the late 1990s because the SUV was a hit with American buyers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28III%29_%E2%80%93_Heckansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/1920px-Hyundai_Santa_Fe_2.2_CRDi_4WD_Premium_%28III%29_%E2%80%93_Heckansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "cc3cc1e967724a6eadca1ab6032ddfad",
+    "name": "2015 Hyundai Santa Fe",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

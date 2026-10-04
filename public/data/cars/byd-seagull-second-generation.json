@@ -1,0 +1,26 @@
+{
+  "id": "byd-seagull-second-generation",
+  "make": "BYD",
+  "model": "Seagull",
+  "generation": "Second generation",
+  "aka": [
+    "Dolphin Mini",
+    "Dolphin Surf",
+    "Atto 1"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/960px-2023_%D0%92YD_Seagull_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Seagull is a battery electric city car manufactured by BYD Auto since 2023. Positioned below the Dolphin within BYD's line-up, it is the smallest BYD vehicle, occupying the A0-class in Chinese segmentation, roughly equivalent to the European A-segment. It is part of the Ocean Series product line and is marketed in China through Ocean Network branded dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Seagull",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/1920px-2023_%D0%92YD_Seagull_%28front%29.jpg",
+  "sketchfab": null
+}

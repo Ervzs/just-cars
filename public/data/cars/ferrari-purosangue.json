@@ -2,6 +2,12 @@
   "id": "ferrari-purosangue",
   "make": "Ferrari",
   "model": "Purosangue",
+  "generation": null,
+  "aka": [
+    "SUV",
+    "F175 Purosangue",
+    "F175"
+  ],
   "years": [
     2024,
     2025,
@@ -24,6 +30,9 @@
     "mpgCombined": 12,
     "evRangeMiles": null
   },
+  "variants": [
+    "Purosangue"
+  ],
   "description": "The Ferrari Purosangue is a high-performance mid-size luxury crossover SUV by Italian automobile manufacturer Ferrari that was introduced on 13 September 2022. It is Ferrari's first production 4-door vehicle and sport utility vehicle, and competes with other high-performance SUVs, such as the Lamborghini Urus and Aston Martin DBX.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Purosangue",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ferrari_Purosangue_DSC_7008.jpg/1920px-Ferrari_Purosangue_DSC_7008.jpg",

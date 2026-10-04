@@ -1,0 +1,47 @@
+{
+  "id": "kia-mohave",
+  "make": "Kia",
+  "model": "Mohave",
+  "generation": null,
+  "aka": [
+    "Mesa",
+    "Mojave",
+    "Borrego",
+    "Borrego FCEV"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/00_Kia_Mohave_1.jpg/960px-00_Kia_Mohave_1.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 21,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Borrego"
+  ],
+  "description": "The Kia Mohave, also known in North America and China as the Kia Borrego, is a mid-size SUV with a body-on-frame construction manufactured by the South Korean manufacturer Kia, produced from 2008 to 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Mohave",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/00_Kia_Mohave_1.jpg/1920px-00_Kia_Mohave_1.jpg",
+  "sketchfab": {
+    "uid": "10d336159f734a8c9a9b933c668ed278",
+    "name": "2014 KIA MOHAVE",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

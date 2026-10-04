@@ -1,0 +1,50 @@
+{
+  "id": "mercedes-benz-gle-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLE",
+  "generation": "First generation",
+  "aka": [
+    "W163",
+    "W164",
+    "Mercedes M-Class",
+    "ML-Class",
+    "ML320",
+    "ML350",
+    "M Class",
+    "Mercedes M"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2000_Mercedes-Benz_ML_320_%28W_163_MY00%29_wagon_%282010-09-23%29_01.jpg/960px-2000_Mercedes-Benz_ML_320_%28W_163_MY00%29_wagon_%282010-09-23%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ML-Class"
+  ],
+  "description": "The Mercedes-Benz GLE, formerly Mercedes-Benz M-Class, is a mid-size luxury SUV produced by the German manufacturer Mercedes-Benz since 1997. In terms of size, it is slotted in between the smaller GLC and the larger GLS, the latter with which it shares platforms.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLE",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2000_Mercedes-Benz_ML_320_%28W_163_MY00%29_wagon_%282010-09-23%29_01.jpg/1920px-2000_Mercedes-Benz_ML_320_%28W_163_MY00%29_wagon_%282010-09-23%29_01.jpg",
+  "sketchfab": null
+}

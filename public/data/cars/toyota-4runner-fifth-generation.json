@@ -1,0 +1,61 @@
+{
+  "id": "toyota-4runner-fifth-generation",
+  "make": "Toyota",
+  "model": "4Runner",
+  "generation": "Fifth generation",
+  "aka": [
+    "Hilux Surf",
+    "Trekker",
+    "TrailBlazer",
+    "Winnebago",
+    "4Runners",
+    "Four Runner"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Toyota_4Runner_SR5_4.0L_front_6.16.19.jpg/960px-2019_Toyota_4Runner_SR5_4.0L_front_6.16.19.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "4Runner"
+  ],
+  "description": "The Toyota 4Runner is an SUV manufactured by the Japanese automaker Toyota and marketed globally since 1984, across six generations. In Japan, it was marketed as the Toyota Hilux Surf  and was withdrawn from the market in 2009. The original 4Runner was a compact SUV and little more than a Toyota Hilux pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota's plant in Tahara, Aichi, or at the Hino Motors plant in Hamura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_4Runner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Toyota_4Runner_SR5_4.0L_front_6.16.19.jpg/1920px-2019_Toyota_4Runner_SR5_4.0L_front_6.16.19.jpg",
+  "sketchfab": {
+    "uid": "d8f3f63967514a81a1dbb02c09cd6fb4",
+    "name": "Toyota 4Runner 2011",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

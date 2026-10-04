@@ -1,0 +1,44 @@
+{
+  "id": "mazda-bongo-third-generation",
+  "make": "Mazda",
+  "model": "Bongo",
+  "generation": "Third generation",
+  "aka": [
+    "E-Series",
+    "Ford Econovan",
+    "Access",
+    "Ford Spectron",
+    "Ford Maxi Econovan",
+    "E2000",
+    "E2200",
+    "Ford Econowagon"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mazda_BONGO_BRAWNY_VAN_GL_%283BF-TRH200M%29_front.jpg/960px-Mazda_BONGO_BRAWNY_VAN_GL_%283BF-TRH200M%29_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Bongo , also known as the Ford Econovan and Eunos Cargo, is a cabover van and pickup truck manufactured by the Japanese automobile manufacturer Mazda since 1966. The Bongo name was also used for the Bongo Friendee, which is not a cabover design.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Bongo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mazda_BONGO_BRAWNY_VAN_GL_%283BF-TRH200M%29_front.jpg/1920px-Mazda_BONGO_BRAWNY_VAN_GL_%283BF-TRH200M%29_front.jpg",
+  "sketchfab": {
+    "uid": "87d3ccefaa4c4e7da304897180a67d5d",
+    "name": "Mazda Bongo",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

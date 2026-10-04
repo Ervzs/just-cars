@@ -1,0 +1,37 @@
+{
+  "id": "byd-han",
+  "make": "BYD",
+  "model": "Han",
+  "generation": null,
+  "aka": [
+    "e9",
+    "Linghui e9"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg/960px-2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Han is a series of full-size sedan (E-segment) manufactured by the Chinese manufacturer BYD Auto since 2020. It is a flagship model of BYD's Dynasty Series passenger vehicles, and was named after the Han Dynasty, the first golden age of Imperial China.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Han",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg/1920px-2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg",
+  "sketchfab": {
+    "uid": "262fad42369a4a9c8c3371b7dfbc922f",
+    "name": "2023 BYD Han DM-p",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nissan-president-third-generation",
+  "make": "Nissan",
+  "model": "President",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nissan_presidentjs_pg50_typel_1_f.jpg/960px-Nissan_presidentjs_pg50_typel_1_f.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan President  is a Japanese luxury sedan that was manufactured and marketed by Nissan from 1965 until 2010 as the flagship of Nissan's range, available only at its Nissan Store dealerships then at Nissan Blue Stage dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_President",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nissan_presidentjs_pg50_typel_1_f.jpg/1280px-Nissan_presidentjs_pg50_typel_1_f.jpg",
+  "sketchfab": {
+    "uid": "3e06bee11ed44855b476ffad4ab01a5d",
+    "name": "Nissan President (PHG50) 1998",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

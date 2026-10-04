@@ -1,0 +1,52 @@
+{
+  "id": "honda-accord-eleventh-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Eleventh generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2023_GAC-Honda_Accord_e%EA%9E%89PHEV.jpg/960px-2023_GAC-Honda_Accord_e%EA%9E%89PHEV.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2023_GAC-Honda_Accord_e%EA%9E%89PHEV.jpg/1920px-2023_GAC-Honda_Accord_e%EA%9E%89PHEV.jpg",
+  "sketchfab": {
+    "uid": "89820f6164ec491da844f286b612d8d4",
+    "name": "2024 Honda Accord",
+    "author": "Nazh Design ✔",
+    "authorUrl": "https://sketchfab.com/NazhDesign",
+    "license": "CC Attribution"
+  }
+}

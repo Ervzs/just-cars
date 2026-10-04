@@ -1,0 +1,35 @@
+{
+  "id": "suzuki-alto-sixth-generation",
+  "make": "Nissan",
+  "model": "Suzuki Alto",
+  "generation": "Sixth generation",
+  "aka": [
+    "Maruti Suzuki A-STAR",
+    "Pino",
+    "Maruti Alto 800",
+    "Maruti A-Star",
+    "Chevrolet Alto",
+    "Suzuki HB21s",
+    "Jiangnan TT",
+    "Jiangnan Alto"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/6th_Suzuki_Alto.jpg/960px-6th_Suzuki_Alto.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Alto  is a kei car produced by Suzuki since 1979. The model, currently in its ninth generation, was first introduced in 1979 and has been built in many countries worldwide. The Alto originated as a commercial vehicle derivative of the Fronte, but over time the Alto nameplate gained in popularity and by 1988 it replaced the Fronte name completely. The Alto badge has often been used on different cars in Japan and in export markets, where it is considered a city car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Alto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/6th_Suzuki_Alto.jpg/1280px-6th_Suzuki_Alto.jpg",
+  "sketchfab": null
+}

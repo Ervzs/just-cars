@@ -1,0 +1,32 @@
+{
+  "id": "nissan-cima-fourth-generation",
+  "make": "Nissan",
+  "model": "Cima",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2008_Nissan_Cima_01.JPG/960px-2008_Nissan_Cima_01.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Cima  is a luxury sedan manufactured and marketed by Nissan across five generations for the Japanese market — and for three generations as the Infiniti Q45 internationally.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Cima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2008_Nissan_Cima_01.JPG/1920px-2008_Nissan_Cima_01.JPG",
+  "sketchfab": null
+}

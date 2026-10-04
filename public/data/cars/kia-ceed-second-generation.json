@@ -1,0 +1,38 @@
+{
+  "id": "kia-ceed-second-generation",
+  "make": "Kia",
+  "model": "Ceed",
+  "generation": "Second generation",
+  "aka": [
+    "Pro cee'd",
+    "Ex ceed",
+    "XCeed",
+    "Proceed GT"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kia_cee%27d_1.6_CRDi_128_Spirit_%28JD%29_%E2%80%93_Heckansicht%2C_11._April_2015%2C_D%C3%BCsseldorf.jpg/960px-Kia_cee%27d_1.6_CRDi_128_Spirit_%28JD%29_%E2%80%93_Heckansicht%2C_11._April_2015%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Ceed is a compact car/small family car (C-segment) produced by the South Korean manufacturer Kia since October 2006 exclusively for the European market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kia_cee%27d_1.6_CRDi_128_Spirit_%28JD%29_%E2%80%93_Heckansicht%2C_11._April_2015%2C_D%C3%BCsseldorf.jpg/1920px-Kia_cee%27d_1.6_CRDi_128_Spirit_%28JD%29_%E2%80%93_Heckansicht%2C_11._April_2015%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "0845c8e6907f43d781fda96217823132",
+    "name": "[Low Poly] Kia Ceed 2013 SW",
+    "author": "Skrekliam",
+    "authorUrl": "https://sketchfab.com/Skrekliam",
+    "license": "CC Attribution"
+  }
+}

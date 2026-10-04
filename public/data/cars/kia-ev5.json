@@ -1,0 +1,33 @@
+{
+  "id": "kia-ev5",
+  "make": "Kia",
+  "model": "EV5",
+  "generation": null,
+  "aka": [
+    "Concept EV5"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png/960px-2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia EV5 is a battery electric (D-segment) mid-size crossover SUV produced by South Korean manufacturer Kia since 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png/1920px-2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png",
+  "sketchfab": {
+    "uid": "d4f12762cebe4f95915817083ff6351b",
+    "name": "Kia EV5",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

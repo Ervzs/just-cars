@@ -1,0 +1,40 @@
+{
+  "id": "isuzu-giga-second-generation",
+  "make": "Isuzu",
+  "model": "Giga",
+  "generation": "Second generation",
+  "aka": [
+    "CXZ",
+    "GMC t-Series",
+    "C-Series",
+    "Chevrolet CYZ"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/JR%E8%B2%A8%E7%89%A9%E3%80%90_%E9%89%84%E9%81%93%E4%BB%A3%E8%A1%8C%E8%88%B9%E8%88%B6%E8%BC%B8%E9%80%81_%E3%80%91%E5%B2%A1%E5%B1%B1%E6%96%B0%E6%B8%AF%E9%AB%98%E5%B3%B6%E5%9F%A0%E9%A0%AD--%E2%91%AB.jpg/960px-JR%E8%B2%A8%E7%89%A9%E3%80%90_%E9%89%84%E9%81%93%E4%BB%A3%E8%A1%8C%E8%88%B9%E8%88%B6%E8%BC%B8%E9%80%81_%E3%80%91%E5%B2%A1%E5%B1%B1%E6%96%B0%E6%B8%AF%E9%AB%98%E5%B3%B6%E5%9F%A0%E9%A0%AD--%E2%91%AB.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Giga is a line of heavy-duty commercial vehicles produced by Isuzu since 1994. Outside of Japan, the line is known as the Isuzu C/E series and Isuzu S&E series and was formerly known as the Isuzu Heavy-Duty Truck'. Between 1994 and 2016, it was also sold in South America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Giga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/JR%E8%B2%A8%E7%89%A9%E3%80%90_%E9%89%84%E9%81%93%E4%BB%A3%E8%A1%8C%E8%88%B9%E8%88%B6%E8%BC%B8%E9%80%81_%E3%80%91%E5%B2%A1%E5%B1%B1%E6%96%B0%E6%B8%AF%E9%AB%98%E5%B3%B6%E5%9F%A0%E9%A0%AD--%E2%91%AB.jpg/1920px-JR%E8%B2%A8%E7%89%A9%E3%80%90_%E9%89%84%E9%81%93%E4%BB%A3%E8%A1%8C%E8%88%B9%E8%88%B6%E8%BC%B8%E9%80%81_%E3%80%91%E5%B2%A1%E5%B1%B1%E6%96%B0%E6%B8%AF%E9%AB%98%E5%B3%B6%E5%9F%A0%E9%A0%AD--%E2%91%AB.jpg",
+  "sketchfab": {
+    "uid": "7134467c7c0548209edf7efd6dfc4a40",
+    "name": "2017 Isuzu Giga Fvz Wide Cabin tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

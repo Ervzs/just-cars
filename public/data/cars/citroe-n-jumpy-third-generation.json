@@ -1,0 +1,41 @@
+{
+  "id": "citroe-n-jumpy-third-generation",
+  "make": "Toyota",
+  "model": "Citroën Jumpy",
+  "generation": "Third generation",
+  "aka": [
+    "Citroën Dispatch",
+    "Fiat Scudo",
+    "Citroen Dispatch",
+    "Citroen Jumpy",
+    "Peugeot Expert",
+    "ProAce",
+    "Peugeot Expert Tepee",
+    "Citroën Space Tourer"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Citroen_e-Jumpy_Auto_Zuerich_2021_IMG_0530.jpg/960px-Citroen_e-Jumpy_Auto_Zuerich_2021_IMG_0530.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Citroën Jumpy is a light commercial van jointly developed by FCA Italy and PSA Group and, since 2021, Stellantis. The Jumpy is also sold as the Peugeot Expert, Fiat Scudo, Opel Vivaro, and Toyota ProAce. They were previously built by Sevel, a joint venture created in 1994 by the two companies.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Citroen_e-Jumpy_Auto_Zuerich_2021_IMG_0530.jpg/1920px-Citroen_e-Jumpy_Auto_Zuerich_2021_IMG_0530.jpg",
+  "sketchfab": null
+}

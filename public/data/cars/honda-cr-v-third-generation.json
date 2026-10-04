@@ -1,0 +1,42 @@
+{
+  "id": "honda-cr-v-third-generation",
+  "make": "Honda",
+  "model": "CR-V",
+  "generation": "Third generation",
+  "aka": [
+    "CR-V Limited Edition",
+    "Breeze",
+    "Compact recreational vehicle"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2007-2009_Honda_CR-V_%28RE_MY2007%29_Sport_wagon_01.jpg/960px-2007-2009_Honda_CR-V_%28RE_MY2007%29_Sport_wagon_01.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CR-V"
+  ],
+  "description": "The Honda CR-V is a compact crossover SUV manufactured by Japanese automaker Honda since 1995. Initial models of the CR-V were built using the same platform as the Civic.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_CR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2007-2009_Honda_CR-V_%28RE_MY2007%29_Sport_wagon_01.jpg/1920px-2007-2009_Honda_CR-V_%28RE_MY2007%29_Sport_wagon_01.jpg",
+  "sketchfab": null
+}

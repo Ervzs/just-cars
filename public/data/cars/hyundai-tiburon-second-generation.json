@@ -1,0 +1,71 @@
+{
+  "id": "hyundai-tiburon-second-generation",
+  "make": "Hyundai",
+  "model": "Tiburon",
+  "generation": "Second generation",
+  "aka": [
+    "T Buron",
+    "Coupé",
+    "Tuscani",
+    "coupe",
+    "Coupe Evo II"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2004_Hyundai_Coupe_SE_1.6_Front.jpg/960px-2004_Hyundai_Coupe_SE_1.6_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tiburon"
+  ],
+  "description": "The Hyundai Tiburon, known in Europe as the Hyundai Coupé, is a front wheel drive sports coupe that was produced by the South Korean manufacturer Hyundai from 1996 to 2008.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Tiburon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2004_Hyundai_Coupe_SE_1.6_Front.jpg/1920px-2004_Hyundai_Coupe_SE_1.6_Front.jpg",
+  "sketchfab": {
+    "uid": "b9622ed6ec3c4bc9abb196693764548c",
+    "name": "2003 Hyundai Tiburon",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

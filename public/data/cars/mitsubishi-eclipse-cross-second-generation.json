@@ -1,0 +1,43 @@
+{
+  "id": "mitsubishi-eclipse-cross-second-generation",
+  "make": "Mitsubishi",
+  "model": "Eclipse Cross",
+  "generation": "Second generation",
+  "aka": [
+    "Eclipse Cross PHEV"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mitsubishi_Eclipse_Cross_%28second_generation%29_IMG_5745.jpg/960px-Mitsubishi_Eclipse_Cross_%28second_generation%29_IMG_5745.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 26,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Eclipse Cross"
+  ],
+  "description": "The Mitsubishi Eclipse Cross  is a compact crossover SUV produced by Japanese carmaker Mitsubishi Motors. It slots between the RVR/ASX/Outlander Sport and Outlander in Mitsubishi's global crossover lineup. The first-generation model has been produced since October 2017. Since 2025, the second-generation model has been sold exclusively in Europe as a battery electric model based on the Renault Scénic E-Tech.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse_Cross",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mitsubishi_Eclipse_Cross_%28second_generation%29_IMG_5745.jpg/1920px-Mitsubishi_Eclipse_Cross_%28second_generation%29_IMG_5745.jpg",
+  "sketchfab": {
+    "uid": "0e8fa443b40b42f1a9f728430d26736f",
+    "name": "Mitsubishi Eclipse Cross Facelift",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

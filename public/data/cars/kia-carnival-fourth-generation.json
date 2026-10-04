@@ -1,0 +1,53 @@
+{
+  "id": "kia-carnival-fourth-generation",
+  "make": "Kia",
+  "model": "Carnival",
+  "generation": "Fourth generation",
+  "aka": [
+    "Sedona",
+    "Hyundai Entourage",
+    "Naza Ria",
+    "Carnival & Sedona",
+    "Grand Carnival"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kia_Carnival_Hi-Limousine_KA4_Snow_White_Pearl.jpg/960px-Kia_Carnival_Hi-Limousine_KA4_Snow_White_Pearl.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 34,
+    "mpgHighway": 32,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sedona",
+    "Carnival"
+  ],
+  "description": "The Kia Carnival is a minivan manufactured by the South Korean automaker Kia since 1998, formerly marketed as the Kia Sedona in North America and several other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carnival",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kia_Carnival_Hi-Limousine_KA4_Snow_White_Pearl.jpg/1920px-Kia_Carnival_Hi-Limousine_KA4_Snow_White_Pearl.jpg",
+  "sketchfab": {
+    "uid": "d7c438d0d2d64ce092e396fa802d7830",
+    "name": "2022 Kia Carnival",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

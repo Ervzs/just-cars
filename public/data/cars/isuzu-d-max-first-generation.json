@@ -1,0 +1,45 @@
+{
+  "id": "isuzu-d-max-first-generation",
+  "make": "Isuzu",
+  "model": "D-Max",
+  "generation": "First generation",
+  "aka": [
+    "Chevrolet T-Series",
+    "Chevrolet LUV D-Max",
+    "Chevrolet D-Max",
+    "Duogongnengche",
+    "Rodeo Denver",
+    "LB",
+    "Pickup Truck",
+    "D-Max EV"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Isuzu_D-Max_%28first_generation%29_%28front%29%2C_Serdang.jpg/960px-Isuzu_D-Max_%28first_generation%29_%28front%29%2C_Serdang.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu D-Max is a compact pickup truck and mid-size pickup truck manufactured since 2002 by Isuzu. It is a successor to the Isuzu Faster/KB. The first and second-generation model shares its platform with the Chevrolet Colorado. The third-generation model shares its platform with the third-generation Mazda BT-50, which is produced in the same Isuzu plant in Thailand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_D-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Isuzu_D-Max_%28first_generation%29_%28front%29%2C_Serdang.jpg/1920px-Isuzu_D-Max_%28first_generation%29_%28front%29%2C_Serdang.jpg",
+  "sketchfab": {
+    "uid": "cd5adae2ef754d3a8afcf3e997357340",
+    "name": "2003 Isuzu D-max Spacecab Tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

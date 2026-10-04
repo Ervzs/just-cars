@@ -1,0 +1,43 @@
+{
+  "id": "hyundai-venue-second-generation",
+  "make": "Hyundai",
+  "model": "Venue",
+  "generation": "Second generation",
+  "aka": [
+    "Styx"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/4th_International_Auto_Show%2C_Bangalore_%282025%29_09.jpg/960px-4th_International_Auto_Show%2C_Bangalore_%282025%29_09.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 33,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Venue"
+  ],
+  "description": "The Hyundai Venue is a subcompact crossover SUV manufactured by South Korean manufacturer Hyundai since 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Venue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/4th_International_Auto_Show%2C_Bangalore_%282025%29_09.jpg/1920px-4th_International_Auto_Show%2C_Bangalore_%282025%29_09.jpg",
+  "sketchfab": {
+    "uid": "8c35967cadbd4a55a94aad9e743ce0f7",
+    "name": "Hyundai Venue 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

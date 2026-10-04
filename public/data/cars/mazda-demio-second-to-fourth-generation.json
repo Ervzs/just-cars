@@ -1,0 +1,52 @@
+{
+  "id": "mazda-demio-second-to-fourth-generation",
+  "make": "Mazda",
+  "model": "Demio",
+  "generation": "Second to fourth generation",
+  "aka": [
+    "Metro",
+    "MicroSport",
+    "Mazda2",
+    "BU-X",
+    "Toyota iA",
+    "Two"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mazda_Demio_013.JPG/960px-Mazda_Demio_013.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Demio  is a small car manufactured by Mazda from 1996 to 2019. While sold across four generations in the domestic Japanese market, the Demio nameplate was rarely used outside of Japan, where it was usually called the Mazda2. The Demio nameplate was retired in 2019 as Mazda changed over to \"Mazda2\" for their home market as well. It has been described as a supermini or a subcompact car, and is a part of the B-segment of the European car market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Demio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mazda_Demio_013.JPG/1280px-Mazda_Demio_013.JPG",
+  "sketchfab": {
+    "uid": "1f3ef39f1c95445197ac5076a2d696c2",
+    "name": "2011 Mazda 2 / Demio",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "citroe-n-berlingo-first-generation",
+  "make": "Toyota",
+  "model": "Citroën Berlingo",
+  "generation": "First generation",
+  "aka": [
+    "Peugeot Partner",
+    "Citroen Berlingo",
+    "Peugeot Ranch",
+    "Orion M",
+    "Doninvest Orion M",
+    "Citroën Berlingo Multispace",
+    "Peugeot Rifter",
+    "Peugeot Partner Tepee"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2001_Citroen_Berlingo_Multispace_Forte_Di_-_1868cc_1.9_%2868PS%29_Diesel_-_Silver_-_04-2024%2C_Front.jpg/960px-2001_Citroen_Berlingo_Multispace_Forte_Di_-_1868cc_1.9_%2868PS%29_Diesel_-_Silver_-_04-2024%2C_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Citroën Berlingo and Peugeot Partner are a range of minivans produced since 1996 and marketed under the Citroën and Peugeot marque. They are sold as light commercial vehicles or as a passenger multi-purpose-vehicle variant with rear seats and windows. They were a product of the French PSA Group before it became part of Stellantis in 2021. The third generation is sold under the Opel and Vauxhall marques as the Combo, by Toyota as the Proace City since 2019, and by Fiat as the Doblò since 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2001_Citroen_Berlingo_Multispace_Forte_Di_-_1868cc_1.9_%2868PS%29_Diesel_-_Silver_-_04-2024%2C_Front.jpg/1920px-2001_Citroen_Berlingo_Multispace_Forte_Di_-_1868cc_1.9_%2868PS%29_Diesel_-_Silver_-_04-2024%2C_Front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nissan-pathfinder-fourth-generation",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "generation": "Fourth generation",
+  "aka": [
+    "Infiniti QX4",
+    "The Nissan Pathfinder",
+    "Pathfinder Hybrid",
+    "Terrano",
+    "Infiniti T30",
+    "Dunehawk"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2014_Nissan_Pathfinder_%28R52_MY14%29_Ti_4WD_wagon_%282015-07-09%29_03.jpg/960px-2014_Nissan_Pathfinder_%28R52_MY14%29_Ti_4WD_wagon_%282015-07-09%29_03.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pathfinder"
+  ],
+  "description": "The Nissan Pathfinder is a range of sport utility vehicles manufactured by Nissan since 1985. Until the third-generation model, the Pathfinder is based on Nissan's compact pickup truck platform which it shares with the Navara/Frontier.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pathfinder",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2014_Nissan_Pathfinder_%28R52_MY14%29_Ti_4WD_wagon_%282015-07-09%29_03.jpg/1920px-2014_Nissan_Pathfinder_%28R52_MY14%29_Ti_4WD_wagon_%282015-07-09%29_03.jpg",
+  "sketchfab": null
+}

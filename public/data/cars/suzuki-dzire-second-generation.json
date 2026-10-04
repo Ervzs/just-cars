@@ -1,0 +1,33 @@
+{
+  "id": "suzuki-dzire-second-generation",
+  "make": "Suzuki",
+  "model": "Dzire",
+  "generation": "Second generation",
+  "aka": [
+    "Maruti Suzuki Swift DZire",
+    "Maruti DZiRE",
+    "Maruti Swift Dzire",
+    "Maruti Suzuki Dzire",
+    "Swift Dzire"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Suzuki_Swift_Dzire_1.2_GL_2013.jpg/960px-Suzuki_Swift_Dzire_1.2_GL_2013.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Dzire is a subcompact notchback sedan manufactured and marketed by Suzuki since 2008, primarily for India — as a sedan variant of the Swift hatchback over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Dzire",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Suzuki_Swift_Dzire_1.2_GL_2013.jpg/1920px-Suzuki_Swift_Dzire_1.2_GL_2013.jpg",
+  "sketchfab": null
+}

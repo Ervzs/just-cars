@@ -1,0 +1,43 @@
+{
+  "id": "suzuki-swift-third-generation",
+  "make": "Suzuki",
+  "model": "Swift",
+  "generation": "Third generation",
+  "aka": [
+    "DZiRE",
+    "Maruti Suzuki Swift",
+    "Maruti Swift",
+    "Swift S1600",
+    "Swift Super 1600",
+    "Swift Range Extender",
+    "Swift Plug-in Hybrid",
+    "Swift G13 GTI"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Suzuki_SWIFT_XG_Limited_%28DBA-ZC83S-VBGE-L%29_front.jpg/960px-Suzuki_SWIFT_XG_Limited_%28DBA-ZC83S-VBGE-L%29_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Swift  is a supermini car (B-segment) produced by Suzuki. The vehicle is classified as a B-segment marque in the European single market, a segment referred to as a supermini in the British Isles. Prior to this, the \"Swift\" nameplate had been applied to the rebadged Suzuki Cultus in numerous export markets since 1984. The Swift became its own model in 2004. Currently, the Swift is positioned between Ignis and Baleno in Suzuki's global hatchback lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Swift",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Suzuki_SWIFT_XG_Limited_%28DBA-ZC83S-VBGE-L%29_front.jpg/1920px-Suzuki_SWIFT_XG_Limited_%28DBA-ZC83S-VBGE-L%29_front.jpg",
+  "sketchfab": {
+    "uid": "95451c00cb2d48778f67d798167e7237",
+    "name": "2022 Maruti Suzuki Swift Dzire",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

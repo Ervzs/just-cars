@@ -1,0 +1,61 @@
+{
+  "id": "smart-fortwo-third-generation",
+  "make": "smart",
+  "model": "Fortwo",
+  "generation": "Third generation",
+  "aka": [
+    "Diablo",
+    "Forfun",
+    "Forfun2",
+    "vending machine",
+    "City Coupe",
+    "City Cabrio",
+    "Smartfortwo",
+    "Fourtwo"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Smart_ForFour_ForTwo_2014_%2814686944164%29.jpg/960px-Smart_ForFour_ForTwo_2014_%2814686944164%29.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 124,
+    "mpgHighway": 94,
+    "mpgCombined": 108,
+    "evRangeMiles": 58
+  },
+  "variants": [
+    "fortwo"
+  ],
+  "description": "The Smart Fortwo is a two-seater city car manufactured and marketed by the Smart division of the Mercedes-Benz Group for model years 1998–2024. The car was sold across three generations — each using a rear-engine, rear-wheel-drive layout and a (generally) one-box design body shape. Much like the original Volkswagen Beetle decades earlier, the Smart car's identity is interchangeably associated with both its brand name and its model name.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Smart_Fortwo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Smart_ForFour_ForTwo_2014_%2814686944164%29.jpg/1920px-Smart_ForFour_ForTwo_2014_%2814686944164%29.jpg",
+  "sketchfab": {
+    "uid": "d75bc4356ab440e7892b760546f402b2",
+    "name": "Smart FORTWO (SubD)",
+    "author": "com_surrogate",
+    "authorUrl": "https://sketchfab.com/com_surrogate",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

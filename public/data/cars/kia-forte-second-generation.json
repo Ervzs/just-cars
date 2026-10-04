@@ -1,0 +1,54 @@
+{
+  "id": "kia-forte-second-generation",
+  "make": "Kia",
+  "model": "Forte",
+  "generation": "Second generation",
+  "aka": [
+    "Forte Koup",
+    "Koup",
+    "fort",
+    "Coupe",
+    "Cerato Koup",
+    "Cerato Coupe",
+    "Spectra Forte",
+    "Naza Forte"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2016_Kia_Forte_Koup_EX_in_Silky_Silver%2C_front_right.jpg/960px-2016_Kia_Forte_Koup_EX_in_Silky_Silver%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Forte"
+  ],
+  "description": "The Kia Forte, known as the K3 in Asia, the Forte K3 or Shuma in China, and the Cerato in South America, Australia, New Zealand, and Russia, is a compact car manufactured by South Korean automaker Kia, produced from 2008 to 2024, replacing the Kia Spectra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Forte",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2016_Kia_Forte_Koup_EX_in_Silky_Silver%2C_front_right.jpg/1920px-2016_Kia_Forte_Koup_EX_in_Silky_Silver%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "53b35449a6ed4affbaf9946e0519527c",
+    "name": "Kia Forte 2014 Hatch",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

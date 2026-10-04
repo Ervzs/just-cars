@@ -1,0 +1,54 @@
+{
+  "id": "suzuki-sx4-first-generation",
+  "make": "Suzuki",
+  "model": "SX4",
+  "generation": "First generation",
+  "aka": [
+    "Maruti Suzuki SX4",
+    "Maruti SX4",
+    "S-Cross Concept",
+    "SX4 S-Cross",
+    "S-Cross",
+    "Chevrolet S-Cross",
+    "Neo Baleno"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2007-2009_Suzuki_SX4_%28GYB%29_hatchback_%282011-11-08%29.jpg/960px-2007-2009_Suzuki_SX4_%28GYB%29_hatchback_%282011-11-08%29.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SX4"
+  ],
+  "description": "The Suzuki SX4 is a subcompact car and crossover produced by Japanese automaker Suzuki since 2006. A successor of the Aerio tall hatchback and sedan, the first-generation model was available as a hatchback and sedan, with the former available in both front- and four-wheel drive. In Europe, it was sold alongside a rebadged version called the Fiat Sedici.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_SX4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2007-2009_Suzuki_SX4_%28GYB%29_hatchback_%282011-11-08%29.jpg/1920px-2007-2009_Suzuki_SX4_%28GYB%29_hatchback_%282011-11-08%29.jpg",
+  "sketchfab": {
+    "uid": "faeebb2f348346c286c79bfb6948b1c4",
+    "name": "2006 Suzuki SX4",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

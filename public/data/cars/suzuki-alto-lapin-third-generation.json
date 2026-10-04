@@ -1,0 +1,37 @@
+{
+  "id": "suzuki-alto-lapin-third-generation",
+  "make": "Mazda",
+  "model": "Suzuki Alto Lapin",
+  "generation": "Third-generation",
+  "aka": [
+    "Spanio",
+    "Spiano",
+    "Suzuki Lapin"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Suzuki_ALTO_Lapin_LC_L_2WD_%285BA-HE33S-NSLE-4%29_front.jpg/960px-Suzuki_ALTO_Lapin_LC_L_2WD_%285BA-HE33S-NSLE-4%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Alto Lapin  is a kei car with a five-door hatchback body, manufactured since 2002 by Suzuki for the Japanese market only, and it is based on Suzuki's popular Alto kei car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Alto_Lapin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Suzuki_ALTO_Lapin_LC_L_2WD_%285BA-HE33S-NSLE-4%29_front.jpg/1920px-Suzuki_ALTO_Lapin_LC_L_2WD_%285BA-HE33S-NSLE-4%29_front.jpg",
+  "sketchfab": null
+}

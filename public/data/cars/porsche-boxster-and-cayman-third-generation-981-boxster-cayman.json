@@ -1,0 +1,48 @@
+{
+  "id": "porsche-boxster-and-cayman-third-generation-981-boxster-cayman",
+  "make": "Porsche",
+  "model": "Boxster and Cayman",
+  "generation": "Third generation: 981 Boxster/Cayman",
+  "aka": [
+    "Boxster",
+    "Cayman",
+    "Cayman S",
+    "Boxer",
+    "Boxter",
+    "Cayman R",
+    "988",
+    "cayman 981 GTS"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2015_Porsche_Cayman_GTS_S-A_3.4_Front.jpg/960px-2015_Porsche_Cayman_GTS_S-A_3.4_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Boxster",
+    "Cayman"
+  ],
+  "description": "The Porsche Boxster and Cayman are mid-engine two-seater sports cars manufactured and marketed by German automobile manufacturer Porsche across four generations—as a two-door, two-seater roadster (Boxster) and a three-door, two-seater fastback coupé (Cayman).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Boxster_and_Cayman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2015_Porsche_Cayman_GTS_S-A_3.4_Front.jpg/1920px-2015_Porsche_Cayman_GTS_S-A_3.4_Front.jpg",
+  "sketchfab": null
+}

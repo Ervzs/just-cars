@@ -2,6 +2,8 @@
   "id": "nissan-versa",
   "make": "Nissan",
   "model": "Versa",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008,
@@ -40,6 +42,9 @@
     "mpgCombined": 35,
     "evRangeMiles": null
   },
+  "variants": [
+    "Versa"
+  ],
   "description": "Nissan Versa is an automobile nameplate used by the Japanese manufacturer Nissan in the Americas for the following models:",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Versa",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2011_Nissan_Versa_1.6_Sedan.jpg/1920px-2011_Nissan_Versa_1.6_Sedan.jpg",

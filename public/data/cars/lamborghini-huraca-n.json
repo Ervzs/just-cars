@@ -1,0 +1,58 @@
+{
+  "id": "lamborghini-huraca-n",
+  "make": "Lamborghini",
+  "model": "Huracán",
+  "generation": null,
+  "aka": [
+    "Cabrera",
+    "Huracan",
+    "Huracán GT3",
+    "Huracan Sterrato",
+    "Huracán Sterrato",
+    "Huracan GT3 Evo 2",
+    "Huracán GT3 Evo 2",
+    "Huracan Performante"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.2L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/960px-2017_Lamborghini_Huracan_LP610.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "5.2L 10-cyl",
+    "displacementL": 5.2,
+    "cylinders": 10,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Huracan"
+  ],
+  "description": "The Lamborghini Huracán is a mid-engine, two-seater sports car made by Lamborghini from 2014 to 2024. Revealed online in December 2013, the Huracán made its worldwide debut at the 2014 Geneva Auto Show and was released to the market in the second quarter of 2014, replacing the Gallardo. The Huracán was succeeded by the Temerario, announced in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/1920px-2017_Lamborghini_Huracan_LP610.jpg",
+  "sketchfab": {
+    "uid": "581ec409717e43e982f43272e8439c56",
+    "name": "2019 Lamborghini Huracán GT LB★Silhouette",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "lexus-is-xe20-ale20",
+  "make": "Lexus",
+  "model": "IS (XE20)",
+  "generation": "ALE20",
+  "aka": [
+    "IS F",
+    "IS C",
+    "ISF Track Time",
+    "isf racing concept",
+    "ISF CCS-R"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Lexus_IS250_2008_Tungsten_Pearl.jpg/960px-Lexus_IS250_2008_Tungsten_Pearl.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "IS F"
+  ],
+  "description": "The Lexus IS (XE20) is a car produced by the Japanese carmaker Toyota under its luxury division, Lexus. Classified as a compact executive car, it represented the second generation of the Lexus IS. It served as Lexus's entry-level sedan from 2005 until its production ended in 2013. Toyota manufactured the XE20 at the facility in Tahara, Aichi, and the Kyushu factory in Miyawaka, Fukuoka. It was available as both a four-door sedan and a two-door coupe—the latter designated by a \"C\" at the end of their name.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_IS_(XE20)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Lexus_IS250_2008_Tungsten_Pearl.jpg/1280px-Lexus_IS250_2008_Tungsten_Pearl.jpg",
+  "sketchfab": {
+    "uid": "be1c96a927f345e59d41577f4fa16978",
+    "name": "Lexus IS (XE20)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

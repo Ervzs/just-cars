@@ -1,0 +1,31 @@
+{
+  "id": "nissan-juke-third-generation",
+  "make": "Nissan",
+  "model": "Juke",
+  "generation": "Third generation",
+  "aka": [
+    "Qazana",
+    "Built to thrill",
+    "Infiniti ESQ",
+    "Juke-R"
+  ],
+  "years": [],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nissan_Hyper_Punk.jpg/960px-Nissan_Hyper_Punk.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Juke  is a subcompact crossover SUV (B-segment) produced by the Japanese car manufacturer Nissan since 2010. Debuted as a production vehicle at the 2010 Geneva Motor Show in March, it was introduced to North America at the 2010 New York International Auto Show to be sold for the 2011 model year as the smallest crossover in Nissan's lineup prior to the introduction of the Nissan Magnite in 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Juke",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nissan_Hyper_Punk.jpg/1920px-Nissan_Hyper_Punk.jpg",
+  "sketchfab": {
+    "uid": "62cb9919523947caa4cdef27da902d04",
+    "name": "Nissan Juke",
+    "author": "Ford mondeo",
+    "authorUrl": "https://sketchfab.com/tnikita",
+    "license": "CC Attribution"
+  }
+}

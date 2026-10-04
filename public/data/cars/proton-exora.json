@@ -1,0 +1,38 @@
+{
+  "id": "proton-exora",
+  "make": "Proton",
+  "model": "Exora",
+  "generation": null,
+  "aka": [
+    "MPV"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2023_Proton_Exora_Premium_in_Malaysia_-_front_three_quarter_angle.jpg/960px-2023_Proton_Exora_Premium_in_Malaysia_-_front_three_quarter_angle.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Exora is an automobile produced by the Malaysian car manufacturer Proton from 2009 to 2023. Considered to be a compact multi-purpose vehicle (MPV) in the C-segment, it became Malaysia's first locally developed MPV upon its release on April 15, 2009. The Exora is the first Proton based on the P2 platform. Its facelift revision, which debuted on December 15, 2011, became the first Proton to use the CamPro CFE turbocharged engine and CVT technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Exora",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2023_Proton_Exora_Premium_in_Malaysia_-_front_three_quarter_angle.jpg/1920px-2023_Proton_Exora_Premium_in_Malaysia_-_front_three_quarter_angle.jpg",
+  "sketchfab": null
+}

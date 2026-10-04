@@ -1,0 +1,31 @@
+{
+  "id": "toyota-aqua-first-generation",
+  "make": "Toyota",
+  "model": "Aqua",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2011-2014_Toyota_Aqua.jpg/960px-2011-2014_Toyota_Aqua.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aqua  is a full hybrid electric subcompact/supermini hatchback (B-segment) manufactured and marketed by Toyota since 2011. The nameplate is exclusive to the Japanese domestic market, as the vehicle was exported to overseas markets as the Prius c, leveraging the popularity of the Prius hybrid car nameplate and marketed as the smaller alternative to the Prius liftback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aqua",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2011-2014_Toyota_Aqua.jpg/1920px-2011-2014_Toyota_Aqua.jpg",
+  "sketchfab": null
+}

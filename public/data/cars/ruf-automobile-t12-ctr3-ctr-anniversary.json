@@ -2,6 +2,8 @@
   "id": "ruf-automobile-t12-ctr3-ctr-anniversary",
   "make": "RUF Automobile",
   "model": "T12/CTR3/CTR Anniversary",
+  "generation": null,
+  "aka": [],
   "years": [
     2023
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "T12/CTR3/CTR Anniversary"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

@@ -1,0 +1,49 @@
+{
+  "id": "nissan-qashqai-third-generation",
+  "make": "Nissan",
+  "model": "Qashqai",
+  "generation": "Third generation",
+  "aka": [
+    "Dongfeng Qashqai",
+    "Rogue Sport",
+    "Qashqai J11"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nissan_Qashqai_%28III%29_%E2%80%93_h_11102025.jpg/960px-Nissan_Qashqai_%28III%29_%E2%80%93_h_11102025.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rogue Sport"
+  ],
+  "description": "The Nissan Qashqai is a compact SUV (C-segment) designed and produced by the Japanese car manufacturer Nissan since 2006. The first generation of the vehicle was sold as the Nissan Dualis  in Japan and Australia, and Qashqai in the rest of the world. The second generation, launched in late-2013 for the 2014 model year, was not sold in Japan and was badged as the Qashqai in all countries it was sold, except in the United States, where it was rebadged as the Nissan Rogue Sport. Since the third and latest generation model launched in 2021, the Qashqai is available with hybrid powertrains.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Qashqai",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Nissan_Qashqai_%28III%29_%E2%80%93_h_11102025.jpg/1920px-Nissan_Qashqai_%28III%29_%E2%80%93_h_11102025.jpg",
+  "sketchfab": {
+    "uid": "3c7f36f8e67d43b7b26e901880806503",
+    "name": "2022 Nissan Qashqai",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

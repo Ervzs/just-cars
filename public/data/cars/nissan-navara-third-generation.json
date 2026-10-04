@@ -1,0 +1,45 @@
+{
+  "id": "nissan-navara-third-generation",
+  "make": "Nissan",
+  "model": "Navara",
+  "generation": "Third generation",
+  "aka": [
+    "D40 Navara",
+    "D22 Navara",
+    "Pickup",
+    "NP300",
+    "Renault Alaskan",
+    "D22"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2018_Nissan_Navara_N-Guard_DCi_Automatic_2.3_Front.jpg/960px-2018_Nissan_Navara_N-Guard_DCi_Automatic_2.3_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Navara  is a nameplate used for Nissan pickup trucks with D21, D22, D40, D23 and D27 model codes. The nameplate has been used in Australia, New Zealand, Central America, South America, Asia, Europe, and South Africa. In North, Central and South America and some selected markets, it is marketed as the Nissan Frontier or Nissan NP300.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2018_Nissan_Navara_N-Guard_DCi_Automatic_2.3_Front.jpg/1920px-2018_Nissan_Navara_N-Guard_DCi_Automatic_2.3_Front.jpg",
+  "sketchfab": {
+    "uid": "2a877fdf866b4dbb8b0aa4dd9ef2319d",
+    "name": "Nissan Navara 2021 Calibre E",
+    "author": "Asadawut.Kaewma",
+    "authorUrl": "https://sketchfab.com/Asadawut.Kaewma",
+    "license": "CC Attribution"
+  }
+}

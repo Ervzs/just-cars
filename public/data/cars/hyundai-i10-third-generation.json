@@ -1,0 +1,40 @@
+{
+  "id": "hyundai-i10-third-generation",
+  "make": "Hyundai",
+  "model": "i10",
+  "generation": "Third generation",
+  "aka": [
+    "Dodge i10",
+    "Grand i10",
+    "i10 electric",
+    "Grand i10 Nios"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hyundai_i10_%28LA%29_N-Line_IMG_3674.jpg/960px-Hyundai_i10_%28LA%29_N-Line_IMG_3674.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai i10 is a city car produced by the South Korean manufacturer Hyundai since 2007. It replaced the Hyundai Atos in the model line-up, and was initially available only as a five-door hatchback body style. The third generation i10 was unveiled in India on 7 August 2019 and launched on 20 August 2019, offered in 10 variants across petrol and diesel engines as well as manual and automatic transmissions. There are also sedan derivatives, the Hyundai Xcent and the Hyundai Aura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_i10",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hyundai_i10_%28LA%29_N-Line_IMG_3674.jpg/1920px-Hyundai_i10_%28LA%29_N-Line_IMG_3674.jpg",
+  "sketchfab": {
+    "uid": "0841ac63900940fab35629b4bae75c18",
+    "name": "2020 Hyundai i10",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

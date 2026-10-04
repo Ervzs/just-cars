@@ -1,0 +1,57 @@
+{
+  "id": "kia-forte-third-generation",
+  "make": "Kia",
+  "model": "Forte",
+  "generation": "Third generation",
+  "aka": [
+    "Forte Koup",
+    "Koup",
+    "fort",
+    "Coupe",
+    "Cerato Koup",
+    "Cerato Coupe",
+    "Spectra Forte",
+    "Naza Forte"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2022_Kia_Forte5_GT_in_Snow_White_Pearl%2C_Front_Left%2C_05-22-2022.jpg/960px-2022_Kia_Forte5_GT_in_Snow_White_Pearl%2C_Front_Left%2C_05-22-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Forte"
+  ],
+  "description": "The Kia Forte, known as the K3 in Asia, the Forte K3 or Shuma in China, and the Cerato in South America, Australia, New Zealand, and Russia, is a compact car manufactured by South Korean automaker Kia, produced from 2008 to 2024, replacing the Kia Spectra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Forte",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2022_Kia_Forte5_GT_in_Snow_White_Pearl%2C_Front_Left%2C_05-22-2022.jpg/1920px-2022_Kia_Forte5_GT_in_Snow_White_Pearl%2C_Front_Left%2C_05-22-2022.jpg",
+  "sketchfab": {
+    "uid": "463f034f268f4ea2ba86a37e1ad67ba2",
+    "name": "Kia Forte Hatch 2019",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

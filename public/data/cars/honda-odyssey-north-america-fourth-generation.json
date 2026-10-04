@@ -1,0 +1,30 @@
+{
+  "id": "honda-odyssey-north-america-fourth-generation",
+  "make": "Honda",
+  "model": "Odyssey (North America)",
+  "generation": "Fourth generation",
+  "aka": [
+    "Isuzu Oasis"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Honda_Odyssey_--_03-16-2012.JPG/960px-Honda_Odyssey_--_03-16-2012.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Odyssey is a minivan manufactured by Japanese automaker Honda and marketed for the North American market, introduced in 1994.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Odyssey_(North_America)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Honda_Odyssey_--_03-16-2012.JPG/1280px-Honda_Odyssey_--_03-16-2012.JPG",
+  "sketchfab": null
+}

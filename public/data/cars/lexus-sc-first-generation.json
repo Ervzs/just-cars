@@ -1,0 +1,55 @@
+{
+  "id": "lexus-sc-first-generation",
+  "make": "Lexus",
+  "model": "SC",
+  "generation": "First generation",
+  "aka": [
+    "SC300",
+    "SC430",
+    "SCR430",
+    "Sc400",
+    "UZZ40"
+  ],
+  "years": [
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/1992_Lexus_SC400_in_Royal_Jade_Pearl%2C_Front_Right%2C_05-21-2022.jpg/960px-1992_Lexus_SC400_in_Royal_Jade_Pearl%2C_Front_Right%2C_05-21-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SC"
+  ],
+  "description": "The Lexus SC  is a two-door four passenger, front-engine, rear-drive grand touring coupe manufactured by Toyota and marketed by its luxury division, Lexus, for model years 1991–2010 across two generations. The first-generation SC debuted as the V8-powered SC 400 in 1991, and the I6-powered SC 300 was added in 1992, both manufactured until 2000. The second-generation model, the SC 430, went into production in 2001, as a retractable hardtop convertible coupe with a V8 engine. The first-generation SC was largely styled in California at Calty, and the second-generation SC was mainly conceived at design studios in Europe.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_SC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/1992_Lexus_SC400_in_Royal_Jade_Pearl%2C_Front_Right%2C_05-21-2022.jpg/1920px-1992_Lexus_SC400_in_Royal_Jade_Pearl%2C_Front_Right%2C_05-21-2022.jpg",
+  "sketchfab": {
+    "uid": "ef6bc4fb0f09474ea9a8a4585da7510c",
+    "name": "Lexus SC MK1 1991-2000",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

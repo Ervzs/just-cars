@@ -1,0 +1,48 @@
+{
+  "id": "ford-f-series-thirteenth-generation",
+  "make": "Ford",
+  "model": "F-Series",
+  "generation": "Thirteenth generation",
+  "aka": [
+    "F150",
+    "F-100",
+    "F-250",
+    "F350",
+    "F1",
+    "F2",
+    "F-3",
+    "SVT Lightning"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2016_Ford_F-150_Limited_Super_Crew_3.5L%2C_front_6.29.19.jpg/960px-2016_Ford_F-150_Limited_Super_Crew_3.5L%2C_front_6.29.19.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "F150"
+  ],
+  "description": "The Ford F-Series is a series of light-duty trucks marketed and manufactured by the Ford Motor Company since model year 1948 as a range of full-size pickup trucks—positioned between Ford's Ranger and Super Duty pickup trucks. Alongside the F-150, the F-Series also includes the Super Duty series, which includes the heavier-duty F-250 through F-450 pickups, F-450/F-550 chassis cabs, and F-600/F-650/F-750 Class 6–8 commercial trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_F-Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2016_Ford_F-150_Limited_Super_Crew_3.5L%2C_front_6.29.19.jpg/1920px-2016_Ford_F-150_Limited_Super_Crew_3.5L%2C_front_6.29.19.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "kia-picanto-second-generation",
+  "make": "Kia",
+  "model": "Picanto",
+  "generation": "Second generation",
+  "aka": [
+    "Morning",
+    "EuroStar",
+    "Naza Suria",
+    "New Morning",
+    "Naza Picanto"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2012_Kia_Picanto_Halo_Ecodynamics_1.2_Front.jpg/960px-2012_Kia_Picanto_Halo_Ecodynamics_1.2_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Picanto is a city car that has been produced by the South Korean car manufacturer, Kia, since 2003. Other names of the car include Kia Morning in South Korea, Hong Kong, Taiwan and Chile, Kia EuroStar in Taiwan, Kia New Morning in Vietnam and the Naza Suria or Naza Picanto in Malaysia. The Picanto is primarily manufactured at the Donghee joint-venture plant in Seosan, South Korea, though some countries locally assemble complete knock-down versions of the car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Picanto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2012_Kia_Picanto_Halo_Ecodynamics_1.2_Front.jpg/1920px-2012_Kia_Picanto_Halo_Ecodynamics_1.2_Front.jpg",
+  "sketchfab": {
+    "uid": "9786de51f22741f38e7bdc5a0e19bc25",
+    "name": "2012 Kia Picanto",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

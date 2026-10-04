@@ -1,0 +1,56 @@
+{
+  "id": "chevrolet-colorado-first-generation",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "generation": "First generation",
+  "aka": [
+    "GMC Canyon",
+    "Isuzu i-Series",
+    "Chevy Colorado",
+    "GMT 355",
+    "The Chevrolet Colorado",
+    "Isuzu i-370",
+    "Isuzu i-350",
+    "Isuzu i-290"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.9L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Holden_Colorado_%28RC_MY11%29_LX-R_4WD_Crew_Cab_4-door_utility_%282015-07-14%29_01.jpg/960px-2011_Holden_Colorado_%28RC_MY11%29_LX-R_4WD_Crew_Cab_4-door_utility_%282015-07-14%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.9L 4-cyl",
+    "displacementL": 2.9,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Colorado",
+    "Canyon"
+  ],
+  "description": "The Chevrolet Colorado is a series of compact pickup trucks and mid-size pickup trucks marketed by American automaker General Motors. They were introduced in 2004 to replace the Chevrolet S-10 and GMC S-15/Sonoma compact pickups. The Colorado is named after the U.S. state of Colorado, while the Canyon took its name from the deep chasm between cliffs.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Colorado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Holden_Colorado_%28RC_MY11%29_LX-R_4WD_Crew_Cab_4-door_utility_%282015-07-14%29_01.jpg/1920px-2011_Holden_Colorado_%28RC_MY11%29_LX-R_4WD_Crew_Cab_4-door_utility_%282015-07-14%29_01.jpg",
+  "sketchfab": {
+    "uid": "ca533feee43e40099ec0a5ff2da5f4a5",
+    "name": "2010 Chevrolet Colorado",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

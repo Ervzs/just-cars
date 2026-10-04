@@ -2,6 +2,11 @@
   "id": "ferrari-ff",
   "make": "Ferrari",
   "model": "FF",
+  "generation": null,
+  "aka": [
+    "Four",
+    "F151"
+  ],
   "years": [
     2012,
     2013,
@@ -26,6 +31,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "FF"
+  ],
   "description": "The Ferrari FF is a grand touring car that was produced by the Italian carmaker Ferrari from 2011 to 2016. The successor to the 612 Scaglietti, the FF—whose name is an acronym for \"Ferrari Four\"—is a three-door shooting brake. Development of the FF began in 2007, and it debuted at the Geneva International Motor Show in March 2011; production started in the same month in Maranello, Italy. Designed under the direction of Lowie Vermeersch and Flavio Manzoni, the FF shares parts, mainly the engine, with the F12berlinetta—a coupé that was introduced one year after the FF.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_FF",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg/1920px-2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg",

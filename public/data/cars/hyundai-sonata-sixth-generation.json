@@ -1,0 +1,53 @@
+{
+  "id": "hyundai-sonata-sixth-generation",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "generation": "Sixth generation",
+  "aka": [
+    "NF Sonata",
+    "Marcia",
+    "Sonata Embera",
+    "Sonata GLS",
+    "i45",
+    "Sonata Hybrid",
+    "Sonata Turbo",
+    "Stellar II"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2010-2012_Hyundai_i45_%28YF%29_Active_sedan_%282018-08-27%29_01.jpg/960px-2010-2012_Hyundai_i45_%28YF%29_Active_sedan_%282018-08-27%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 33,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sonata"
+  ],
+  "description": "The Hyundai Sonata is a mid-size car that has been manufactured by Hyundai since 1985. The first generation Sonata, which was introduced in 1985, was a facelifted version of the Hyundai Stellar with an engine upgrade, and was withdrawn from the market in two years due to poor customer reaction. While the nameplate was originally only sold in South Korea, the second generation of 1988 was widely exported.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Sonata",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2010-2012_Hyundai_i45_%28YF%29_Active_sedan_%282018-08-27%29_01.jpg/1920px-2010-2012_Hyundai_i45_%28YF%29_Active_sedan_%282018-08-27%29_01.jpg",
+  "sketchfab": {
+    "uid": "c70f45518af94a90865c925f4dc32195",
+    "name": "hyundai Sonata 2009",
+    "author": "L95XP",
+    "authorUrl": "https://sketchfab.com/I95XP",
+    "license": "CC Attribution"
+  }
+}

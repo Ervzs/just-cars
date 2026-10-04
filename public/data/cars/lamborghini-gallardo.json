@@ -2,6 +2,17 @@
   "id": "lamborghini-gallardo",
   "make": "Lamborghini",
   "model": "Gallardo",
+  "generation": null,
+  "aka": [
+    "Concept S",
+    "gallardo spyder",
+    "Gallardo SE",
+    "Gallardo Spider",
+    "Lambourghini Gallardo",
+    "Gallardo LP560-4",
+    "Lp560-4",
+    "Lambo Gallardo"
+  ],
   "years": [
     2004,
     2005,
@@ -32,6 +43,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "Gallardo"
+  ],
   "description": "The Lamborghini Gallardo is a sports car built by the Italian automotive manufacturer Lamborghini from 2003 to 2013. It is Lamborghini's second car released under parent company Audi, and the best-selling model at the time with 14,022 built throughout its production run. Named after a famous breed of fighting bull, the V10 powered Gallardo was Lamborghini's sales leader and stable-mate to a succession of V12 flagship models—first to the Murciélago, then to the Aventador, being the first entry-level Lamborghini in one-and-half decades. On 25 November 2013, the last Gallardo was rolled off the production line. The Lamborghini Gallardo was replaced by the Lamborghini Huracán in 2014.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Gallardo",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lamborghini_Superleggera-20180708.jpg/1920px-Lamborghini_Superleggera-20180708.jpg",

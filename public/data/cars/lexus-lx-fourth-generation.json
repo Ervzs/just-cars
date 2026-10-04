@@ -1,0 +1,51 @@
+{
+  "id": "lexus-lx-fourth-generation",
+  "make": "Lexus",
+  "model": "LX",
+  "generation": "Fourth generation",
+  "aka": [
+    "LX 570",
+    "Toyota Land Cruiser Cygnus",
+    "LX 470",
+    "LX450",
+    "LX 600"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2022_Lexus_LX600_F_Sport%2C_NYIAS_2022.jpg/960px-2022_Lexus_LX600_F_Sport%2C_NYIAS_2022.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LX"
+  ],
+  "description": "The Lexus LX  is a full-size luxury SUV sold by Lexus, a luxury division of Toyota, since January 1996, having entered manufacturing in November 1995. As the flagship SUV from Lexus, it is the company's largest and most expensive SUV. Four generations have been produced, all based heavily on the long-running Toyota Land Cruiser SUVs. The first-generation LX 450 started production in 1995 as Lexus' first entry into the SUV market. Its successor, the LX 470, premiered in 1998 and was manufactured until 2007. The third-generation LX debuted at the New York International Auto Show in April 2007. The fourth-generation LX debuted in October 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2022_Lexus_LX600_F_Sport%2C_NYIAS_2022.jpg/1920px-2022_Lexus_LX600_F_Sport%2C_NYIAS_2022.jpg",
+  "sketchfab": {
+    "uid": "3780684a306b4549af6a258036d7ab27",
+    "name": "LEXUS LX 600",
+    "author": "Es-star kings",
+    "authorUrl": "https://sketchfab.com/KINGSLEY_king",
+    "license": "CC Attribution"
+  }
+}

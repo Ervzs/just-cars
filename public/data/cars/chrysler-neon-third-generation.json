@@ -1,0 +1,38 @@
+{
+  "id": "chrysler-neon-third-generation",
+  "make": "Dodge",
+  "model": "Chrysler Neon",
+  "generation": "Third generation",
+  "aka": [
+    "Chrysler PL platform",
+    "Plymouth Neon",
+    "SX",
+    "SX 2.0",
+    "Neon"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dodge_Neon_2018_1.6_16V_SXT_Automatic_AT6.jpg/960px-Dodge_Neon_2018_1.6_16V_SXT_Automatic_AT6.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Neon is a compact car built by Chrysler from the 1995 to 2005 model years. Taking its name from the inert gas, the model line was marketed by Dodge and Plymouth; in Europe, Mexico, Japan, South Korea, Egypt, Australia, South Africa, and South America, the Neon was branded as a Chrysler. The model line was the first compact car to become profitable for an American automaker.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Neon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dodge_Neon_2018_1.6_16V_SXT_Automatic_AT6.jpg/960px-Dodge_Neon_2018_1.6_16V_SXT_Automatic_AT6.jpg",
+  "sketchfab": null
+}

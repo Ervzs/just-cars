@@ -1,0 +1,27 @@
+{
+  "id": "jeep-cherokee-third-generation",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2003_Jeep_Cherokee_%28KJ_MY03%29_Limited_Edition_wagon_%282015-07-09%29_01.jpg/960px-2003_Jeep_Cherokee_%28KJ_MY03%29_Limited_Edition_wagon_%282015-07-09%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2003_Jeep_Cherokee_%28KJ_MY03%29_Limited_Edition_wagon_%282015-07-09%29_01.jpg/1920px-2003_Jeep_Cherokee_%28KJ_MY03%29_Limited_Edition_wagon_%282015-07-09%29_01.jpg",
+  "sketchfab": null
+}

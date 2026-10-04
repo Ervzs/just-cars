@@ -1,0 +1,50 @@
+{
+  "id": "toyota-avensis-third-generation",
+  "make": "Toyota",
+  "model": "Avensis",
+  "generation": "Third generation",
+  "aka": [
+    "Avensis T270",
+    "Avensis T250",
+    "Avensis T220",
+    "Avensis T210"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Toyota_Avensis_Combi_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_1._April_2012%2C_Essen.jpg/960px-Toyota_Avensis_Combi_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_1._April_2012%2C_Essen.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Avensis  is a mid-size/large family car built in Derbyshire, United Kingdom by the Japanese automaker Toyota from October 1997 to August 2018. It was the direct successor to the European Carina E and was available as a four-door saloon, five-door liftback and estate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avensis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Toyota_Avensis_Combi_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_1._April_2012%2C_Essen.jpg/1920px-Toyota_Avensis_Combi_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_1._April_2012%2C_Essen.jpg",
+  "sketchfab": {
+    "uid": "a1ef52d75fad40c9a430ce2170ca108f",
+    "name": "Toyota Avensis Estate MK3 2009-2012",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

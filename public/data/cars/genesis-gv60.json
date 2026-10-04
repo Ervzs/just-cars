@@ -2,6 +2,8 @@
   "id": "genesis-gv60",
   "make": "Genesis",
   "model": "GV60",
+  "generation": null,
+  "aka": [],
   "years": [
     2023,
     2024,
@@ -26,6 +28,9 @@
     "mpgCombined": 96,
     "evRangeMiles": 267
   },
+  "variants": [
+    "GV60"
+  ],
   "description": "The Genesis GV60 is a battery electric compact luxury crossover SUV produced by Genesis, a luxury vehicle marque of Hyundai, since 2021.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_GV60",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/1920px-Genesis_GV60_1X7A5760.jpg",

@@ -1,0 +1,53 @@
+{
+  "id": "toyota-rav4-second-generation",
+  "make": "Toyota",
+  "model": "RAV4",
+  "generation": "Second generation",
+  "aka": [
+    "Vanguard",
+    "RAV4 Premium",
+    "RAV4 Adventure",
+    "RAV4 Hybrid",
+    "Rav",
+    "RAV4 Prime",
+    "Mitsuoka Buddy",
+    "Wildlander"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Toyota_RAV4_%28XA20%29_in_Jamaica.jpg/960px-Toyota_RAV4_%28XA20%29_in_Jamaica.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RAV4"
+  ],
+  "description": "The Toyota RAV4  is a compact crossover SUV produced by the Japanese automobile manufacturer Toyota. Having sold over 15 million units worldwide as of 2025, the RAV4 is the best-selling SUV of all time.\nThe car is credited with popularizing compact crossover automobiles, often credited as the first modern compact crossover SUV. In February 2025, the RAV4 replaced the Ford F-150 as the best-selling car in the United States, after nearly four decades of the latter's reign.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Toyota_RAV4_%28XA20%29_in_Jamaica.jpg/1920px-Toyota_RAV4_%28XA20%29_in_Jamaica.jpg",
+  "sketchfab": {
+    "uid": "373deb15ad9c4e208d1be26aa5c8e9ca",
+    "name": "Toyota RAV4 5door 2000",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

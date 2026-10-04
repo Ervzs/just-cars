@@ -1,0 +1,32 @@
+{
+  "id": "mg5-automobile-second-generation",
+  "make": "MG",
+  "model": "MG5 (automobile)",
+  "generation": "Second generation",
+  "aka": [
+    "5",
+    "MG5 GT",
+    "5 GT"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/MG_5_II_facelift_006.jpg/960px-MG_5_II_facelift_006.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG5 is a series of compact cars that has been produced by SAIC Motor under the MG marque since 2012. The first generation MG5 was launched on 28 March 2012 in China, and shares the same automotive platform as the Roewe 350 saloon car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG5_(automobile)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/MG_5_II_facelift_006.jpg/1920px-MG_5_II_facelift_006.jpg",
+  "sketchfab": null
+}

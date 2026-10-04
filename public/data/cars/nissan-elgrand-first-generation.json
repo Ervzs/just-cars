@@ -1,0 +1,31 @@
+{
+  "id": "nissan-elgrand-first-generation",
+  "make": "Nissan",
+  "model": "Elgrand",
+  "generation": "First generation",
+  "aka": [
+    "Isuzu Filly",
+    "Isuzu Fargo Filly",
+    "Caravan Elgrand",
+    "Hyper Tourer"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Nissan_Elgrand_E50_006.JPG/960px-Nissan_Elgrand_E50_006.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Elgrand  is a minivan manufactured by Nissan Shatai for Nissan since 1997, available in fourth generations, with model codes E50 (1997–2002), E51 (2002–2010), E52 (2010–2026), and E53 (2026–present). The E50 Elgrand was also configured and produced as a light commercial vehicle from 1998 to 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Elgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Nissan_Elgrand_E50_006.JPG/1280px-Nissan_Elgrand_E50_006.JPG",
+  "sketchfab": null
+}

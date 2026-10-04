@@ -1,0 +1,56 @@
+{
+  "id": "nissan-nv200",
+  "make": "Nissan",
+  "model": "NV200",
+  "generation": null,
+  "aka": [
+    "NV200 Vanette",
+    "Evalia",
+    "e-NV200",
+    "Chevrolet City Express",
+    "NV200 Evalia",
+    "e-NV200 Voltia XL"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_Nissan_NV200_Vanette.jpg/960px-2021_Nissan_NV200_Vanette.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 26,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "NV200 Cargo Van",
+    "NV200 NYC Taxi"
+  ],
+  "description": "The Nissan NV200 is a light commercial and leisure activity, 4/5-door van designed and produced by the Japanese automaker Nissan since 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_NV200",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_Nissan_NV200_Vanette.jpg/1920px-2021_Nissan_NV200_Vanette.jpg",
+  "sketchfab": {
+    "uid": "1cd12df9e6824aba943ca7932c15d6a2",
+    "name": "2011 Nissan NV200 SV",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "daihatsu-move-seventh-generation",
+  "make": "Daihatsu",
+  "model": "Move",
+  "generation": "Seventh generation",
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Daihatsu_MOVE_RS_2WD_%285BA-LA850S-GBVZ%29.jpg/960px-Daihatsu_MOVE_RS_2WD_%285BA-LA850S-GBVZ%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Move  is a kei car/city car manufactured by the Japanese automaker Daihatsu between 1995 and 2023, and was reintroduced in 2025. The Move is Daihatsu's response to the similarly designed Suzuki Wagon R that was introduced two years earlier in 1993. The first Move was designed by Italian design house I.DE.A Institute and succeeding generations continued to build upon the original design. The Move is built upon the chassis of the Mira but with a taller body.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Move",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Daihatsu_MOVE_RS_2WD_%285BA-LA850S-GBVZ%29.jpg/1920px-Daihatsu_MOVE_RS_2WD_%285BA-LA850S-GBVZ%29.jpg",
+  "sketchfab": {
+    "uid": "a010b75b953d4ed6a5a8dcf6d5b5f2ab",
+    "name": "Daihatsu Move Custom RS Limited",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "honda-br-v-first-generation",
+  "make": "Honda",
+  "model": "BR-V",
+  "generation": "First generation",
+  "aka": [
+    "N7X Concept",
+    "N7X"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2016_Honda_BR-V_E_Prestige_1.5_DG1_%2820200225%29.jpg/960px-2016_Honda_BR-V_E_Prestige_1.5_DG1_%2820200225%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda BR-V is a subcompact crossover SUV manufactured by Honda since 2016 and mainly sold for emerging markets. While being dimensionally bigger, the BR-V is positioned below the more advanced international market HR-V. The first-generation model shares its platform with the second-generation Mobilio, which itself based on the lengthened Brio platform. The second-generation model is built on a separate platform from the Mobilio.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_BR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2016_Honda_BR-V_E_Prestige_1.5_DG1_%2820200225%29.jpg/1920px-2016_Honda_BR-V_E_Prestige_1.5_DG1_%2820200225%29.jpg",
+  "sketchfab": null
+}

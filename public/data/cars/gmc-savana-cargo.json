@@ -2,6 +2,8 @@
   "id": "gmc-savana-cargo",
   "make": "GMC",
   "model": "Savana Cargo",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -23,7 +25,7 @@
   "vehicleClass": "Vans, Cargo Type",
   "fuelType": "Gasoline or E85",
   "engine": "6.0L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/GMC--Envoy.jpg/960px-GMC--Envoy.jpg",
+  "thumbnail": null,
   "has3d": true,
   "representativeYear": 2015,
   "specs": {
@@ -37,9 +39,12 @@
     "mpgCombined": 12,
     "evRangeMiles": null
   },
-  "description": "The GMC Envoy is a mid-size SUV manufactured and marketed by General Motors for the 1998 to 2009 model years over two generations. Adopting a nameplate used by GM Canada, the Envoy was phased in as a trim variant of the GMC Jimmy alongside the similar Chevrolet TrailBlazer.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Envoy",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/GMC--Envoy.jpg/1920px-GMC--Envoy.jpg",
+  "variants": [
+    "Savana Cargo"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": {
     "uid": "42deb71a02c740f6a06c94760bab2146",
     "name": "GMC Savana Cargo Van YF7 Upfitter 1997",

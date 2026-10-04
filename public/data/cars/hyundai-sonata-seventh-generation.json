@@ -1,0 +1,53 @@
+{
+  "id": "hyundai-sonata-seventh-generation",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "generation": "Seventh generation",
+  "aka": [
+    "NF Sonata",
+    "Marcia",
+    "Sonata Embera",
+    "Sonata GLS",
+    "i45",
+    "Sonata Hybrid",
+    "Sonata Turbo",
+    "Stellar II"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2017_hyundai_sonata_front-side_%282%29.png/960px-2017_hyundai_sonata_front-side_%282%29.png",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 37,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sonata"
+  ],
+  "description": "The Hyundai Sonata is a mid-size car that has been manufactured by Hyundai since 1985. The first generation Sonata, which was introduced in 1985, was a facelifted version of the Hyundai Stellar with an engine upgrade, and was withdrawn from the market in two years due to poor customer reaction. While the nameplate was originally only sold in South Korea, the second generation of 1988 was widely exported.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Sonata",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2017_hyundai_sonata_front-side_%282%29.png/1920px-2017_hyundai_sonata_front-side_%282%29.png",
+  "sketchfab": {
+    "uid": "7a0e4fa5122e4cc1b57d8b9149916558",
+    "name": "Hyundai Sonata 2014",
+    "author": "DR1KING100K",
+    "authorUrl": "https://sketchfab.com/DR1KING100K",
+    "license": "CC Attribution"
+  }
+}

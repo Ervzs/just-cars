@@ -1,0 +1,39 @@
+{
+  "id": "byd-m3",
+  "make": "BYD",
+  "model": "M3",
+  "generation": null,
+  "aka": [
+    "T3",
+    "Shang",
+    "ETP3",
+    "M3 DM"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BYD_M3_DM_01_--_Auto_China_--_2014-04-23.jpg/960px-BYD_M3_DM_01_--_Auto_China_--_2014-04-23.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD M3, also marketed as the BYD ETP3 in Europe and BYD T3 is a 5-door van designed and produced by the Chinese automaker BYD Auto since 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_M3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BYD_M3_DM_01_--_Auto_China_--_2014-04-23.jpg/1280px-BYD_M3_DM_01_--_Auto_China_--_2014-04-23.jpg",
+  "sketchfab": null
+}

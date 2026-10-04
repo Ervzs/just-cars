@@ -1,0 +1,33 @@
+{
+  "id": "chevrolet-spark-m100",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "generation": "M100",
+  "aka": [
+    "M3X",
+    "Matiz",
+    "Pontiac Matiz",
+    "Pontiac G2",
+    "Pontiac Matiz G2",
+    "Chevy Spark",
+    "Chevy Joy",
+    "Chevy Matiz"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Daewoo_Matiz_M100_-_deska_rozdzielcza.JPG/960px-Daewoo_Matiz_M100_-_deska_rozdzielcza.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Spark is a city car manufactured by General Motors's subsidiary GM Korea from 1998 to 2022. The vehicle was developed by Daewoo and introduced in 1998 as the Daewoo Matiz. In 2002, General Motors purchased Daewoo Motors, which was marketing the vehicle with several GM marques and nameplates.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Spark",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Daewoo_Matiz_M100_-_deska_rozdzielcza.JPG/1920px-Daewoo_Matiz_M100_-_deska_rozdzielcza.JPG",
+  "sketchfab": null
+}

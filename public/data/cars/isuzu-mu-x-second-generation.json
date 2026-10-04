@@ -1,0 +1,37 @@
+{
+  "id": "isuzu-mu-x-second-generation",
+  "make": "Isuzu",
+  "model": "MU-X",
+  "generation": "Second generation",
+  "aka": [
+    "MU-7",
+    "Alterra"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg/960px-Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu MU-X is a mid-size SUV produced by Isuzu. It is a body-on-frame SUV based on the D-Max pickup truck, and the successor to the MU-7.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg/1920px-Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg",
+  "sketchfab": {
+    "uid": "40c8a181941f461696d8bb1e628bc995",
+    "name": "2022 Isuzu Mu-X triple turbo tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

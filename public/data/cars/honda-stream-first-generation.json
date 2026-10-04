@@ -1,0 +1,27 @@
+{
+  "id": "honda-stream-first-generation",
+  "make": "Honda",
+  "model": "Stream",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2004-2006_Honda_Stream_1.7_VTEC_RN1_%2820211006%29.jpg/960px-2004-2006_Honda_Stream_1.7_VTEC_RN1_%2820211006%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Stream is a car manufactured by the Japanese automaker Honda from 2000 to 2014. The second generation model was officially presented on 13 July 2006. It has been described as a multi-purpose vehicle (MPV) or as an estate car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Stream",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2004-2006_Honda_Stream_1.7_VTEC_RN1_%2820211006%29.jpg/1920px-2004-2006_Honda_Stream_1.7_VTEC_RN1_%2820211006%29.jpg",
+  "sketchfab": null
+}

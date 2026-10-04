@@ -2,6 +2,8 @@
   "id": "gmc-safari-cargo",
   "make": "GMC",
   "model": "Safari Cargo",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -27,6 +29,9 @@
     "mpgCombined": 17,
     "evRangeMiles": null
   },
+  "variants": [
+    "Safari Cargo"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

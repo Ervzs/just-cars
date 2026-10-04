@@ -2,6 +2,11 @@
   "id": "bmw-ix",
   "make": "BMW",
   "model": "iX",
+  "generation": null,
+  "aka": [
+    "iNext",
+    "iX M60"
+  ],
   "years": [
     2022,
     2023,
@@ -26,6 +31,9 @@
     "mpgCombined": 94,
     "evRangeMiles": 312
   },
+  "variants": [
+    "iX"
+  ],
   "description": "The BMW iX is a battery-electric mid-size luxury crossover SUV manufactured and marketed by the German automobile manufacturer BMW. It was unveiled in concept form as the Vision iNext at the 2018 LA Auto Show, and then in its production form in November 2020. The iX is BMW's second fully electric vehicle after the i3 in 2013, and the fourth BMW i sub-brand model.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_iX",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BMW_iX_IAA_2021_1X7A0204.jpg/1920px-BMW_iX_IAA_2021_1X7A0204.jpg",

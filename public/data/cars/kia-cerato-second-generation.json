@@ -1,0 +1,25 @@
+{
+  "id": "kia-cerato-second-generation",
+  "make": "Kia",
+  "model": "Cerato",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kia_Cerato5_1.6_SX_2012_%2814661129368%29_%28cropped_2%29.jpg/960px-Kia_Cerato5_1.6_SX_2012_%2814661129368%29_%28cropped_2%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Cerato is a compact car produced by the South Korean manufacturer Kia since 2003. In 2008, the Cerato nameplate was replaced by the Forte nameplate in the North American market and the K3 nameplate in South Korea. However, the \"Cerato\" name remains in use in markets such as Australasia, Middle East and Latin America. It is available in five-door hatchback, two-door coupe and four-door sedan variants. It is not available in Europe, where the similar sized Kia Ceed is offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cerato",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kia_Cerato5_1.6_SX_2012_%2814661129368%29_%28cropped_2%29.jpg/1920px-Kia_Cerato5_1.6_SX_2012_%2814661129368%29_%28cropped_2%29.jpg",
+  "sketchfab": null
+}

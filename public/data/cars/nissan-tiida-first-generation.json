@@ -1,0 +1,32 @@
+{
+  "id": "nissan-tiida-first-generation",
+  "make": "Nissan",
+  "model": "Tiida",
+  "generation": "First generation",
+  "aka": [
+    "Tiida Latio",
+    "Dodge Trazo",
+    "Trazo by Dodge"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2006-2010_Nissan_Tiida_%28C11%29_ST-L_hatchback_%282010-12-17%29.jpg/960px-2006-2010_Nissan_Tiida_%28C11%29_ST-L_hatchback_%282010-12-17%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Tiida  is a compact car produced by the Japanese manufacturer Nissan from 2004 to 2023 through three generations. Depending on the market, the Tiida was also marketed as a subcompact car, particularly in the Americas for the first-generation model as the Nissan Versa. The first-generation model (C11) was produced up to 2018 in some markets, and was offered as a four-door sedan and a five-door hatchback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Tiida",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2006-2010_Nissan_Tiida_%28C11%29_ST-L_hatchback_%282010-12-17%29.jpg/1920px-2006-2010_Nissan_Tiida_%28C11%29_ST-L_hatchback_%282010-12-17%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "honda-amaze-second-generation",
+  "make": "Honda",
+  "model": "Amaze",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Honda_Amaze_in_South_Africa_1_%28cropped%29.jpg/960px-Honda_Amaze_in_South_Africa_1_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Amaze is a sedan produced by Honda since 2013. Slotted below the City sedan, it is the smallest Honda sedan model as of 2022, with all generations measured less than 4 m (157.5 in) in length. It is mainly marketed in India, where sub-4-metre cars are given a lower excise duty compared to longer vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Amaze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Honda_Amaze_in_South_Africa_1_%28cropped%29.jpg/1920px-Honda_Amaze_in_South_Africa_1_%28cropped%29.jpg",
+  "sketchfab": null
+}

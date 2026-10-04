@@ -2,6 +2,8 @@
   "id": "porsche-carrera-2-coupe",
   "make": "Porsche",
   "model": "Carrera 2 Coupe",
+  "generation": null,
+  "aka": [],
   "years": [
     2003,
     2004,
@@ -14,7 +16,7 @@
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Premium",
   "engine": "3.6L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Porsche_912_%282016-07-02_Sp%29.JPG/960px-Porsche_912_%282016-07-02_Sp%29.JPG",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2009,
   "specs": {
@@ -28,8 +30,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Porsche 912 is a sports car produced by Porsche AG of Stuttgart, Germany, for the 1965 through 1969 model years. An entry-level variant of the 911, it was also offered in compact 2+2 Coupé and Targa body styles. The 912 was fitted with a 1.6-liter air cooled flat-4 from the last of the 356s, slightly detuned to 102 SAE horsepower at 5800 rpm, and with a slightly lower rear weight bias, was known for its nimble, balanced handling. The 912's high-efficiency boxer engine, low drag, and low weight allow it to get up to 30 miles per US gallon. Initially priced at US$4,700, more than 32,000 912s were built from April 1965 to July 1969. Sales of the 912 initially outpaced the 911, boosting the manufacturer's total production until success of the 911 was assured.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_912",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Porsche_912_%282016-07-02_Sp%29.JPG/1920px-Porsche_912_%282016-07-02_Sp%29.JPG",
+  "variants": [
+    "Carrera 2 Coupe"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

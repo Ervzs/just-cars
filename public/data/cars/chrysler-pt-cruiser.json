@@ -2,6 +2,14 @@
   "id": "chrysler-pt-cruiser",
   "make": "Chrysler",
   "model": "PT Cruiser",
+  "generation": null,
+  "aka": [
+    "PT platform",
+    "GT Cruiser",
+    "Panel Cruiser",
+    "Cruiser",
+    "PT Cruiser GT"
+  ],
   "years": [
     2001,
     2002,
@@ -31,6 +39,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "PT Cruiser"
+  ],
   "description": "The Chrysler PT Cruiser is a compact car that was built by the American company Chrysler from 2001 until 2010. Introduced as a five-door hatchback wagon, a two-door convertible variant was also made from 2005 until 2008.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_PT_Cruiser",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2006-2009_Chrysler_PT_Cruiser.jpg/960px-2006-2009_Chrysler_PT_Cruiser.jpg",

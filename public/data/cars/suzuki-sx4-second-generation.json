@@ -1,0 +1,49 @@
+{
+  "id": "suzuki-sx4-second-generation",
+  "make": "Suzuki",
+  "model": "SX4",
+  "generation": "Second generation",
+  "aka": [
+    "Maruti Suzuki SX4",
+    "Maruti SX4",
+    "S-Cross Concept",
+    "SX4 S-Cross",
+    "S-Cross",
+    "Chevrolet S-Cross",
+    "Neo Baleno"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2013-2016_Suzuki_SX4_%28JY%29_GL_wagon_%282018-08-06%29_02.jpg/960px-2013-2016_Suzuki_SX4_%28JY%29_GL_wagon_%282018-08-06%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SX4"
+  ],
+  "description": "The Suzuki SX4 is a subcompact car and crossover produced by Japanese automaker Suzuki since 2006. A successor of the Aerio tall hatchback and sedan, the first-generation model was available as a hatchback and sedan, with the former available in both front- and four-wheel drive. In Europe, it was sold alongside a rebadged version called the Fiat Sedici.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_SX4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2013-2016_Suzuki_SX4_%28JY%29_GL_wagon_%282018-08-06%29_02.jpg/1920px-2013-2016_Suzuki_SX4_%28JY%29_GL_wagon_%282018-08-06%29_02.jpg",
+  "sketchfab": null
+}

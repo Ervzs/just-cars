@@ -1,0 +1,43 @@
+{
+  "id": "bmw-6-series-second-generation",
+  "make": "BMW",
+  "model": "6 Series",
+  "generation": "Second generation",
+  "aka": [
+    "6"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.8L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2006_BMW_630i_Automatic_3.0_Front.jpg/960px-2006_BMW_630i_Automatic_3.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "4.8L 8-cyl",
+    "displacementL": 4.8,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "6 Series"
+  ],
+  "description": "The BMW 6 Series is a range of grand tourers produced by BMW since 1976. It is the successor to the E9 Coupé and is currently in its fourth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_6_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2006_BMW_630i_Automatic_3.0_Front.jpg/1920px-2006_BMW_630i_Automatic_3.0_Front.jpg",
+  "sketchfab": null
+}

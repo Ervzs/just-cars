@@ -1,0 +1,46 @@
+{
+  "id": "fiat-124-sport-spider",
+  "make": "Fiat",
+  "model": "124 Sport Spider",
+  "generation": null,
+  "aka": [
+    "Spider",
+    "Abarth 124 Rallye",
+    "124 Sport Spyder",
+    "124 Abarth Rallye",
+    "Abarth 124 Rally",
+    "124 Spider",
+    "Spider 2000",
+    "124 Abarth"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fiat_124_Spider_turquoise.jpg/960px-Fiat_124_Spider_turquoise.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 36,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "124 Spider"
+  ],
+  "description": "The Fiat 124 Sport Spider is a convertible sports car marketed by Fiat for model years 1966–1982 and by Pininfarina for 1982–1985 model years. Designed by and manufactured at the Italian carrozzeria Pininfarina factory, the monocoque, front-engined, rear-drive Sport Spider debuted at the November 1966 Turin Auto Show with styling by Tom Tjaarda.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fiat_124_Spider_turquoise.jpg/1280px-Fiat_124_Spider_turquoise.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "changan-uni-k",
+  "make": "Changan",
+  "model": "UNI-K",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Changan_UNI-K_001.jpg/960px-Changan_UNI-K_001.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Changan UNI-K is a mid-size crossover SUV made by Changan from 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changan_UNI-K",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Changan_UNI-K_001.jpg/1920px-Changan_UNI-K_001.jpg",
+  "sketchfab": {
+    "uid": "00f39302c28640df88bd2f60beb87063",
+    "name": "Changan UNI-K",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

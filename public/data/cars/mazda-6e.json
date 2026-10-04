@@ -1,0 +1,33 @@
+{
+  "id": "mazda-6e",
+  "make": "Mazda",
+  "model": "6e",
+  "generation": null,
+  "aka": [
+    "Mazda6e",
+    "EZ-6"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mazda6e_IMG_6681.jpg/960px-Mazda6e_IMG_6681.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda 6e, known in China as the Mazda EZ-6, is a mid-size car \n(D-segment) produced by Mazda through its joint venture, Changan Mazda in China since 2024. Available with a pure battery electric powertrain or as an extended-range electric vehicle (EREV), the 6e is co-developed with Changan Automobile, and uses the same EPA platform used by the Deepal L07 liftback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_6e",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mazda6e_IMG_6681.jpg/1920px-Mazda6e_IMG_6681.jpg",
+  "sketchfab": {
+    "uid": "c712a4decfd345f4bb77a49025eae7f2",
+    "name": "Mazda 6E",
+    "author": "MimmoLagonigro",
+    "authorUrl": "https://sketchfab.com/MimmoLagonigro",
+    "license": "CC Attribution"
+  }
+}

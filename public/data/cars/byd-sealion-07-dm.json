@@ -1,0 +1,26 @@
+{
+  "id": "byd-sealion-07-dm",
+  "make": "BYD",
+  "model": "Sealion 07 DM",
+  "generation": null,
+  "aka": [
+    "Sealion 07 DM-i",
+    "Sealion 07 DM-p"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2025_BYD_Sealion_07_DM-i_front_view.png/960px-2025_BYD_Sealion_07_DM-i_front_view.png",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Sealion 07 DM-i is a plug-in hybrid mid-size SUV manufactured by BYD Auto since 2025. Part of the Sealion family of SUVs, it is a restyled and updated version of the BYD Frigate 07, both part of the Ocean Series product line-up that are distributed through Ocean Network dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Sealion_07_DM",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2025_BYD_Sealion_07_DM-i_front_view.png/1920px-2025_BYD_Sealion_07_DM-i_front_view.png",
+  "sketchfab": null
+}

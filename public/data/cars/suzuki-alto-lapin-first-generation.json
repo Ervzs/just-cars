@@ -1,0 +1,32 @@
+{
+  "id": "suzuki-alto-lapin-first-generation",
+  "make": "Mazda",
+  "model": "Suzuki Alto Lapin",
+  "generation": "First-generation",
+  "aka": [
+    "Spanio",
+    "Spiano",
+    "Suzuki Lapin"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Suzuki_Alto_Lapin_002.JPG/960px-Suzuki_Alto_Lapin_002.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Alto Lapin  is a kei car with a five-door hatchback body, manufactured since 2002 by Suzuki for the Japanese market only, and it is based on Suzuki's popular Alto kei car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Alto_Lapin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Suzuki_Alto_Lapin_002.JPG/1280px-Suzuki_Alto_Lapin_002.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "toyota-jpn-taxi",
+  "make": "Toyota",
+  "model": "JPN Taxi",
+  "generation": null,
+  "aka": [
+    "Japan Taxi",
+    "Comfort Hybrid"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Toyota_jpntaxi_greencab_1434.JPG/960px-Toyota_jpntaxi_greencab_1434.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota JPN Taxi  is a hybrid electric taxicab built to universal design specifications mandated by the Japanese government. Exhibited as the JPN Taxi Concept at the 43rd Tokyo Motor Show in 2013, it has been produced by Toyota since 2017, mainly for the Japanese, Thai, and Hong Kong markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_JPN_Taxi",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Toyota_jpntaxi_greencab_1434.JPG/1920px-Toyota_jpntaxi_greencab_1434.JPG",
+  "sketchfab": {
+    "uid": "4868854a744042bca248c38bfddd6441",
+    "name": "Toyota JPN Taxi",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

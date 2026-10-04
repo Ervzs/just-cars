@@ -1,0 +1,59 @@
+{
+  "id": "chevrolet-malibu-ninth-generation",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "generation": "Ninth generation",
+  "aka": [
+    "Malibu Maxx",
+    "Chevy mailbu",
+    "Chevy Malibu",
+    "Chevy Malibu Classic",
+    "Malibu Classic",
+    "Malibu Hybrid",
+    "GM Malibu",
+    "Holden Malibu"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_30092022.jpg/960px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_30092022.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Malibu"
+  ],
+  "description": "The Chevrolet Malibu is a mid-size car manufactured and marketed by Chevrolet from 1964 to 1983 and from 1997 to 2025. The Malibu began as a trim-level of the Chevrolet Chevelle before becoming its own model line in 1978. Originally a rear-wheel-drive intermediate, General Motors revived the Malibu nameplate as a front-wheel-drive car in 1997.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Malibu",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_30092022.jpg/1920px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_30092022.jpg",
+  "sketchfab": {
+    "uid": "507a7761496748bb933cf7863f49a991",
+    "name": "2019 Chevrolet Malibu Premier",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

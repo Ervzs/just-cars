@@ -1,0 +1,49 @@
+{
+  "id": "bmw-5-series-fifth-generation",
+  "make": "BMW",
+  "model": "5 Series",
+  "generation": "Fifth generation",
+  "aka": [
+    "5",
+    "500 Series",
+    "500",
+    "540i",
+    "5er",
+    "530i",
+    "550i",
+    "525i"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2003_BMW_520i_SE_2.2_Front.jpg/960px-2003_BMW_520i_SE_2.2_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "5 Series"
+  ],
+  "description": "The BMW 5 Series is an executive car manufactured and marketed by BMW since 1972. It is the successor to the BMW New Class sedans and is currently in its eighth generation. The car is sold as either a sedan or, since 1991, a station wagon. A 5-door fastback was sold between 2009 and 2017. Each successive generation has been given an internal G-code designation since 2017. Previously, a F-code designation was used between 2010 and 2016, while an E-code designation was used between 1972 and 2010. These are used to distinguish each model and generation from each other.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_5_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2003_BMW_520i_SE_2.2_Front.jpg/1920px-2003_BMW_520i_SE_2.2_Front.jpg",
+  "sketchfab": null
+}

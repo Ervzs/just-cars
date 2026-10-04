@@ -2,6 +2,10 @@
   "id": "bmw-x7",
   "make": "BMW",
   "model": "X7",
+  "generation": null,
+  "aka": [
+    "Alpina XB7"
+  ],
   "years": [
     2019,
     2020,
@@ -30,6 +34,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "X7"
+  ],
   "description": "The BMW X7 is a full-size luxury crossover sport utility vehicle manufactured by BMW. It is BMW's largest and second most expensive SUV in its line-up, and is considered a flagship SUV for the brand, and borrows design cues from the 6th and 7th generations of the BMW 7 Series.The X7 was first announced by BMW in March 2014. It was officially unveiled on October 17, 2018, with pre-orders being taken online. The X7 has been available at dealers since March 2019.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X7",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/BMW_G07_1X7A1696.jpg/1920px-BMW_G07_1X7A1696.jpg",

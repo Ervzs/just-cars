@@ -1,0 +1,54 @@
+{
+  "id": "honda-accord-tenth-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Tenth generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2021_Honda_Accord_Sport_2.0T%2C_front_right%2C_09-06-2022.jpg/960px-2021_Honda_Accord_Sport_2.0T%2C_front_right%2C_09-06-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 38,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2021_Honda_Accord_Sport_2.0T%2C_front_right%2C_09-06-2022.jpg/1920px-2021_Honda_Accord_Sport_2.0T%2C_front_right%2C_09-06-2022.jpg",
+  "sketchfab": {
+    "uid": "e742636e46814de5af1568542e7c9bdb",
+    "name": "2021 Honda Accord",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

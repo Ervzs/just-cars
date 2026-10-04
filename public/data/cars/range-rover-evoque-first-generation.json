@@ -1,0 +1,41 @@
+{
+  "id": "range-rover-evoque-first-generation",
+  "make": "Land Rover",
+  "model": "Range Rover Evoque",
+  "generation": "First generation",
+  "aka": [
+    "LRX",
+    "Evoque",
+    "Range Rover Evogue",
+    "Range Rover Evoque Convertible Concept",
+    "Range Rover Evoque Convertible",
+    "Range Rover Evoque Victoria Beckham Special Edition"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2011_Land_Rover_Range_Rover_Evoque_Pure_SD4_2.2_Front.jpg/960px-2011_Land_Rover_Range_Rover_Evoque_Pure_SD4_2.2_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Range Rover Evoque is a subcompact luxury crossover SUV developed and produced by Jaguar Land Rover. The original Evoque was a development of the Land Rover LRX concept vehicle, which was unveiled at the North American International Auto Show in January 2008. The first generation Evoque was produced from July 2011 until 2018 in three and five-door versions, with both two-wheel and four-wheel drive. The second generation of the car went into production in 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2011_Land_Rover_Range_Rover_Evoque_Pure_SD4_2.2_Front.jpg/1920px-2011_Land_Rover_Range_Rover_Evoque_Pure_SD4_2.2_Front.jpg",
+  "sketchfab": {
+    "uid": "3454824aab8545578f6a155d64dea273",
+    "name": "2011 Land Rover Range Rover Evoque",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

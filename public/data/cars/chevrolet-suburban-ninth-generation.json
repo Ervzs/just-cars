@@ -1,0 +1,49 @@
+{
+  "id": "chevrolet-suburban-ninth-generation",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "generation": "Ninth generation",
+  "aka": [
+    "GMC Yukon XL",
+    "GMC Suburban",
+    "Chevy Suburban",
+    "Yukon XL",
+    "Veraneio",
+    "GMC Yukon Denali XL",
+    "Chevy Suburvan",
+    "Chevy subdivision"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "5.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2000-2006_Chevrolet_Suburban_--_03-16-2012_2.JPG/960px-2000-2006_Chevrolet_Suburban_--_03-16-2012_2.JPG",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "5.3L 8-cyl",
+    "displacementL": 5.3,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Suburban"
+  ],
+  "description": "The Chevrolet Suburban is a series of SUVs built by Chevrolet since 1934. The longest-produced automobile nameplate in the world, the Suburban is currently in its twelfth generation, in production since the 2021 model year. Beginning life as one of the first metal-bodied station wagons, the Suburban is the progenitor of the modern full-size sport utility vehicle, combining a wagon-style body with the chassis and powertrain of a pickup truck. Alongside its Advance Design, Task Force, and C/K predecessors, the Chevrolet Silverado currently shares chassis and mechanical commonality with the Suburban and other trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Suburban",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2000-2006_Chevrolet_Suburban_--_03-16-2012_2.JPG/1920px-2000-2006_Chevrolet_Suburban_--_03-16-2012_2.JPG",
+  "sketchfab": null
+}

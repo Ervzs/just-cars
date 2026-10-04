@@ -1,0 +1,57 @@
+{
+  "id": "chevrolet-silverado-first-generation-silverado-second-generation-sierra",
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "generation": "First-generation Silverado / second-generation Sierra",
+  "aka": [
+    "GMC Sierra",
+    "Silverado HD",
+    "Chevy Silverado",
+    "Silverado Hybrid",
+    "GMC Sierra Hybrid",
+    "GMC Silverado",
+    "GMC Sierra Classic",
+    "This is Our Country"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "4.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/99-02_Chevrolet_Silverado_2500.jpg/960px-99-02_Chevrolet_Silverado_2500.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.3L 6-cyl",
+    "displacementL": 4.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Silverado",
+    "Sierra"
+  ],
+  "description": "The Chevrolet Silverado is a range of trucks manufactured by General Motors under the Chevrolet brand. Introduced for the 1999 model year, the Silverado is the successor to the long-running Chevrolet C/K model line. Taking its name from the top trim level from the Chevrolet C/K series, the Silverado is offered as a series of full-size pickup trucks, chassis cab trucks, and medium-duty trucks. The fourth generation of the model line was introduced for the 2019 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Silverado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/99-02_Chevrolet_Silverado_2500.jpg/960px-99-02_Chevrolet_Silverado_2500.jpg",
+  "sketchfab": {
+    "uid": "02d4f334af3d44fc8fc2d7cd084abc30",
+    "name": "2000 Chevrolet Silverado z71",
+    "author": "✮𝖀𝖓𝖋𝖔𝖗𝖌𝖊𝖙𝖙𝖆𝖇𝖑𝖊 𝕹𝖆𝖒𝖊✮",
+    "authorUrl": "https://sketchfab.com/UnforgettableName",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "mercedes-benz-slk-class-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "SLK-Class",
+  "generation": "First generation",
+  "aka": [
+    "Mercedes SLK500",
+    "Mercedes SLK",
+    "SLK",
+    "SLT-Class",
+    "Mercedes slk 55 amg",
+    "Mercedes Benz SLK-Class",
+    "Mercedes SLK-Class",
+    "MB SLK-Class"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2001_Mercedes_Benz_SLK_320_%2822093222921%29_%28cropped%29.jpg/960px-2001_Mercedes_Benz_SLK_320_%2822093222921%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SLK-Class"
+  ],
+  "description": "The Mercedes-Benz SLK-Class is a compact executive roadster, produced by Mercedes-Benz. It was released in 1996 and was manufactured at the Mercedes plant in Bremen, Germany, until 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2001_Mercedes_Benz_SLK_320_%2822093222921%29_%28cropped%29.jpg/1920px-2001_Mercedes_Benz_SLK_320_%2822093222921%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

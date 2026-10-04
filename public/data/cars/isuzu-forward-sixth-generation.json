@@ -1,0 +1,39 @@
+{
+  "id": "isuzu-forward-sixth-generation",
+  "make": "Isuzu",
+  "model": "Forward",
+  "generation": "Sixth generation",
+  "aka": [
+    "F-Series",
+    "GMC T-series",
+    "いすゞ・フォワード",
+    "Heavy Duty",
+    "Chevrolet FRR",
+    "TY",
+    "Deca"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/6th_generation_Isuzu_Forward_F-Cargo.jpg/960px-6th_generation_Isuzu_Forward_F-Cargo.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Forward  is a line of medium-to-heavy-duty commercial vehicles manufactured by Isuzu since 1970, following the earlier TY model which occupied the same slot in the market. All F-series trucks are cab over designs and the cabin comes fully built from the factory. Most models come with a diesel engine; but, some markets get CNG derivatives as well. The F-series is available a variety of cab styles, engines, 4WD or 2WD depending on the market it is sold. While Isuzu's main plant is in Japan, these trucks are locally assembled from CKD kits in numerous countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Forward",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/6th_generation_Isuzu_Forward_F-Cargo.jpg/1920px-6th_generation_Isuzu_Forward_F-Cargo.jpg",
+  "sketchfab": {
+    "uid": "39737ad9b79544d8b008158885971ed3",
+    "name": "isuzu forward tonami transport",
+    "author": "wolfoo motors",
+    "authorUrl": "https://sketchfab.com/mariteslara",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,8 @@
   "id": "honda-cr-z",
   "make": "Honda",
   "model": "CR-Z",
+  "generation": null,
+  "aka": [],
   "years": [
     2011,
     2012,
@@ -27,6 +29,9 @@
     "mpgCombined": 33,
     "evRangeMiles": null
   },
+  "variants": [
+    "CR-Z"
+  ],
   "description": "The Honda CR-Z is a sport compact hybrid electric vehicle manufactured by Honda and marketed as a \"sport hybrid coupe.\" It combines a gasoline-electric hybrid drivetrain with features typical of a sports car, including a standard six-speed manual transmission and a 2+2 seating layout.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_CR-Z",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg/1920px-2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg",

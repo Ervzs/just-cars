@@ -1,0 +1,38 @@
+{
+  "id": "nissan-micra-sixth-generation",
+  "make": "Nissan",
+  "model": "Micra",
+  "generation": "Sixth generation",
+  "aka": [
+    "March Cup",
+    "Micra Challenge",
+    "March Superturbo R",
+    "March Superturbo",
+    "March Turbo",
+    "Micra C+C",
+    "March R",
+    "Datsun March"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nissan_Micra_Evolve_%28VI%29_%E2%80%93_h_11042026.jpg/960px-Nissan_Micra_Evolve_%28VI%29_%E2%80%93_h_11042026.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Micra, also known as the Nissan March , is a supermini car (B-segment) that has been produced by the Japanese automobile manufacturer Nissan from 1982. The March name has always been used in the Japanese markets but also in many export markets across Asia and Latin America and others.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Micra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nissan_Micra_Evolve_%28VI%29_%E2%80%93_h_11042026.jpg/1920px-Nissan_Micra_Evolve_%28VI%29_%E2%80%93_h_11042026.jpg",
+  "sketchfab": {
+    "uid": "66aa00a8fd2c44498d1541c399df3673",
+    "name": "- NISSAN MICRA -",
+    "author": "Nissan France",
+    "authorUrl": "https://sketchfab.com/NissanFR",
+    "license": "CC Attribution"
+  }
+}

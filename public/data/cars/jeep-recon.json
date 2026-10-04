@@ -2,6 +2,8 @@
   "id": "jeep-recon",
   "make": "Jeep",
   "model": "Recon",
+  "generation": null,
+  "aka": [],
   "years": [
     2026
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 71,
     "evRangeMiles": 222
   },
+  "variants": [
+    "Recon"
+  ],
   "description": "The Jeep Recon is a battery electric mid-size SUV that entered the market in early 2026. Presented in a set of images in September 2022 alongside two other Jeep models, it is an off-road-oriented SUV that is heavily inspired by the Wrangler, and will be sold alongside it. A Wrangler variant was previously marketed as the Recon.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Recon",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/26_Jeep_Recon_Moab_AZIAS.jpg/1920px-26_Jeep_Recon_Moab_AZIAS.jpg",

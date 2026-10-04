@@ -1,0 +1,27 @@
+{
+  "id": "haval-h6-coupe-first-generation",
+  "make": "Haval",
+  "model": "H6 Coupe",
+  "generation": "First generation",
+  "aka": [
+    "Great Wall Haval H6 Coupe"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Haval_H6_Coupe_Blue_01_China_2016-04-17.jpg/960px-Haval_H6_Coupe_Blue_01_China_2016-04-17.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H6S or H6 Coupe is a coupe compact SUV based on the Haval H6 compact SUV produced by Haval of Great Wall Motor.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H6_Coupe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Haval_H6_Coupe_Blue_01_China_2016-04-17.jpg/1280px-Haval_H6_Coupe_Blue_01_China_2016-04-17.jpg",
+  "sketchfab": null
+}

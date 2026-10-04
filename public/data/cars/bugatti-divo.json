@@ -2,6 +2,8 @@
   "id": "bugatti-divo",
   "make": "Bugatti",
   "model": "Divo",
+  "generation": null,
+  "aka": [],
   "years": [
     2020
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 10,
     "evRangeMiles": null
   },
+  "variants": [
+    "Divo"
+  ],
   "description": "The Bugatti Divo is a mid-engine track-focused sports car developed and manufactured by Bugatti Automobiles S.A.S. The car is named after French racing driver Albert Divo, who raced for Bugatti in the 1920s winning the Targa Florio race twice. It was revealed on 24 August 2018 at “The Quail – A Motorsports Gathering“ in California, United States.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Divo",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg/1920px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg",

@@ -1,0 +1,47 @@
+{
+  "id": "audi-s3-third-generation",
+  "make": "Audi",
+  "model": "S3",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2014_Audi_S3_%288V_MY14%29_quattro_Sportback_5-door_hatchback_%282015-07-24%29.jpg/960px-2014_Audi_S3_%288V_MY14%29_quattro_Sportback_5-door_hatchback_%282015-07-24%29.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S3"
+  ],
+  "description": "The Audi S3 is a performance version of the Audi A3 small family car, produced by German automaker Audi since 1999. S3 variants of have been produced from the first generation through the fourth generation of Audi A3.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2014_Audi_S3_%288V_MY14%29_quattro_Sportback_5-door_hatchback_%282015-07-24%29.jpg/1920px-2014_Audi_S3_%288V_MY14%29_quattro_Sportback_5-door_hatchback_%282015-07-24%29.jpg",
+  "sketchfab": {
+    "uid": "33056acd771241638ebe74109ba2777a",
+    "name": "2014 Audi S3 Limousine",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

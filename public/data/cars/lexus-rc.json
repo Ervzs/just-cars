@@ -2,6 +2,12 @@
   "id": "lexus-rc",
   "make": "Lexus",
   "model": "RC",
+  "generation": null,
+  "aka": [
+    "RC F",
+    "RC 200t",
+    "RCF GT3"
+  ],
   "years": [
     2015,
     2016,
@@ -32,6 +38,10 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "RC",
+    "RC F"
+  ],
   "description": "The Lexus RC  is a compact executive two-door coupé manufactured by Lexus, Toyota's luxury division. The RC which according to Lexus stands for \"Radical Coupe\" is a two-door coupé version of the Lexus IS (XE30). The RC is designated as the XC10 series. The RC borrowed styling from the LF-LC concept and was previewed by the LF-CC concept, being designed as a proposal by Pansoo Kwon from 2010 to early 2012 and approved by supervising designers Yasuo Kajino and Tatsuya Takei.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_RC",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg/1920px-2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg",

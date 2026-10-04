@@ -1,0 +1,38 @@
+{
+  "id": "nissan-z-car-fourth-generation-nissan-300zx",
+  "make": "Nissan",
+  "model": "Z-car",
+  "generation": "Fourth generation: Nissan 300ZX",
+  "aka": [
+    "Z",
+    "Fairlady Z",
+    "Datsun ZX",
+    "400Z"
+  ],
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Nissan_FairladyZ_300ZX_%28GCZ32%29%2C_1989%2C_front.jpg/960px-Nissan_FairladyZ_300ZX_%28GCZ32%29%2C_1989%2C_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Z is a model series of sports cars manufactured by Nissan since 1969.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Z-car",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Nissan_FairladyZ_300ZX_%28GCZ32%29%2C_1989%2C_front.jpg/1920px-Nissan_FairladyZ_300ZX_%28GCZ32%29%2C_1989%2C_front.jpg",
+  "sketchfab": null
+}

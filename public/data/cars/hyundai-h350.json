@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-h350",
+  "make": "Hyundai",
+  "model": "H350",
+  "generation": null,
+  "aka": [
+    "Solati"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Hyundai_H350_furgon_%28cropped%29.jpg/960px-Hyundai_H350_furgon_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai H350, also known as the Hyundai Solati in South Korea and Vietnam, and Hyundai Solati H350 in Mexico, is a light commercial full-size van manufactured by the South Korean manufacturer Hyundai since 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_H350",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Hyundai_H350_furgon_%28cropped%29.jpg/1920px-Hyundai_H350_furgon_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "b4b954c0d8c54a6e80b6cc2a8cc96d26",
+    "name": "2019 Hyundai H350 Solati",
+    "author": "asian3dmodel",
+    "authorUrl": "https://sketchfab.com/nguyenhoanglam20100609",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "hyundai-st1",
+  "make": "Hyundai",
+  "model": "ST1",
+  "generation": null,
+  "aka": [
+    "Iveco eMoovy",
+    "PBV LAB EP. 01"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hyundai_ST1_Cargo_A01_EV2_Creamy_White_%285%29_%28cropped%29.jpg/960px-Hyundai_ST1_Cargo_A01_EV2_Creamy_White_%285%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai ST1 is a battery electric light commercial vehicle manufactured by Hyundai since 2024. Described by the company as a Purpose-Built Vehicle (PBV), the ST1 is built with a cabin and dashboard from the Staria, with a boxed rear body. ST1 stands for \"Service Type 1\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_ST1",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hyundai_ST1_Cargo_A01_EV2_Creamy_White_%285%29_%28cropped%29.jpg/1920px-Hyundai_ST1_Cargo_A01_EV2_Creamy_White_%285%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

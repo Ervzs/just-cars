@@ -1,0 +1,42 @@
+{
+  "id": "scion-tc-first-generation",
+  "make": "Scion",
+  "model": "tC",
+  "generation": "First generation",
+  "aka": [
+    "Toyota tc",
+    "Toyota Zelas"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Scion-tC.JPG/960px-Scion-tC.JPG",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "tC"
+  ],
+  "description": "The Scion tC is a compact car manufactured by Toyota under its Scion brand from 2004 to 2016 over two generations: ANT10 (2004–2010) and AGT20 (2011–2016). Both generations were built in Japan. The tC was introduced first in the United States for the 2005 model year and then, beginning with the second generation in the 2011 model year, in Canada as well. The tC was Scion's best-selling model, constituting almost 40% of total Scion sales.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_tC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Scion-tC.JPG/1280px-Scion-tC.JPG",
+  "sketchfab": null
+}

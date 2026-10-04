@@ -1,0 +1,36 @@
+{
+  "id": "opel-astra-second-generation",
+  "make": "Saturn",
+  "model": "Opel Astra",
+  "generation": "Second generation",
+  "aka": [
+    "Astravan",
+    "GM-AvtoVAZ Chevrolet Viva",
+    "Opel Astra Cabrio",
+    "Chevrolet Astra",
+    "Opel Astra TwinTop",
+    "General Motors Astra",
+    "Astra",
+    "Astra GSi"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Opel_Astra_1.6_Selection_%28G%29_%E2%80%93_Heckansicht%2C_21._Juni_2011%2C_Heiligenhaus.jpg/960px-Opel_Astra_1.6_Selection_%28G%29_%E2%80%93_Heckansicht%2C_21._Juni_2011%2C_Heiligenhaus.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Opel Astra is a compact car/small family car (C-segment) developed and produced by the German automaker Opel since 1991, currently at its sixth generation. It was first launched in September 1991 as a direct replacement to the Opel Kadett. As of 2025, the car slots between the smaller Corsa supermini and the larger Frontera subcompact crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel_Astra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Opel_Astra_1.6_Selection_%28G%29_%E2%80%93_Heckansicht%2C_21._Juni_2011%2C_Heiligenhaus.jpg/1920px-Opel_Astra_1.6_Selection_%28G%29_%E2%80%93_Heckansicht%2C_21._Juni_2011%2C_Heiligenhaus.jpg",
+  "sketchfab": null
+}

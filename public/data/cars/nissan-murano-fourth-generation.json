@@ -1,0 +1,41 @@
+{
+  "id": "nissan-murano-fourth-generation",
+  "make": "Nissan",
+  "model": "Murano",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2025_Nissan_Murano_Platinum%2C_front_4.13.25.jpg/960px-2025_Nissan_Murano_Platinum%2C_front_4.13.25.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Murano"
+  ],
+  "description": "The Nissan Murano  is a mid-size crossover SUV manufactured and marketed by Nissan since May 2002 for the 2003 model year. The fourth generation was revealed in October 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Murano",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2025_Nissan_Murano_Platinum%2C_front_4.13.25.jpg/1920px-2025_Nissan_Murano_Platinum%2C_front_4.13.25.jpg",
+  "sketchfab": {
+    "uid": "f6c9b940fb76456aab2577b0a9bd95cf",
+    "name": "Nissan Murano 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

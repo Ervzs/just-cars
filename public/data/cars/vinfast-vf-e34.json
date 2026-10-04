@@ -1,0 +1,30 @@
+{
+  "id": "vinfast-vf-e34",
+  "make": "VinFast",
+  "model": "VF e34",
+  "generation": null,
+  "aka": [
+    "VF31",
+    "Nerio Green"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2024_VinFast_VFe34%2C_06-14-2024.jpg/960px-2024_VinFast_VFe34%2C_06-14-2024.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The VinFast VF e34, also known as VinFast Nerio Green, is a battery electric subcompact SUV (B-segment) manufactured by VinFast of Vingroup since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_e34",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2024_VinFast_VFe34%2C_06-14-2024.jpg/1920px-2024_VinFast_VFe34%2C_06-14-2024.jpg",
+  "sketchfab": null
+}

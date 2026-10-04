@@ -1,0 +1,32 @@
+{
+  "id": "honda-crider-second-generation",
+  "make": "Honda",
+  "model": "Crider",
+  "generation": "Second generation",
+  "aka": [
+    "Envix"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/HONDA_CRIDER_SECOND_GENERATION_China_%28facelift%29.jpg/960px-HONDA_CRIDER_SECOND_GENERATION_China_%28facelift%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Crider is a compact sedan produced by GAC Honda in China. It was introduced in 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Crider",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/HONDA_CRIDER_SECOND_GENERATION_China_%28facelift%29.jpg/1920px-HONDA_CRIDER_SECOND_GENERATION_China_%28facelift%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "honda-passport-second-generation",
+  "make": "Honda",
+  "model": "Passport",
+  "generation": "Second generation",
+  "aka": [
+    "Pastport"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Honda_Passport_%28facelift%29.jpg/960px-Honda_Passport_%28facelift%29.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Passport"
+  ],
+  "description": "The Honda Passport  is a line of sport utility vehicles (SUV) from the Japanese automaker Honda. Originally, it was a rebadged version of the Isuzu Rodeo, a mid-size SUV sold between 1993 and 2002. It was introduced in 1993 for the 1994 model year as Honda's first entry into the growing SUV market of the 1990s in the United States. The first and second generation Passport was manufactured by Subaru Isuzu Automotive in Lafayette, Indiana. Like various other Honda models, it re-used a name from their motorcycle division, the Honda C75 Passport. The other two name candidates were Elsinore and Odyssey, the latter would be re-used a year later on a minivan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Passport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Honda_Passport_%28facelift%29.jpg/1920px-Honda_Passport_%28facelift%29.jpg",
+  "sketchfab": null
+}

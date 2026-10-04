@@ -1,0 +1,55 @@
+{
+  "id": "bmw-1-series-first-generation",
+  "make": "BMW",
+  "model": "1 Series",
+  "generation": "First generation",
+  "aka": [
+    "1er",
+    "1",
+    "120d",
+    "130",
+    "130i",
+    "135i",
+    "128i",
+    "120i"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BMW_120d_%28E87%29_%E2%80%93_Frontansicht%2C_15._April_2012%2C_Mettmann.jpg/960px-BMW_120d_%28E87%29_%E2%80%93_Frontansicht%2C_15._April_2012%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "1 Series"
+  ],
+  "description": "The BMW 1 Series is a range of subcompact executive cars (C-segment) manufactured by BMW since 2004. It is the successor to the BMW 3 Series Compact and is currently in its fourth generation. Positioned as the entry-level model in BMW range of products, the first generation was produced in hatchback, coupé and convertible body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_1_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BMW_120d_%28E87%29_%E2%80%93_Frontansicht%2C_15._April_2012%2C_Mettmann.jpg/1920px-BMW_120d_%28E87%29_%E2%80%93_Frontansicht%2C_15._April_2012%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "f474a256fd7b4b6ea60b1fdcdd8a933d",
+    "name": "2009 BMW 1-series 128i Coupe",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kia-k8",
+  "make": "Kia",
+  "model": "K8",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg/960px-Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia K8 is an executive car / full-size car manufactured by Kia since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg/1920px-Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "197abad9509440d9b14cd8b93a83f23b",
+    "name": "Kia K8",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,11 @@
   "id": "daewoo-nubira",
   "make": "Daewoo",
   "model": "Nubira",
+  "generation": null,
+  "aka": [
+    "Doninvest Orion",
+    "J platform"
+  ],
   "years": [
     2000,
     2001,
@@ -25,6 +30,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Nubira"
+  ],
   "description": "Daewoo Nubira is a compact car which was produced by the South Korean automaker Daewoo from 1997 to 2002 as a 4-door sedan, 5-door hatchback and a 5-door station wagon.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Daewoo_Nubira",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg/1920px-1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg",

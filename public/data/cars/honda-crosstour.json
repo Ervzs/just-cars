@@ -2,6 +2,10 @@
   "id": "honda-crosstour",
   "make": "Honda",
   "model": "Crosstour",
+  "generation": null,
+  "aka": [
+    "Accord Crosstour"
+  ],
   "years": [
     2010,
     2011,
@@ -27,6 +31,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Crosstour"
+  ],
   "description": "The Honda Crosstour is a mid-size crossover SUV with a sloping rear roofline manufactured by Japanese automaker Honda. It is based on the North American eighth-generation Accord. Sales began in November 2009 for the 2010 model year, and the vehicle was discontinued after the 2015 model year due to slow sales.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Crosstour",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2010_Honda_Accord_Crosstour_EX-L_4WD%2C_front_right%2C_11-13-2022.jpg/1920px-2010_Honda_Accord_Crosstour_EX-L_4WD%2C_front_right%2C_11-13-2022.jpg",

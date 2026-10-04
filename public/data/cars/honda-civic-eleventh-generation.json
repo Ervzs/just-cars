@@ -1,0 +1,54 @@
+{
+  "id": "honda-civic-eleventh-generation",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "Eleventh generation",
+  "aka": [
+    "Civic Hybrid",
+    "Civic Ima",
+    "Civic Si",
+    "Civic CX",
+    "Civic VX",
+    "Civic SiR",
+    "Civici SiR",
+    "civic sports"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2022_Honda_Civic_Touring_in_Lunar_Silver_Metallic%2C_Front_Left%2C_05-10-2022.jpg/960px-2022_Honda_Civic_Touring_in_Lunar_Silver_Metallic%2C_Front_Left%2C_05-10-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 37,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Civic"
+  ],
+  "description": "The Honda Civic  is a series of automobiles manufactured by Honda since 1972. As of 2023, the Civic is positioned between the Honda Fit/City and Honda Accord in Honda's global passenger car line-up. It is one of the best-selling automobiles in history, with over 27 million units sold through 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Civic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2022_Honda_Civic_Touring_in_Lunar_Silver_Metallic%2C_Front_Left%2C_05-10-2022.jpg/1920px-2022_Honda_Civic_Touring_in_Lunar_Silver_Metallic%2C_Front_Left%2C_05-10-2022.jpg",
+  "sketchfab": {
+    "uid": "8c9484184a2b4254aafd67418b8c18db",
+    "name": "2023 Honda Civic Type R",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

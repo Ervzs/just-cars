@@ -2,6 +2,8 @@
   "id": "jaguar-e-pace",
   "make": "Jaguar",
   "model": "E-Pace",
+  "generation": null,
+  "aka": [],
   "years": [
     2018,
     2019,
@@ -28,6 +30,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "E-Pace"
+  ],
   "description": "The Jaguar E-Pace (X540) is a subcompact luxury crossover SUV that was produced by the British car manufacturer Jaguar Land Rover (JLR) under their Jaguar marque. It was officially revealed on 13 July 2017 and was the second production Jaguar SUV.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_E-Pace",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg/1920px-Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg",

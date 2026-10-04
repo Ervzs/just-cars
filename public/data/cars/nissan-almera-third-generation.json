@@ -1,0 +1,24 @@
+{
+  "id": "nissan-almera-third-generation",
+  "make": "Nissan",
+  "model": "Almera",
+  "generation": "Third generation",
+  "aka": [
+    "V-Drive"
+  ],
+  "years": [
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nissan_Sunny_XL_sedan%2C_front_view.jpg/960px-Nissan_Sunny_XL_sedan%2C_front_view.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Almera is a line of sedans produced by Japanese manufacturer Nissan since 1995. The early generations, including the first-generation N15 and second-generation N16, were classified as compact cars (C-segment) and were essentially the European export versions of the Nissan Pulsar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Almera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nissan_Sunny_XL_sedan%2C_front_view.jpg/1920px-Nissan_Sunny_XL_sedan%2C_front_view.jpg",
+  "sketchfab": null
+}

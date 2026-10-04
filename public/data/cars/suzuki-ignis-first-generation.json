@@ -1,0 +1,41 @@
+{
+  "id": "suzuki-ignis-first-generation",
+  "make": "Subaru",
+  "model": "Suzuki Ignis",
+  "generation": "First generation",
+  "aka": [
+    "G3X Justy",
+    "Suzuki Ignis S1600",
+    "Maruti Suzuki Ignis"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2003_Suzuki_Ignis_GL_1.3.jpg/960px-2003_Suzuki_Ignis_GL_1.3.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Ignis  was an automobile nameplate that was first produced by Suzuki in 2000 as a subcompact car, replacing the Suzuki Cultus, and subsequently as a crossover-styled city car from 2016 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ignis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2003_Suzuki_Ignis_GL_1.3.jpg/1920px-2003_Suzuki_Ignis_GL_1.3.jpg",
+  "sketchfab": null
+}

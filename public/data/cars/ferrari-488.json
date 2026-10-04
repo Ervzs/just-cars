@@ -1,0 +1,56 @@
+{
+  "id": "ferrari-488",
+  "make": "Ferrari",
+  "model": "488",
+  "generation": null,
+  "aka": [
+    "488 GTB",
+    "488 Spider",
+    "488 Pista",
+    "488 GT3",
+    "SP38 Deborah",
+    "J50",
+    "488 GT3 Evo 2020",
+    "488 Challenge Evo"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg/960px-2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "488 GTB",
+    "488 Spider",
+    "488 Pista Spider",
+    "488 Pista"
+  ],
+  "description": "The Ferrari 488 is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari. The car replaced the 458, being the first mid-engine Ferrari to use a turbocharged V8 since the F40. It was succeeded by the Ferrari F8.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_488",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg/1920px-2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg",
+  "sketchfab": {
+    "uid": "7f2f15ee7e224dbc94d40bf2481bb65f",
+    "name": "Ferrari 488 Pista",
+    "author": "Tiaan Pretorius",
+    "authorUrl": "https://sketchfab.com/LSxSEPTIC",
+    "license": "CC Attribution"
+  }
+}

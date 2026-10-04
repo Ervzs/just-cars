@@ -1,0 +1,53 @@
+{
+  "id": "chevrolet-cobalt-first-generation",
+  "make": "Chevrolet",
+  "model": "Cobalt",
+  "generation": "First generation",
+  "aka": [
+    "Pontiac Pursuit",
+    "Chevy Cobalt",
+    "Pontiac G5",
+    "Pontiac G4",
+    "Pontiac G5 Pursuit",
+    "Ravon R4"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2010_Chevy_Cobalt_Back_%285006694484%29.jpg/960px-2010_Chevy_Cobalt_Back_%285006694484%29.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cobalt",
+    "G5"
+  ],
+  "description": "The Chevrolet Cobalt is a compact car that was introduced by Chevrolet in 2004 for the 2005 model year. The Cobalt replaced both the Cavalier and the Toyota-based Geo/Chevrolet Prizm as Chevrolet's compact car. The Cobalt was available as both a coupe and sedan, as well as a sport compact version dubbed the Cobalt SS. Like the Chevrolet HHR and the Saturn ION, it was based on the GM Delta platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cobalt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2010_Chevy_Cobalt_Back_%285006694484%29.jpg/1920px-2010_Chevy_Cobalt_Back_%285006694484%29.jpg",
+  "sketchfab": {
+    "uid": "dc989b786f3449e595cfa1f4d4b39b49",
+    "name": "2006 Chevrolet Cobalt LT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

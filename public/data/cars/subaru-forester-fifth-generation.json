@@ -1,0 +1,47 @@
+{
+  "id": "subaru-forester-fifth-generation",
+  "make": "Subaru",
+  "model": "Forester",
+  "generation": "Fifth generation",
+  "aka": [
+    "Chevrolet Forester"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SUBARU_FORESTER_%28SK%29_China_%2812%29.jpg/960px-SUBARU_FORESTER_%28SK%29_China_%2812%29.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Forester"
+  ],
+  "description": "\n\nThe Subaru Forester  is a compact crossover SUV that has been manufactured by Subaru since 1997. The first generation was built on the platform of the Impreza in the style of a taller station wagon, a style that continued to the second generation, while the third-generation model onwards moved towards a crossover SUV design. A performance model was available for the second-generation Forester in Japan as the Forester STi.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Forester",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SUBARU_FORESTER_%28SK%29_China_%2812%29.jpg/1920px-SUBARU_FORESTER_%28SK%29_China_%2812%29.jpg",
+  "sketchfab": {
+    "uid": "611ae23685c14134b5a4f3decde248e9",
+    "name": "2020 Subaru Forester",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

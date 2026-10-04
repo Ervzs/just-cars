@@ -1,0 +1,37 @@
+{
+  "id": "ford-taurus-eighth-generation",
+  "make": "Ford",
+  "model": "Taurus",
+  "generation": "Eighth generation",
+  "aka": [
+    "Taurus 2010",
+    "FordTaurus",
+    "The Ford Taurus",
+    "Taurus sedan",
+    "Taurus automobile"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ford_Taurus_2023_%28Front_end%2C_GCC_Market%29.jpg/960px-Ford_Taurus_2023_%28Front_end%2C_GCC_Market%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Ford Taurus is an automobile that was manufactured and marketed by the Ford Motor Company in the United States from 1985 to 2019. From 1985 to 2009, Ford marketed the Taurus alongside its rebadged variant, the Mercury Sable. Four generations of the high-performance version were also manufactured from 1988 to 1999 and 2009 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Taurus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ford_Taurus_2023_%28Front_end%2C_GCC_Market%29.jpg/1920px-Ford_Taurus_2023_%28Front_end%2C_GCC_Market%29.jpg",
+  "sketchfab": {
+    "uid": "def36a050d1844039efabf66a8052454",
+    "name": "Ford Taurus",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

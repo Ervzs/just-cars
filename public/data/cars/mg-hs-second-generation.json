@@ -1,0 +1,34 @@
+{
+  "id": "mg-hs-second-generation",
+  "make": "MG",
+  "model": "HS",
+  "generation": "Second generation",
+  "aka": [
+    "Linghang",
+    "Pilot",
+    "EHS"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/MG_HS_Luxury_%28II%29_%E2%80%93_h_15022025.jpg/960px-MG_HS_Luxury_%28II%29_%E2%80%93_h_15022025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG HS is a compact crossover SUV manufactured by Chinese automobile manufacturer SAIC Motor under the British MG marque. The vehicle was launched in 2018, replacing the MG GS. In MG's global line-up, the HS is positioned above the subcompact ZS.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_HS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/MG_HS_Luxury_%28II%29_%E2%80%93_h_15022025.jpg/1920px-MG_HS_Luxury_%28II%29_%E2%80%93_h_15022025.jpg",
+  "sketchfab": {
+    "uid": "e6a0be92d9864d7bb1aecfb2e963725f",
+    "name": "MG HS 2026",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

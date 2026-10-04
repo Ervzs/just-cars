@@ -2,6 +2,10 @@
   "id": "bmw-xm",
   "make": "BMW",
   "model": "XM",
+  "generation": null,
+  "aka": [
+    "Concept XM"
+  ],
   "years": [
     2023,
     2024,
@@ -25,6 +29,9 @@
     "mpgCombined": 14,
     "evRangeMiles": 300
   },
+  "variants": [
+    "XM"
+  ],
   "description": "The BMW XM is a full-size automobile manufactured by German marque BMW since 2022. It is a crossover SUV with a plug-in hybrid electric drivetrain, and is the second car developed entirely by BMW M, after the BMW M1 in 1978.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_XM",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/BMW_XM_%28G09%29_IMG_7778.jpg/1920px-BMW_XM_%28G09%29_IMG_7778.jpg",

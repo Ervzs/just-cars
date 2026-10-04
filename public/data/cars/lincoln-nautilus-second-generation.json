@@ -1,0 +1,36 @@
+{
+  "id": "lincoln-nautilus-second-generation",
+  "make": "Lincoln",
+  "model": "Nautilus",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/LINCOLN_NAUTILUS_%28CDX707%29_China_%288%29.jpg/960px-LINCOLN_NAUTILUS_%28CDX707%29_China_%288%29.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Nautilus"
+  ],
+  "description": "The Lincoln Nautilus is a mid-sized luxury crossover SUV marketed over two generations by Ford Motor Company's Lincoln luxury brand. The Nautilus was initially renamed from the MKX as part of a midcycle update in 2018 for the 2019 model year, as Lincoln phased out its use of \"MK\" model names. The name Nautilus is derived from the ancient Greek word nautes, meaning \"sailor\", as in nautical or astronaut.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Nautilus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/LINCOLN_NAUTILUS_%28CDX707%29_China_%288%29.jpg/1920px-LINCOLN_NAUTILUS_%28CDX707%29_China_%288%29.jpg",
+  "sketchfab": null
+}

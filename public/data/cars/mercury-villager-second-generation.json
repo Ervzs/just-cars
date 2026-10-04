@@ -1,0 +1,37 @@
+{
+  "id": "mercury-villager-second-generation",
+  "make": "Mercury",
+  "model": "Villager",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2ndMercuryVillager.jpg/960px-2ndMercuryVillager.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Villager"
+  ],
+  "description": "The Mercury Villager is a minivan that was marketed by Mercury from 1993 to 2002. Taking its name used by Mercury to denote its wood-trimmed station wagons, the Villager was developed in a joint venture between Ford and Nissan; the latter manufacturer marketed the line as the Nissan Quest. The first front-wheel drive van produced by Ford, the Mercury Villager was introduced between the Ford Aerostar and the Ford Windstar, competing against Chrysler minivans and the General Motors APV minivans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Villager",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2ndMercuryVillager.jpg/960px-2ndMercuryVillager.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "changan-cs75-third-generation",
+  "make": "Changan",
+  "model": "CS75",
+  "generation": "Third generation",
+  "aka": [
+    "CS75 Plus"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Changan_CS75_Plus_IV_001.jpg/960px-Changan_CS75_Plus_IV_001.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Changan CS75 or CS75 Plus is a compact crossover SUV produced by Changan Automobile. Debuted during the 2013 Guangzhou Auto Show and launched on the Chinese auto market in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changan_CS75",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Changan_CS75_Plus_IV_001.jpg/1920px-Changan_CS75_Plus_IV_001.jpg",
+  "sketchfab": {
+    "uid": "ffc28a1f44dc40beb25fa6d1ab085c8e",
+    "name": "Changan CS75 Plus Ultra 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

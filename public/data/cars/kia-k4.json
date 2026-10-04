@@ -2,6 +2,8 @@
   "id": "kia-k4",
   "make": "Kia",
   "model": "K4",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2026,
@@ -24,6 +26,9 @@
     "mpgCombined": 28,
     "evRangeMiles": null
   },
+  "variants": [
+    "K4"
+  ],
   "description": "The Kia K4 is a compact car (C-segment) manufactured by South Korean automaker Kia since 2024. It is a replacement for the Kia Forte/K3/Cerato, while the K3 nameplate was transferred to a subcompact car.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K4",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg/1920px-2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg",

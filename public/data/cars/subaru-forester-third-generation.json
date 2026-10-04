@@ -1,0 +1,45 @@
+{
+  "id": "subaru-forester-third-generation",
+  "make": "Subaru",
+  "model": "Forester",
+  "generation": "Third generation",
+  "aka": [
+    "Chevrolet Forester"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2008_Subaru_Forester_%28SH9_MY09%29_XS_wagon_%282011-11-18%29_01.jpg/960px-2008_Subaru_Forester_%28SH9_MY09%29_XS_wagon_%282011-11-18%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Forester"
+  ],
+  "description": "\n\nThe Subaru Forester  is a compact crossover SUV that has been manufactured by Subaru since 1997. The first generation was built on the platform of the Impreza in the style of a taller station wagon, a style that continued to the second generation, while the third-generation model onwards moved towards a crossover SUV design. A performance model was available for the second-generation Forester in Japan as the Forester STi.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Forester",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2008_Subaru_Forester_%28SH9_MY09%29_XS_wagon_%282011-11-18%29_01.jpg/1920px-2008_Subaru_Forester_%28SH9_MY09%29_XS_wagon_%282011-11-18%29_01.jpg",
+  "sketchfab": {
+    "uid": "925112ae29514dcf89ccf2fc7020338e",
+    "name": "Subaru Forester 2009",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

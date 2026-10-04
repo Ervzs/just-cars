@@ -1,0 +1,41 @@
+{
+  "id": "kia-carens-first-generation",
+  "make": "Kia",
+  "model": "Carens",
+  "generation": "First generation",
+  "aka": [
+    "Rondo",
+    "Naza Citra",
+    "Naza Citra II Rondo",
+    "Rondo7",
+    "Clavis",
+    "Hyundai Neira"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/20110722_kia_carens_02.jpg/960px-20110722_kia_carens_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The  Kia Carens is a compact MPV manufactured by Kia since 1999, spanning over four generations, and was marketed worldwide under various nameplates, prominently as the Kia Rondo.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carens",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/20110722_kia_carens_02.jpg/1280px-20110722_kia_carens_02.jpg",
+  "sketchfab": {
+    "uid": "57c9627be50347e195afa2feb50fccc7",
+    "name": "Kia Carens 2002",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

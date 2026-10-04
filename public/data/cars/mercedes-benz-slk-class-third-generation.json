@@ -1,0 +1,52 @@
+{
+  "id": "mercedes-benz-slk-class-third-generation",
+  "make": "Mercedes-Benz",
+  "model": "SLK-Class",
+  "generation": "Third generation",
+  "aka": [
+    "Mercedes SLK500",
+    "Mercedes SLK",
+    "SLK",
+    "SLT-Class",
+    "Mercedes slk 55 amg",
+    "Mercedes Benz SLK-Class",
+    "Mercedes SLK-Class",
+    "MB SLK-Class"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg/960px-2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SLK-Class"
+  ],
+  "description": "The Mercedes-Benz SLK-Class is a compact executive roadster, produced by Mercedes-Benz. It was released in 1996 and was manufactured at the Mercedes plant in Bremen, Germany, until 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg/1920px-2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg",
+  "sketchfab": null
+}

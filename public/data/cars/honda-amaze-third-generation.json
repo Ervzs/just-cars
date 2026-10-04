@@ -1,0 +1,30 @@
+{
+  "id": "honda-amaze-third-generation",
+  "make": "Honda",
+  "model": "Amaze",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2024_Honda_Amaze_ZX.png/960px-2024_Honda_Amaze_ZX.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Amaze is a sedan produced by Honda since 2013. Slotted below the City sedan, it is the smallest Honda sedan model as of 2022, with all generations measured less than 4 m (157.5 in) in length. It is mainly marketed in India, where sub-4-metre cars are given a lower excise duty compared to longer vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Amaze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2024_Honda_Amaze_ZX.png/1280px-2024_Honda_Amaze_ZX.png",
+  "sketchfab": {
+    "uid": "5e5be8eef32e4da7aafb23e1fcbabb4a",
+    "name": "Honda Amaze-Wesley Parking",
+    "author": "BML Palms Authority",
+    "authorUrl": "https://sketchfab.com/arjun.sajin28",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "toyota-camry-xv30",
+  "make": "Toyota",
+  "model": "Camry",
+  "generation": "XV30",
+  "aka": [
+    "Daihatsu Altis",
+    "Vista",
+    "Jiamei",
+    "Kaimeirui",
+    "Camry Hybrid",
+    "Camary",
+    "Vienta",
+    "Camry CSi"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2002-2004_Toyota_Camry_%28MCV36R%29_Ateva_sedan_01.jpg/960px-2002-2004_Toyota_Camry_%28MCV36R%29_Ateva_sedan_01.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camry"
+  ],
+  "description": "The Toyota Camry is an automobile sold internationally by the Japanese auto manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), the Camry has grown since the 1990s to fit the mid-size classification (wide-body)—although the two widths co-existed in that decade. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second \"world car\" after the Corolla. As of 2022, the Camry is positioned above the Corolla and below the Avalon or Crown in several markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2002-2004_Toyota_Camry_%28MCV36R%29_Ateva_sedan_01.jpg/1920px-2002-2004_Toyota_Camry_%28MCV36R%29_Ateva_sedan_01.jpg",
+  "sketchfab": {
+    "uid": "3cf0bc6c19d14080a2cfdb80bc3efc57",
+    "name": "2006 Toyota Camry 24 G Limited",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

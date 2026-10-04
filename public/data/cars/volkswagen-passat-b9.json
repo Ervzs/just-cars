@@ -1,0 +1,40 @@
+{
+  "id": "volkswagen-passat-b9",
+  "make": "Volkswagen",
+  "model": "Passat",
+  "generation": "B9",
+  "aka": [
+    "VW Quantum",
+    "VW Passat",
+    "VW Dasher",
+    "Wolksvagen Passat",
+    "Wolkswagen Passat",
+    "Wolksvgen Passat",
+    "Volkswagon Passat",
+    "passet"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Volkswagen_Passat_Variant_B9_IMG_1218.jpg/960px-Volkswagen_Passat_Variant_B9_IMG_1218.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volkswagen Passat is a nameplate of large family cars (D-segment) manufactured and marketed by the German automobile manufacturer Volkswagen since 1973 and also marketed variously as the Dasher, Santana, Quantum, Magotan, Corsar and Carat — in saloon, estate, and hatchback body styles. With sales of 34 million units worldwide, the Passat is the fourth best-selling automobile of all time.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Passat",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Volkswagen_Passat_Variant_B9_IMG_1218.jpg/1920px-Volkswagen_Passat_Variant_B9_IMG_1218.jpg",
+  "sketchfab": {
+    "uid": "b2a0e324a9ee47b689110cca5a5b0d76",
+    "name": "2025 Volkswagen Passat Pro 1.5",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

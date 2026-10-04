@@ -2,6 +2,10 @@
   "id": "lexus-hs",
   "make": "Lexus",
   "model": "HS",
+  "generation": null,
+  "aka": [
+    "HS 250h"
+  ],
   "years": [
     2010,
     2011,
@@ -24,6 +28,9 @@
     "mpgCombined": 34,
     "evRangeMiles": null
   },
+  "variants": [
+    "HS"
+  ],
   "description": "The Lexus HS is a dedicated hybrid vehicle introduced by Lexus as a compact executive car sedan in 2009. Using the Toyota New MC platform, it is classified as a compact under Japanese regulations concerning vehicle exterior dimensions and engine displacement. Presented at the North American International Auto Show in January 2009, the HS 250h went on sale in July 2009 in Japan, followed by the United States in August 2009 as a 2010 model.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_HS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lexus_HS250h.jpg/1920px-Lexus_HS250h.jpg",

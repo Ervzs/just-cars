@@ -1,0 +1,48 @@
+{
+  "id": "genesis-g80-second-generation",
+  "make": "Genesis",
+  "model": "G80",
+  "generation": "Second generation",
+  "aka": [
+    "Electrified G80"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Genesis_Electrified_G80_RG3_EV_SDS_Dark_Lagoon_Green_Glacier_White_Two-tone_%284%29.jpg/960px-Genesis_Electrified_G80_RG3_EV_SDS_Dark_Lagoon_Green_Glacier_White_Two-tone_%284%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "G80"
+  ],
+  "description": "The Genesis G80 is an executive sedan manufactured by South Korean luxury marque Genesis, which is owned by Hyundai Motor Company. The G80 model was previously introduced as the second-generation Hyundai Genesis model (DH) and then rebranded as the G80 in 2016 after Genesis Motor was established as a separate luxury division of Hyundai.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_G80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Genesis_Electrified_G80_RG3_EV_SDS_Dark_Lagoon_Green_Glacier_White_Two-tone_%284%29.jpg/1920px-Genesis_Electrified_G80_RG3_EV_SDS_Dark_Lagoon_Green_Glacier_White_Two-tone_%284%29.jpg",
+  "sketchfab": {
+    "uid": "660307d9b2b14f7cbd432db5886ed6b8",
+    "name": "Genesis G80 2023",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

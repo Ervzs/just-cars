@@ -1,0 +1,48 @@
+{
+  "id": "toyota-prius-plug-in-hybrid-second-generation",
+  "make": "Toyota",
+  "model": "Prius Plug-in Hybrid",
+  "generation": "Second generation",
+  "aka": [
+    "Plug-in HV",
+    "Prius PHEV",
+    "Plug-in Prius",
+    "Prius PHV",
+    "Prius Prime",
+    "Prius Prime Plug-in Hybrid",
+    "Prius plug-in"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular Gas and Electricity",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Toyota_Prius_Prime_front_6.20.18.jpg/960px-2017_Toyota_Prius_Prime_front_6.20.18.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 55,
+    "mpgHighway": 53,
+    "mpgCombined": 54,
+    "evRangeMiles": 640
+  },
+  "variants": [
+    "Prius Prime"
+  ],
+  "description": "The Toyota Prius Plug-in Hybrid is a plug-in hybrid liftback manufactured by Toyota. The first-generation model was produced from 2012 to 2016. The second-generation model has been produced since 2016. Production of the third-generation model began in 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius_Plug-in_Hybrid",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Toyota_Prius_Prime_front_6.20.18.jpg/1920px-2017_Toyota_Prius_Prime_front_6.20.18.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hyundai-casper",
+  "make": "Hyundai",
+  "model": "Casper",
+  "generation": null,
+  "aka": [
+    "AX",
+    "AX1"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg/960px-Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Casper is an (A-segment) crossover city car produced by the South Korean automobile manufacturer Hyundai since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Casper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg/1920px-Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "756bda485fc840babe274997874dde1a",
+    "name": "2023 Hyundai Casper",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

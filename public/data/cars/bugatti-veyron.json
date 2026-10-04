@@ -2,6 +2,17 @@
   "id": "bugatti-veyron",
   "make": "Bugatti",
   "model": "Veyron",
+  "generation": null,
+  "aka": [
+    "Veyron 16 4",
+    "Vayron",
+    "Buggati Veyron",
+    "EB 16.4 Veyron",
+    "Veyron Pur Sang",
+    "Pur Sang Veyron",
+    "Veron",
+    "Veyron EB 16.4"
+  ],
   "years": [
     2006,
     2008,
@@ -29,6 +40,9 @@
     "mpgCombined": 10,
     "evRangeMiles": null
   },
+  "variants": [
+    "Veyron"
+  ],
   "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car designed and developed in Germany by the Volkswagen Group and Bugatti, and manufactured in Molsheim, France by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Veyron",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",

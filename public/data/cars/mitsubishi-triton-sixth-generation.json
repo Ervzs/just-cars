@@ -1,0 +1,40 @@
+{
+  "id": "mitsubishi-triton-sixth-generation",
+  "make": "Mitsubishi",
+  "model": "Triton",
+  "generation": "Sixth generation",
+  "aka": [
+    "Dodge Ram 50",
+    "Mighty Max",
+    "Forte",
+    "L200",
+    "Dodge D50",
+    "Plymouth Arrow Truck",
+    "Strada",
+    "Storm"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mitsubishi_Triton_LC_2.4_Athlete_4WD_Yamabuki_Orange_Metallic_02.jpg/960px-Mitsubishi_Triton_LC_2.4_Athlete_4WD_Yamabuki_Orange_Metallic_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Triton, also known as the Mitsubishi L200, is a mid-size pickup truck produced by Mitsubishi Motors. In Japan, where it has only been sold intermittently and in small numbers, it was originally known as the Mitsubishi Forte and from 1991 as the Strada. In the United States, Mitsubishi marketed it as the Mitsubishi Mighty Max until 1996. Chrysler Corporation sold captive imports as the Dodge D50, Dodge Ram 50 and Plymouth Arrow truck in the U.S. and as the Chrysler D-50 in Australia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Triton",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mitsubishi_Triton_LC_2.4_Athlete_4WD_Yamabuki_Orange_Metallic_02.jpg/1920px-Mitsubishi_Triton_LC_2.4_Athlete_4WD_Yamabuki_Orange_Metallic_02.jpg",
+  "sketchfab": {
+    "uid": "b8d02393694c4a4a871c0b9743d435f6",
+    "name": "2026 Mitsubishi Triton Tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,11 @@
   "id": "mercedes-benz-slr",
   "make": "Mercedes-Benz",
   "model": "SLR",
+  "generation": null,
+  "aka": [
+    "Mercedes SLR",
+    "Mercedes Benz SLR"
+  ],
   "years": [
     2005,
     2006,
@@ -26,6 +31,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "SLR"
+  ],
   "description": "Mercedes-Benz SLR is a designation shared by two cars:Mercedes-Benz 300 SLR, a 1955 sports racing car developed by Daimler-Benz\nMercedes-Benz SLR McLaren, a 2004 road car co-developed by DaimlerChrysler and McLaren",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLR",
   "image": null,

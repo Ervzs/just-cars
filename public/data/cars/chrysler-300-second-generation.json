@@ -1,0 +1,62 @@
+{
+  "id": "chrysler-300-second-generation",
+  "make": "Chrysler",
+  "model": "300",
+  "generation": "Second generation",
+  "aka": [
+    "Three Hundred",
+    "300 SRT",
+    "300C SRT8",
+    "300 limited",
+    "300 LX"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chrysler_300_C_AWD_LD_FL_Gloss_Black_%284%29_%28cropped%29.jpg/960px-Chrysler_300_C_AWD_LD_FL_Gloss_Black_%284%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "300",
+    "300 SRT8"
+  ],
+  "description": "The Chrysler 300 is a full-size car produced by Chrysler under Stellantis North America and its predecessors. The first generation was available as a four-door sedan and station wagon, in the second generation was available solely as a sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_300",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chrysler_300_C_AWD_LD_FL_Gloss_Black_%284%29_%28cropped%29.jpg/1920px-Chrysler_300_C_AWD_LD_FL_Gloss_Black_%284%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "629e16c1e9c94166b1960e7161d7fc5a",
+    "name": "2016 Chrysler 300 SRT",
+    "author": "petrol_",
+    "authorUrl": "https://sketchfab.com/_petrol",
+    "license": "CC Attribution"
+  }
+}

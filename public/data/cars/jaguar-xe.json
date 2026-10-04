@@ -2,6 +2,10 @@
   "id": "jaguar-xe",
   "make": "Jaguar",
   "model": "XE",
+  "generation": null,
+  "aka": [
+    "Project 8"
+  ],
   "years": [
     2017,
     2018,
@@ -26,6 +30,9 @@
     "mpgCombined": 28,
     "evRangeMiles": null
   },
+  "variants": [
+    "XE"
+  ],
   "description": "The Jaguar XE (X760) is a compact executive car manufactured by Jaguar Land Rover and marketed under their Jaguar marque from April 2015 until mid-2024 across a single generation. It is a four-door saloon car with a front-mounted engine and either rear-wheel drive or all-wheel drive.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XE",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2019_Jaguar_XE_S_Automatic_2.0.jpg/1920px-2019_Jaguar_XE_S_Automatic_2.0.jpg",

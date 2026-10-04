@@ -1,0 +1,47 @@
+{
+  "id": "honda-cr-v-sixth-generation",
+  "make": "Honda",
+  "model": "CR-V",
+  "generation": "Sixth generation",
+  "aka": [
+    "CR-V Limited Edition",
+    "Breeze",
+    "Compact recreational vehicle"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Honda_CR-V_e-PHEV_Advance_Tech_2WD_%28VI%29_%E2%80%93_f_05052024.jpg/960px-Honda_CR-V_e-PHEV_Advance_Tech_2WD_%28VI%29_%E2%80%93_f_05052024.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 33,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CR-V"
+  ],
+  "description": "The Honda CR-V is a compact crossover SUV manufactured by Japanese automaker Honda since 1995. Initial models of the CR-V were built using the same platform as the Civic.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_CR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Honda_CR-V_e-PHEV_Advance_Tech_2WD_%28VI%29_%E2%80%93_f_05052024.jpg/1920px-Honda_CR-V_e-PHEV_Advance_Tech_2WD_%28VI%29_%E2%80%93_f_05052024.jpg",
+  "sketchfab": {
+    "uid": "806e25ce44ed441c93ef265dcfe135f9",
+    "name": "Honda CR-V (2026)",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "honda-city-seventh-generation",
+  "make": "Honda",
+  "model": "City",
+  "generation": "Seventh generation",
+  "aka": [
+    "Fit Aria",
+    "City ZX",
+    "Fit Sedan",
+    "Grace",
+    "Greiz",
+    "Gienia",
+    "City Hatchback"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2020_Honda_City_e_HEV_RS_front_view_%28Malaysia%29_02.png/960px-2020_Honda_City_e_HEV_RS_front_view_%28Malaysia%29_02.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda City  is a subcompact car which has been produced by the Japanese manufacturer Honda since 1981.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_City",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2020_Honda_City_e_HEV_RS_front_view_%28Malaysia%29_02.png/960px-2020_Honda_City_e_HEV_RS_front_view_%28Malaysia%29_02.png",
+  "sketchfab": {
+    "uid": "7224afdb61674126ba85f434fee6616d",
+    "name": "Honda City",
+    "author": "Max Staples",
+    "authorUrl": "https://sketchfab.com/MaxStaples",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

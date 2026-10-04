@@ -1,0 +1,37 @@
+{
+  "id": "suzuki-alto-eighth-generation",
+  "make": "Nissan",
+  "model": "Suzuki Alto",
+  "generation": "Eighth generation",
+  "aka": [
+    "Maruti Suzuki A-STAR",
+    "Pino",
+    "Maruti Alto 800",
+    "Maruti A-Star",
+    "Chevrolet Alto",
+    "Suzuki HB21s",
+    "Jiangnan TT",
+    "Jiangnan Alto"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Suzuki_Alto_Van_VP_%28HA36V%29_front.jpg/960px-Suzuki_Alto_Van_VP_%28HA36V%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Alto  is a kei car produced by Suzuki since 1979. The model, currently in its ninth generation, was first introduced in 1979 and has been built in many countries worldwide. The Alto originated as a commercial vehicle derivative of the Fronte, but over time the Alto nameplate gained in popularity and by 1988 it replaced the Fronte name completely. The Alto badge has often been used on different cars in Japan and in export markets, where it is considered a city car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Alto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Suzuki_Alto_Van_VP_%28HA36V%29_front.jpg/1920px-Suzuki_Alto_Van_VP_%28HA36V%29_front.jpg",
+  "sketchfab": null
+}

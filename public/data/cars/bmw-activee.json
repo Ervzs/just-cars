@@ -1,0 +1,36 @@
+{
+  "id": "bmw-activee",
+  "make": "BMW",
+  "model": "ActiveE",
+  "generation": null,
+  "aka": [
+    "Concept ActiveE"
+  ],
+  "years": [
+    2011
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/BMW_ActiveE_Front.jpg/960px-BMW_ActiveE_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 107,
+    "mpgHighway": 96,
+    "mpgCombined": 102,
+    "evRangeMiles": 94
+  },
+  "variants": [
+    "Active E"
+  ],
+  "description": "The BMW ActiveE was a demonstration electric car based on the BMW 1 Series small family cars. It was the second vehicle after the Mini E to be developed under BMW Group’s Project i. The electric drive system was the latest addition to BMW’s EfficientDynamics programme. The US Environmental Protection Agency official range is 151 kilometres (94 mi), with an energy consumption of 33 kW·h/100 miles, and the agency rated the ActiveE's combined fuel economy at 2.3L/100 km.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_ActiveE",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/BMW_ActiveE_Front.jpg/1920px-BMW_ActiveE_Front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nissan-altima-fourth-generation",
+  "make": "Nissan",
+  "model": "Altima",
+  "generation": "Fourth generation",
+  "aka": [
+    "Altima Hybrid",
+    "Nissen Altima",
+    "L33 Altima",
+    "Altima L33"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nissan_Altima_coupe.jpg/960px-Nissan_Altima_coupe.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Altima"
+  ],
+  "description": "The Nissan Altima is a mid-size car manufactured by Nissan since 1992. It is an offshoot of the Nissan Bluebird line, which began in 1955.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Altima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nissan_Altima_coupe.jpg/1920px-Nissan_Altima_coupe.jpg",
+  "sketchfab": {
+    "uid": "23e9e431526048f8869b5ff9937b129d",
+    "name": "2007 Nissan Altima 2.5 SE",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

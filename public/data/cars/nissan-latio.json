@@ -1,0 +1,30 @@
+{
+  "id": "nissan-latio",
+  "make": "Nissan",
+  "model": "Latio",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2004-2008_NISSAN_TIIDA_LATIO.jpg/960px-2004-2008_NISSAN_TIIDA_LATIO.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Latio  is an automobile nameplate used by the Japanese automobile manufacturer Nissan between 2004 and 2016 for two small car models:Nissan Latio/Tiida Latio, a subcompact/compact car sold in Southeast Asia and Japan from 2004 to 2012\nNissan Latio, a rebadged Nissan Almera sold in Japan as a captive import from 2012 to 2016",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Latio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2004-2008_NISSAN_TIIDA_LATIO.jpg/1920px-2004-2008_NISSAN_TIIDA_LATIO.jpg",
+  "sketchfab": null
+}

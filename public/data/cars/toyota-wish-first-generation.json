@@ -1,0 +1,27 @@
+{
+  "id": "toyota-wish-first-generation",
+  "make": "Toyota",
+  "model": "Wish",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Toyota_Wish_%28first_generation%29_%28front%29%2C_Kajang.jpg/960px-Toyota_Wish_%28first_generation%29_%28front%29%2C_Kajang.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Wish  is an automobile produced by the Japanese automaker Toyota from 2003 to 2017. It is a compact MPV with standard three-row seating, and was positioned between the Corolla Spacio and the Ipsum in Toyota's minivan lineup. In Japan, it was available at Toyota Netz dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Wish",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Toyota_Wish_%28first_generation%29_%28front%29%2C_Kajang.jpg/1920px-Toyota_Wish_%28first_generation%29_%28front%29%2C_Kajang.jpg",
+  "sketchfab": null
+}

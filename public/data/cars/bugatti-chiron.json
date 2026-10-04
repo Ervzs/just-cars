@@ -2,6 +2,12 @@
   "id": "bugatti-chiron",
   "make": "Bugatti",
   "model": "Chiron",
+  "generation": null,
+  "aka": [
+    "La Voiture Noire",
+    "Chiron Super Sport 300+",
+    "chiron super sport"
+  ],
   "years": [
     2018,
     2019,
@@ -28,6 +34,9 @@
     "mpgCombined": 9,
     "evRangeMiles": null
   },
+  "variants": [
+    "Chiron"
+  ],
   "description": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH. It was manufactured in Molsheim, France, by French automobile manufacturer Bugatti Automobiles S.A.S. The successor to the Bugatti Veyron, the Chiron was first shown at the Geneva Motor Show on 1 March 2016. The car's design was initially previewed with the Bugatti Vision Gran Turismo concept car unveiled at the 2015 Frankfurt Auto Show.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Chiron",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/1920px-Bugatti_Chiron_1.jpg",

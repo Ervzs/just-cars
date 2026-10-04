@@ -1,0 +1,48 @@
+{
+  "id": "kia-sportage-fifth-generation",
+  "make": "Kia",
+  "model": "Sportage",
+  "generation": "Fifth generation",
+  "aka": [
+    "Sportage R",
+    "KX5"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kia_Sportage_Gravity_NQ5_Snow_White_Pearl_%282%29_%28cropped%29.jpg/960px-Kia_Sportage_Gravity_NQ5_Snow_White_Pearl_%282%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 40,
+    "mpgHighway": 42,
+    "mpgCombined": 41,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sportage"
+  ],
+  "description": "The Kia Sportage is a series of automobiles manufactured by the South Korean manufacturer Kia since 1993 through five generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sportage transitioned to a car-based platform, placing it into the compact crossover SUV class, and was originally developed alongside the Hyundai Tucson, in two sizes with different wheelbase lengths for different markets, alongside the Hyundai Santa Fe and the Kia Sorento.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sportage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kia_Sportage_Gravity_NQ5_Snow_White_Pearl_%282%29_%28cropped%29.jpg/1920px-Kia_Sportage_Gravity_NQ5_Snow_White_Pearl_%282%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "b89d15a4b99349d78c06dcc38e79fd60",
+    "name": "2023 Kia Sportage GT-Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

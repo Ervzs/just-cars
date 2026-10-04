@@ -1,0 +1,46 @@
+{
+  "id": "bmw-x1-first-generation",
+  "make": "BMW",
+  "model": "X1",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2010-2011_BMW_X1_%28E84%29_sDrive20d_wagon_%282011-11-17%29_01.jpg/960px-2010-2011_BMW_X1_%28E84%29_sDrive20d_wagon_%282011-11-17%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X1"
+  ],
+  "description": "The BMW X1 is a line of cars produced by German marque BMW since 2009. It is in the subcompact luxury crossover class, and the first-generation X1 was based on the E90 3 Series and offered rear-wheel drive layout as standard. The X1 essentially is aiming at a wider range of customers due to its smaller size, increased efficiency, and a lower price tag due to the all-wheel drive layout (xDrive) being optional.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X1",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2010-2011_BMW_X1_%28E84%29_sDrive20d_wagon_%282011-11-17%29_01.jpg/1920px-2010-2011_BMW_X1_%28E84%29_sDrive20d_wagon_%282011-11-17%29_01.jpg",
+  "sketchfab": {
+    "uid": "302b32456b054dbdb5b72a08aca2bb80",
+    "name": "BMW X1 2013",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

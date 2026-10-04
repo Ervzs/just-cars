@@ -1,0 +1,64 @@
+{
+  "id": "lexus-gs-fourth-generation",
+  "make": "Lexus",
+  "model": "GS",
+  "generation": "Fourth generation",
+  "aka": [
+    "Toyota Aristo",
+    "GS 450h",
+    "GS430",
+    "The Lexus GS 430h",
+    "GS 350",
+    "GS Hybrid",
+    "GS 300h",
+    "GS 200t"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2013_Lexus_GS_250_%28GRL11R%29_F_Sport_sedan_%282015-07-03%29_01.jpg/960px-2013_Lexus_GS_250_%28GRL11R%29_F_Sport_sedan_%282015-07-03%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GS"
+  ],
+  "description": "The Lexus GS  is an executive car manufactured by Toyota and marketed by Lexus across four generations — launched in 1991 as the Toyota Aristo  in Japan and as the Lexus GS for markets outside the Japanese market beginning in February 1993. It continued with the Toyota Aristo name for the Japanese market until January 2005, following the introduction of the Lexus marque in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2013_Lexus_GS_250_%28GRL11R%29_F_Sport_sedan_%282015-07-03%29_01.jpg/1920px-2013_Lexus_GS_250_%28GRL11R%29_F_Sport_sedan_%282015-07-03%29_01.jpg",
+  "sketchfab": {
+    "uid": "a89d18432d5047549c4e8b9a66cb2d7d",
+    "name": "Lexus GS 350 2011",
+    "author": "3DShowroom",
+    "authorUrl": "https://sketchfab.com/3dshowroom",
+    "license": "CC Attribution"
+  }
+}

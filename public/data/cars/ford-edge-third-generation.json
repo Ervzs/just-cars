@@ -1,0 +1,45 @@
+{
+  "id": "ford-edge-third-generation",
+  "make": "Ford",
+  "model": "Edge",
+  "generation": "Third generation",
+  "aka": [
+    "Endura"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ford_Edge_L_002.jpg/960px-Ford_Edge_L_002.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Edge"
+  ],
+  "description": "The Ford Edge is a crossover SUV manufactured and marketed by the Ford Motor Company introduced for the 2007 model year as the first mid-size CUV marketed by Ford in North America. Deriving its name from a trim package of the Ford Ranger, the Ford Edge is positioned between the Ford Escape and the Ford Explorer within the Ford product line.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Edge",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ford_Edge_L_002.jpg/1920px-Ford_Edge_L_002.jpg",
+  "sketchfab": {
+    "uid": "a31460ab15304653b842b867ca02aea7",
+    "name": "Ford Edge",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

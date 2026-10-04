@@ -1,0 +1,28 @@
+{
+  "id": "honda-stepwgn-first-generation",
+  "make": "Honda",
+  "model": "Stepwgn",
+  "generation": "First generation",
+  "aka": [
+    "Stepwagon"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Honda_Stepwgn_1999.jpg/960px-Honda_Stepwgn_1999.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Stepwgn  is a minivan produced by Honda since 1996. In contrast to the Odyssey and also the Stream, it sports a taller, more upright greenhouse and can accommodate eight people instead of seven. For its first two generations, the car had one door on the driver's side and two doors on the passenger's side.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Stepwgn",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Honda_Stepwgn_1999.jpg/1280px-Honda_Stepwgn_1999.jpg",
+  "sketchfab": null
+}

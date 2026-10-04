@@ -2,6 +2,15 @@
   "id": "rolls-royce-ghost",
   "make": "Rolls-Royce",
   "model": "Ghost",
+  "generation": null,
+  "aka": [
+    "Rolls Royce RR4",
+    "RR4",
+    "Rolls Royce Ghost",
+    "Ghost 2011",
+    "Ghost I",
+    "Ghost II"
+  ],
   "years": [
     2010,
     2011,
@@ -39,6 +48,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ghost"
+  ],
   "description": "The Rolls-Royce Ghost is a full-sized luxury car manufactured by Rolls-Royce Motor Cars. The \"Ghost\" nameplate, named in honour of the Silver Ghost, a car first produced in 1906, was announced in April 2009 at the Auto Shanghai show. The production model was officially unveiled at the 2009 Frankfurt Motor Show. The Ghost Extended Wheelbase was introduced in 2011. During development, the Ghost was known as the \"RR04\". It was designed as a smaller, \"more measured, more realistic car\" than the Phantom, aiming for a lower price category for Rolls-Royce models.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Ghost",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg/1920px-2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg",

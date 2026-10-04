@@ -1,0 +1,37 @@
+{
+  "id": "audi-rs-4-b8",
+  "make": "Audi",
+  "model": "RS 4",
+  "generation": "B8",
+  "aka": [],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2013_Audi_RS4_Avant_front.jpg/960px-2013_Audi_RS4_Avant_front.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RS 5"
+  ],
+  "description": "The Audi RS 4 is the high-performance variant of the Audi A4 range produced by Audi Sport GmbH for AUDI AG, a division of the Volkswagen Group. It sits above the Audi S4 as the fastest, most sports-focused car based on the A4's \"B\" automobile platform. The RS 4 was reintroduced in 2012, based on the A4 Avant instead of the sedan as did the original model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2013_Audi_RS4_Avant_front.jpg/1920px-2013_Audi_RS4_Avant_front.jpg",
+  "sketchfab": null
+}

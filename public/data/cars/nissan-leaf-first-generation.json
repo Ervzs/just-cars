@@ -1,0 +1,53 @@
+{
+  "id": "nissan-leaf-first-generation",
+  "make": "Nissan",
+  "model": "Leaf",
+  "generation": "First generation",
+  "aka": [
+    "Zero Emission Fund",
+    "Venucia Morning Wind",
+    "2021 nissan leaf",
+    "Nismo Leaf",
+    "Mitsubishi Eclipse Sportback EV",
+    "Mitsubishi Eclipse Sportback"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2017_Nissan_LEAF_%28ZE0_MY17%29_hatchback_%282018-11-02%29_01.jpg/960px-2017_Nissan_LEAF_%28ZE0_MY17%29_hatchback_%282018-11-02%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 126,
+    "mpgHighway": 101,
+    "mpgCombined": 114,
+    "evRangeMiles": 84
+  },
+  "variants": [
+    "Leaf"
+  ],
+  "description": "The Nissan Leaf  is a battery electric car produced by Nissan since 2010. It was offered exclusively as a 5-door hatchback until 2025, when it became a crossover SUV model. The term \"LEAF\" serves as a backronym to leading environmentally-friendly affordable family car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Leaf",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2017_Nissan_LEAF_%28ZE0_MY17%29_hatchback_%282018-11-02%29_01.jpg/1920px-2017_Nissan_LEAF_%28ZE0_MY17%29_hatchback_%282018-11-02%29_01.jpg",
+  "sketchfab": {
+    "uid": "a4014e24480c46da8166560c19f24065",
+    "name": "2010 Nissan Leaf",
+    "author": "ImperialBlue3D",
+    "authorUrl": "https://sketchfab.com/ImperialBlue3D",
+    "license": "CC Attribution"
+  }
+}

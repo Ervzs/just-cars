@@ -2,6 +2,11 @@
   "id": "pontiac-gto",
   "make": "Pontiac",
   "model": "GTO",
+  "generation": null,
+  "aka": [
+    "GTOs",
+    "GTO Judge"
+  ],
   "years": [
     2004,
     2005,
@@ -24,6 +29,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "GTO"
+  ],
   "description": "The Pontiac GTO is a rear-drive, two-door, and four-passenger automobile manufactured and marketed by the Pontiac division of General Motors over four generations from 1963 until 1974 in the United States—with a fifth generation made by GM's subsidiary, Holden, for the 2004 to 2006 model years.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_GTO",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/1920px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg",

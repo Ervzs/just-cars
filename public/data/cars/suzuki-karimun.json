@@ -1,0 +1,36 @@
+{
+  "id": "suzuki-karimun",
+  "make": "Suzuki",
+  "model": "Karimun",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg/960px-2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Karimun is a nameplate of city cars produced by the Japanese automaker Suzuki and marketed in Indonesia between September 1999 and 2021 by Suzuki Indomobil Motor, an Indonesian subsidiary of Suzuki. It is named after Great Karimun, a group of islands in Karimun Regency, Riau Islands, although the subsidiary also said the Karimun name was coined from the phrase \"carry to the moon\". The Karimun models are based on a kei car platform of Wagon R models and derivatives:First generation : a locally built model based on the first-generation Wagon R Wide.\nSecond generation : Based on the Indian market Maruti Zen Estilo rebadged as the Karimun Estilo. This model is a restyled first-generation Suzuki MR Wagon from the Japanese market.\nThird generation (MP31S, 2013–2021: Based on the second-generation Maruti Suzuki Wagon R, a longer version of the fourth-generation Japanese market Wagon R. It is assembled locally through Low Cost Green Car program endorsed by the government and sold as the Karimun Wagon R.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Karimun",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg/1920px-2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg",
+  "sketchfab": {
+    "uid": "6624ba695a2d4ed2a552ea4cb88f857e",
+    "name": "1999 Suzuki Karimun DX/Wagon R Wide",
+    "author": "boiledfish.vvti",
+    "authorUrl": "https://sketchfab.com/iwak.rebus",
+    "license": "CC Attribution"
+  }
+}

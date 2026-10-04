@@ -1,0 +1,24 @@
+{
+  "id": "haval-f5",
+  "make": "Haval",
+  "model": "F5",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Haval_F5_02_China_2019-03-14.jpg/960px-Haval_F5_02_China_2019-03-14.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval F5 is a compact crossover sport utility vehicle produced by the Chinese manufacturer Great Wall Motor from 2018 to 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_F5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Haval_F5_02_China_2019-03-14.jpg/1280px-Haval_F5_02_China_2019-03-14.jpg",
+  "sketchfab": null
+}

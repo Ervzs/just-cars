@@ -1,0 +1,39 @@
+{
+  "id": "mitsubishi-triton-fifth-generation",
+  "make": "Mitsubishi",
+  "model": "Triton",
+  "generation": "Fifth generation",
+  "aka": [
+    "Dodge Ram 50",
+    "Mighty Max",
+    "Forte",
+    "L200",
+    "Dodge D50",
+    "Plymouth Arrow Truck",
+    "Strada",
+    "Storm"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2017_Mitsubishi_Triton_%28MQ_MY18%29_GLS_Double_Cab_4x4_utility_%282018-08-27%29_02.jpg/960px-2017_Mitsubishi_Triton_%28MQ_MY18%29_GLS_Double_Cab_4x4_utility_%282018-08-27%29_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Triton, also known as the Mitsubishi L200, is a mid-size pickup truck produced by Mitsubishi Motors. In Japan, where it has only been sold intermittently and in small numbers, it was originally known as the Mitsubishi Forte and from 1991 as the Strada. In the United States, Mitsubishi marketed it as the Mitsubishi Mighty Max until 1996. Chrysler Corporation sold captive imports as the Dodge D50, Dodge Ram 50 and Plymouth Arrow truck in the U.S. and as the Chrysler D-50 in Australia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Triton",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2017_Mitsubishi_Triton_%28MQ_MY18%29_GLS_Double_Cab_4x4_utility_%282018-08-27%29_02.jpg/1920px-2017_Mitsubishi_Triton_%28MQ_MY18%29_GLS_Double_Cab_4x4_utility_%282018-08-27%29_02.jpg",
+  "sketchfab": null
+}

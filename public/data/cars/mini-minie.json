@@ -2,13 +2,15 @@
   "id": "mini-minie",
   "make": "MINI",
   "model": "MiniE",
+  "generation": null,
+  "aka": [],
   "years": [
     2008
   ],
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Electricity",
   "engine": null,
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/960px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2008,
   "specs": {
@@ -22,8 +24,11 @@
     "mpgCombined": 98,
     "evRangeMiles": 100
   },
-  "description": "The Mini is a supermini car which has been made since April 2001. Colloquially known as the New Mini, all four generations have been produced as three-door hatchbacks and two-door convertibles, with a five-door hatchback body style added from the third generation. Introduced following the acquisition of the Mini marque by German carmaker BMW, it is a family of retro-styled cars with a front-engine, front-wheel-drive layout. The range has been marketed under various names, such as the Mini Cooper, Mini Hatch, Mini Hardtop, Mini One, and Mini John Cooper Works.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Hatch",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/1920px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg",
+  "variants": [
+    "MiniE"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

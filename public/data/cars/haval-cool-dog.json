@@ -1,0 +1,28 @@
+{
+  "id": "haval-cool-dog",
+  "make": "Haval",
+  "model": "Cool Dog",
+  "generation": null,
+  "aka": [
+    "X Dog"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Haval_Cool_Dog_01.jpg/960px-Haval_Cool_Dog_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval Cool Dog is a compact SUV produced by Chinese SUV manufacturer Haval, a marque of Great Wall Motors, from 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_Cool_Dog",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Haval_Cool_Dog_01.jpg/1920px-Haval_Cool_Dog_01.jpg",
+  "sketchfab": null
+}

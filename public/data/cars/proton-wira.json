@@ -1,0 +1,48 @@
+{
+  "id": "proton-wira",
+  "make": "Proton",
+  "model": "Wira",
+  "generation": null,
+  "aka": [
+    "400",
+    "Natura",
+    "Wira Aeroback"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg/960px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Wira is a car manufactured by Malaysian automaker Proton from 1993 to 2009. Based on the fourth-generation Mitsubishi Lancer, it was produced in four-door saloon and five-door hatchback models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Wira",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg/1920px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-30%29.jpg",
+  "sketchfab": {
+    "uid": "0d15221099aa4db989cd14c82e227cc5",
+    "name": "Proton Wira Aeroback",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

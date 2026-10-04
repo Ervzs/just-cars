@@ -1,0 +1,41 @@
+{
+  "id": "proton-saga-third-generation",
+  "make": "Proton",
+  "model": "Saga",
+  "generation": "Third generation",
+  "aka": [
+    "1.3",
+    "1.5"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2022_Proton_Saga.jpg/960px-2022_Proton_Saga.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Saga is a series of subcompact cars and currently city cars produced by Malaysian automobile manufacturer Proton. Introduced in 1985, the Proton Saga became the first Malaysian car and a major milestone in the Malaysian automotive industry. The Saga is Proton's longest-running and best-selling nameplate, with over 2 million units sold worldwide over 39 years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Saga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2022_Proton_Saga.jpg/1920px-2022_Proton_Saga.jpg",
+  "sketchfab": {
+    "uid": "949fd898da7b4274a663ca6a96afa8bc",
+    "name": "Proton Saga Wira",
+    "author": "zairiq-123",
+    "authorUrl": "https://sketchfab.com/zairiq-123",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "jeep-grand-cherokee-third-generation",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "generation": "Third generation",
+  "aka": [
+    "grand cherokee srt-8",
+    "Grand Cherokee 5.9",
+    "srt8",
+    "Laredo",
+    "GC",
+    "Grand Cherokee L"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%2707_Grand_Cherokee_WK.jpg/960px-%2707_Grand_Cherokee_WK.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 21,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Cherokee"
+  ],
+  "description": "The Jeep Grand Cherokee is a range of mid-sized sport utility vehicles produced by American manufacturer Jeep. At its introduction, while most SUVs were still manufactured with body-on-frame construction, the Grand Cherokee has used a unibody chassis from the start.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Grand_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%2707_Grand_Cherokee_WK.jpg/1920px-%2707_Grand_Cherokee_WK.jpg",
+  "sketchfab": null
+}

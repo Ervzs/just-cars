@@ -1,0 +1,43 @@
+{
+  "id": "renault-trafic-third-generation",
+  "make": "Nissan",
+  "model": "Renault Trafic",
+  "generation": "Third generation",
+  "aka": [
+    "Primastar",
+    "The Vauxhall",
+    "Vauxhall Arena",
+    "General Motors Vivaro",
+    "Chevrolet Trafic",
+    "Renault Trafic Passenger",
+    "NV300",
+    "Inokom Permas"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2020_Renault_Trafic_SL28_Business_Energy_facelift_2.0.jpg/960px-2020_Renault_Trafic_SL28_Business_Energy_facelift_2.0.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Trafic is a light commercial van produced by the French automaker Renault since 1980. It has also been marketed as the Fiat Talento, the Nissan NV300, the Nissan Primastar and the Mitsubishi Express. Until 2019, it was also sold as the Opel/Vauxhall Vivaro by Opel and its associated company Vauxhall. From early 2022 onwards, the van is also marketed by Renault Trucks as the Renault Trucks Trafic.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Trafic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2020_Renault_Trafic_SL28_Business_Energy_facelift_2.0.jpg/1920px-2020_Renault_Trafic_SL28_Business_Energy_facelift_2.0.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "honda-fit-second-generation",
+  "make": "Honda",
+  "model": "Fit",
+  "generation": "Second generation",
+  "aka": [
+    "Fitta",
+    "Jazz hybrid",
+    "Fit EV"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg/960px-2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Fit"
+  ],
+  "description": "The Honda Fit or Honda Jazz is a small car manufactured and marketed by Honda since 2001 over four generations. With a five-door hatchback body style, it is considered a supermini in the United Kingdom, a subcompact car in the United States, and a light car in Australia. Marketed worldwide and manufactured at ten plants in eight countries, sales reached almost 5 million by mid-2013. Honda uses the \"Jazz\" nameplate in Europe, Oceania, the Middle East, Africa, Hong Kong, Macau, Southeast Asia and India; and \"Fit\" in Japan, Sri Lanka, China, Taiwan and the Americas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Fit",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg/1920px-2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg",
+  "sketchfab": {
+    "uid": "c06f564420a242f4a863aac68a7c1be3",
+    "name": "2009 Honda Fit Sport",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

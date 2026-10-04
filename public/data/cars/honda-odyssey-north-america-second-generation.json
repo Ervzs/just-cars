@@ -1,0 +1,29 @@
+{
+  "id": "honda-odyssey-north-america-second-generation",
+  "make": "Honda",
+  "model": "Odyssey (North America)",
+  "generation": "Second generation",
+  "aka": [
+    "Isuzu Oasis"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/1999-2001_Honda_Odyssey_EX.jpg/960px-1999-2001_Honda_Odyssey_EX.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Odyssey is a minivan manufactured by Japanese automaker Honda and marketed for the North American market, introduced in 1994.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Odyssey_(North_America)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/1999-2001_Honda_Odyssey_EX.jpg/1920px-1999-2001_Honda_Odyssey_EX.jpg",
+  "sketchfab": null
+}

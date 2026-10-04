@@ -1,0 +1,29 @@
+{
+  "id": "toyota-ractis-first-generation",
+  "make": "Toyota",
+  "model": "Ractis",
+  "generation": "First generation",
+  "aka": [
+    "Verso-S",
+    "Subaru Trezia"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Toyota_Ractis_03.jpg/960px-Toyota_Ractis_03.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Ractis  is a mini MPV produced by Japanese automaker Toyota. It is a five-seater mini MPV based on the Vitz. \"Ractis\" is derived from \"Run\", \"Activity\" and \"Space\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Ractis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Toyota_Ractis_03.jpg/960px-Toyota_Ractis_03.jpg",
+  "sketchfab": null
+}

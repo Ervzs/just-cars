@@ -1,0 +1,42 @@
+{
+  "id": "geely-lc",
+  "make": "Geely",
+  "model": "LC",
+  "generation": null,
+  "aka": [
+    "Tobe M'car",
+    "Panda",
+    "Gleagle Panda",
+    "Kandi K11",
+    "Yulu EV2"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2011_Geely_LC_%28New_Zealand%29.jpg/960px-2011_Geely_LC_%28New_Zealand%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely LC, sold in its home market as the Geely Panda or the Gleagle Panda, is a city car produced by the Chinese manufacturer Geely Auto from November 2008 to 2016. In 2010 the LC scored 45.3 in C-NCAP crash tests, making it China's first locally researched and developed compact car to be awarded a 5-star rating, and it is subsequently the safest Chinese hatchback as of 2011. The LC was able to achieve the above despite a development process that relied more on computer simulations than actual crash tests. In 2017, the Panda was replaced by a facelifted version of the car known as the Geely Yuanjing X1.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_LC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2011_Geely_LC_%28New_Zealand%29.jpg/1920px-2011_Geely_LC_%28New_Zealand%29.jpg",
+  "sketchfab": {
+    "uid": "cb9b792496514ff8be19bcc38a959fbb",
+    "name": "Geely Lc",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

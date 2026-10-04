@@ -1,0 +1,40 @@
+{
+  "id": "geely-yuanjing-x3",
+  "make": "Geely",
+  "model": "Yuanjing X3",
+  "generation": null,
+  "aka": [
+    "Vision X3",
+    "Maple 30X",
+    "GX3",
+    "Kandi EX3",
+    "Geometry EX3",
+    "Livan X3 Pro"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2017_Geely_Yuanjing_X3_%28front%29.jpg/960px-2017_Geely_Yuanjing_X3_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Yuanjing X3 is a subcompact SUV produced by Chinese manufacturer Geely Auto. An electric variant featuring a special color and trim redesign was rebadged as the Geometry EX3 or Kungfu Cow under the Geometry brand from 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Yuanjing_X3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2017_Geely_Yuanjing_X3_%28front%29.jpg/1920px-2017_Geely_Yuanjing_X3_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "b7391e03d08041bb8e6c642ec930b919",
+    "name": "Geely Yuanjing X3 2017",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

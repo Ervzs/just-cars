@@ -1,0 +1,56 @@
+{
+  "id": "volkswagen-jetta-seventh-generation",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "generation": "Seventh generation",
+  "aka": [
+    "VW Jetta",
+    "Volkswagon Jetta",
+    "GLI",
+    "EJetta",
+    "VW Sagitar",
+    "sagitar"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jetta_07-07-2019_%28cropped%29.jpg/960px-Jetta_07-07-2019_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 40,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Jetta",
+    "GLI"
+  ],
+  "description": "The Volkswagen Jetta is a compact car/small family car manufactured and marketed by Volkswagen since 1979. Positioned to fill a sedan niche slightly above the Golf hatchback, it has been marketed over seven generations, variously as the Atlantic, Vento, Bora, City Jetta, Jetta City, GLI, Jetta, Clasico, and Sagitar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Jetta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jetta_07-07-2019_%28cropped%29.jpg/1920px-Jetta_07-07-2019_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "c9031d4501f74639a2552539fd2dba36",
+    "name": "2019 Volkswagen Jetta",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

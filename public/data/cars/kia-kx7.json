@@ -1,0 +1,26 @@
+{
+  "id": "kia-kx7",
+  "make": "Kia",
+  "model": "KX7",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2017_Dongfeng-Yueda-Kia_KX7_%28front%29.jpg/960px-2017_Dongfeng-Yueda-Kia_KX7_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia KX7 is a three-row mid-size crossover SUV produced in China from 2017 to 2021 by Dongfeng Yueda Kia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_KX7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2017_Dongfeng-Yueda-Kia_KX7_%28front%29.jpg/1920px-2017_Dongfeng-Yueda-Kia_KX7_%28front%29.jpg",
+  "sketchfab": null
+}

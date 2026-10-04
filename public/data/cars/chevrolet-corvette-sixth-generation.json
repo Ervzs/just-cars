@@ -1,0 +1,57 @@
+{
+  "id": "chevrolet-corvette-sixth-generation",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "generation": "Sixth generation",
+  "aka": [
+    "Chevy Corvette",
+    "C5",
+    "C6",
+    "2006 Chevrolet Corvette Z06",
+    "C-5 Corvette",
+    "Traverse leaf spring",
+    "Traverse leaf springs",
+    "Corvette car"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chevrolet_Corvette_Coup%C3%A9_Luxury_%28C6%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg/960px-Chevrolet_Corvette_Coup%C3%A9_Luxury_%28C6%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "6.2L 8-cyl",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corvette"
+  ],
+  "description": "The Chevrolet Corvette is a line of American two-door, two-seater sports cars manufactured and marketed by General Motors under the Chevrolet marque since 1953. Throughout eight generations, indicated sequentially as C1 to C8, the Corvette is noted for its performance, distinctive styling, lightweight fiberglass or composite bodywork, and competitive pricing. The Corvette has had domestic mass-produced two-seater competitors fielded by American Motors, Ford, and Chrysler; it is the only one continuously produced by a United States auto manufacturer. It serves as Chevrolet's halo car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chevrolet_Corvette_Coup%C3%A9_Luxury_%28C6%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg/1920px-Chevrolet_Corvette_Coup%C3%A9_Luxury_%28C6%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "7ff74ce1324c4dbb9f3d830b71525096",
+    "name": "2005 Chevrolet Corvette C6",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

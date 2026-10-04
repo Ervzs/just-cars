@@ -1,0 +1,40 @@
+{
+  "id": "nissan-juke-second-generation",
+  "make": "Nissan",
+  "model": "Juke",
+  "generation": "Second generation",
+  "aka": [
+    "Qazana",
+    "Built to thrill",
+    "Infiniti ESQ",
+    "Juke-R"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Nissan_Gripz_Concept_IAA_2015.jpg/960px-Nissan_Gripz_Concept_IAA_2015.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Juke  is a subcompact crossover SUV (B-segment) produced by the Japanese car manufacturer Nissan since 2010. Debuted as a production vehicle at the 2010 Geneva Motor Show in March, it was introduced to North America at the 2010 New York International Auto Show to be sold for the 2011 model year as the smallest crossover in Nissan's lineup prior to the introduction of the Nissan Magnite in 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Juke",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Nissan_Gripz_Concept_IAA_2015.jpg/1920px-Nissan_Gripz_Concept_IAA_2015.jpg",
+  "sketchfab": {
+    "uid": "106e353be6f947a89a13c2b9f6e792a9",
+    "name": "2022 Nissan Juke",
+    "author": "feyley'd",
+    "authorUrl": "https://sketchfab.com/feyley6699",
+    "license": "CC Attribution"
+  }
+}

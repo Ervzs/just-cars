@@ -1,0 +1,33 @@
+{
+  "id": "honda-n-one-first-generation",
+  "make": "Honda",
+  "model": "N-One",
+  "generation": "First generation",
+  "aka": [
+    "Super-N",
+    "Super EV",
+    "Super-One"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/HondaNconcept4tokyo.jpg/960px-HondaNconcept4tokyo.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-One  is a kei car produced by Honda since 2012 over two generations. It is a five-door hatchback with retro styling and either front-wheel drive or all-wheel drive.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-One",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/HondaNconcept4tokyo.jpg/1280px-HondaNconcept4tokyo.jpg",
+  "sketchfab": null
+}

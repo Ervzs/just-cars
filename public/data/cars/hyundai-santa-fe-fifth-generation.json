@@ -1,0 +1,48 @@
+{
+  "id": "hyundai-santa-fe-fifth-generation",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "generation": "Fifth generation",
+  "aka": [
+    "Santa Fe FCEV",
+    "Santa Fe XL",
+    "Maxcruz",
+    "Santa Fe Sport"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hyundai_Santa_Fe_Calligraphy_MX5_Black_Monotone_%281%29.jpg/960px-Hyundai_Santa_Fe_Calligraphy_MX5_Black_Monotone_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 37,
+    "mpgHighway": 36,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Santa Fe"
+  ],
+  "description": "The Hyundai Santa Fe is a series of crossover SUVs produced across five generations by the South Korean manufacturer Hyundai since 2000. It is named after the city of Santa Fe, New Mexico, and was introduced for the 2001 model year as Hyundai's first SUV. The Santa Fe was a milestone in the company's restructuring program of the late 1990s because the SUV was a hit with American buyers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hyundai_Santa_Fe_Calligraphy_MX5_Black_Monotone_%281%29.jpg/1920px-Hyundai_Santa_Fe_Calligraphy_MX5_Black_Monotone_%281%29.jpg",
+  "sketchfab": {
+    "uid": "a1ee29b80c844b13ba56ac7e28971a53",
+    "name": "2024 Hyundai Santa Fe",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

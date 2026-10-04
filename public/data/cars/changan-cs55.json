@@ -1,0 +1,41 @@
+{
+  "id": "changan-cs55",
+  "make": "Changan",
+  "model": "CS55",
+  "generation": null,
+  "aka": [
+    "CS55 Plus",
+    "Qiyuan Q05",
+    "UNI-S"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Changan_CS55_Plus_II_009.jpg/960px-Changan_CS55_Plus_II_009.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Changan CS55 is a compact SUV produced by the Chinese manufacturer Changan Automobile under the Changan marque since 2017. It debuted at the 2017 Shanghai Auto Show and was launched on the Chinese auto market later in 2017. The manufacturer announced a full-electric version on 9 July 2020 called the CS55 EV. A facelift in 2019 updated the name to Changan CS55 Plus",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changan_CS55",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Changan_CS55_Plus_II_009.jpg/1920px-Changan_CS55_Plus_II_009.jpg",
+  "sketchfab": {
+    "uid": "ce73caccc1fb4d6f841e4398e667ff2b",
+    "name": "Changan CS55 Plus 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

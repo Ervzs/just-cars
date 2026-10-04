@@ -1,0 +1,30 @@
+{
+  "id": "mg6-automobile-first-generation",
+  "make": "MG",
+  "model": "MG6 (automobile)",
+  "generation": "First generation",
+  "aka": [
+    "6"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MG_6_Diesel_1896cc_registered_March_2015.jpg/960px-MG_6_Diesel_1896cc_registered_March_2015.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG6 is a compact car which has been produced by SAIC under British MG marque since 2010. It is slotted slightly above the compact sedan MG GT, and the compact hatchback MG 5.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG6_(automobile)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MG_6_Diesel_1896cc_registered_March_2015.jpg/1920px-MG_6_Diesel_1896cc_registered_March_2015.jpg",
+  "sketchfab": null
+}

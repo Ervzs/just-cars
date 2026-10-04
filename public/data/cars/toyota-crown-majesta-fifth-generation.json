@@ -1,0 +1,31 @@
+{
+  "id": "toyota-crown-majesta-fifth-generation",
+  "make": "Toyota",
+  "model": "Crown Majesta",
+  "generation": "Fifth generation",
+  "aka": [
+    "Majesta",
+    "Hongqi Shengshi",
+    "Hongqi HQ430",
+    "Hongqi HQ300",
+    "Hongqi HQ3"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyota_Crown_RoyalSaloon_VIP_V8_%28China%29_%28cropped%29.JPG/960px-Toyota_Crown_RoyalSaloon_VIP_V8_%28China%29_%28cropped%29.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown Majesta  is a full-size luxury sedan from Toyota. It is an upmarket variant of the Crown and serves as Toyota's flagship model in various countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown_Majesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyota_Crown_RoyalSaloon_VIP_V8_%28China%29_%28cropped%29.JPG/1920px-Toyota_Crown_RoyalSaloon_VIP_V8_%28China%29_%28cropped%29.JPG",
+  "sketchfab": null
+}

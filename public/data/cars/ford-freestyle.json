@@ -2,6 +2,11 @@
   "id": "ford-freestyle",
   "make": "Ford",
   "model": "Freestyle",
+  "generation": null,
+  "aka": [
+    "Taurus X",
+    "CrossTrainer"
+  ],
   "years": [
     2005,
     2006,
@@ -24,6 +29,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Freestyle"
+  ],
   "description": "The Ford Freestyle is a crossover utility vehicle that was sold by Ford from 2005 to 2009. Largely marketed as the successor to the Ford Taurus station wagon, the Freestyle was the CUV counterpart of the Ford Five Hundred and Mercury Montego four-door sedans. Sharing the Ford D3 platform with the Five Hundred and Montego, the Freestyle was produced with both front-wheel drive and all-wheel drive configurations and six- or seven-passenger seating.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Freestyle",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ford_Freestyle_1_--_02-22-2010.jpg/1920px-Ford_Freestyle_1_--_02-22-2010.jpg",

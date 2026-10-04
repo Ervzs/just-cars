@@ -1,0 +1,36 @@
+{
+  "id": "buick-park-avenue-third-generation",
+  "make": "Buick",
+  "model": "Park Avenue",
+  "generation": "Third generation",
+  "aka": [
+    "Park Avenue Essence",
+    "Ultra"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Buick_Park_Avenue_CN_China_2012-05-27.jpg/960px-Buick_Park_Avenue_CN_China_2012-05-27.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Buick Park Avenue is a full-size car built by Buick. The nameplate was first used in 1975 for an appearance option package on the Electra 225 Limited. It became an Electra trim level in 1978 and its own model starting in the 1991 model year after the Electra was discontinued.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Park_Avenue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Buick_Park_Avenue_CN_China_2012-05-27.jpg/1280px-Buick_Park_Avenue_CN_China_2012-05-27.jpg",
+  "sketchfab": {
+    "uid": "937b3074e9f14d16b0b1fface9389b40",
+    "name": "219: Buick Park Avenue",
+    "author": "alexdelker",
+    "authorUrl": "https://sketchfab.com/alexdelker",
+    "license": "CC Attribution"
+  }
+}

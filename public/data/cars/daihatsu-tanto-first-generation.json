@@ -1,0 +1,27 @@
+{
+  "id": "daihatsu-tanto-first-generation",
+  "make": "Subaru",
+  "model": "Daihatsu Tanto",
+  "generation": "First generation",
+  "aka": [
+    "Chiffon"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Daihatsu_Tanto_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Tanto  is a kei car manufactured by the Japanese carmaker Daihatsu. It was introduced at the 2003 Tokyo Motor Show as a vehicle based on the Move's \"tall\" body style, and followed by the Tanto Custom in July 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Tanto",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Daihatsu_Tanto_01.jpg",
+  "sketchfab": null
+}

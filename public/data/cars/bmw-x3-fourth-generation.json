@@ -1,0 +1,49 @@
+{
+  "id": "bmw-x3-fourth-generation",
+  "make": "BMW",
+  "model": "X3",
+  "generation": "Fourth generation",
+  "aka": [
+    "E83",
+    "F25",
+    "iX3.",
+    "Alpina XD3",
+    "X3 xDrive30e",
+    "X3M"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/BMW_G45_20_IMG_2276_%28cropped%29.jpg/960px-BMW_G45_20_IMG_2276_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X3"
+  ],
+  "description": "The BMW X3 is a compact luxury crossover SUV manufactured by BMW since 2003, based on the BMW 3 Series platform. BMW markets the car as a Sports Activity Vehicle, the company's proprietary descriptor for its X-line luxury vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/BMW_G45_20_IMG_2276_%28cropped%29.jpg/1920px-BMW_G45_20_IMG_2276_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "d35d04aac7f242d997af5d8d2d7fbeca",
+    "name": "2024 BMW X3 M40i",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

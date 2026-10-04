@@ -1,0 +1,44 @@
+{
+  "id": "kia-rio-third-generation",
+  "make": "Kia",
+  "model": "Rio",
+  "generation": "Third generation",
+  "aka": [
+    "Rio Cinco",
+    "New Pride",
+    "K2",
+    "KX Cross",
+    "Tonic"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2012_Kia_Rio_%28UB%29_SLS_3-door_hatchback_%2823816069452%29_%28cropped%29.jpg/960px-2012_Kia_Rio_%28UB%29_SLS_3-door_hatchback_%2823816069452%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rio"
+  ],
+  "description": "The Kia Rio is a subcompact car manufactured by Kia, produced from 1999 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Rio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2012_Kia_Rio_%28UB%29_SLS_3-door_hatchback_%2823816069452%29_%28cropped%29.jpg/1920px-2012_Kia_Rio_%28UB%29_SLS_3-door_hatchback_%2823816069452%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

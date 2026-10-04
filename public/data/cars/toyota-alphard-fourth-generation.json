@@ -1,0 +1,37 @@
+{
+  "id": "toyota-alphard-fourth-generation",
+  "make": "Toyota",
+  "model": "Alphard",
+  "generation": "Fourth generation",
+  "aka": [
+    "Vellfire",
+    "Alphard Hybrid",
+    "Hybrid Alphard",
+    "Crown Vellfire",
+    "Vellfire Spacious Lounge Concept"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2023_Toyota_Alphard_Hybrid_%28AH40%29_2.jpg/960px-2023_Toyota_Alphard_Hybrid_%28AH40%29_2.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Alphard  is a large MPV produced by the Japanese automaker Toyota since 2002. It is available as a seven or eight-seater with petrol and hybrid engine options. Hybrid variants have been available since 2003, which incorporates Toyota's Hybrid Synergy Drive technology. It is Toyota's flagship MPV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Alphard",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2023_Toyota_Alphard_Hybrid_%28AH40%29_2.jpg/1920px-2023_Toyota_Alphard_Hybrid_%28AH40%29_2.jpg",
+  "sketchfab": {
+    "uid": "e83454ca830c4dbd8626de9a7073c5a4",
+    "name": "Toyota alphard",
+    "author": "Jean Wally's™",
+    "authorUrl": "https://sketchfab.com/JeanWallace10",
+    "license": "CC Attribution"
+  }
+}

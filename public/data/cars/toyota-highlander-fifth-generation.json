@@ -1,0 +1,48 @@
+{
+  "id": "toyota-highlander-fifth-generation",
+  "make": "Toyota",
+  "model": "Highlander",
+  "generation": "Fifth generation",
+  "aka": [
+    "Highlander Hybrid",
+    "2003 toyota highlander",
+    "Kluger Hybrid",
+    "Kluger",
+    "Crown Kluger",
+    "bZ Large SUV",
+    "Subaru Getaway"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2027_Subaru_Getaway_%282026-04-03%29.jpg/960px-2027_Subaru_Getaway_%282026-04-03%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Highlander"
+  ],
+  "description": "The Toyota Highlander , also known as the Toyota Kluger  in some markets, is a mid-size crossover SUV with three-row seating produced by Toyota since 2000.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Highlander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2027_Subaru_Getaway_%282026-04-03%29.jpg/1920px-2027_Subaru_Getaway_%282026-04-03%29.jpg",
+  "sketchfab": {
+    "uid": "746d55cffe2b49d0b130700d6878db91",
+    "name": "Photoscanned Toyota Highlander",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

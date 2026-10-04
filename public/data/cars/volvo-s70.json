@@ -2,6 +2,10 @@
   "id": "volvo-s70",
   "make": "Volvo",
   "model": "S70",
+  "generation": null,
+  "aka": [
+    "S70 R"
+  ],
   "years": [
     2000
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "S70"
+  ],
   "description": "The Volvo S70 is a compact executive car produced by Volvo Cars from 1996 to 2000. The S70 was essentially a facelifted 850 saloon. The S70 was replaced with the Volvo S60.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S70",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Volvo_S70_--_02-29-2012.JPG/1920px-Volvo_S70_--_02-29-2012.JPG",

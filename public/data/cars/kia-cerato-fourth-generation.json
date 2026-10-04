@@ -1,0 +1,36 @@
+{
+  "id": "kia-cerato-fourth-generation",
+  "make": "Kia",
+  "model": "Cerato",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2020_Kia_Cerato_S_hatchback_front.jpg/960px-2020_Kia_Cerato_S_hatchback_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Cerato is a compact car produced by the South Korean manufacturer Kia since 2003. In 2008, the Cerato nameplate was replaced by the Forte nameplate in the North American market and the K3 nameplate in South Korea. However, the \"Cerato\" name remains in use in markets such as Australasia, Middle East and Latin America. It is available in five-door hatchback, two-door coupe and four-door sedan variants. It is not available in Europe, where the similar sized Kia Ceed is offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cerato",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2020_Kia_Cerato_S_hatchback_front.jpg/1920px-2020_Kia_Cerato_S_hatchback_front.jpg",
+  "sketchfab": {
+    "uid": "bc5f292b46f1433284fb8c0baa60db11",
+    "name": "Kia Cerato 2019",
+    "author": "قطوو",
+    "authorUrl": "https://sketchfab.com/ifa7b1",
+    "license": "CC Attribution"
+  }
+}

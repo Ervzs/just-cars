@@ -1,0 +1,50 @@
+{
+  "id": "mazda-premacy-second-generation",
+  "make": "Mazda",
+  "model": "Premacy",
+  "generation": "Second generation",
+  "aka": [
+    "Ford Ixion",
+    "Mazda5",
+    "5",
+    "Ford i-Max",
+    "Premacy and Mazda5"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mazda_Premacy_HRE_Hybrid.JPG/960px-Mazda_Premacy_HRE_Hybrid.JPG",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "5"
+  ],
+  "description": "The Mazda Premacy  is a passenger minivan that was built by the Japanese manufacturer Mazda from 1999 to 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Premacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mazda_Premacy_HRE_Hybrid.JPG/1280px-Mazda_Premacy_HRE_Hybrid.JPG",
+  "sketchfab": {
+    "uid": "65a13b2a36b64404a808e2c396726d47",
+    "name": "Mazda Premacy 2007",
+    "author": "Ford mondeo",
+    "authorUrl": "https://sketchfab.com/tnikita",
+    "license": "CC Attribution"
+  }
+}

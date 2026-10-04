@@ -1,0 +1,57 @@
+{
+  "id": "ford-fiesta-sixth-generation",
+  "make": "Ford",
+  "model": "Fiesta",
+  "generation": "Sixth generation",
+  "aka": [
+    "XR2",
+    "V2CII",
+    "Verve",
+    "Fiesta ST N3",
+    "Icon",
+    "Fiesta XR4",
+    "Dogbot",
+    "Fiesta ST"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.0L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2009-2010_Ford_Fiesta_%28WS%29_Zetec_5-door_hatchback_01.jpg/960px-2009-2010_Ford_Fiesta_%28WS%29_Zetec_5-door_hatchback_01.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.0L 3-cyl",
+    "displacementL": 1,
+    "cylinders": 3,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 41,
+    "mpgCombined": 35,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Fiesta"
+  ],
+  "description": "The Ford Fiesta is a supermini car that was marketed by Ford from 1976 to 2023 over seven generations. Over the years, the Fiesta has mainly been developed and manufactured by Ford's European operations, and had been positioned below the Escort.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Fiesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2009-2010_Ford_Fiesta_%28WS%29_Zetec_5-door_hatchback_01.jpg/1920px-2009-2010_Ford_Fiesta_%28WS%29_Zetec_5-door_hatchback_01.jpg",
+  "sketchfab": {
+    "uid": "1baa5c512e3c4ac3af4131fce9557ebe",
+    "name": "2013 Ford Fiesta ST",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

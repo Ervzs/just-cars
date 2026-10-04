@@ -1,0 +1,47 @@
+{
+  "id": "ford-bronco-sixth-generation",
+  "make": "Ford",
+  "model": "Bronco",
+  "generation": "Sixth generation",
+  "aka": [
+    "Centurion Classic"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2021_Ford_Bronco_Big_Bend%2C_Front_Right%2C_07-11-2021.jpg/960px-2021_Ford_Bronco_Big_Bend%2C_Front_Right%2C_07-11-2021.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic (S10)",
+    "drive": "Part-time 4-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 22,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Bronco"
+  ],
+  "description": "The Ford Bronco is a model line of SUVs manufactured and marketed by Ford. The first SUV model developed by the company, five generations of the Bronco were sold from the 1966 to 1996 model years. A sixth generation of the model line was introduced for the 2021 model year. The nameplate has been used on other Ford SUVs, namely the 1984–1990 Bronco II compact SUV, the 2021 Bronco Sport compact crossover, and the China-only 2025 Bronco New Energy.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Bronco",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2021_Ford_Bronco_Big_Bend%2C_Front_Right%2C_07-11-2021.jpg/1920px-2021_Ford_Bronco_Big_Bend%2C_Front_Right%2C_07-11-2021.jpg",
+  "sketchfab": {
+    "uid": "98b8590146a8447da52a1fefce064f0b",
+    "name": "2021 Ford Bronco 2-door",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

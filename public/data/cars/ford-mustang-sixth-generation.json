@@ -1,0 +1,57 @@
+{
+  "id": "ford-mustang-sixth-generation",
+  "make": "Ford",
+  "model": "Mustang",
+  "generation": "Sixth generation",
+  "aka": [
+    "Mustang GT",
+    "S-197",
+    "Mustang GT Coupe",
+    "Mustang GT Convertible",
+    "1972 Ford Mustang",
+    "Ronaele Mustang",
+    "Ronaele",
+    "Mustang SVT Cobra R"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Ford_Mustang_GT_5.0_Front.jpg/960px-2018_Ford_Mustang_GT_5.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mustang"
+  ],
+  "description": "The Ford Mustang is an American automobile manufactured and marketed by Ford since 1964, as Ford's longest nameplate in continuous production. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate. The namesake of the \"pony car\" automobile segment, the Mustang was developed as a highly styled line of sporty coupes and convertibles derived from existing model lines, initially distinguished by its pronounced \"long hood, short deck\" proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Mustang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Ford_Mustang_GT_5.0_Front.jpg/1920px-2018_Ford_Mustang_GT_5.0_Front.jpg",
+  "sketchfab": {
+    "uid": "c3be292e50774be98bac9de749579d80",
+    "name": "Ford Mustang ROUSH 2019 - Stage 3",
+    "author": "_the.render.box_",
+    "authorUrl": "https://sketchfab.com/_the.render.box_",
+    "license": "CC Attribution"
+  }
+}

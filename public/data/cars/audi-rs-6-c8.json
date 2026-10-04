@@ -1,0 +1,36 @@
+{
+  "id": "audi-rs-6-c8",
+  "make": "Audi",
+  "model": "RS 6",
+  "generation": "C8",
+  "aka": [
+    "RS6 Avant"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Audi_RS6_Avant_C8_IMG_0344.jpg/960px-Audi_RS6_Avant_C8_IMG_0344.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Audi RS 6 is a high-performance variant of the Audi A6 range, produced by the high-performance subsidiary company Audi Sport GmbH, for its parent company Audi AG, a subsidiary of the Volkswagen Group, from 2002 onwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Audi_RS6_Avant_C8_IMG_0344.jpg/1920px-Audi_RS6_Avant_C8_IMG_0344.jpg",
+  "sketchfab": {
+    "uid": "dd3fa0ca27ae4b73b89cac131f8d5bac",
+    "name": "2020 Audi RS 6 Avant",
+    "author": "Galaxy Car Showroom",
+    "authorUrl": "https://sketchfab.com/adrianaflak09",
+    "license": "CC Attribution"
+  }
+}

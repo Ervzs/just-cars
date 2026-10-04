@@ -2,6 +2,17 @@
   "id": "nissan-gt-r",
   "make": "Nissan",
   "model": "GT-R",
+  "generation": null,
+  "aka": [
+    "GT-R Proto",
+    "GT-R \"the 35th Tokyo Motor Show\" Concept",
+    "PM platform",
+    "GT-R SpecV",
+    "R35 GT-R",
+    "GTR R35",
+    "Infiniti GT-R",
+    "GT-R Nismo"
+  ],
   "years": [
     2009,
     2010,
@@ -36,6 +47,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "GT-R"
+  ],
   "description": "The Nissan GT-R is a sports car, built by Japanese marque Nissan from 2007 to 2025. It has a 2+2 seating layout and is also considered a grand tourer. The engine is front-mid mounted and drives all four wheels. It succeeded the Nissan Skyline GT-R, a high-performance variant of the Nissan Skyline. Although this model was the sixth-generation to bear the GT-R name, it was no longer part of the Skyline line-up. The car was built on the PM platform, derived from the FM platform used in the Skyline and Nissan Z models. Production was conducted in a shared production line at Nissan's Tochigi plant in Japan.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_GT-R",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2009-2010_Nissan_GT-R_%28R35%29_coupe_01.jpg/1920px-2009-2010_Nissan_GT-R_%28R35%29_coupe_01.jpg",

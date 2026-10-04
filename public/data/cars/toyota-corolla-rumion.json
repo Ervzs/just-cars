@@ -1,0 +1,32 @@
+{
+  "id": "toyota-corolla-rumion",
+  "make": "Toyota",
+  "model": "Corolla Rumion",
+  "generation": null,
+  "aka": [
+    "Rukus"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2007_Toyota_Corolla-Rumion_01.jpg/960px-2007_Toyota_Corolla-Rumion_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Corolla Rumion , also called the Toyota Rukus in Australia, and the Scion xB in the US and Canada, is a compact 5-door hatchback produced by Toyota from 2007 to 2015. Based on the E150 series Corolla, the design of the car had been adapted from the xB to meet the Japanese preferences. It is also the first Japanese domestic market Corolla model to exceed the Japanese compact car's 1,695 mm (66.7 in) width limit, by having 1,760 mm (69.3 in).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_Rumion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2007_Toyota_Corolla-Rumion_01.jpg/1920px-2007_Toyota_Corolla-Rumion_01.jpg",
+  "sketchfab": null
+}

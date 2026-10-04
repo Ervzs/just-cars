@@ -2,6 +2,8 @@
   "id": "saleen-performance-s331-family",
   "make": "Saleen Performance",
   "model": "S331 Family",
+  "generation": null,
+  "aka": [],
   "years": [
     2008
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "S331 Family"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

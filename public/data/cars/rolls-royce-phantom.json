@@ -2,6 +2,13 @@
   "id": "rolls-royce-phantom",
   "make": "Rolls-Royce",
   "model": "Phantom",
+  "generation": null,
+  "aka": [
+    "Rolls Royce Phantom",
+    "Phantom Series",
+    "Phantom IX",
+    "RR Phantom"
+  ],
   "years": [
     2004,
     2005,
@@ -45,6 +52,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Phantom"
+  ],
   "description": "Automaker Rolls-Royce has used the Phantom name on full-sized luxury cars and limousines since 1925, making it the longest-used car model nameplate in automotive history.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Phantom",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/1920px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg",

@@ -2,6 +2,8 @@
   "id": "mercedes-benz-eqb",
   "make": "Mercedes-Benz",
   "model": "EQB",
+  "generation": null,
+  "aka": [],
   "years": [
     2022,
     2024,
@@ -24,6 +26,9 @@
     "mpgCombined": 107,
     "evRangeMiles": 251
   },
+  "variants": [
+    "EQB"
+  ],
   "description": "The Mercedes-Benz EQB (X243) is a seven-seat battery electric mid-size D-segment crossover SUV produced by the German automobile manufacturer Mercedes-Benz from 2021 to 2026.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQB",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/1920px-Mercedes-Benz_X243_300_1X7A0422.jpg",

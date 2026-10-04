@@ -1,0 +1,37 @@
+{
+  "id": "toyota-camry-xv20",
+  "make": "Toyota",
+  "model": "Camry",
+  "generation": "XV20",
+  "aka": [
+    "Daihatsu Altis",
+    "Vista",
+    "Jiamei",
+    "Kaimeirui",
+    "Camry Hybrid",
+    "Camary",
+    "Vienta",
+    "Camry CSi"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1997-2000_Toyota_Camry_%28SXV20R%29_CSX_sedan_%282011-07-17%29.jpg/960px-1997-2000_Toyota_Camry_%28SXV20R%29_CSX_sedan_%282011-07-17%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Camry is an automobile sold internationally by the Japanese auto manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), the Camry has grown since the 1990s to fit the mid-size classification (wide-body)—although the two widths co-existed in that decade. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second \"world car\" after the Corolla. As of 2022, the Camry is positioned above the Corolla and below the Avalon or Crown in several markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1997-2000_Toyota_Camry_%28SXV20R%29_CSX_sedan_%282011-07-17%29.jpg/1920px-1997-2000_Toyota_Camry_%28SXV20R%29_CSX_sedan_%282011-07-17%29.jpg",
+  "sketchfab": null
+}

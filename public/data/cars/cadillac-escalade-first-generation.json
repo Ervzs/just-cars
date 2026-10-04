@@ -1,0 +1,43 @@
+{
+  "id": "cadillac-escalade-first-generation",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "generation": "First generation",
+  "aka": [
+    "Escalade EXT",
+    "Escalade ESV",
+    "Escalade Hybrid",
+    "Escalade IQL",
+    "escalade iq",
+    "Escalade v"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1st-Cadillac-Escalade.jpg/960px-1st-Cadillac-Escalade.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escalade"
+  ],
+  "description": "The Cadillac Escalade is a full-size luxury SUV manufactured by General Motors and marketed by Cadillac as its first major entry into the SUV market. The Escalade was introduced for the 1999 model year in response to an influx of new luxury SUVs during the late 1990s, including the Mercedes-Benz M-Class, Range Rover, Lexus LX, and Lincoln Navigator. The Escalade project went into production only ten months after it was approved. The Escalade is built at Arlington Assembly in Arlington, Texas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Escalade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1st-Cadillac-Escalade.jpg/1920px-1st-Cadillac-Escalade.jpg",
+  "sketchfab": null
+}

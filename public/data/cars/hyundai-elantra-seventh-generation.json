@@ -1,0 +1,54 @@
+{
+  "id": "hyundai-elantra-seventh-generation",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "generation": "Seventh generation",
+  "aka": [
+    "Avante",
+    "Lantra",
+    "Bimantara Nenggala",
+    "Avante Touring",
+    "Elantra LPI",
+    "Avante XD",
+    "Elantra LPI Hybrid",
+    "Elantra LPI HEV"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hyundai_Avante_N_Line_CN7_Intense_Blue_Pearl_%285%29_%28cropped%29.jpg/960px-Hyundai_Avante_N_Line_CN7_Intense_Blue_Pearl_%285%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 35,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Elantra"
+  ],
+  "description": "The Hyundai Elantra, also known as the Hyundai Avante, is a series of compact cars produced by the South Korean manufacturer Hyundai since 1990.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Elantra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hyundai_Avante_N_Line_CN7_Intense_Blue_Pearl_%285%29_%28cropped%29.jpg/1920px-Hyundai_Avante_N_Line_CN7_Intense_Blue_Pearl_%285%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "4ba1b1b0eb844e318cc708ada1f2f51f",
+    "name": "2024 Hyundai Elantra N",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

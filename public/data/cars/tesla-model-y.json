@@ -2,6 +2,15 @@
   "id": "tesla-model-y",
   "make": "Tesla",
   "model": "Model Y",
+  "generation": null,
+  "aka": [
+    "Y",
+    "MY",
+    "Octovalve",
+    "Model Y L",
+    "Teslamodely",
+    "Model Y tesla"
+  ],
   "years": [
     2020,
     2021,
@@ -29,6 +38,9 @@
     "mpgCombined": 114,
     "evRangeMiles": 328
   },
+  "variants": [
+    "Model Y"
+  ],
   "description": "The Tesla Model Y is a battery electric compact crossover SUV produced by Tesla, Inc. since 2020. Presented in March 2019 as the company's fifth production model, the Model Y is the best-selling electric vehicle of all time, having sold more than 2.16 million units worldwide.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_Y",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/1920px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg",

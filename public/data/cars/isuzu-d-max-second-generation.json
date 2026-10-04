@@ -1,0 +1,44 @@
+{
+  "id": "isuzu-d-max-second-generation",
+  "make": "Isuzu",
+  "model": "D-Max",
+  "generation": "Second generation",
+  "aka": [
+    "Chevrolet T-Series",
+    "Chevrolet LUV D-Max",
+    "Chevrolet D-Max",
+    "Duogongnengche",
+    "Rodeo Denver",
+    "LB",
+    "Pickup Truck",
+    "D-Max EV"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2018_Isuzu_D-Max_1.9_Front.jpg/960px-2018_Isuzu_D-Max_1.9_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu D-Max is a compact pickup truck and mid-size pickup truck manufactured since 2002 by Isuzu. It is a successor to the Isuzu Faster/KB. The first and second-generation model shares its platform with the Chevrolet Colorado. The third-generation model shares its platform with the third-generation Mazda BT-50, which is produced in the same Isuzu plant in Thailand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_D-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2018_Isuzu_D-Max_1.9_Front.jpg/1920px-2018_Isuzu_D-Max_1.9_Front.jpg",
+  "sketchfab": {
+    "uid": "1862f8883c5f4b23a70f53dc87f5701a",
+    "name": "Isuzu d-max 2015",
+    "author": "Abdelrahman Elbaqsawi 🇵🇸🇪🇬",
+    "authorUrl": "https://sketchfab.com/abdelrahmanbesso82",
+    "license": "CC Attribution"
+  }
+}

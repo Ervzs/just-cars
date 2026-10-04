@@ -1,0 +1,32 @@
+{
+  "id": "nissan-stagea-first-generation",
+  "make": "Nissan",
+  "model": "Stagea",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NISSAN_Stagea.jpg/960px-NISSAN_Stagea.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Stagea is a station wagon produced by Nissan from 1996 to 2007. It was originally produced by Nissan in 1996 as direct competition for the Subaru Legacy Touring wagon in Japan, and was exclusive to Nissan Prince Store Japanese dealerships. All sub-models of WC34 Stagea share the same floor-pan and mechanical components as the Nissan Laurel (C34), with some of the rear suspension components being the same as those found on the R32, R33, and R34 generations of Nissan Skyline.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Stagea",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NISSAN_Stagea.jpg/1920px-NISSAN_Stagea.jpg",
+  "sketchfab": {
+    "uid": "a347d59886de434bb7eaaf85ac1e6a2b",
+    "name": "2000 Nissan Stagea AutechVersion 260RS",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

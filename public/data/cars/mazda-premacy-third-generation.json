@@ -1,0 +1,62 @@
+{
+  "id": "mazda-premacy-third-generation",
+  "make": "Mazda",
+  "model": "Premacy",
+  "generation": "Third generation",
+  "aka": [
+    "Ford Ixion",
+    "Mazda5",
+    "5",
+    "Ford i-Max",
+    "Premacy and Mazda5"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/2012_Mazda5_Sport_in_Liquid_Silver%2C_front_left.jpg/960px-2012_Mazda5_Sport_in_Liquid_Silver%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "5"
+  ],
+  "description": "The Mazda Premacy  is a passenger minivan that was built by the Japanese manufacturer Mazda from 1999 to 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Premacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/2012_Mazda5_Sport_in_Liquid_Silver%2C_front_left.jpg/1920px-2012_Mazda5_Sport_in_Liquid_Silver%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "b352e42081f142038bea193b87a76cfa",
+    "name": "Mazda Premacy MK3 2010-2016",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

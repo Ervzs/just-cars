@@ -1,0 +1,41 @@
+{
+  "id": "holden-commodore-third-generation",
+  "make": "Toyota",
+  "model": "Holden Commodore",
+  "generation": "Third generation",
+  "aka": [
+    "Lexcen",
+    "Holden Adventra",
+    "Holden Calais",
+    "Holden Berlina",
+    "HSV SS Group A",
+    "Adventra",
+    "Holden Commodore S",
+    "SS Group A SV"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/1999_Holden_Commodore_%28VT%29_Executive_sedan_%282016-01-04%29_01.jpg/960px-1999_Holden_Commodore_%28VT%29_Executive_sedan_%282016-01-04%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Holden Commodore is a series of automobiles that were sold by now-defunct Australian manufacturer Holden from 1978 until 2020. They were manufactured from 1978 to 2017 in Australia and from 1979 to 1990 in New Zealand, with production of the locally manufactured versions in Australia ending on 20 October 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Holden_Commodore",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/1999_Holden_Commodore_%28VT%29_Executive_sedan_%282016-01-04%29_01.jpg/1920px-1999_Holden_Commodore_%28VT%29_Executive_sedan_%282016-01-04%29_01.jpg",
+  "sketchfab": null
+}

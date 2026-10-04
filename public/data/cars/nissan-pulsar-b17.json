@@ -1,0 +1,31 @@
+{
+  "id": "nissan-pulsar-b17",
+  "make": "Nissan",
+  "model": "Pulsar",
+  "generation": "B17",
+  "aka": [
+    "Langley",
+    "Datsun 310",
+    "Sunny GTI-R",
+    "liberta villa",
+    "Pulsar GTI-R",
+    "GTI-R",
+    "Sabre",
+    "Pulsar Milano"
+  ],
+  "years": [
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2016_Nissan_Pulsar_%28B17_Series_2%29_ST_sedan_%282018-10-19%29_01.jpg/960px-2016_Nissan_Pulsar_%28B17_Series_2%29_ST_sedan_%282018-10-19%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Pulsar  is a line of automobiles produced by the Japanese automaker Nissan from 1978 until 2000, when it was replaced by the Nissan Bluebird Sylphy in the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pulsar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2016_Nissan_Pulsar_%28B17_Series_2%29_ST_sedan_%282018-10-19%29_01.jpg/1920px-2016_Nissan_Pulsar_%28B17_Series_2%29_ST_sedan_%282018-10-19%29_01.jpg",
+  "sketchfab": null
+}

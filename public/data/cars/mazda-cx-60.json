@@ -1,0 +1,32 @@
+{
+  "id": "mazda-cx-60",
+  "make": "Mazda",
+  "model": "CX-60",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg/960px-Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda CX-60 is a mid-size crossover SUV produced by the Japanese automobile manufacturer Mazda since 2022. It is the first vehicle to use Mazda's rear- and all-wheel drive platform with longitudinal engine layout categorised as Large Product Group, which includes a line-up of straight-six engines. It is also the first Mazda vehicle to feature a plug-in hybrid option.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-60",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg/1920px-Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg",
+  "sketchfab": {
+    "uid": "d8df79b89ca94a9991e01560d5762368",
+    "name": "Mazda CX-60",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

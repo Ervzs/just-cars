@@ -1,0 +1,48 @@
+{
+  "id": "nissan-rogue-third-generation",
+  "make": "Nissan",
+  "model": "Rogue",
+  "generation": "Third generation",
+  "aka": [
+    "Rouge",
+    "Rogue Plug-in Hybrid"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2026_Nissan_Rogue_Platinum_in_Two-Tone_Boulder_Grey%2C_front_right%2C_2025-11-21.jpg/960px-2026_Nissan_Rogue_Platinum_in_Two-Tone_Boulder_Grey%2C_front_right%2C_2025-11-21.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 3-cyl",
+    "displacementL": 1.5,
+    "cylinders": 3,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 36,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rogue"
+  ],
+  "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. It made its debut in October 2007 for the 2008 model year. Beginning in 2013 for the 2014 model year, the model has been merged with the X-Trail sold outside the North American market, making them identical.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Rogue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2026_Nissan_Rogue_Platinum_in_Two-Tone_Boulder_Grey%2C_front_right%2C_2025-11-21.jpg/1920px-2026_Nissan_Rogue_Platinum_in_Two-Tone_Boulder_Grey%2C_front_right%2C_2025-11-21.jpg",
+  "sketchfab": {
+    "uid": "48fa53c7743745949b9cb518b7b67579",
+    "name": "2022 Nissan Rogue",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

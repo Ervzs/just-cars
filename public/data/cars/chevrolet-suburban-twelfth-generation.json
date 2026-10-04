@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-suburban-twelfth-generation",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "generation": "Twelfth generation",
+  "aka": [
+    "GMC Yukon XL",
+    "GMC Suburban",
+    "Chevy Suburban",
+    "Yukon XL",
+    "Veraneio",
+    "GMC Yukon Denali XL",
+    "Chevy Suburvan",
+    "Chevy subdivision"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Diesel",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2025_Chevrolet_Suburban_LT%2C_front_5.5.25.jpg/960px-2025_Chevrolet_Suburban_LT%2C_front_5.5.25.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 10-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Suburban"
+  ],
+  "description": "The Chevrolet Suburban is a series of SUVs built by Chevrolet since 1934. The longest-produced automobile nameplate in the world, the Suburban is currently in its twelfth generation, in production since the 2021 model year. Beginning life as one of the first metal-bodied station wagons, the Suburban is the progenitor of the modern full-size sport utility vehicle, combining a wagon-style body with the chassis and powertrain of a pickup truck. Alongside its Advance Design, Task Force, and C/K predecessors, the Chevrolet Silverado currently shares chassis and mechanical commonality with the Suburban and other trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Suburban",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2025_Chevrolet_Suburban_LT%2C_front_5.5.25.jpg/1920px-2025_Chevrolet_Suburban_LT%2C_front_5.5.25.jpg",
+  "sketchfab": {
+    "uid": "516ae596df3f484ba66d6b562fb98032",
+    "name": "Chevrolet Suburban 3D Scan",
+    "author": "Laser Design",
+    "authorUrl": "https://sketchfab.com/Laserdesign",
+    "license": "CC Attribution"
+  }
+}

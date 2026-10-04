@@ -1,7 +1,14 @@
 {
   "id": "toyota-prius-v",
   "make": "Toyota",
-  "model": "Prius v",
+  "model": "Prius V",
+  "generation": null,
+  "aka": [
+    "Prius+",
+    "Prius Plus",
+    "Prius Alpha",
+    "Daihatsu Mebius"
+  ],
   "years": [
     2012,
     2013,
@@ -27,6 +34,9 @@
     "mpgCombined": 41,
     "evRangeMiles": null
   },
+  "variants": [
+    "Prius v"
+  ],
   "description": "The Toyota Prius v, also named Prius α in Japan, and Prius+ in Europe and Singapore, is a hybrid petrol-electric automobile produced by Toyota introduced in Japan in May 2011, in the U.S. in October 2011, and released in Europe in June 2012. The Prius v was unveiled at the January 2011 North American International Auto Show alongside the Prius c Concept, and it is the first Prius variant to be spun off from the Prius platform. According to Toyota the \"v\" stands for \"versatility\". It is a compact MPV with a standard full hybrid drivetrain.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius_V",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Toyota_Prius%2B_%E2%80%93_f_06072025.jpg/1920px-Toyota_Prius%2B_%E2%80%93_f_06072025.jpg",

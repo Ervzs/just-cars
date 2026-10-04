@@ -1,0 +1,41 @@
+{
+  "id": "honda-insight-third-generation",
+  "make": "Honda",
+  "model": "Insight",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Honda_Insight_at_the_New_York_International_Auto_Show_NYIAS_%2840429697095%29.jpg/960px-Honda_Insight_at_the_New_York_International_Auto_Show_NYIAS_%2840429697095%29.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 51,
+    "mpgHighway": 45,
+    "mpgCombined": 48,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Insight"
+  ],
+  "description": "The Honda Insight  is a hybrid electric car manufactured and marketed by Honda. Its first generation was a three-door, two-seat liftback coupé (1999–2006) and its second generation was a five-door, five-seat liftback (2009–2014). In its third generation it was a four-door sedan (2018–2022), and in its fourth generation it became a five-door crossover SUV (2026–present). It was Honda's first model with Integrated Motor Assist system and the most fuel efficient gasoline-powered car available in the U.S. without plug-in capability for the length of its production run.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Insight",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Honda_Insight_at_the_New_York_International_Auto_Show_NYIAS_%2840429697095%29.jpg/1920px-Honda_Insight_at_the_New_York_International_Auto_Show_NYIAS_%2840429697095%29.jpg",
+  "sketchfab": null
+}

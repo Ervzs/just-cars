@@ -1,0 +1,36 @@
+{
+  "id": "hyundai-creta-first-generation",
+  "make": "Hyundai",
+  "model": "Creta",
+  "generation": "First generation",
+  "aka": [
+    "ix25",
+    "Cantus",
+    "Creta Electric"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HYUNDAI_iX25_%28GC%29_%28pre-facelift%29.jpg/960px-HYUNDAI_iX25_%28GC%29_%28pre-facelift%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Creta is a subcompact crossover SUV produced by Hyundai since 2014 mainly for emerging markets, particularly BRICS. It is positioned above the Venue and below the Alcazar in Hyundai's SUV line-up.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Creta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/HYUNDAI_iX25_%28GC%29_%28pre-facelift%29.jpg/1920px-HYUNDAI_iX25_%28GC%29_%28pre-facelift%29.jpg",
+  "sketchfab": {
+    "uid": "46b66ddb3cf846f88f7348e0daec2604",
+    "name": "Hyundai Creta 2016",
+    "author": "marcianozx",
+    "authorUrl": "https://sketchfab.com/marcianozx",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nissan-navara-first-generation",
+  "make": "Nissan",
+  "model": "Navara",
+  "generation": "First generation",
+  "aka": [
+    "D40 Navara",
+    "D22 Navara",
+    "Pickup",
+    "NP300",
+    "Renault Alaskan",
+    "D22"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/01-04_Nissan_Frontier_extended_cab.jpg/960px-01-04_Nissan_Frontier_extended_cab.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Navara  is a nameplate used for Nissan pickup trucks with D21, D22, D40, D23 and D27 model codes. The nameplate has been used in Australia, New Zealand, Central America, South America, Asia, Europe, and South Africa. In North, Central and South America and some selected markets, it is marketed as the Nissan Frontier or Nissan NP300.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/01-04_Nissan_Frontier_extended_cab.jpg/960px-01-04_Nissan_Frontier_extended_cab.jpg",
+  "sketchfab": {
+    "uid": "c33cf3349fa54e3d8a3f004d443887a0",
+    "name": "1997-2004 Nissan Navara(Nissan Frontier) D22",
+    "author": "DCP",
+    "authorUrl": "https://sketchfab.com/Danzell.Cayabyab",
+    "license": "CC Attribution"
+  }
+}

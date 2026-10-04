@@ -1,0 +1,49 @@
+{
+  "id": "koenigsegg-agera",
+  "make": "Koenigsegg",
+  "model": "Agera",
+  "generation": null,
+  "aka": [
+    "Agera R",
+    "agera s",
+    "One:1",
+    "Agera One:1",
+    "Agera RS",
+    "Agera Final",
+    "Hundra",
+    "Agera XS"
+  ],
+  "years": [
+    2018
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/960px-Agera_RST_Koenigsegg.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Agera RS"
+  ],
+  "description": "The Koenigsegg Agera is a mid-engine sports car produced by Swedish car manufacturer Koenigsegg and is a successor to the CCX/CCXR. The name comes from the Swedish verb 'agera' which means \"to act\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Koenigsegg_Agera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/1920px-Agera_RST_Koenigsegg.jpg",
+  "sketchfab": {
+    "uid": "a30e098257254fcfa1323f2841e26d13",
+    "name": "Koenigsegg Agera RS",
+    "author": "RongstadJ",
+    "authorUrl": "https://sketchfab.com/RongstadJ",
+    "license": "CC Attribution"
+  }
+}

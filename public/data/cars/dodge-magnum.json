@@ -2,6 +2,10 @@
   "id": "dodge-magnum",
   "make": "Dodge",
   "model": "Magnum",
+  "generation": null,
+  "aka": [
+    "XE"
+  ],
   "years": [
     2005,
     2006,
@@ -25,6 +29,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Magnum"
+  ],
   "description": "The Dodge Magnum nameplate was used by Dodge for various models for various time periods and markets — beginning with a large Chrysler B platform 2-door coupe from 1978-1979 in the United States and Canada. For model years 2005-2008, the Magnum was a station wagon on the rear-wheel drive Chrysler LX platform, manufactured in Canada and marketed on the American and Canadian market.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Magnum",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2008_Dodge_Magnum_SE.jpg/1920px-2008_Dodge_Magnum_SE.jpg",

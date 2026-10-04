@@ -2,6 +2,8 @@
   "id": "rolls-royce-dawn",
   "make": "Rolls-Royce",
   "model": "Dawn",
+  "generation": null,
+  "aka": [],
   "years": [
     2016,
     2017,
@@ -27,6 +29,9 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
+  "variants": [
+    "Dawn"
+  ],
   "description": "The Rolls-Royce Dawn is a convertible luxury grand tourer manufactured by Rolls-Royce Motor Cars. It was announced at the 2015 Frankfurt Motor Show.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Dawn",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg/1920px-2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg",

@@ -2,6 +2,11 @@
   "id": "mercedes-benz-slc-class",
   "make": "Mercedes-Benz",
   "model": "SLC-Class",
+  "generation": null,
+  "aka": [
+    "Mercedes SLC",
+    "MB SLC"
+  ],
   "years": [
     2017,
     2018,
@@ -25,6 +30,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "SLC-Class"
+  ],
   "description": "Mercedes-Benz SLC-Class can designate:The hard-top coupé counterpart of the Mercedes-Benz R107 produced from 1971 to 1981\nThe Mercedes-Benz R172, the successor of the Mercedes-Benz SLK-Class R171, produced from 2016 to 2020",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLC-Class",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_SLC_300_%28MSP16%29.jpg/1920px-Mercedes-Benz_SLC_300_%28MSP16%29.jpg",

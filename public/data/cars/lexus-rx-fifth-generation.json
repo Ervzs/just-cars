@@ -1,0 +1,53 @@
+{
+  "id": "lexus-rx-fifth-generation",
+  "make": "Lexus",
+  "model": "RX",
+  "generation": "Fifth generation",
+  "aka": [
+    "RX300",
+    "RX400h",
+    "RX330",
+    "RX350",
+    "RX 450h",
+    "RX Hybrid",
+    "RX 200t",
+    "RX 500h F Sport"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lexus_RX_500h_F_Sport_Performance_%28TALH17%29_1X7A7076.jpg/960px-Lexus_RX_500h_F_Sport_Performance_%28TALH17%29_1X7A7076.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RX"
+  ],
+  "description": "The Lexus RX  is a luxury crossover SUV sold since 1998 by Lexus, a luxury division of Toyota. Originally released in its home market of Japan in late 1997 as the Toyota Harrier, export sales began in March 1998 as the Lexus RX.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_RX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lexus_RX_500h_F_Sport_Performance_%28TALH17%29_1X7A7076.jpg/1920px-Lexus_RX_500h_F_Sport_Performance_%28TALH17%29_1X7A7076.jpg",
+  "sketchfab": {
+    "uid": "6b9a1994b2dd445c8248270c81eead6b",
+    "name": "Lexus RX 350 + rigged (+ rigged driver (human) )",
+    "author": "menarzuw",
+    "authorUrl": "https://sketchfab.com/menarzuw",
+    "license": "CC Attribution"
+  }
+}

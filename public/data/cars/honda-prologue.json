@@ -2,6 +2,8 @@
   "id": "honda-prologue",
   "make": "Honda",
   "model": "Prologue",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -24,6 +26,9 @@
     "mpgCombined": 99,
     "evRangeMiles": 294
   },
+  "variants": [
+    "Prologue"
+  ],
   "description": "The Honda Prologue is a battery electric mid-size crossover SUV jointly developed by Honda and General Motors and marketed in North America by Honda. Announced in October 2022 with sales starting in March 2024, it is Honda's first major electric vehicle following a number of low volume battery electric vehicles previously sold by Honda in North America, including the Honda Clarity, Honda Fit, and the experimental Honda EV Plus. Based heavily on the Chevrolet Blazer EV, the Prologue is comparable in size with the ICE-powered Passport.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Prologue",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2024_Honda_Prologue_Touring%2C_front_7.11.25.jpg/1920px-2024_Honda_Prologue_Touring%2C_front_7.11.25.jpg",

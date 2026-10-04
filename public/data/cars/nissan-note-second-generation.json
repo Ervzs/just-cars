@@ -1,0 +1,41 @@
+{
+  "id": "nissan-note-second-generation",
+  "make": "Nissan",
+  "model": "Note",
+  "generation": "Second generation",
+  "aka": [
+    "Invitation",
+    "Tone",
+    "Aura",
+    "Note Aura",
+    "Versa Note"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nissan_Invitation.jpg/960px-Nissan_Invitation.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Note  is a supermini/subcompact hatchback or a mini MPV manufactured and marketed globally by Nissan. Introduced in 2004, the first-generation Note was primarily marketed in Japan and Europe, and was produced in Japan and the United Kingdom. The second-generation model was sold in other regions, including North America where it was manufactured in Mexico and marketed as the Versa Note, and Thailand, where it serves as one of the B-segment hatchback offered by the brand alongside the smaller March/Micra under the Eco Car tax scheme.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Note",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nissan_Invitation.jpg/1920px-Nissan_Invitation.jpg",
+  "sketchfab": {
+    "uid": "3929336debbf45a8a2e4096f1fdf5baa",
+    "name": "2016 Nissan Note",
+    "author": "Franco",
+    "authorUrl": "https://sketchfab.com/billowous",
+    "license": "Free Standard"
+  }
+}

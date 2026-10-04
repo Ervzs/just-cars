@@ -1,0 +1,53 @@
+{
+  "id": "toyota-vitz-third-generation",
+  "make": "Toyota",
+  "model": "Vitz",
+  "generation": "Third generation",
+  "aka": [
+    "Bigsmall",
+    "Yaris ONYX",
+    "Yaris Hybrid",
+    "Yaris HSD",
+    "Yaris Cabrio Concept",
+    "Xiali Vizi",
+    "Vitz AP4",
+    "Tianjin Vizi"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2013_Toyota_Yaris_%28NCP130R%29_YR_5-door_hatchback_%282016-01-04%29_02.jpg/960px-2013_Toyota_Yaris_%28NCP130R%29_YR_5-door_hatchback_%282016-01-04%29_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vitz  is a subcompact car produced by the Japanese automobile manufacturer Toyota from 1999 to 2019 in a three- or five-door hatchback body styles. The \"Vitz\" nameplate was used consistently in Japan, while most international markets received the same vehicle as the Toyota Yaris, or as the Toyota Echo in some markets for the first generation. The Vitz was available in Japan from Toyota's Netz Store dealerships. Toyota began production in Japan and later assembled the vehicle in other Asian countries and in France.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vitz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2013_Toyota_Yaris_%28NCP130R%29_YR_5-door_hatchback_%282016-01-04%29_02.jpg/1920px-2013_Toyota_Yaris_%28NCP130R%29_YR_5-door_hatchback_%282016-01-04%29_02.jpg",
+  "sketchfab": {
+    "uid": "2c2dcbcc41eb41c9b7025ece0d0b25ab",
+    "name": "Toyota Vitz",
+    "author": "Quore",
+    "authorUrl": "https://sketchfab.com/Quoreder",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

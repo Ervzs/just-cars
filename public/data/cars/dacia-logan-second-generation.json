@@ -1,0 +1,38 @@
+{
+  "id": "dacia-logan-second-generation",
+  "make": "Nissan",
+  "model": "Dacia Logan",
+  "generation": "Second generation",
+  "aka": [
+    "Renault Logan",
+    "Logan van",
+    "Logan MCV",
+    "Aprio",
+    "Mahindra Logan",
+    "NP200",
+    "Dacia Logan MCV",
+    "Renault Logan MCV"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Dacia_Logan_MCV_Laureate_DCi_1.5.jpg/960px-2015_Dacia_Logan_MCV_Laureate_DCi_1.5.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Dacia Logan is a family of automobiles produced and marketed jointly by the French manufacturer Renault and its Romanian subsidiary Dacia since mid-2004, and was the successor to the Dacia 1310 and Dacia Solenza. It has been produced as a sedan, station wagon, and as a pick-up. It has been manufactured at Dacia's automobile plant in Mioveni, Romania, and at Renault plants in Morocco, Argentina, Turkey, Russia, Colombia, Iran and India. The pick-up has also been produced at Nissan's plant in Rosslyn, South Africa.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dacia_Logan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Dacia_Logan_MCV_Laureate_DCi_1.5.jpg/1920px-2015_Dacia_Logan_MCV_Laureate_DCi_1.5.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "toyota-bz3",
+  "make": "Toyota",
+  "model": "bZ3",
+  "generation": null,
+  "aka": [
+    "bZ SDN"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%28CHN-Zhejiang%29_Private_FAW-Toyota_bZ3_%E6%B5%99ABT59A6_2024-12-15.jpg/960px-%28CHN-Zhejiang%29_Private_FAW-Toyota_bZ3_%E6%B5%99ABT59A6_2024-12-15.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota bZ3 is a battery electric compact sedan jointly developed by Toyota, BYD Auto and FAW Toyota through the BYD Toyota EV Technology (BTET) joint venture and produced in China since 2023. It is the first battery electric sedan by Toyota, and the first sedan from the bZ series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_bZ3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%28CHN-Zhejiang%29_Private_FAW-Toyota_bZ3_%E6%B5%99ABT59A6_2024-12-15.jpg/1920px-%28CHN-Zhejiang%29_Private_FAW-Toyota_bZ3_%E6%B5%99ABT59A6_2024-12-15.jpg",
+  "sketchfab": {
+    "uid": "8c29a963460e44e09b6878847a2cc0ea",
+    "name": "Toyota bZ3 2023",
+    "author": "zapkolenko07",
+    "authorUrl": "https://sketchfab.com/zapkolenko07",
+    "license": "CC Attribution"
+  }
+}

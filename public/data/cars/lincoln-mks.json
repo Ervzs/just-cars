@@ -2,6 +2,8 @@
   "id": "lincoln-mks",
   "make": "Lincoln",
   "model": "MKS",
+  "generation": null,
+  "aka": [],
   "years": [
     2009,
     2010,
@@ -29,6 +31,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "MKS"
+  ],
   "description": "The Lincoln MKS is a full-size luxury car which was manufactured by Ford and marketed by its Lincoln division for the 2009-through-2016 model years (MY), having entered production in May 2008. Primarily sold in the North American market, it is a four-door sedan with seating for five occupants and received a facelift for MY 2013.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2009_Lincoln_MKS_AWD%2C_front_right%2C_05-09-2023.jpg/1920px-2009_Lincoln_MKS_AWD%2C_front_right%2C_05-09-2023.jpg",

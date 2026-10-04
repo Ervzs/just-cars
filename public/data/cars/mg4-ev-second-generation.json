@@ -1,0 +1,36 @@
+{
+  "id": "mg4-ev-second-generation",
+  "make": "MG",
+  "model": "MG4 EV",
+  "generation": "Second generation",
+  "aka": [
+    "Mulan",
+    "MG4 Electric",
+    "4 Electric",
+    "4 EV",
+    "MG4 EV Urban",
+    "Urban"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/MG_4_EV_II_002.jpg/960px-MG_4_EV_II_002.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG4 EV or MG4 Electric is a battery electric small family car (C-segment) produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque. First released in June 2022 as the MG Mulan in China, it was introduced in Europe in July 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG4_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/MG_4_EV_II_002.jpg/1920px-MG_4_EV_II_002.jpg",
+  "sketchfab": {
+    "uid": "b7a6d114e9ef4833a1ddd65d4f59a7e3",
+    "name": "MG MG4 ev Voltage converter inverter",
+    "author": "mkonstadakis",
+    "authorUrl": "https://sketchfab.com/mkonstadakis",
+    "license": "CC Attribution"
+  }
+}

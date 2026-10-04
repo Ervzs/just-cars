@@ -1,0 +1,62 @@
+{
+  "id": "toyota-land-cruiser-j200",
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "generation": "J200",
+  "aka": [
+    "80 series Toyota Land Cruiser",
+    "80 series Landcruiser",
+    "Fj40",
+    "AK",
+    "AK10",
+    "BJ",
+    "Land Cruiser 200",
+    "FJJ"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Toyota_Land_Cruiser_VDJ200.jpg/960px-Toyota_Land_Cruiser_VDJ200.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Land Cruiser"
+  ],
+  "description": "The Toyota Land Cruiser , also sometimes spelt as LandCruiser, is a series of four-wheel drive vehicles produced by the Japanese automobile manufacturer Toyota. It is Toyota's longest running series of models. As of 2019, the sales of the Land Cruiser totalled more than 10 million units worldwide.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Toyota_Land_Cruiser_VDJ200.jpg/1920px-Toyota_Land_Cruiser_VDJ200.jpg",
+  "sketchfab": {
+    "uid": "194b33a136f947b8aec574936aa8681e",
+    "name": "Toyota Land Cruiser 2016 شاص 76",
+    "author": "DR1KING100K",
+    "authorUrl": "https://sketchfab.com/DR1KING100K",
+    "license": "CC Attribution"
+  }
+}

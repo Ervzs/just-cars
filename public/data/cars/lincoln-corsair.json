@@ -2,6 +2,8 @@
   "id": "lincoln-corsair",
   "make": "Lincoln",
   "model": "Corsair",
+  "generation": null,
+  "aka": [],
   "years": [
     2020,
     2021,
@@ -28,6 +30,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Corsair"
+  ],
   "description": "The Lincoln Corsair is a compact luxury crossover manufactured by Ford and marketed by its Lincoln brand since 2019, superseding the MKC. The Corsair was Lincoln's best-selling model through 2023.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Corsair",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg/1920px-2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg",

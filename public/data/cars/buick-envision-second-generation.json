@@ -1,0 +1,42 @@
+{
+  "id": "buick-envision-second-generation",
+  "make": "Buick",
+  "model": "Envision",
+  "generation": "Second generation",
+  "aka": [
+    "Envision S",
+    "Envision Plus"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/BUICK_ENVISION_PLUS_China_%2817%29.jpg/960px-BUICK_ENVISION_PLUS_China_%2817%29.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Envision"
+  ],
+  "description": "The Buick Envision is a compact crossover SUV manufactured by General Motors and marketed under the Buick brand since 2014. It is exclusively manufactured in China by the SAIC-GM joint venture, supplying the Chinese and North American markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Envision",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/BUICK_ENVISION_PLUS_China_%2817%29.jpg/1920px-BUICK_ENVISION_PLUS_China_%2817%29.jpg",
+  "sketchfab": null
+}

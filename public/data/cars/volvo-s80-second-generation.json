@@ -1,0 +1,52 @@
+{
+  "id": "volvo-s80-second-generation",
+  "make": "Volvo",
+  "model": "S80",
+  "generation": "Second generation",
+  "aka": [
+    "S80L"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2nd_Volvo_S80_--_09-29-2010.jpg/960px-2nd_Volvo_S80_--_09-29-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 37,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S80"
+  ],
+  "description": "The Volvo S80 is an executive car produced by the Swedish manufacturer Volvo Cars from 1998 to 2016 across two generations. It took the place of the rear-wheel-drive S90 as Volvo's flagship sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2nd_Volvo_S80_--_09-29-2010.jpg/1280px-2nd_Volvo_S80_--_09-29-2010.jpg",
+  "sketchfab": {
+    "uid": "521b7bc29c5e41e69729aa72170e05cd",
+    "name": "Volvo S80 2011",
+    "author": "bugrunner",
+    "authorUrl": "https://sketchfab.com/bugrunner",
+    "license": "CC Attribution"
+  }
+}

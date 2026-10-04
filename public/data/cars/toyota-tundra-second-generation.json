@@ -1,0 +1,56 @@
+{
+  "id": "toyota-tundra-second-generation",
+  "make": "Toyota",
+  "model": "Tundra",
+  "generation": "Second generation",
+  "aka": [
+    "T150"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2009_Toyota_Tundra_SR5_4x4_Double_Cab_in_Super_White%2C_front_left.jpg/960px-2009_Toyota_Tundra_SR5_4x4_Double_Cab_in_Super_White%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tundra"
+  ],
+  "description": "The Toyota Tundra  is a full-size pickup truck manufactured in the United States by the Japanese manufacturer Toyota since May 1999. The Tundra was the second full-size pickup to be built by a Japanese manufacturer, but the Tundra was the first full-size pickup from a Japanese manufacturer to be built in North America. The Tundra was nominated for the North American Truck of the Year award and was Motor Trend magazine's Truck of the Year in 2000 and 2008. Initially built in a new Toyota plant in Princeton, Indiana, production was consolidated in 2008 to Toyota's San Antonio, Texas, factory.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Tundra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2009_Toyota_Tundra_SR5_4x4_Double_Cab_in_Super_White%2C_front_left.jpg/1920px-2009_Toyota_Tundra_SR5_4x4_Double_Cab_in_Super_White%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "1f879c34f81b467ab9afd5ecb9b1253d",
+    "name": "Toyota Tundra 2017",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

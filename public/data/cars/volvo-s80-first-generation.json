@@ -1,0 +1,50 @@
+{
+  "id": "volvo-s80-first-generation",
+  "make": "Volvo",
+  "model": "S80",
+  "generation": "First generation",
+  "aka": [
+    "S80L"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1998_Volvo_S80_2.9_sedan_%282015-11-11%29_01.jpg/960px-1998_Volvo_S80_2.9_sedan_%282015-11-11%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S80"
+  ],
+  "description": "The Volvo S80 is an executive car produced by the Swedish manufacturer Volvo Cars from 1998 to 2016 across two generations. It took the place of the rear-wheel-drive S90 as Volvo's flagship sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1998_Volvo_S80_2.9_sedan_%282015-11-11%29_01.jpg/1920px-1998_Volvo_S80_2.9_sedan_%282015-11-11%29_01.jpg",
+  "sketchfab": {
+    "uid": "7f9226ceaa9445daaddf46c140952235",
+    "name": "Volvo S80 mk1 1999",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

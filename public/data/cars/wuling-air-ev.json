@@ -1,0 +1,29 @@
+{
+  "id": "wuling-air-ev",
+  "make": "MG",
+  "model": "Wuling Air EV",
+  "generation": null,
+  "aka": [
+    "Comet",
+    "Comet EV"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2023_Wuling_Air_EV_Standard_Range.jpg/960px-2023_Wuling_Air_EV_Standard_Range.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Wuling Air EV is a battery electric city car manufactured by SAIC-GM-Wuling (SGMW) since 2022. Based on SGMW's Global Small Electric Vehicle (GSEV) platform, the model is the third GSEV model to be marketed under the Wuling brand after the Hongguang Mini EV and the Nano EV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wuling_Air_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2023_Wuling_Air_EV_Standard_Range.jpg/1920px-2023_Wuling_Air_EV_Standard_Range.jpg",
+  "sketchfab": null
+}

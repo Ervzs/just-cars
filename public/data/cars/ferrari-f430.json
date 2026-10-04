@@ -2,6 +2,17 @@
   "id": "ferrari-f430",
   "make": "Ferrari",
   "model": "F430",
+  "generation": null,
+  "aka": [
+    "430",
+    "430R",
+    "F460",
+    "F430 GT2",
+    "F430 Scuderia",
+    "430 Scuderia",
+    "F430 GT3",
+    "SP1"
+  ],
   "years": [
     2005,
     2006,
@@ -26,6 +37,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "F430"
+  ],
   "description": "The Ferrari F430 is a sports car produced by the Italian automobile manufacturer Ferrari from 2004 until 2009 as a successor to the Ferrari 360. The car is an update to the 360 with exterior and performance changes. It was unveiled at the 2004 Paris Motor Show. The F430 was succeeded by the 458 which was unveiled on 28 July 2009. An estimated 16,750 F430s were produced between 2005 and 2009.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_F430",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg/1920px-Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg",

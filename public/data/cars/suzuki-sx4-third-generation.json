@@ -1,0 +1,41 @@
+{
+  "id": "suzuki-sx4-third-generation",
+  "make": "Suzuki",
+  "model": "SX4",
+  "generation": "Third generation",
+  "aka": [
+    "Maruti Suzuki SX4",
+    "Maruti SX4",
+    "S-Cross Concept",
+    "SX4 S-Cross",
+    "S-Cross",
+    "Chevrolet S-Cross",
+    "Neo Baleno"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Suzuki_SX4_%283rd_generation%29_1X7A0430.jpg/960px-Suzuki_SX4_%283rd_generation%29_1X7A0430.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki SX4 is a subcompact car and crossover produced by Japanese automaker Suzuki since 2006. A successor of the Aerio tall hatchback and sedan, the first-generation model was available as a hatchback and sedan, with the former available in both front- and four-wheel drive. In Europe, it was sold alongside a rebadged version called the Fiat Sedici.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_SX4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Suzuki_SX4_%283rd_generation%29_1X7A0430.jpg/1920px-Suzuki_SX4_%283rd_generation%29_1X7A0430.jpg",
+  "sketchfab": {
+    "uid": "3f45c0e4fd3749148d0db84b93d99a26",
+    "name": "Suzuki SX4 2022",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "subaru-r1",
+  "make": "Subaru",
+  "model": "R1",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Subaru_R1.jpg/960px-Subaru_R1.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru R1 is a kei car manufactured by the Japanese carmaker Subaru from 2005 to 2010.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_R1",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Subaru_R1.jpg/1920px-Subaru_R1.jpg",
+  "sketchfab": null
+}

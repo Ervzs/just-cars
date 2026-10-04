@@ -1,0 +1,38 @@
+{
+  "id": "daihatsu-charade-fourth-generation",
+  "make": "Daihatsu",
+  "model": "Charade",
+  "generation": "Fourth generation",
+  "aka": [
+    "Charade 926 Turbo",
+    "Xiali TJ 7100",
+    "Xiali TJ 7100 U",
+    "Social",
+    "Skywing",
+    "Charade G200",
+    "Valéra",
+    "Anda’er"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Daihatsu_Charade_-_Flickr_-_Axel_Schwenke_%281%29.jpg/960px-Daihatsu_Charade_-_Flickr_-_Axel_Schwenke_%281%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Charade is a supermini car produced by the Japanese manufacturer Daihatsu from 1977 to 2000. It is considered by Daihatsu as a \"large compact\" or \"supermini\" car, to differentiate it from the smaller, urban-oriented kei cars in its line-up, such as the Daihatsu Mira. It replaced the Daihatsu Consorte, although the Charmant took over from the bigger-engined Consortes, and did not share a platform with a Toyota product.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Charade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Daihatsu_Charade_-_Flickr_-_Axel_Schwenke_%281%29.jpg/1280px-Daihatsu_Charade_-_Flickr_-_Axel_Schwenke_%281%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mg-gt-second-generation",
+  "make": "MG",
+  "model": "GT",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2020_SAIC_MG_5_%28front%29.jpg/960px-2020_SAIC_MG_5_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG GT is a compact car produced by SAIC Motor under the MG marque from 2014 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2020_SAIC_MG_5_%28front%29.jpg/1920px-2020_SAIC_MG_5_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "ead70a376c994ccdb8bbdcebd0821679",
+    "name": "2025 MG GT (GLB)(mgmotor.com.mx)",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

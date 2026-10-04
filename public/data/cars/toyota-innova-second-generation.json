@@ -1,0 +1,43 @@
+{
+  "id": "toyota-innova-second-generation",
+  "make": "Toyota",
+  "model": "Innova",
+  "generation": "Second generation",
+  "aka": [
+    "Kijang Innova",
+    "Venturer",
+    "Innova Crysta",
+    "Zenix",
+    "Innova Zenix",
+    "Kijang Innova Zenix",
+    "Innova Hycross",
+    "Suzuki Invicto"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2018_Toyota_Kijang_Innova_2.4_Q_Venturer_wagon_%28GUN142R%3B_01-28-2019%29%2C_South_Tangerang.jpg/960px-2018_Toyota_Kijang_Innova_2.4_Q_Venturer_wagon_%28GUN142R%3B_01-28-2019%29%2C_South_Tangerang.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Innova is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Toyota since 2004, mainly sold with three-row seating.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Innova",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2018_Toyota_Kijang_Innova_2.4_Q_Venturer_wagon_%28GUN142R%3B_01-28-2019%29%2C_South_Tangerang.jpg/1920px-2018_Toyota_Kijang_Innova_2.4_Q_Venturer_wagon_%28GUN142R%3B_01-28-2019%29%2C_South_Tangerang.jpg",
+  "sketchfab": {
+    "uid": "f8cbfde082734aca9187024b0683d287",
+    "name": "2017 Toyota Innova",
+    "author": "asian3dmodel",
+    "authorUrl": "https://sketchfab.com/nguyenhoanglam20100609",
+    "license": "CC Attribution"
+  }
+}

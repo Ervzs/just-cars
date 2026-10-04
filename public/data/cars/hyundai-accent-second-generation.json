@@ -1,0 +1,54 @@
+{
+  "id": "hyundai-accent-second-generation",
+  "make": "Hyundai",
+  "model": "Accent",
+  "generation": "Second generation",
+  "aka": [
+    "Bimantara Cakra",
+    "Verna",
+    "Accent Hybrid",
+    "Solaris",
+    "Accent Evo 3",
+    "Accent GT",
+    "i25",
+    "Dodge Verna"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2000-2003_Hyundai_Accent_%28LC%29_GL_3-door_hatchback_%282011-04-22%29.jpg/960px-2000-2003_Hyundai_Accent_%28LC%29_GL_3-door_hatchback_%282011-04-22%29.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accent/Brio"
+  ],
+  "description": "The Hyundai Accent, or Hyundai Verna is a subcompact car produced by Hyundai. In Australia, the first generation models carried over the Hyundai Excel name used by the Accent's predecessor. The Accent was replaced in 2000 by the Hyundai Verna in South Korea, although most international markets, including the US, retained the \"Accent\" name. The \"Accent\" name is an acronym of Advanced Compact Car of Epoch-making New Technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Accent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2000-2003_Hyundai_Accent_%28LC%29_GL_3-door_hatchback_%282011-04-22%29.jpg/1920px-2000-2003_Hyundai_Accent_%28LC%29_GL_3-door_hatchback_%282011-04-22%29.jpg",
+  "sketchfab": {
+    "uid": "b00b5faebc314e54aef423e46230e963",
+    "name": "Hyundai Accent (TaGAZ) 2004",
+    "author": "panderlaike_design",
+    "authorUrl": "https://sketchfab.com/panderlaike_design",
+    "license": "CC Attribution"
+  }
+}

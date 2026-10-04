@@ -1,0 +1,25 @@
+{
+  "id": "mitsubishi-savrin-first-generation",
+  "make": "Mitsubishi",
+  "model": "Savrin",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mitsubishi_Savrin_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Savrin is a compact MPV produced and sold in Taiwan by China Motor Corporation and Japanese automaker Mitsubishi Motors. The first generation was a locally assembled rebadged Chariot Grandis, while the second generation, introduced in June 2004, is actually a heavily revised facelift of the same Chariot Grandis platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Savrin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mitsubishi_Savrin_001.jpg",
+  "sketchfab": null
+}

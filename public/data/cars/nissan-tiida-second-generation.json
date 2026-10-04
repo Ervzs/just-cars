@@ -1,0 +1,35 @@
+{
+  "id": "nissan-tiida-second-generation",
+  "make": "Nissan",
+  "model": "Tiida",
+  "generation": "Second generation",
+  "aka": [
+    "Tiida Latio",
+    "Dodge Trazo",
+    "Trazo by Dodge"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2017_Yulon-Nissan_Tiida_%28facelift%2C_front%29.jpg/960px-2017_Yulon-Nissan_Tiida_%28facelift%2C_front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Tiida  is a compact car produced by the Japanese manufacturer Nissan from 2004 to 2023 through three generations. Depending on the market, the Tiida was also marketed as a subcompact car, particularly in the Americas for the first-generation model as the Nissan Versa. The first-generation model (C11) was produced up to 2018 in some markets, and was offered as a four-door sedan and a five-door hatchback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Tiida",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2017_Yulon-Nissan_Tiida_%28facelift%2C_front%29.jpg/1920px-2017_Yulon-Nissan_Tiida_%28facelift%2C_front%29.jpg",
+  "sketchfab": {
+    "uid": "121108a79a0449c9b668acbb22fcf72d",
+    "name": "2011 Nissan Versa SL Hatchback / Tiida Emotion",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

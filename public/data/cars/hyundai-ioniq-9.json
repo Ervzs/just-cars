@@ -2,6 +2,10 @@
   "id": "hyundai-ioniq-9",
   "make": "Hyundai",
   "model": "Ioniq 9",
+  "generation": null,
+  "aka": [
+    "Ioniq 7"
+  ],
   "years": [
     2026,
     2027
@@ -23,6 +27,9 @@
     "mpgCombined": 92,
     "evRangeMiles": 335
   },
+  "variants": [
+    "Ioniq 9"
+  ],
   "description": "The Hyundai Ioniq 9 is a battery electric mid-size crossover SUV with three-row seating produced by Hyundai since 2025.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_9",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hyundai_Ioniq_9_IMG_5950.jpg/1920px-Hyundai_Ioniq_9_IMG_5950.jpg",

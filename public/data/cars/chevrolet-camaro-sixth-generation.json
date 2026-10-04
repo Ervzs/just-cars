@@ -1,0 +1,57 @@
+{
+  "id": "chevrolet-camaro-sixth-generation",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Sixth generation",
+  "aka": [
+    "Chevy Camaro",
+    "Camaro Z28",
+    "Camaro B4C",
+    "Camaro Convertible",
+    "Panther",
+    "Chevy Panther",
+    "The Chevrolet Camaro",
+    "Camaro GT"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/960px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 26,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camaro"
+  ],
+  "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet, classified as a pony car. It first went on sale on September 29, 1966, for the 1967 model year, and was designed to compete with the Ford Mustang. The Camaro shared its platform and major components with the Firebird, produced by General Motors' Pontiac division that was also introduced for the 1967 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/1920px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg",
+  "sketchfab": {
+    "uid": "c7ea648fc99940779dbd84d51adaa37e",
+    "name": "Chevrolet Camaro | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bmw-x1-second-generation",
+  "make": "BMW",
+  "model": "X1",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2018_BMW_X1_sDrive18i_xLine_1.5_Front.jpg/960px-2018_BMW_X1_sDrive18i_xLine_1.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X1"
+  ],
+  "description": "The BMW X1 is a line of cars produced by German marque BMW since 2009. It is in the subcompact luxury crossover class, and the first-generation X1 was based on the E90 3 Series and offered rear-wheel drive layout as standard. The X1 essentially is aiming at a wider range of customers due to its smaller size, increased efficiency, and a lower price tag due to the all-wheel drive layout (xDrive) being optional.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X1",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2018_BMW_X1_sDrive18i_xLine_1.5_Front.jpg/1920px-2018_BMW_X1_sDrive18i_xLine_1.5_Front.jpg",
+  "sketchfab": {
+    "uid": "4ca3a2247af44e51919074565ed93486",
+    "name": "2020 BMW X1 xDrive 18d",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "geely-boyue-first-generation",
+  "make": "Geely",
+  "model": "Boyue",
+  "generation": "First generation",
+  "aka": [
+    "Proton PX7",
+    "Atlas",
+    "Azkarra",
+    "Farizon FX",
+    "Boyue Cool",
+    "Boyue L",
+    "Volga K40",
+    "Cityray"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Geely_Boyue_01_China_2016-04-07.jpg/960px-Geely_Boyue_01_China_2016-04-07.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Boyue is a compact SUV produced by the Chinese automaker Geely Auto.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Boyue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Geely_Boyue_01_China_2016-04-07.jpg/1280px-Geely_Boyue_01_China_2016-04-07.jpg",
+  "sketchfab": {
+    "uid": "5671608915794a8d941ae66d67285aa9",
+    "name": "Geely Boyue 2018",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

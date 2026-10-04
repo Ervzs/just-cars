@@ -1,0 +1,51 @@
+{
+  "id": "chevrolet-malibu-eighth-generation",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "generation": "Eighth generation",
+  "aka": [
+    "Malibu Maxx",
+    "Chevy mailbu",
+    "Chevy Malibu",
+    "Chevy Malibu Classic",
+    "Malibu Classic",
+    "Malibu Hybrid",
+    "GM Malibu",
+    "Holden Malibu"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2013_Chevrolet_Malibu_Eco_1SA_--_02-29-2012_1.JPG/960px-2013_Chevrolet_Malibu_Eco_1SA_--_02-29-2012_1.JPG",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Malibu"
+  ],
+  "description": "The Chevrolet Malibu is a mid-size car manufactured and marketed by Chevrolet from 1964 to 1983 and from 1997 to 2025. The Malibu began as a trim-level of the Chevrolet Chevelle before becoming its own model line in 1978. Originally a rear-wheel-drive intermediate, General Motors revived the Malibu nameplate as a front-wheel-drive car in 1997.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Malibu",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2013_Chevrolet_Malibu_Eco_1SA_--_02-29-2012_1.JPG/1920px-2013_Chevrolet_Malibu_Eco_1SA_--_02-29-2012_1.JPG",
+  "sketchfab": {
+    "uid": "54f54a00c222499085c314b6ce22ca4a",
+    "name": "Chevrolet Malibu 2013",
+    "author": "Q.SARDOR",
+    "authorUrl": "https://sketchfab.com/qsardor57913",
+    "license": "Free Standard"
+  }
+}

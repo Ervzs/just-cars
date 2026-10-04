@@ -2,6 +2,11 @@
   "id": "gmc-hummer-ev",
   "make": "GMC",
   "model": "Hummer EV",
+  "generation": null,
+  "aka": [
+    "Hummer",
+    "HEV"
+  ],
   "years": [
     2024,
     2025
@@ -23,6 +28,9 @@
     "mpgCombined": 53,
     "evRangeMiles": 318
   },
+  "variants": [
+    "Hummer EV"
+  ],
   "description": "The GMC Hummer EV is a line of battery electric heavy-duty vehicles produced by General Motors since 2021, and sold under the GMC mark. The Hummer EV is offered in two variants: a pickup truck and a sport utility vehicle (SUV), unveiled in October 2020 and April 2021 respectively.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Hummer_EV",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/1920px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg",

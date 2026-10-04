@@ -1,0 +1,44 @@
+{
+  "id": "kia-bongo-third-generation",
+  "make": "Kia",
+  "model": "Bongo",
+  "generation": "Third generation",
+  "aka": [
+    "Bongo Frontier",
+    "Bongo III",
+    "K-Series",
+    "Besta",
+    "K2700",
+    "K2900",
+    "K2500",
+    "Ceres"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Kia_K2700.JPG/960px-Kia_K2700.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Bongo, also known as the Kia K-Series or Kia Besta, is a cabover pickup truck and van produced by the South Korean automobile manufacturer Kia since 1980.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Bongo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Kia_K2700.JPG/960px-Kia_K2700.JPG",
+  "sketchfab": {
+    "uid": "ed899eb00c8f4fe2a5cd0d9418e3d5f8",
+    "name": "Kia Bongo Frontier 1999",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

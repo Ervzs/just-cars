@@ -2,6 +2,8 @@
   "id": "bentley-brooklands",
   "make": "Bentley",
   "model": "Brooklands",
+  "generation": null,
+  "aka": [],
   "years": [
     2009,
     2010
@@ -23,6 +25,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "Brooklands"
+  ],
   "description": "Bentley Brooklands is the name of two distinct models produced by British automobile manufacturer Bentley Motors. The first Brooklands was a full-size luxury saloon, launched in 1992 to replace the Bentley Mulsanne and in turn succeeded by the Bentley Arnage in 1998.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Brooklands",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1995_Bentley_Brooklands_LWB%2C_fL_%28Lime_Rock%29.jpg/1920px-1995_Bentley_Brooklands_LWB%2C_fL_%28Lime_Rock%29.jpg",

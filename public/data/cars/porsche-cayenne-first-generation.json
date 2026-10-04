@@ -1,0 +1,56 @@
+{
+  "id": "porsche-cayenne-first-generation",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "generation": "First generation",
+  "aka": [
+    "Porche cayenne",
+    "Cayenne S",
+    "Cayenne Turbo",
+    "Cayenne Turbo S",
+    "Roxster",
+    "Cayenne Hybrid",
+    "957",
+    "Cayenne S Hybrid"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2810%29.jpg/960px-Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2810%29.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cayenne"
+  ],
+  "description": "The Porsche Cayenne is a series of automobiles manufactured by the German company Porsche since 2002. It is an E-segment luxury crossover SUV, and has been described as both a full-size and a mid-size vehicle. The first generation was known within Porsche as the Type 9PA (955/957) or E1. It was the first V8-engined vehicle built by Porsche since 1995, when the Porsche 928 was discontinued. It is also Porsche's first off-road vehicle since its Super and Junior tractors of the 1950s, as well as the first production Porsche with four doors. Since 2014, the Cayenne has been sold alongside a smaller Porsche SUV, the Macan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Cayenne",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2810%29.jpg/1280px-Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2810%29.jpg",
+  "sketchfab": {
+    "uid": "b52a9d6e47ed440a93986a5b955b6d64",
+    "name": "2009 Porsche Cayenne Turbo S",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

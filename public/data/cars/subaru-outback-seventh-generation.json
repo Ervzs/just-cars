@@ -1,0 +1,46 @@
+{
+  "id": "subaru-outback-seventh-generation",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Seventh generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2026_Subaru_Outback_Wilderness%2C_front_NYIAS_2025.jpg/960px-2026_Subaru_Outback_Wilderness%2C_front_NYIAS_2025.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outback"
+  ],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2026_Subaru_Outback_Wilderness%2C_front_NYIAS_2025.jpg/1920px-2026_Subaru_Outback_Wilderness%2C_front_NYIAS_2025.jpg",
+  "sketchfab": {
+    "uid": "0afec05fc27044c783f2acd63de29d5e",
+    "name": "Subaru Outback",
+    "author": "fvrenbld",
+    "authorUrl": "https://sketchfab.com/890244234",
+    "license": "CC Attribution"
+  }
+}

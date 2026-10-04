@@ -1,0 +1,47 @@
+{
+  "id": "genesis-g90-first-generation",
+  "make": "Genesis",
+  "model": "G90",
+  "generation": "First generation",
+  "aka": [
+    "EQ900"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg/960px-2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "G90"
+  ],
+  "description": "The Genesis G90 is a full-size car manufactured since 2015 by the South Korean company Genesis, the luxury division of Hyundai Motor Company. It is the flagship model of the Genesis lineup. A four-door sedan, the G90 is the successor of the Hyundai Equus and was known as the Genesis EQ900 in South Korea from 2015 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_G90",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg/1920px-2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg",
+  "sketchfab": {
+    "uid": "8fada3242a6c46d993557f976e7747e8",
+    "name": "Genesis G90 2017",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

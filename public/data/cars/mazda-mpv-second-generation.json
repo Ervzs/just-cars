@@ -1,0 +1,52 @@
+{
+  "id": "mazda-mpv-second-generation",
+  "make": "Mazda",
+  "model": "MPV",
+  "generation": "Second generation",
+  "aka": [
+    "Efini MPV",
+    "Mazda8",
+    "8",
+    "Ɛ̃fini MPV",
+    "Haima HMC6450"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2005_Mazda_MPV.jpg/960px-2005_Mazda_MPV.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MPV"
+  ],
+  "description": "The Mazda MPV is a minivan manufactured by Mazda. Introduced in 1988 as a rear-wheel-drive model with optional selectable four-wheel drive, this was replaced in 1999 with a front-wheel-drive version with optional all-wheel-drive in some markets. Over one million MPV models have been produced since its introduction.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_MPV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2005_Mazda_MPV.jpg/1920px-2005_Mazda_MPV.jpg",
+  "sketchfab": {
+    "uid": "d1418e5b19b748b480e9fd19696a69ae",
+    "name": "2002 Mazda MPV (LW)",
+    "author": "Res1n",
+    "authorUrl": "https://sketchfab.com/Res1n",
+    "license": "CC Attribution"
+  }
+}

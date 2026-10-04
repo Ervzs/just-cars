@@ -2,6 +2,17 @@
   "id": "tesla-model-3",
   "make": "Tesla",
   "model": "Model 3",
+  "generation": null,
+  "aka": [
+    "BlueStar",
+    "Model E",
+    "Model III",
+    "3",
+    "III",
+    "E",
+    "Model 三",
+    "ME"
+  ],
   "years": [
     2017,
     2018,
@@ -32,6 +43,9 @@
     "mpgCombined": 111,
     "evRangeMiles": 316
   },
+  "variants": [
+    "Model 3"
+  ],
   "description": "The Tesla Model 3 is a battery electric powered mid-size sedan with a fastback body style built by Tesla, Inc., introduced in 2017. The Model 3 was marketed as a more affordable option compared to Tesla's previous vehicles, the Model S and Model X. The Model 3 was the world's top-selling plug-in electric car for three years, from 2018 to 2020, before the Tesla Model Y, a crossover SUV based on the Model 3 chassis, took the top spot. In June 2021, the Model 3 became the first electric car to pass global sales of 1 million.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg/1920px-Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg",

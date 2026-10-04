@@ -2,6 +2,11 @@
   "id": "chevrolet-ss",
   "make": "Chevrolet",
   "model": "SS",
+  "generation": null,
+  "aka": [
+    "SS Sedan",
+    "Chevy SS"
+  ],
   "years": [
     2014,
     2015,
@@ -25,6 +30,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "SS"
+  ],
   "description": "The Chevrolet SS is a performance full-size sedan sold by Chevrolet from 2013 to 2017, as a rebadge of the Holden Commodore exclusive to the United States. It was sold in the 2014–2017 model years.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_SS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chevrolet_SS_%2812057799956%29.jpg/1920px-Chevrolet_SS_%2812057799956%29.jpg",

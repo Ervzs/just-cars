@@ -1,0 +1,44 @@
+{
+  "id": "isuzu-d-max-third-generation",
+  "make": "Isuzu",
+  "model": "D-Max",
+  "generation": "Third generation",
+  "aka": [
+    "Chevrolet T-Series",
+    "Chevrolet LUV D-Max",
+    "Chevrolet D-Max",
+    "Duogongnengche",
+    "Rodeo Denver",
+    "LB",
+    "Pickup Truck",
+    "D-Max EV"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2025_Isuzu_D-Max_X-Rider_front.jpg/960px-2025_Isuzu_D-Max_X-Rider_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu D-Max is a compact pickup truck and mid-size pickup truck manufactured since 2002 by Isuzu. It is a successor to the Isuzu Faster/KB. The first and second-generation model shares its platform with the Chevrolet Colorado. The third-generation model shares its platform with the third-generation Mazda BT-50, which is produced in the same Isuzu plant in Thailand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_D-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2025_Isuzu_D-Max_X-Rider_front.jpg/1920px-2025_Isuzu_D-Max_X-Rider_front.jpg",
+  "sketchfab": {
+    "uid": "5b4443c246b34b79bb2504c4c4a87f1a",
+    "name": "2021 Isuzu D-Max",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

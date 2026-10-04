@@ -1,0 +1,46 @@
+{
+  "id": "toyota-prius-nhw11",
+  "make": "Toyota",
+  "model": "Prius",
+  "generation": "NHW11",
+  "aka": [
+    "Prius II",
+    "Thepri.us",
+    "Pryus",
+    "Prius Touring",
+    "Prii",
+    "Prium",
+    "Priuses",
+    "Prien"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/1st-Toyota-Prius.jpg/960px-1st-Toyota-Prius.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 42,
+    "mpgHighway": 41,
+    "mpgCombined": 41,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prius"
+  ],
+  "description": "The Toyota Prius   is a car produced by Toyota since 1997 over five generations. The Prius has a hybrid drivetrain, called Hybrid Synergy Drive, which combines an internal combustion engine and an electric motor. Initially offered as a subcompact four-door saloon, it has been produced only as a compact five-door liftback since 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/1st-Toyota-Prius.jpg/1280px-1st-Toyota-Prius.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "mazda-tribute-second-generation",
+  "make": "Mazda",
+  "model": "Tribute",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/08_Mazda_Tribute.jpg/960px-08_Mazda_Tribute.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 28,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tribute"
+  ],
+  "description": "The Mazda Tribute  is a compact SUV made by Japanese automaker Mazda from 2000 to 2011. It was jointly developed with Ford Motor Company and based on the front-wheel drive Mazda 626 platform, which was in turn the basis for the similar Ford Escape on the CD2 platform. The Tribute was priced below the Ford Escape and Mercury Mariner in Ford's CD2 SUV lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Tribute",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/08_Mazda_Tribute.jpg/1920px-08_Mazda_Tribute.jpg",
+  "sketchfab": {
+    "uid": "270532cd0ba0488db3dcc32aedcf8481",
+    "name": "Mazda Tribute",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

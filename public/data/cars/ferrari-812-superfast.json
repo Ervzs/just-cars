@@ -2,18 +2,29 @@
   "id": "ferrari-812-superfast",
   "make": "Ferrari",
   "model": "812 Superfast",
+  "generation": null,
+  "aka": [
+    "812",
+    "812 GTS",
+    "812 GTO",
+    "Tipo F152M",
+    "812 Competizione"
+  ],
   "years": [
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022,
+    2023,
+    2024
   ],
   "vehicleClass": "Two Seaters",
   "fuelType": "Premium",
   "engine": "6.5L 12-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ferrari_812_Superfast_S-A_6.5.jpg/960px-2019_Ferrari_812_Superfast_S-A_6.5.jpg",
   "has3d": true,
-  "representativeYear": 2021,
+  "representativeYear": 2024,
   "specs": {
     "engine": "6.5L 12-cyl",
     "displacementL": 6.5,
@@ -22,9 +33,14 @@
     "drive": "Rear-Wheel Drive",
     "mpgCity": 12,
     "mpgHighway": 16,
-    "mpgCombined": 13,
+    "mpgCombined": 14,
     "evRangeMiles": null
   },
+  "variants": [
+    "812 Superfast",
+    "812 GTS",
+    "812 Competizione"
+  ],
   "description": "The Ferrari 812 Superfast is a front mid-engine, rear-wheel-drive grand tourer produced by the Italian sports car manufacturer Ferrari that made its debut at the 2017 Geneva Motor Show. The 812 Superfast is the successor to the F12berlinetta.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_812_Superfast",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ferrari_812_Superfast_S-A_6.5.jpg/1920px-2019_Ferrari_812_Superfast_S-A_6.5.jpg",

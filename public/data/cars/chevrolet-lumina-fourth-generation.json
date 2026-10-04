@@ -1,0 +1,53 @@
+{
+  "id": "chevrolet-lumina-fourth-generation",
+  "make": "Chevrolet",
+  "model": "Lumina",
+  "generation": "Fourth generation",
+  "aka": [
+    "Lumina LTZ",
+    "Chevy Lumina",
+    "Lumina Z34",
+    "Lumina Ute"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Chevrolet_Lumina_SS_%28VE%29_2007-2011.jpg/960px-Chevrolet_Lumina_SS_%28VE%29_2007-2011.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Lumina is a mid-size car that was produced and marketed by Chevrolet from the 1990 to 2001 model years. Serving as the combined successor for both the Chevrolet Celebrity and Chevrolet Monte Carlo, the Lumina was sold as both a two-door coupe and a four-door sedan. Serving as the largest front-wheel drive Chevrolet, the model line was slotted below the Caprice Classic in the Chevrolet line.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Lumina",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Chevrolet_Lumina_SS_%28VE%29_2007-2011.jpg/1920px-Chevrolet_Lumina_SS_%28VE%29_2007-2011.jpg",
+  "sketchfab": {
+    "uid": "53a74508ad1f47ac913c70f35161a576",
+    "name": "Chevrolet Lumina NASCAR Mello Yello",
+    "author": "SpatialNeglect",
+    "authorUrl": "https://sketchfab.com/jeandiz",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

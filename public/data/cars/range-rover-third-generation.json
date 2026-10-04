@@ -1,0 +1,57 @@
+{
+  "id": "range-rover-third-generation",
+  "make": "Land Rover",
+  "model": "Range Rover",
+  "generation": "Third generation",
+  "aka": [
+    "Range Rovers",
+    "Range Rover II",
+    "Range Rover Vogue",
+    "Range Rover Hybrid",
+    "Range Rover TDV8 Vogue SE",
+    "Rover Range Rover"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2006_Range_Rover_TD6_Vogue_-_Flickr_-_The_Car_Spy_%2812%29.jpg/960px-2006_Range_Rover_TD6_Vogue_-_Flickr_-_The_Car_Spy_%2812%29.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Range Rover"
+  ],
+  "description": "Range Rover is a 4×4 luxury marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and since 2022 is in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Range_Rover",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2006_Range_Rover_TD6_Vogue_-_Flickr_-_The_Car_Spy_%2812%29.jpg/1280px-2006_Range_Rover_TD6_Vogue_-_Flickr_-_The_Car_Spy_%2812%29.jpg",
+  "sketchfab": {
+    "uid": "3454824aab8545578f6a155d64dea273",
+    "name": "2011 Land Rover Range Rover Evoque",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

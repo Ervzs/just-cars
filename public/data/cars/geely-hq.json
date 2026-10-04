@@ -1,0 +1,33 @@
+{
+  "id": "geely-hq",
+  "make": "Geely",
+  "model": "HQ",
+  "generation": null,
+  "aka": [
+    "Haoqing",
+    "Haoqing HQ6360"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2003_Geely_Haoqing_%28HQ%29_JL6360E1%2C_front_8.12.18.jpg/960px-2003_Geely_Haoqing_%28HQ%29_JL6360E1%2C_front_8.12.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely HQ is a subcompact car produced by Chinese manufacturer Geely Automobile from 1998 to 2006.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_HQ",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2003_Geely_Haoqing_%28HQ%29_JL6360E1%2C_front_8.12.18.jpg/1920px-2003_Geely_Haoqing_%28HQ%29_JL6360E1%2C_front_8.12.18.jpg",
+  "sketchfab": null
+}

@@ -2,6 +2,8 @@
   "id": "cadillac-xts-limo",
   "make": "Cadillac",
   "model": "XTS Limo",
+  "generation": null,
+  "aka": [],
   "years": [
     2013,
     2014,
@@ -14,7 +16,7 @@
   "vehicleClass": "Special Purpose Vehicle 2WD",
   "fuelType": "Regular",
   "engine": "3.6L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1994_Cadillac_Fleetwood%2C_front_left%2C_11-04-2022.jpg/960px-1994_Cadillac_Fleetwood%2C_front_left%2C_11-04-2022.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2019,
   "specs": {
@@ -28,8 +30,11 @@
     "mpgCombined": 17,
     "evRangeMiles": null
   },
-  "description": "The Cadillac Fleetwood is a full-size luxury sedan that was marketed by Cadillac from the 1977 through 1996 model years. Taking its nameplate from a coachbuilder historically associated with the General Motors division, the Cadillac Fleetwood became a stand-alone model line in 1985.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Fleetwood",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1994_Cadillac_Fleetwood%2C_front_left%2C_11-04-2022.jpg/1920px-1994_Cadillac_Fleetwood%2C_front_left%2C_11-04-2022.jpg",
+  "variants": [
+    "XTS Limo"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

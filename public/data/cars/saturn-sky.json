@@ -2,6 +2,8 @@
   "id": "saturn-sky",
   "make": "Saturn",
   "model": "SKY",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008,
@@ -11,7 +13,7 @@
   "vehicleClass": "Two Seaters",
   "fuelType": "Regular",
   "engine": "2.0L 4-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Saturn_corporation_logo.png/960px-Saturn_corporation_logo.png",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2010,
   "specs": {
@@ -25,8 +27,11 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
-  "description": "The Saturn Corporation, also known as Saturn LLC, was an American automobile manufacturer, a registered trademark established on January 7, 1985, as a subsidiary of General Motors. The company was an attempt by GM to compete directly with Japanese imports and transplants, initially in the American compact car market. The company was known for its \"no-haggle\" sales technique.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Corporation",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Saturn_corporation_logo.png/1920px-Saturn_corporation_logo.png",
+  "variants": [
+    "SKY"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

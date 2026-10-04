@@ -2,6 +2,8 @@
   "id": "bmw-ix3",
   "make": "BMW",
   "model": "iX3",
+  "generation": null,
+  "aka": [],
   "years": [
     2027
   ],
@@ -9,7 +11,7 @@
   "fuelType": "Electricity",
   "engine": null,
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/BMW_iX3_50_xDrive_M_Sportpaket_Pro_%28NA5%29_%E2%80%93_f_17052026.jpg/960px-BMW_iX3_50_xDrive_M_Sportpaket_Pro_%28NA5%29_%E2%80%93_f_17052026.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2027,
   "specs": {
     "engine": null,
@@ -22,8 +24,17 @@
     "mpgCombined": 102,
     "evRangeMiles": 383
   },
+  "variants": [
+    "iX3"
+  ],
   "description": "The BMW iX3 (NA5) is a battery electric compact luxury crossover SUV manufactured by BMW, succeeding the X3-based G08. Unlike its predecessor, it is built on the Neue Klasse platform, no longer sharing its platform with its counterpart (G45). A long-wheelbase version, codenamed NA6, is slated to release in the Chinese market in 2026. The car is the first to use this new design language of BMW and was first shown in 2024 at the Paris Auto Show.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_iX3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/BMW_iX3_50_xDrive_M_Sportpaket_Pro_%28NA5%29_%E2%80%93_f_17052026.jpg/1920px-BMW_iX3_50_xDrive_M_Sportpaket_Pro_%28NA5%29_%E2%80%93_f_17052026.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "18a952b3599f4f81ade570eb0ceccdf4",
+    "name": "2021 BMW iX3",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
 }

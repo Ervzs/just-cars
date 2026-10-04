@@ -1,0 +1,48 @@
+{
+  "id": "suzuki-vitara-fourth-generation",
+  "make": "Suzuki",
+  "model": "Vitara",
+  "generation": "Fourth generation",
+  "aka": [
+    "Sidekick",
+    "Grand Vitara",
+    "Maruti Grand Vitara",
+    "Chevrolet Grand Vitara",
+    "Chevrolet Vitara",
+    "Mazda Proceed Levante",
+    "Nomade",
+    "Escudo"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2018_Suzuki_Vitara_S_Boosterjet_Allgrip_1.4.jpg/960px-2018_Suzuki_Vitara_S_Boosterjet_Allgrip_1.4.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Vitara is a series of SUVs produced by Suzuki in five generations since 1988. The second and third generation were known as the Suzuki Grand Vitara, while the fourth generation eschewed the \"Grand\" prefix. In Japan and a number of other markets, all generations have used the name Suzuki Escudo  until 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Vitara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2018_Suzuki_Vitara_S_Boosterjet_Allgrip_1.4.jpg/1920px-2018_Suzuki_Vitara_S_Boosterjet_Allgrip_1.4.jpg",
+  "sketchfab": {
+    "uid": "1a5cbddc8acb457e9d896d7345fd07d8",
+    "name": "2022 Maruti Suzuki Vitara Brezza",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

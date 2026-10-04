@@ -2,6 +2,14 @@
   "id": "mercedes-benz-r-class",
   "make": "Mercedes-Benz",
   "model": "R-Class",
+  "generation": null,
+  "aka": [
+    "W251",
+    "Vision GST",
+    "R350",
+    "Mercedes R Class",
+    "Mercedes R"
+  ],
   "years": [
     2006,
     2007,
@@ -29,6 +37,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "R-Class"
+  ],
   "description": "The Mercedes-Benz R-Class is a mid-size luxury MPV introduced by Mercedes-Benz in 2005 for the 2006 model year. Following the success of the smaller A- and B-Class MPVs, Mercedes in collaboration with coachbuilder Stola presented a concept vehicle, Vision GST, at the 2002 Detroit Auto Show and a second one, Vision R presented at the 2004 Detroit Auto Show, subsequently introducing the production version at 2005 New York International Auto Show. The R-Class was manufactured in Vance, Alabama until 2015 when its production was shifted to Mishawaka, Indiana for a smaller volume production until 2017.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_R-Class",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg/1920px-2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg",

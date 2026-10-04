@@ -1,0 +1,25 @@
+{
+  "id": "byd-tang-l",
+  "make": "BYD",
+  "model": "Tang L",
+  "generation": null,
+  "aka": [
+    "Atto 8"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg/960px-BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Tang L is a mid-size SUV manufactured by BYD Auto since 2025. Available with battery electric (EV) and plug-in hybrid (DM-i) powertrains, it is part of the BYD Tang series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Tang_L",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg/1920px-BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg",
+  "sketchfab": null
+}

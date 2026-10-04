@@ -2,6 +2,8 @@
   "id": "mclaren-automotive-sabre",
   "make": "McLaren Automotive",
   "model": "Sabre",
+  "generation": null,
+  "aka": [],
   "years": [
     2020
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Sabre"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

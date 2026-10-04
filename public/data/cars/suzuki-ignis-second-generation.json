@@ -1,0 +1,36 @@
+{
+  "id": "suzuki-ignis-second-generation",
+  "make": "Subaru",
+  "model": "Suzuki Ignis",
+  "generation": "Second generation",
+  "aka": [
+    "G3X Justy",
+    "Suzuki Ignis S1600",
+    "Maruti Suzuki Ignis"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Suzuki_Ignis_-_wn%C4%99trze_%28MSP17%29.jpg/960px-Suzuki_Ignis_-_wn%C4%99trze_%28MSP17%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Ignis  was an automobile nameplate that was first produced by Suzuki in 2000 as a subcompact car, replacing the Suzuki Cultus, and subsequently as a crossover-styled city car from 2016 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ignis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Suzuki_Ignis_-_wn%C4%99trze_%28MSP17%29.jpg/1920px-Suzuki_Ignis_-_wn%C4%99trze_%28MSP17%29.jpg",
+  "sketchfab": null
+}

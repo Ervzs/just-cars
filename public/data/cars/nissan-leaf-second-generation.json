@@ -1,0 +1,55 @@
+{
+  "id": "nissan-leaf-second-generation",
+  "make": "Nissan",
+  "model": "Leaf",
+  "generation": "Second generation",
+  "aka": [
+    "Zero Emission Fund",
+    "Venucia Morning Wind",
+    "2021 nissan leaf",
+    "Nismo Leaf",
+    "Mitsubishi Eclipse Sportback EV",
+    "Mitsubishi Eclipse Sportback"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2024_Nissan_Leaf_e%2B_G.jpg/960px-2024_Nissan_Leaf_e%2B_G.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 123,
+    "mpgHighway": 99,
+    "mpgCombined": 111,
+    "evRangeMiles": 149
+  },
+  "variants": [
+    "Leaf",
+    "LEAF"
+  ],
+  "description": "The Nissan Leaf  is a battery electric car produced by Nissan since 2010. It was offered exclusively as a 5-door hatchback until 2025, when it became a crossover SUV model. The term \"LEAF\" serves as a backronym to leading environmentally-friendly affordable family car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Leaf",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2024_Nissan_Leaf_e%2B_G.jpg/1920px-2024_Nissan_Leaf_e%2B_G.jpg",
+  "sketchfab": {
+    "uid": "7536c5ec58b84e63ada6e4953f5c9f35",
+    "name": "2018 Nissan Leaf Nismo RC Concept",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

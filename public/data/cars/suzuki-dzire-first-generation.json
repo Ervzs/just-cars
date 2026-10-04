@@ -1,0 +1,30 @@
+{
+  "id": "suzuki-dzire-first-generation",
+  "make": "Suzuki",
+  "model": "Dzire",
+  "generation": "First generation",
+  "aka": [
+    "Maruti Suzuki Swift DZire",
+    "Maruti DZiRE",
+    "Maruti Swift Dzire",
+    "Maruti Suzuki Dzire",
+    "Swift Dzire"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Nitol_Tata_Rallycross_Championship_2014%2C_Dhaka_%283%29_%28cropped%29.jpg/960px-Nitol_Tata_Rallycross_Championship_2014%2C_Dhaka_%283%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Dzire is a subcompact notchback sedan manufactured and marketed by Suzuki since 2008, primarily for India — as a sedan variant of the Swift hatchback over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Dzire",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Nitol_Tata_Rallycross_Championship_2014%2C_Dhaka_%283%29_%28cropped%29.jpg/1920px-Nitol_Tata_Rallycross_Championship_2014%2C_Dhaka_%283%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "lexus-gx-first-generation",
+  "make": "Lexus",
+  "model": "GX",
+  "generation": "First generation",
+  "aka": [
+    "GX 470",
+    "GX 460"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "4.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lexus_GX_470_%28UZJ120%29_IMG_3345.jpg/960px-Lexus_GX_470_%28UZJ120%29_IMG_3345.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "4.7L 8-cyl",
+    "displacementL": 4.7,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GX"
+  ],
+  "description": "The Lexus GX  is a mid/full-size luxury SUV sold in North American and Eurasian markets by Lexus, a luxury division of Toyota. The GX is based on the Toyota Land Cruiser Prado, from which it derives its off-road capability.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lexus_GX_470_%28UZJ120%29_IMG_3345.jpg/1920px-Lexus_GX_470_%28UZJ120%29_IMG_3345.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "toyota-rav4-ev-second-generation",
+  "make": "Toyota",
+  "model": "RAV4 EV",
+  "generation": "Second generation",
+  "aka": [
+    "RAV4 EV Concept"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Toyota_RAV4_EV_WAS_2012_0791.JPG/960px-Toyota_RAV4_EV_WAS_2012_0791.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota RAV4 EV is an all-electric version of the popular RAV4 SUV produced by Toyota until 2014. Two generations of the EV model were sold in California, and to fleets elsewhere in the US, with a gap of almost ten years between them.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Toyota_RAV4_EV_WAS_2012_0791.JPG/1920px-Toyota_RAV4_EV_WAS_2012_0791.JPG",
+  "sketchfab": null
+}

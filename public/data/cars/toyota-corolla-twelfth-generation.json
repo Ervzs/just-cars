@@ -1,0 +1,57 @@
+{
+  "id": "toyota-corolla-twelfth-generation",
+  "make": "Toyota",
+  "model": "Corolla",
+  "generation": "Twelfth generation",
+  "aka": [
+    "Altis",
+    "Corolla Sprinter",
+    "Seca",
+    "Corolla Seca",
+    "Corolla AE70",
+    "corolla gts",
+    "Corolla 80",
+    "Axio"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg/960px-2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 50,
+    "mpgHighway": 43,
+    "mpgCombined": 47,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corolla"
+  ],
+  "description": "The Toyota Corolla  is a series of compact cars manufactured and marketed globally by the Japanese automaker Toyota Motor Corporation since 1966. Since 1997, the Corolla has remained the best-selling automobile nameplate of all time, surpassing the Volkswagen Beetle. Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021, and has sold over 54 million units as of early 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg/1920px-2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg",
+  "sketchfab": {
+    "uid": "6d7d34ee42734d1ab28a6b1f1c5fc4fc",
+    "name": "Toyota Corolla 2020",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

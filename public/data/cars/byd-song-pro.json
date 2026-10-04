@@ -1,0 +1,31 @@
+{
+  "id": "byd-song-pro",
+  "make": "BYD",
+  "model": "Song Pro",
+  "generation": null,
+  "aka": [
+    "Sealion 5 DM-i"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg/960px-BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Song Pro is a compact SUV manufactured by BYD Auto since 2019. It is part of the BYD Song series of SUVs that are named after the Song dynasty.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Song_Pro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg/1920px-BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg",
+  "sketchfab": null
+}

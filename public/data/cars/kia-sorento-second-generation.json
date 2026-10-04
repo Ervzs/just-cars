@@ -1,0 +1,48 @@
+{
+  "id": "kia-sorento-second-generation",
+  "make": "Kia",
+  "model": "Sorento",
+  "generation": "Second generation",
+  "aka": [
+    "Naza Sorento",
+    "Sorentos",
+    "Sorrento"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kia_Sorento_2.2_CRDi_AWD_Spirit_%28XM%29_%E2%80%93_Frontansicht%2C_15._Juli_2012%2C_D%C3%BCsseldorf.jpg/960px-Kia_Sorento_2.2_CRDi_AWD_Spirit_%28XM%29_%E2%80%93_Frontansicht%2C_15._Juli_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sorento"
+  ],
+  "description": "The Kia Sorento is a series of two-wheel drive and four-wheel drive family SUVs manufactured by the South Korean manufacturer Kia since 2002 through four generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sorento transitioned to a larger car-based platform which placed it into the mid-size crossover SUV class, and has been developed alongside the Hyundai Santa Fe. It is presumed to be named after the Italian city of Sorrento, though Kia did not confirm this. However, Kia released the cryptic post teasing the launch of Sorento in India featuring the image of Piazza Tasso located in Sorrento, Italy.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sorento",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kia_Sorento_2.2_CRDi_AWD_Spirit_%28XM%29_%E2%80%93_Frontansicht%2C_15._Juli_2012%2C_D%C3%BCsseldorf.jpg/1920px-Kia_Sorento_2.2_CRDi_AWD_Spirit_%28XM%29_%E2%80%93_Frontansicht%2C_15._Juli_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "2f99d72b6bd7412390109be7c9cf7929",
+    "name": "Kia Sorento 2009",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

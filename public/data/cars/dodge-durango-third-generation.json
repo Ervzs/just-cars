@@ -1,0 +1,61 @@
+{
+  "id": "dodge-durango-third-generation",
+  "make": "Dodge",
+  "model": "Durango",
+  "generation": "Third generation",
+  "aka": [
+    "Chrysler Aspen",
+    "Chrysler Aspen Hybrid",
+    "Durango Hybrid",
+    "1997 Dodge Durango",
+    "Durango Shelby"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2011_Dodge_Durango_Citadel_--_06-16-2011.jpg/960px-2011_Dodge_Durango_Citadel_--_06-16-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Durango"
+  ],
+  "description": "The Dodge Durango is a mid-size SUV produced by Dodge starting with the 1998 model year. The first two generations were very similar in that both were based on the Dodge Dakota and Dodge Ram, both featured a body-on-frame construction and both were produced at the Newark Assembly Plant in Newark, Delaware through the 2009 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Durango",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2011_Dodge_Durango_Citadel_--_06-16-2011.jpg/1920px-2011_Dodge_Durango_Citadel_--_06-16-2011.jpg",
+  "sketchfab": {
+    "uid": "b47b29c04e8648cfb7e8b2263de65e10",
+    "name": "2012 Dodge Durango Citadel",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

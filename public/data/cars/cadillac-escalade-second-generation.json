@@ -1,0 +1,29 @@
+{
+  "id": "cadillac-escalade-second-generation",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "generation": "Second generation",
+  "aka": [
+    "Escalade EXT",
+    "Escalade ESV",
+    "Escalade Hybrid",
+    "Escalade IQL",
+    "escalade iq",
+    "Escalade v"
+  ],
+  "years": [
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/960px-Cadillac_Escalade_ESV_--_12-05-2011.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Cadillac Escalade is a full-size luxury SUV manufactured by General Motors and marketed by Cadillac as its first major entry into the SUV market. The Escalade was introduced for the 1999 model year in response to an influx of new luxury SUVs during the late 1990s, including the Mercedes-Benz M-Class, Range Rover, Lexus LX, and Lincoln Navigator. The Escalade project went into production only ten months after it was approved. The Escalade is built at Arlington Assembly in Arlington, Texas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Escalade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1920px-Cadillac_Escalade_ESV_--_12-05-2011.jpg",
+  "sketchfab": null
+}

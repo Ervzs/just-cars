@@ -1,0 +1,55 @@
+{
+  "id": "kia-carnival-second-generation",
+  "make": "Kia",
+  "model": "Carnival",
+  "generation": "Second generation",
+  "aka": [
+    "Sedona",
+    "Hyundai Entourage",
+    "Naza Ria",
+    "Carnival & Sedona",
+    "Grand Carnival"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2007_Kia_Sedona_LS_3.0_Front.jpg/960px-2007_Kia_Sedona_LS_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sedona",
+    "Entourage"
+  ],
+  "description": "The Kia Carnival is a minivan manufactured by the South Korean automaker Kia since 1998, formerly marketed as the Kia Sedona in North America and several other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carnival",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2007_Kia_Sedona_LS_3.0_Front.jpg/1920px-2007_Kia_Sedona_LS_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "855c464351f244cbaafa8269a5d472df",
+    "name": "Kia Carnival 2011",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

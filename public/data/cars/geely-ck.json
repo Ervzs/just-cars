@@ -1,0 +1,34 @@
+{
+  "id": "geely-ck",
+  "make": "Geely",
+  "model": "CK",
+  "generation": null,
+  "aka": [
+    "7151CK",
+    "CK7151",
+    "Otaka",
+    "Englon SC3"
+  ],
+  "years": [
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gleagle_Ziyoujian_--_Auto_Chongqing_--_2012-06-07.jpg/960px-Gleagle_Ziyoujian_--_Auto_Chongqing_--_2012-06-07.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely CK is a subcompact sedan produced by the Chinese manufacturer Geely Auto from May 2005 to January 2016. The CK's Chinese name, Ziyoujian, stands for \"Freedom Ship\" or \"Free Cruiser\". It was sold as the Geely Otaka on the Russian market in 2007–2008. The car was also sold as the Gleagle CK in the Chinese domestic market, part of Geely's recent proliferation of brands.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_CK",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gleagle_Ziyoujian_--_Auto_Chongqing_--_2012-06-07.jpg/1280px-Gleagle_Ziyoujian_--_Auto_Chongqing_--_2012-06-07.jpg",
+  "sketchfab": {
+    "uid": "91c0320a9f404c8da186b17ea3be9c03",
+    "name": "Geely CK",
+    "author": "maregajavier",
+    "authorUrl": "https://sketchfab.com/maregajavier",
+    "license": "CC Attribution"
+  }
+}

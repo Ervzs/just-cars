@@ -1,0 +1,38 @@
+{
+  "id": "kia-telluride-second-generation",
+  "make": "Kia",
+  "model": "Telluride",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kia_Telluride_X-Pro_SX_Prestige_AWD_%282026%29_%2855210459138%29.jpg/960px-Kia_Telluride_X-Pro_SX_Prestige_AWD_%282026%29_%2855210459138%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Telluride"
+  ],
+  "description": "The Kia Telluride is a mid-size crossover SUV with three-row seating manufactured and marketed by Kia since 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Telluride",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kia_Telluride_X-Pro_SX_Prestige_AWD_%282026%29_%2855210459138%29.jpg/1920px-Kia_Telluride_X-Pro_SX_Prestige_AWD_%282026%29_%2855210459138%29.jpg",
+  "sketchfab": {
+    "uid": "37a5e910c2704a47b75aba7066a46099",
+    "name": "Kia_telluride_x_line_2027",
+    "author": "vinishows-1753d1",
+    "authorUrl": "https://sketchfab.com/vinishows-1753d1",
+    "license": "CC Attribution"
+  }
+}

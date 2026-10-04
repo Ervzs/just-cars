@@ -1,0 +1,37 @@
+{
+  "id": "mitsubishi-carisma",
+  "make": "Mitsubishi",
+  "model": "Carisma",
+  "generation": null,
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mitsubishi_Carisma_front_20071205.jpg/960px-Mitsubishi_Carisma_front_20071205.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Carisma is a large family car that was produced for the European market by Mitsubishi Motors from 1995 to 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Carisma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mitsubishi_Carisma_front_20071205.jpg/1280px-Mitsubishi_Carisma_front_20071205.jpg",
+  "sketchfab": {
+    "uid": "c3baff657abd4423a0a26739dc0cab63",
+    "name": "Mitsubishi Carisma",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

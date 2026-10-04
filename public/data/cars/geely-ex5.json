@@ -1,0 +1,35 @@
+{
+  "id": "geely-ex5",
+  "make": "Geely",
+  "model": "EX5",
+  "generation": null,
+  "aka": [
+    "Proton eMas 7",
+    "Starship 7",
+    "Galaxy E5",
+    "E5"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Geely_Galaxy_E5_003_%28cropped%29.jpg/960px-Geely_Galaxy_E5_003_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely EX5, or the Geely Galaxy E5 in China, is a battery electric compact SUV produced and manufactured by the Chinese automaker Geely Auto since 2024 and co-developed with Malaysian automaker Proton.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_EX5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Geely_Galaxy_E5_003_%28cropped%29.jpg/1920px-Geely_Galaxy_E5_003_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "5c0f6a8defeb4b178a4c2e1f82c8f53b",
+    "name": "geely ex5 2026",
+    "author": "vinishows-1753d1",
+    "authorUrl": "https://sketchfab.com/vinishows-1753d1",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "daihatsu-mira-gino-first-generation",
+  "make": "Daihatsu",
+  "model": "Mira Gino",
+  "generation": "First generation",
+  "aka": [
+    "Trevis"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Daihatsu_Miragino1000.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Mira Gino  is a kei car/city car with distinctive retro styling made by the Japanese automaker Daihatsu from 1999 to 2009. It is based on the more mainstream Mira and was first introduced to the Japanese market in 1999, with the second generation model following in 2004. The Mira Gino replaced the Mira Classic which is a subvariant of the L500 series Mira. The second generation model was also exported as the Daihatsu Trevis to some markets in Europe such as Germany, the Netherlands, Italy, Gibraltar and France.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Mira_Gino",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Daihatsu_Miragino1000.JPG",
+  "sketchfab": null
+}

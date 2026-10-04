@@ -1,0 +1,58 @@
+{
+  "id": "chevrolet-cruze-second-generation",
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "generation": "Second generation",
+  "aka": [
+    "Holden Cruze",
+    "Chevy Cruze",
+    "Daewoo Lacetti Premiere",
+    "Holden JG Cruze",
+    "Holden YG Cruze",
+    "Chevy cruise",
+    "Cruise"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2018_Chevrolet_Cruze_Premier_RS_package%2C_5-door_hatchback_in_Kinetic_Blue_Metallic%2C_front_left.jpg/960px-2018_Chevrolet_Cruze_Premier_RS_package%2C_5-door_hatchback_in_Kinetic_Blue_Metallic%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 38,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cruze"
+  ],
+  "description": "The Chevrolet Cruze is a compact car produced by General Motors from 2008 through 2023. It was designated as a globally developed, designed, and manufactured four-door compact sedan, complemented by a five-door hatchback body variant from 2011, and a station wagon in 2012. The Cruze replaced several compact models, including the Chevrolet Optra which was sold internationally under various names, the Chevrolet Cobalt sold exclusively in North America, and the Australasian-market Holden Astra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cruze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2018_Chevrolet_Cruze_Premier_RS_package%2C_5-door_hatchback_in_Kinetic_Blue_Metallic%2C_front_left.jpg/1920px-2018_Chevrolet_Cruze_Premier_RS_package%2C_5-door_hatchback_in_Kinetic_Blue_Metallic%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "b937fade4be74b94b5f4bbdee26a6568",
+    "name": "2018 Chevrolet Cruze Premier RS",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

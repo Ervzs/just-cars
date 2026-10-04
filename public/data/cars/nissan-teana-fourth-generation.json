@@ -1,0 +1,29 @@
+{
+  "id": "nissan-teana-fourth-generation",
+  "make": "Nissan",
+  "model": "Teana",
+  "generation": "Fourth generation",
+  "aka": [
+    "Cefiro J35",
+    "Teana J31",
+    "Teana J32",
+    "Cefiro A34",
+    "Teana Plus"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/NISSAN_TEANA_%28L34%29_China_%283%29.jpg/960px-NISSAN_TEANA_%28L34%29_China_%283%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Teana  is a mid-size sedan produced by Japanese automobile manufacturer Nissan. It was exported as the Nissan Maxima and Nissan Cefiro to certain markets. It replaces the Nissan Bluebird, Laurel and Cefiro. It shares a platform with the Nissan Maxima and Nissan Altima which are sold in North America, as well as the Japanese market Presage minivan. The Teana has been available in East Asia, Russia, Ukraine, South Asia, Southeast Asia, Australia, New Zealand, Latin America and the Caribbean.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Teana",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/NISSAN_TEANA_%28L34%29_China_%283%29.jpg/1920px-NISSAN_TEANA_%28L34%29_China_%283%29.jpg",
+  "sketchfab": null
+}

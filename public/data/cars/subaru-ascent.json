@@ -2,6 +2,10 @@
   "id": "subaru-ascent",
   "make": "Subaru",
   "model": "Ascent",
+  "generation": null,
+  "aka": [
+    "Evoltis"
+  ],
   "years": [
     2019,
     2020,
@@ -30,6 +34,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ascent"
+  ],
   "description": "The Subaru Ascent is a mid-size crossover SUV produced by Subaru. In some markets, it is sold as the Subaru Evoltis. It is the largest automobile Subaru manufactures. The seven or eight-seat passenger SUV, with the design based on the VIZIV-7 concept, made its debut at the LA Auto Show on November 28, 2017, and became available in the third quarter of 2018. It has an American-built predecessor, the Tribeca. The Ascent is not available in Japan.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Ascent",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Subaru_Ascent_IMG_3632.jpg/1920px-Subaru_Ascent_IMG_3632.jpg",

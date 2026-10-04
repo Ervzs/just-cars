@@ -1,0 +1,33 @@
+{
+  "id": "suzuki-mr-wagon-second-generation",
+  "make": "Nissan",
+  "model": "Suzuki MR Wagon",
+  "generation": "Second generation",
+  "aka": [
+    "Moco",
+    "Maruti Zen Estilo",
+    "Maruti Estilo",
+    "Maruti Estillo",
+    "Suzuki Karimun Estilo",
+    "Suzuki Zen Estilo"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2nd_Suzuki_Mrwagon.jpg/960px-2nd_Suzuki_Mrwagon.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki MR Wagon is a 4-seater kei car manufactured by Suzuki for the Japanese market only, and also marketed in Japan by Nissan as the Nissan Moco under an OEM agreement. The model debuted in 2001, and since 2011 it has been in its third generation. The first generation was also produced and sold in India by Maruti Suzuki as Maruti Suzuki Zen Estilo, which was launched in 2006. This was renamed the Maruti Suzuki Estilo in 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_MR_Wagon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2nd_Suzuki_Mrwagon.jpg/1920px-2nd_Suzuki_Mrwagon.jpg",
+  "sketchfab": null
+}

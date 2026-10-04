@@ -1,0 +1,43 @@
+{
+  "id": "honda-prelude-sixth-generation",
+  "make": "Honda",
+  "model": "Prelude",
+  "generation": "Sixth generation",
+  "aka": [
+    "Prelude INX"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Honda_Prelude_e-HEV_Advance_%28VI%29_%E2%80%93_s_03042026.jpg/960px-Honda_Prelude_e-HEV_Advance_%28VI%29_%E2%80%93_s_03042026.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 46,
+    "mpgHighway": 41,
+    "mpgCombined": 44,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prelude"
+  ],
+  "description": "The Honda Prelude  is a sport compact car produced by the Japanese company Honda. It was produced over five generations from 1978 to 2001, and reintroduced in 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Prelude",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Honda_Prelude_e-HEV_Advance_%28VI%29_%E2%80%93_s_03042026.jpg/1920px-Honda_Prelude_e-HEV_Advance_%28VI%29_%E2%80%93_s_03042026.jpg",
+  "sketchfab": {
+    "uid": "b79b0854100a41e39e2dfdb76a4d0de0",
+    "name": "Honda Prelude",
+    "author": "Blue3D",
+    "authorUrl": "https://sketchfab.com/Blueberry12",
+    "license": "CC Attribution"
+  }
+}

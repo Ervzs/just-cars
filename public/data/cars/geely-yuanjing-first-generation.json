@@ -1,0 +1,35 @@
+{
+  "id": "geely-yuanjing-first-generation",
+  "make": "Geely",
+  "model": "Yuanjing",
+  "generation": "First generation",
+  "aka": [
+    "Vision",
+    "Gleagle GC7",
+    "Englon SC7",
+    "Haijing",
+    "SMA Haijing",
+    "Maple Haijing"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Geely_Yuanjing_China_2012-04-15.jpg/960px-Geely_Yuanjing_China_2012-04-15.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Yuanjing is a four-door compact sedan produced by the Chinese automaker Geely Auto under the Yuanjing or Vision product series. It is the first commercial car produced by Geely Automobiles. The car was first introduced in 2006. It carries the first CVVT engine designed and made in China. The car was named Geely Tiger, Biaowang and Luhu, but it was later renamed \"Vision\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Yuanjing",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Geely_Yuanjing_China_2012-04-15.jpg/1280px-Geely_Yuanjing_China_2012-04-15.jpg",
+  "sketchfab": null
+}

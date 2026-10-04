@@ -1,0 +1,25 @@
+{
+  "id": "hyundai-exter",
+  "make": "Hyundai",
+  "model": "Exter",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Hyundai_Exter_SX_%28O%29.png/500px-2023_Hyundai_Exter_SX_%28O%29.png",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Exter is an (A-segment) crossover city car manufactured by the South Korean automaker Hyundai since 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Exter",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Hyundai_Exter_SX_%28O%29.png/500px-2023_Hyundai_Exter_SX_%28O%29.png",
+  "sketchfab": null
+}

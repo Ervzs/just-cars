@@ -1,0 +1,42 @@
+{
+  "id": "shelby-mustang-ford-performance-3rd-generation-shelby-gt350",
+  "make": "Shelby",
+  "model": "Mustang",
+  "generation": "Ford Performance 3rd generation Shelby GT350",
+  "aka": [
+    "GT350",
+    "GT500",
+    "Ford Shelby GT",
+    "Ford Shelby GT500",
+    "Mustang Cobra",
+    "Mustang shelby",
+    "Ford Shelby GT-H",
+    "Mustang GT500"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_Ford_Mustang_Shelby_GT350_%28cropped%29.JPG/960px-2016_Ford_Mustang_Shelby_GT350_%28cropped%29.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Shelby Mustang is a high-performance variant of the Ford Mustang built by Shelby American from 1965 to 1967 and by the Ford Motor Company from 1968 to 1970.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shelby_Mustang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_Ford_Mustang_Shelby_GT350_%28cropped%29.JPG/1920px-2016_Ford_Mustang_Shelby_GT350_%28cropped%29.JPG",
+  "sketchfab": {
+    "uid": "5e864cfc33294b34b7a43c96646bc9f4",
+    "name": "2020 Ford Mustang Shelby GT500",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

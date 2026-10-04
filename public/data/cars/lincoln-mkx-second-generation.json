@@ -1,0 +1,50 @@
+{
+  "id": "lincoln-mkx-second-generation",
+  "make": "Lincoln",
+  "model": "MKX",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lincoln_MKX_%2812%29_%28cropped%29.JPG/960px-Lincoln_MKX_%2812%29_%28cropped%29.JPG",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MKX"
+  ],
+  "description": "The Lincoln MKX is a mid-size luxury crossover SUV manufactured by Ford Motor Company and marketed its Lincoln brand over two generations, as a rebadged variant of the Ford Edge crossover, for both generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lincoln_MKX_%2812%29_%28cropped%29.JPG/1920px-Lincoln_MKX_%2812%29_%28cropped%29.JPG",
+  "sketchfab": {
+    "uid": "b6fba619098b4eb8a0caceb0d6dc2e6b",
+    "name": "Lincoln Mkx 2016",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

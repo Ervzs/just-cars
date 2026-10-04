@@ -1,0 +1,50 @@
+{
+  "id": "bmw-4-series-second-generation",
+  "make": "BMW",
+  "model": "4 Series",
+  "generation": "Second generation",
+  "aka": [
+    "4",
+    "Four Series",
+    "4 Series Gran Coupé"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2020_BMW_420i_Sport_Automatic_2.0.jpg/960px-2020_BMW_420i_Sport_Automatic_2.0.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "4 Series"
+  ],
+  "description": "The BMW 4 Series is a range of compact executive cars manufactured by BMW since 2013. The 4 Series was created when BMW spun off the 2-door models of the 3 Series into a separate series. The 4 Series is currently in its second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_4_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2020_BMW_420i_Sport_Automatic_2.0.jpg/1920px-2020_BMW_420i_Sport_Automatic_2.0.jpg",
+  "sketchfab": {
+    "uid": "3d507e8432494480b31bdc0dcdcf51d5",
+    "name": "2021 BMW 430i xDrive Coupé (4-Series)",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

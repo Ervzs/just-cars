@@ -1,0 +1,40 @@
+{
+  "id": "haval-h6-third-generation",
+  "make": "Haval",
+  "model": "H6",
+  "generation": "Third generation",
+  "aka": [
+    "Havel H6",
+    "Great Wall Haval H6",
+    "H6S",
+    "Great Wall H6",
+    "H6 HEV"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Haval_H6_Supreme%2B_Edition_IMG002.jpg/960px-Haval_H6_Supreme%2B_Edition_IMG002.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H6 is a compact crossover SUV produced by the Chinese manufacturer Great Wall Motor under the Haval marque since 2011. It was introduced at the 2011 Shanghai Auto Show. It produced with both front-wheel-drive and four-wheel-drive drivetrain.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Haval_H6_Supreme%2B_Edition_IMG002.jpg/1920px-Haval_H6_Supreme%2B_Edition_IMG002.jpg",
+  "sketchfab": {
+    "uid": "d64c7c8ebc90403f9070c979b41385f2",
+    "name": "Haval H6 2025 HEV",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

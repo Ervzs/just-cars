@@ -1,0 +1,48 @@
+{
+  "id": "chevrolet-bolt-second-generation",
+  "make": "Chevrolet",
+  "model": "Bolt",
+  "generation": "Second generation",
+  "aka": [
+    "Chevy Bolt",
+    "Chevy Bolt EV",
+    "Bolt EV",
+    "Opel Ampera-e",
+    "Vauxhall Ampera-e",
+    "Bolt EUV",
+    "Cruise AV"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2027_Chevrolet_Bolt_au_SIAM_2026.JPG/960px-2027_Chevrolet_Bolt_au_SIAM_2026.JPG",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 134,
+    "mpgHighway": 106,
+    "mpgCombined": 120,
+    "evRangeMiles": 262
+  },
+  "variants": [
+    "BOLT"
+  ],
+  "description": "The Chevrolet Bolt is a family of battery electric subcompact hatchbacks and small crossover SUVs manufactured and marketed by General Motors under its Chevrolet brand from late 2016, with hiatuses in 2021-2022 and 2023–2025. The 2017-2023 Bolt EV are hatchbacks, while the 2021-2023 Bolt EUV and 2027 Bolt are slightly larger subcompact crossover SUVs.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Bolt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2027_Chevrolet_Bolt_au_SIAM_2026.JPG/1920px-2027_Chevrolet_Bolt_au_SIAM_2026.JPG",
+  "sketchfab": {
+    "uid": "f8090f78b2e54cf6833ce8eb000bcb04",
+    "name": "Chevrolet Bolt EV",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

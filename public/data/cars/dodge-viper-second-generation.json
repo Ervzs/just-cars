@@ -1,0 +1,55 @@
+{
+  "id": "dodge-viper-second-generation",
+  "make": "Dodge",
+  "model": "Viper",
+  "generation": "Second generation",
+  "aka": [
+    "Vipers",
+    "Viper SRT-10",
+    "Viper Competition Coupe",
+    "Viper GTS",
+    "Chrysler Viper",
+    "Viper E85",
+    "Viper ACR",
+    "Viper GTS ACR"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.0L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Dodge_Viper_GTS.jpg/960px-Red_Dodge_Viper_GTS.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "8.0L 10-cyl",
+    "displacementL": 8,
+    "cylinders": 10,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 10,
+    "mpgHighway": 19,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Viper"
+  ],
+  "description": "The Dodge Viper is an American sports car that was manufactured by Dodge, a division of American car manufacturer Chrysler. First showcased in 1989 at the North American International Auto Show as a interpretative concept car of a modern-era AC Cobra, production of the two-seat sports car later began at New Mack Assembly Plant in 1991 and moved to Conner Avenue Assembly Plant in October 1995. Five generations of the Viper were developed from 1991 until 2017, with a brief hiatus in 2007 and between 2011 and 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Viper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Dodge_Viper_GTS.jpg/960px-Red_Dodge_Viper_GTS.jpg",
+  "sketchfab": {
+    "uid": "f3e0a0cbd9504f57b3010d54ba46e557",
+    "name": "Dodge Viper GTS-R Oreca 1999 | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kia-cadenza-first-generation",
+  "make": "Kia",
+  "model": "Cadenza",
+  "generation": "First generation",
+  "aka": [
+    "K7"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/0_Kia_K7_%28VG%29_4.jpg/960px-0_Kia_K7_%28VG%29_4.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cadenza"
+  ],
+  "description": "The Kia Cadenza, also known in South Korea as Kia K7 is a full-size/executive car manufactured by Kia, produced from 2009 to 2021. It was first launched in 2009 to replace the Opirus/Amanti.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cadenza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/0_Kia_K7_%28VG%29_4.jpg/1920px-0_Kia_K7_%28VG%29_4.jpg",
+  "sketchfab": null
+}

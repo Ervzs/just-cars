@@ -1,0 +1,27 @@
+{
+  "id": "honda-spirior-first-generation",
+  "make": "Honda",
+  "model": "Spirior",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Honda_Spirior_Type_S_China_2012-07-19.jpg/960px-Honda_Spirior_Type_S_China_2012-07-19.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Spirior is a mid-size sedan produced by Honda. It was introduced from 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Spirior",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Honda_Spirior_Type_S_China_2012-07-19.jpg/1280px-Honda_Spirior_Type_S_China_2012-07-19.jpg",
+  "sketchfab": null
+}

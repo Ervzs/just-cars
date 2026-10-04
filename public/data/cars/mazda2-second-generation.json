@@ -1,0 +1,47 @@
+{
+  "id": "mazda2-second-generation",
+  "make": "Mazda",
+  "model": "Mazda2",
+  "generation": "Second generation",
+  "aka": [
+    "2",
+    "Hazumi",
+    "Scion iA",
+    "Toyota Yaris R",
+    "Toyota Yaris iA",
+    "Tamura"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg/960px-2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 34,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "2"
+  ],
+  "description": "The Mazda 2  is a subcompact/supermini (B-segment) car, which has been available as a 4-door sedan and a 5 door hatchback manufactured and marketed by Mazda since 2002, currently in its third generation. An entry-level model of the brand in markets outside Japan, the Mazda2 is positioned below the Mazda3. The Mazda2 has also been marketed as the Mazda Demio, while its direct predecessor was exported as the Mazda 121.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg/1920px-2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg",
+  "sketchfab": null
+}

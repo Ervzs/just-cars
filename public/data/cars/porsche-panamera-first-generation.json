@@ -1,0 +1,52 @@
+{
+  "id": "porsche-panamera-first-generation",
+  "make": "Porsche",
+  "model": "Panamera",
+  "generation": "First generation",
+  "aka": [
+    "Panamera Gran Turismo",
+    "Panamera S E-Hybrid",
+    "Panamera S Hybrid",
+    "970",
+    "971"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_Panamera_4S_front_20100428.jpg/960px-Porsche_Panamera_4S_front_20100428.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Panamera"
+  ],
+  "description": "The Porsche Panamera is a mid- to full-sized luxury car manufactured and marketed by German automobile manufacturer Porsche. It currently spans across three generations, using a front-engine and rear- or all-wheel drive configuration.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Panamera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_Panamera_4S_front_20100428.jpg/1920px-Porsche_Panamera_4S_front_20100428.jpg",
+  "sketchfab": {
+    "uid": "bf9186606d40493fb72274ff40f4269d",
+    "name": "2010 Porsche Panamera Turbo",
+    "author": "Galaxy Car Showroom",
+    "authorUrl": "https://sketchfab.com/adrianaflak09",
+    "license": "CC Attribution"
+  }
+}

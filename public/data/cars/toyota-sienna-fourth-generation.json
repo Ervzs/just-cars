@@ -1,0 +1,51 @@
+{
+  "id": "toyota-sienna-fourth-generation",
+  "make": "Toyota",
+  "model": "Sienna",
+  "generation": "Fourth generation",
+  "aka": [
+    "Siena",
+    "2011 Toyota Sienna",
+    "Sienna minivans",
+    "Toyotasienna"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2022_Toyota_Sienna_XSE%2C_front_3.29.22.jpg/960px-2022_Toyota_Sienna_XSE%2C_front_3.29.22.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 36,
+    "mpgHighway": 36,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sienna"
+  ],
+  "description": "The Toyota Sienna is a minivan manufactured and marketed by Toyota primarily for the North American market. It is named for the Italian city of Siena, in the region of Tuscany. It replaced the first generation Previa van, and the Toyota Camry wagon in 1997 with a more conventional front-wheel drive layout and shares a heavily revised platform with the Camry. Both the Previa and original Sienna were smaller than the other minivans they competed against, but a redesign in 2003 increased the dimensions to match those of its competitors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sienna",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2022_Toyota_Sienna_XSE%2C_front_3.29.22.jpg/1920px-2022_Toyota_Sienna_XSE%2C_front_3.29.22.jpg",
+  "sketchfab": {
+    "uid": "ffaca377098d44c296fd0a1b3167c75f",
+    "name": "2022 Toyota Sienna XSE",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

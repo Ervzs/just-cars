@@ -1,0 +1,30 @@
+{
+  "id": "chevrolet-cavalier-fourth-generation",
+  "make": "Chevrolet",
+  "model": "Cavalier",
+  "generation": "Fourth generation",
+  "aka": [
+    "Toyota Cavalier",
+    "Chevy Cavalier",
+    "Z24"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2018_SAIC-GM-Chevrolet_Cavalier%2C_front_8.8.18.jpg/960px-2018_SAIC-GM-Chevrolet_Cavalier%2C_front_8.8.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Cavalier is a line of compact cars produced by Chevrolet. Serving as the replacement of the Chevrolet Monza, the Cavalier was the second Chevrolet model line to adopt front-wheel drive. Three versions of the Cavalier have been sold, including three generations sold in North America from model years 1982 to 2005, a version produced by SAIC-GM for China from 2016 to 2021, and a SAIC-GM version produced for Mexico since the 2019 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cavalier",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2018_SAIC-GM-Chevrolet_Cavalier%2C_front_8.8.18.jpg/1920px-2018_SAIC-GM-Chevrolet_Cavalier%2C_front_8.8.18.jpg",
+  "sketchfab": null
+}

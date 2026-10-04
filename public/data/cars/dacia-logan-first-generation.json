@@ -1,0 +1,38 @@
+{
+  "id": "dacia-logan-first-generation",
+  "make": "Nissan",
+  "model": "Dacia Logan",
+  "generation": "First generation",
+  "aka": [
+    "Renault Logan",
+    "Logan van",
+    "Logan MCV",
+    "Aprio",
+    "Mahindra Logan",
+    "NP200",
+    "Dacia Logan MCV",
+    "Renault Logan MCV"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dacia_Logan_Facelift_front_-_PSM_2009.jpg/960px-Dacia_Logan_Facelift_front_-_PSM_2009.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Dacia Logan is a family of automobiles produced and marketed jointly by the French manufacturer Renault and its Romanian subsidiary Dacia since mid-2004, and was the successor to the Dacia 1310 and Dacia Solenza. It has been produced as a sedan, station wagon, and as a pick-up. It has been manufactured at Dacia's automobile plant in Mioveni, Romania, and at Renault plants in Morocco, Argentina, Turkey, Russia, Colombia, Iran and India. The pick-up has also been produced at Nissan's plant in Rosslyn, South Africa.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dacia_Logan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dacia_Logan_Facelift_front_-_PSM_2009.jpg/1920px-Dacia_Logan_Facelift_front_-_PSM_2009.jpg",
+  "sketchfab": null
+}

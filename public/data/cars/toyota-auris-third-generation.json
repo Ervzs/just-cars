@@ -1,0 +1,39 @@
+{
+  "id": "toyota-auris-third-generation",
+  "make": "Scion",
+  "model": "Toyota Auris",
+  "generation": "Third generation",
+  "aka": [
+    "Toyota Blade",
+    "Toyota Auris HSD",
+    "Toyota Auris Hybrid",
+    "Toyota Auris HSD Full Hybrid Concept",
+    "Toyota Auris S2000",
+    "iM",
+    "Toyota iM",
+    "Toyota Corolla iM"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Toyota_Auris%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1626%29.jpg/960px-Toyota_Auris%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1626%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Auris  is a compact car derived from the Corolla, manufactured and sold by Toyota. Introduced in 2006, the first generation three/five-door hatchback shared the platform with the E150 series Corolla, while the second generation five-door hatchback and estate car called \"Touring Sports\" uses the E180 platform. The \"Auris\" name is based on the Latin word for \"gold\", \"aurum\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Auris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Toyota_Auris%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1626%29.jpg/1920px-Toyota_Auris%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1626%29.jpg",
+  "sketchfab": null
+}

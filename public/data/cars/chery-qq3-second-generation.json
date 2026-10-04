@@ -1,0 +1,46 @@
+{
+  "id": "chery-qq3-second-generation",
+  "make": "Chery",
+  "model": "QQ3",
+  "generation": "Second generation",
+  "aka": [
+    "MVM 110",
+    "QQ3 EV",
+    "eQ",
+    "DR Zero",
+    "Chery-EQ"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Chery_QQ_II_China_2016-04-08.jpg/960px-Chery_QQ_II_China_2016-04-08.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery QQ3 is a city car and subcompact hatchback produced by the Chinese manufacturer Chery from May 2003. In 2006, Chery created a QQ-branded product line that included the original QQ, a sedan version called Chery QQ6 released in September 2006 and a three-door hatchback called Chery QQme released in June 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_QQ3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Chery_QQ_II_China_2016-04-08.jpg/1280px-Chery_QQ_II_China_2016-04-08.jpg",
+  "sketchfab": {
+    "uid": "8140ed878ad5440b8eae0bfcbc196b4e",
+    "name": "Chery QQ3 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

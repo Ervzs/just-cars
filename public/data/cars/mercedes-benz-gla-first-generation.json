@@ -1,0 +1,48 @@
+{
+  "id": "mercedes-benz-gla-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLA",
+  "generation": "First generation",
+  "aka": [
+    "GLA-Class",
+    "Mercedes GLA"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mercedes-Benz_GLA_200_CDI_Urban_%28X_156%29_%E2%80%93_Heckansicht%2C_30._August_2014%2C_D%C3%BCsseldorf.jpg/960px-Mercedes-Benz_GLA_200_CDI_Urban_%28X_156%29_%E2%80%93_Heckansicht%2C_30._August_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GLA-Class"
+  ],
+  "description": "The Mercedes-Benz GLA is a subcompact luxury crossover SUV manufactured and marketed by Mercedes-Benz over two generations. It is essentially the SUV equivalent of the A-Class, and the smallest SUV marketed by the brand. The production version was revealed in August 2013 ahead of the 2013 Frankfurt Auto Show in September 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mercedes-Benz_GLA_200_CDI_Urban_%28X_156%29_%E2%80%93_Heckansicht%2C_30._August_2014%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_GLA_200_CDI_Urban_%28X_156%29_%E2%80%93_Heckansicht%2C_30._August_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "5674a3983cb3493c899dab9d919f80ce",
+    "name": "2016 Mercedes-Benz GLA 200",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "toyota-raum-second-generation",
+  "make": "Toyota",
+  "model": "Raum",
+  "generation": "Second Generation",
+  "aka": [
+    "Raum-II"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2003_Toyota_Raum_02.jpg/960px-2003_Toyota_Raum_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Raum is 5-seater mini MPV that first appeared in May 1997. The second generation was released in May 2003. It was sold only in Japan at Toyota Netz retail sales channels.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Raum",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2003_Toyota_Raum_02.jpg/960px-2003_Toyota_Raum_02.jpg",
+  "sketchfab": null
+}

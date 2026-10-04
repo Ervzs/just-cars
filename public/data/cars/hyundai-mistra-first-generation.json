@@ -1,0 +1,28 @@
+{
+  "id": "hyundai-mistra-first-generation",
+  "make": "Hyundai",
+  "model": "Mistra",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_Beijing-Hyundai_Mistra%2C_front_8.4.18.jpg/960px-2016_Beijing-Hyundai_Mistra%2C_front_8.4.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Mistra is a mid-size sedan manufactured by Hyundai through the Beijing Hyundai joint venture in China. It slots between the Hyundai Elantra and Hyundai Sonata in Hyundai's Chinese vehicle line-up. The first generation was produced between 2013 and 2020 with a facelift launched in 2017, while the second generation was unveiled in 2020, with an electric version also available with a range of 520 km.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Mistra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_Beijing-Hyundai_Mistra%2C_front_8.4.18.jpg/1920px-2016_Beijing-Hyundai_Mistra%2C_front_8.4.18.jpg",
+  "sketchfab": null
+}

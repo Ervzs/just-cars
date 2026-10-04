@@ -1,0 +1,54 @@
+{
+  "id": "ford-f-series-fourteenth-generation",
+  "make": "Ford",
+  "model": "F-Series",
+  "generation": "Fourteenth generation",
+  "aka": [
+    "F150",
+    "F-100",
+    "F-250",
+    "F350",
+    "F1",
+    "F2",
+    "F-3",
+    "SVT Lightning"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2021_Ford_F-150_SuperCrew%2C_front_4.28.21.jpg/960px-2021_Ford_F-150_SuperCrew%2C_front_4.28.21.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "F150"
+  ],
+  "description": "The Ford F-Series is a series of light-duty trucks marketed and manufactured by the Ford Motor Company since model year 1948 as a range of full-size pickup trucks—positioned between Ford's Ranger and Super Duty pickup trucks. Alongside the F-150, the F-Series also includes the Super Duty series, which includes the heavier-duty F-250 through F-450 pickups, F-450/F-550 chassis cabs, and F-600/F-650/F-750 Class 6–8 commercial trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_F-Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2021_Ford_F-150_SuperCrew%2C_front_4.28.21.jpg/1920px-2021_Ford_F-150_SuperCrew%2C_front_4.28.21.jpg",
+  "sketchfab": {
+    "uid": "bec3e09ae1384fd99621a5cf78ef2876",
+    "name": "Ford F-Series F-250 2023",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

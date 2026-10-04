@@ -1,0 +1,46 @@
+{
+  "id": "hyundai-tucson-fifth-generation",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "generation": "Fifth generation",
+  "aka": [
+    "ix35",
+    "Tucson iX",
+    "Tucson Plug-in Hybrid",
+    "Tucson L",
+    "Tuscon"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2027_Hyundai_The_all-new_TUCSON_%28NX5%29_XRT_White_South_Korea_Front_end.jpg/960px-2027_Hyundai_The_all-new_TUCSON_%28NX5%29_XRT_White_South_Korea_Front_end.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 36,
+    "mpgHighway": 37,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tucson"
+  ],
+  "description": "The Hyundai Tucson is a compact crossover SUV produced by the South Korean manufacturer Hyundai. It is named after the city of Tucson, Arizona, U.S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Tucson",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2027_Hyundai_The_all-new_TUCSON_%28NX5%29_XRT_White_South_Korea_Front_end.jpg/960px-2027_Hyundai_The_all-new_TUCSON_%28NX5%29_XRT_White_South_Korea_Front_end.jpg",
+  "sketchfab": {
+    "uid": "e239ad27c5854f4189fe467ffb1ec303",
+    "name": "Hyundai ix35 (Tucson)",
+    "author": "Savelliy 07",
+    "authorUrl": "https://sketchfab.com/savelliy07",
+    "license": "CC Attribution"
+  }
+}

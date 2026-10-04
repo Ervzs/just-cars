@@ -1,0 +1,38 @@
+{
+  "id": "hyundai-i20-third-generation",
+  "make": "Hyundai",
+  "model": "i20",
+  "generation": "Third generation",
+  "aka": [
+    "Elite i20",
+    "i20 AP4",
+    "GB",
+    "i20n"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hyundai_i20_1.0_T-GDI_Trend_%28III%2C_Facelift%29_%E2%80%93_f_09022025.jpg/960px-Hyundai_i20_1.0_T-GDI_Trend_%28III%2C_Facelift%29_%E2%80%93_f_09022025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai i20 is a supermini car produced by Hyundai since 2008. The i20 made its debut at the Paris Motor Show in October 2008, and sits between the i10 and i30. The i20 replaces the Getz in nearly all of its markets, while several markets received the slightly larger Accent/Verna hatchback to replace it instead.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_i20",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hyundai_i20_1.0_T-GDI_Trend_%28III%2C_Facelift%29_%E2%80%93_f_09022025.jpg/1920px-Hyundai_i20_1.0_T-GDI_Trend_%28III%2C_Facelift%29_%E2%80%93_f_09022025.jpg",
+  "sketchfab": {
+    "uid": "ed61e7bd2fdb498aa97cb389b1440633",
+    "name": "2022 Hyundai i20 N Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

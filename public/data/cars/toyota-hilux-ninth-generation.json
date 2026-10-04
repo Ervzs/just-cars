@@ -1,0 +1,38 @@
+{
+  "id": "toyota-hilux-ninth-generation",
+  "make": "Toyota",
+  "model": "Hilux",
+  "generation": "Ninth generation",
+  "aka": [
+    "Hilux platform",
+    "Pickup",
+    "pickup trucks",
+    "Truck",
+    "Truck Maintenance",
+    "Truck Maintainence",
+    "Highlux",
+    "Hiluxes"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2025_Toyota_Hilux_Travo_Prerunner_Double-Cab_2.8_Premium.jpg/960px-2025_Toyota_Hilux_Travo_Prerunner_Double-Cab_2.8_Premium.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Hilux, stylised as HiLux and historically as Hi-Lux, is a series of pickup trucks produced and marketed by the Japanese automobile manufacturer Toyota. The majority of these vehicles are sold as a pickup truck or cab chassis, although they could be configured in a variety of body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Hilux",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2025_Toyota_Hilux_Travo_Prerunner_Double-Cab_2.8_Premium.jpg/1920px-2025_Toyota_Hilux_Travo_Prerunner_Double-Cab_2.8_Premium.jpg",
+  "sketchfab": {
+    "uid": "c42464054a614342841bf55ba718b64f",
+    "name": "2026 Toyota Hilux BEV",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

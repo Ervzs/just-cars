@@ -1,0 +1,38 @@
+{
+  "id": "ram-pickup-second-generation",
+  "make": "Ram",
+  "model": "pickup",
+  "generation": "Second generation",
+  "aka": [
+    "Dodge Ram 100",
+    "Dodge Ram 150",
+    "Chrysler BR platform",
+    "Chrysler BE platform",
+    "Chrysler DR platform",
+    "Dodge Ram Rumble Bee",
+    "Dodge Ram Daytona",
+    "Dodge Ram HEMI"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1996indyram.jpg/960px-1996indyram.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Ram pickup is a full-size pickup truck manufactured by Stellantis North America and marketed from 2010 onwards under the Ram Trucks brand. The current fifth-generation Ram debuted at the 2018 North American International Auto Show in Detroit, Michigan, in January of that year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_pickup",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1996indyram.jpg/1920px-1996indyram.jpg",
+  "sketchfab": null
+}

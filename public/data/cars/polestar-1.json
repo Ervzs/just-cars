@@ -2,6 +2,10 @@
   "id": "polestar-1",
   "make": "Polestar",
   "model": "1",
+  "generation": null,
+  "aka": [
+    "Volvo C90"
+  ],
   "years": [
     2020,
     2021
@@ -23,6 +27,9 @@
     "mpgCombined": 26,
     "evRangeMiles": 470
   },
+  "variants": [
+    "1"
+  ],
   "description": "The Polestar 1 is a 2-door plug-in hybrid sports car marketed by Polestar, then a brand of Volvo Cars. It was the first car produced by the company since becoming an independent car manufacturer in June 2017. Based on Volvo's Concept Coupé from 2013, the Polestar 1 is built on the Volvo Scalable Product Architecture platform and is powered by a hybrid powertrain, using a front-mounted engine and two electric motors at the rear. A limited production run of 1,500 cars took place over three years, from 2019 to 2022, for the left-hand drive market only. For an original MSRP of $156,500. Production took place in Chengdu, China, where the company's first production facility was built.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Polestar_1",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2021_Polestar_1_in_Magnesium%2C_front_left.jpg/1920px-2021_Polestar_1_in_Magnesium%2C_front_left.jpg",

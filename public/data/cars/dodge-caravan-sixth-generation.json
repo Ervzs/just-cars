@@ -1,0 +1,35 @@
+{
+  "id": "dodge-caravan-sixth-generation",
+  "make": "Dodge",
+  "model": "Caravan",
+  "generation": "Sixth generation",
+  "aka": [
+    "Grand Caravan"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2025_Chrysler_Grand_Caravan_SXT_in_Bright_White%2C_front_left%2C_2025-08-24.jpg/960px-2025_Chrysler_Grand_Caravan_SXT_in_Bright_White%2C_front_left%2C_2025-08-24.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Dodge Caravan is a series of minivans manufactured by Chrysler from the 1984 through 2020 model years. The Dodge version of the Chrysler minivans was marketed as both a passenger van and a cargo van. For 1987, the model line was joined by the long-wheelbase Dodge Grand Caravan. Produced in five generations across 36 model years, the Dodge Caravan is the second longest-lived Dodge nameplate. Initially marketed as the Dodge counterpart of the Plymouth Voyager, the Caravan was later slotted between the Voyager and the Chrysler Town & Country. Following the demise of Plymouth, the model line became the lowest-price Chrysler minivan, ultimately slotted below the Chrysler Pacifica.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Caravan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2025_Chrysler_Grand_Caravan_SXT_in_Bright_White%2C_front_left%2C_2025-08-24.jpg/1920px-2025_Chrysler_Grand_Caravan_SXT_in_Bright_White%2C_front_left%2C_2025-08-24.jpg",
+  "sketchfab": {
+    "uid": "eb10ec0715e14734b2440eec6b811274",
+    "name": "Dodge Caravan",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

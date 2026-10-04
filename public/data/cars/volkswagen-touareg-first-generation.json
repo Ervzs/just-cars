@@ -1,0 +1,51 @@
+{
+  "id": "volkswagen-touareg-first-generation",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "generation": "First generation",
+  "aka": [
+    "VW Touareg",
+    "Touareg R50",
+    "Race Touareg",
+    "Touraeg",
+    "R50",
+    "Toaureg R50",
+    "Toaureg",
+    "VW Toaureg"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2005_Volkswagen_Touareg_V6_Sport_Automatic_3.2_Front.jpg/960px-2005_Volkswagen_Touareg_V6_Sport_Automatic_3.2_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 19,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Touareg"
+  ],
+  "description": "The Volkswagen Touareg is a mid-size luxury crossover SUV produced by Volkswagen from August 2002 until March 2026. The vehicle takes its name from the nomadic Tuareg people, inhabitants of the Saharan interior in North Africa. It served as Volkswagen's flagship SUV throughout its production life and was built exclusively at the Volkswagen Bratislava Plant in Slovakia, with CKD assembly in Malaysia commencing in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touareg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2005_Volkswagen_Touareg_V6_Sport_Automatic_3.2_Front.jpg/1920px-2005_Volkswagen_Touareg_V6_Sport_Automatic_3.2_Front.jpg",
+  "sketchfab": {
+    "uid": "5c5bc1627726413d9b242e3cf3f0779e",
+    "name": "Volkswagen Touareg MK1 2002-2010",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

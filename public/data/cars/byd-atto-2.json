@@ -1,0 +1,32 @@
+{
+  "id": "byd-atto-2",
+  "make": "BYD",
+  "model": "Atto 2",
+  "generation": null,
+  "aka": [
+    "Yuan Up"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/BYD_Atto_2_IAA_2025_DSC_2131.jpg/960px-BYD_Atto_2_IAA_2025_DSC_2131.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Atto 2 is a subcompact SUV (B-segment) manufactured by BYD Auto since 2024. First sold in China as a battery electric vehicle called the BYD Yuan Up and part of the BYD Yuan series that is named after the Yuan dynasty, the Atto 2 was introduced in February 2024 and entered production in March 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Atto_2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/BYD_Atto_2_IAA_2025_DSC_2131.jpg/1920px-BYD_Atto_2_IAA_2025_DSC_2131.jpg",
+  "sketchfab": {
+    "uid": "2e04b67017ed49e982a1f0737eb7f0ae",
+    "name": "2024 BYD Atto 2",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

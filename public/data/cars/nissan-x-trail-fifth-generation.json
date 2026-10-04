@@ -1,0 +1,32 @@
+{
+  "id": "nissan-x-trail-fifth-generation",
+  "make": "Nissan",
+  "model": "X-Trail",
+  "generation": "Fifth generation",
+  "aka": [
+    "X-Trail FCHV",
+    "Dongfeng Fengdu MX6",
+    "Fengdu MX6"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nissan_X-Trail_%28T33%29_1X7A7179.jpg/960px-Nissan_X-Trail_%28T33%29_1X7A7179.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan X-Trail  is a compact crossover SUV produced by the Japanese automaker Nissan since 2000, replacing the Rasheen and Terrano II. Since 2018, it is positioned between the Qashqai and the larger Murano.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nissan_X-Trail_%28T33%29_1X7A7179.jpg/1920px-Nissan_X-Trail_%28T33%29_1X7A7179.jpg",
+  "sketchfab": {
+    "uid": "997a08cfe14a4ddb894e4201a3bbbcd0",
+    "name": "Nissan X-Trail | photogrammetry",
+    "author": "brScans",
+    "authorUrl": "https://sketchfab.com/bScans",
+    "license": "CC Attribution"
+  }
+}

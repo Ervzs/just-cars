@@ -2,6 +2,10 @@
   "id": "honda-element",
   "make": "Honda",
   "model": "Element",
+  "generation": null,
+  "aka": [
+    "Element SC"
+  ],
   "years": [
     2003,
     2004,
@@ -30,6 +34,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "Element"
+  ],
   "description": "The Honda Element  is a compact crossover SUV manufactured by Honda and marketed in North America over a single generation for model years 2003–2011, and noted for its boxy exterior styling with bi-parting side doors and its boxy, flexible interior layout.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Element",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/HondaElement-001.jpg/1920px-HondaElement-001.jpg",

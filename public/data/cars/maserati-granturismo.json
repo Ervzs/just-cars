@@ -1,7 +1,14 @@
 {
   "id": "maserati-granturismo",
   "make": "Maserati",
-  "model": "Granturismo",
+  "model": "GranTurismo",
+  "generation": null,
+  "aka": [
+    "GranCabrio",
+    "GranTurismo Sport",
+    "GranTurismo Folgore",
+    "MC GT4"
+  ],
   "years": [
     2008,
     2009,
@@ -36,6 +43,10 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "GranTurismo",
+    "Granturismo"
+  ],
   "description": "The Maserati GranTurismo and GranCabrio are a series of grand tourers produced by the Italian manufacturer Maserati, succeeding the Maserati Coupé and Spyder.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_GranTurismo",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/1920px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg",

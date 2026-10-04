@@ -1,0 +1,46 @@
+{
+  "id": "nissan-sentra-ninth-generation",
+  "make": "Nissan",
+  "model": "Sentra",
+  "generation": "Ninth generation",
+  "aka": [
+    "Tsuru",
+    "SE-R Spec-V",
+    "Spec V",
+    "Sentra SE-R Spec-V",
+    "Nissen Sentra"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg/960px-Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 38,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sentra"
+  ],
+  "description": "The Nissan Sentra is a series of automobiles manufactured by the Japanese automaker Nissan since 1982. Since 1999, the Sentra has been categorized as a compact car, while previously it occupied the subcompact class. Until 2006, Sentra was a rebadged version of the Japanese Nissan Sunny for markets outside of Japan, but since the 2013 model year, Sentra is a rebadged version of the Sylphy for markets outside of Japan. The Sentra nameplate is not used in Japan. Several other countries in Latin America sell their versions of the Sunny as the Sentra. In Mexico, the first three generations of the Sentra were known as the Nissan Tsuru, and the B13 model was sold under that name until 2017, alongside the updated models badged as Sentra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg/1280px-Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg",
+  "sketchfab": {
+    "uid": "4e261bd2d93a438ebdabf8cc6b41cf58",
+    "name": "Nissan Sentra B17",
+    "author": "Davidson",
+    "authorUrl": "https://sketchfab.com/Davidson741",
+    "license": "CC Attribution"
+  }
+}

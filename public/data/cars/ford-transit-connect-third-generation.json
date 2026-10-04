@@ -1,0 +1,50 @@
+{
+  "id": "ford-transit-connect-third-generation",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "generation": "Third generation",
+  "aka": [
+    "Tourneo Connect",
+    "Connect",
+    "Transit Tourneo Connect"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ford_Tourneo_Connect_Active_%283rd_generation%29_Leonberg_2022_1X7A0448.jpg/960px-Ford_Tourneo_Connect_Active_%283rd_generation%29_Leonberg_2022_1X7A0448.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 26,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Transit Connect",
+    "Transit T150 Wagon"
+  ],
+  "description": "The Ford Transit Connect is a compact panel van manufactured and marketed by Ford since 2002. Developed by Ford of Europe, the model line replaced sedan-based vans with a dedicated commercial vehicle platform. The model line is the second-smallest vehicle of the Ford Transit range, positioned between the Ford Transit Courier LAV and the Ford Transit Custom LCV/MPV. In line with other Ford Transit variants, passenger-oriented models are marketed as the Ford Tourneo Connect with side windows and rear seats.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ford_Tourneo_Connect_Active_%283rd_generation%29_Leonberg_2022_1X7A0448.jpg/1920px-Ford_Tourneo_Connect_Active_%283rd_generation%29_Leonberg_2022_1X7A0448.jpg",
+  "sketchfab": {
+    "uid": "8d6747a50a3b47c98ce6bedb626c0a77",
+    "name": "Photoscanned Ford Transit Connect",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

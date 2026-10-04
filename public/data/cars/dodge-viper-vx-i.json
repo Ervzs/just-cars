@@ -1,0 +1,37 @@
+{
+  "id": "dodge-viper-vx-i",
+  "make": "SRT",
+  "model": "Dodge Viper (VX I)",
+  "generation": null,
+  "aka": [
+    "Viper"
+  ],
+  "years": [
+    2013,
+    2014
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.4L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg/960px-%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "8.4L 10-cyl",
+    "displacementL": 8.4,
+    "cylinders": 10,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 19,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Viper"
+  ],
+  "description": "The Dodge Viper (VX I) (marketed as SRT Viper in 2013 and 2014) is the fifth and final generation of the Viper sports car. Introduced in the 2013 model year, the car was entirely redesigned and included features such as an anti-lock braking system, electronic stability control and traction control that made the car compatible to modern vehicle safety standards. The discontinuation of production of the VX I in August 2017 marked the culmination of the Viper sports car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Viper_(VX_I)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg/1920px-%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg",
+  "sketchfab": null
+}

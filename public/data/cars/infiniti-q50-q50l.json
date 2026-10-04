@@ -1,0 +1,50 @@
+{
+  "id": "infiniti-q50-q50l",
+  "make": "Infiniti",
+  "model": "Q50",
+  "generation": "Q50L",
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Infiniti_Q50L_03_China_2015-04-12.jpg/960px-Infiniti_Q50L_03_China_2015-04-12.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q50"
+  ],
+  "description": "The Infiniti Q50 is a compact executive car manufactured by both Nissan and Dongfeng Nissan for its luxury brand, Infiniti. Replacing the G sedan, it debuted at the 2013 North American International Auto Show and went on sale in North America in the third quarter of 2013 and in Europe in the fourth quarter of 2013. It is the export model of the Japanese domestic market's V37 Nissan Skyline.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_Q50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Infiniti_Q50L_03_China_2015-04-12.jpg/1280px-Infiniti_Q50L_03_China_2015-04-12.jpg",
+  "sketchfab": {
+    "uid": "1cdb2e0f25d944d69b56c980b8b4b146",
+    "name": "2021 Infiniti Q50 3.0t Luxe (inaccurate)",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

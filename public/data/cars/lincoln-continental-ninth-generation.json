@@ -1,0 +1,41 @@
+{
+  "id": "lincoln-continental-ninth-generation",
+  "make": "Lincoln",
+  "model": "Continental",
+  "generation": "Ninth generation",
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/1995-1997_Lincoln_Continental_--_11-26-2011.jpg/960px-1995-1997_Lincoln_Continental_--_11-26-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Continental"
+  ],
+  "description": "The Lincoln Continental is a series of mid-sized and full-sized luxury cars produced between 1939 and 2020 by Lincoln, a division of the American automaker Ford. The model line was introduced following the construction of a personal vehicle for Edsel Ford, who commissioned a coachbuilt 1939 Lincoln-Zephyr convertible, developed as a vacation vehicle to attract potential Lincoln buyers. In what would give the model line its name, the exterior was designed with European \"continental\" styling elements, including a rear-mounted spare tire.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Continental",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/1995-1997_Lincoln_Continental_--_11-26-2011.jpg/1920px-1995-1997_Lincoln_Continental_--_11-26-2011.jpg",
+  "sketchfab": null
+}

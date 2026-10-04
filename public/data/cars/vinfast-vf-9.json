@@ -2,6 +2,11 @@
   "id": "vinfast-vf-9",
   "make": "Vinfast",
   "model": "VF 9",
+  "generation": null,
+  "aka": [
+    "VF33",
+    "VF e36"
+  ],
   "years": [
     2024,
     2025,
@@ -24,6 +29,9 @@
     "mpgCombined": 68,
     "evRangeMiles": 287
   },
+  "variants": [
+    "VF 9"
+  ],
   "description": "The VinFast VF 9 is an electric full-size SUV (E-segment) manufactured and marketed by VinFast of Vingroup from 2022.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_9",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/VinFast_VF9%2C_front_NYIAS_2022.jpg/1920px-VinFast_VF9%2C_front_NYIAS_2022.jpg",

@@ -1,0 +1,57 @@
+{
+  "id": "mazda-b-series-fifth-generation",
+  "make": "Mazda",
+  "model": "B series",
+  "generation": "Fifth generation",
+  "aka": [
+    "B4000",
+    "Rotary Pickup",
+    "Proceed",
+    "REPU",
+    "Rotary Engined Pickup",
+    "Bravo",
+    "Fighter",
+    "Bounty"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Mazda_B_2500_Crew_Cab_4x4_2000_%2815892225176%29_%28cropped%29.jpg/960px-Mazda_B_2500_Crew_Cab_4x4_2000_%2815892225176%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "B Pickup"
+  ],
+  "description": "The Mazda B series is a series of pickup trucks that was manufactured by Mazda. Produced across five generations from 1961 to 2006, the model line began life primarily as a commercial vehicle, slotted above a kei truck in size. Through its production, Mazda used engine displacement to determine model designations; a B1500 was fitted with a 1.5 L engine and a B2600, a 2.6 L engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_B_series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Mazda_B_2500_Crew_Cab_4x4_2000_%2815892225176%29_%28cropped%29.jpg/1920px-Mazda_B_2500_Crew_Cab_4x4_2000_%2815892225176%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "e25bd7759aa5478b9ea3d0b1622bdcfc",
+    "name": "2004 Mazda B-Series UN 2500 Double Cab",
+    "author": "Res1n",
+    "authorUrl": "https://sketchfab.com/Res1n",
+    "license": "CC Attribution"
+  }
+}

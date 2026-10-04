@@ -2,6 +2,8 @@
   "id": "kia-ev6",
   "make": "Kia",
   "model": "EV6",
+  "generation": null,
+  "aka": [],
   "years": [
     2022,
     2023,
@@ -26,6 +28,9 @@
     "mpgCombined": 83,
     "evRangeMiles": 231
   },
+  "variants": [
+    "EV6"
+  ],
   "description": "The Kia EV6 is a battery electric compact crossover SUV produced by Kia since 2021. It is the first Kia dedicated electric vehicle, and the first model developed on the Electric Global Modular Platform (E-GMP) similar to the Hyundai Ioniq 5.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV6",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/1920px-2021_Kia_EV6_GT-Line_S.jpg",

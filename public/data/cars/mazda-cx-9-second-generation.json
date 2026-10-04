@@ -1,0 +1,44 @@
+{
+  "id": "mazda-cx-9-second-generation",
+  "make": "Mazda",
+  "model": "CX-9",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mazda_CX-9_%28TC%29_IMG_0001.jpg/960px-Mazda_CX-9_%28TC%29_IMG_0001.jpg",
+  "has3d": false,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CX-9"
+  ],
+  "description": "The Mazda CX-9 is a mid-size crossover SUV manufactured by Mazda from 2006 to 2023 through two generations with three-row seating. It was Mazda's largest passenger vehicle until the arrival of the Mazda CX-90.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mazda_CX-9_%28TC%29_IMG_0001.jpg/1920px-Mazda_CX-9_%28TC%29_IMG_0001.jpg",
+  "sketchfab": null
+}

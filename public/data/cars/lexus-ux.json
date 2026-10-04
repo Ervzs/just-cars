@@ -2,6 +2,10 @@
   "id": "lexus-ux",
   "make": "Lexus",
   "model": "UX",
+  "generation": null,
+  "aka": [
+    "UX 300e"
+  ],
   "years": [
     2019,
     2020,
@@ -29,6 +33,9 @@
     "mpgCombined": 43,
     "evRangeMiles": null
   },
+  "variants": [
+    "UX"
+  ],
   "description": "The Lexus UX  is a subcompact luxury crossover SUV from Lexus, the luxury division of Toyota. It was introduced at the March 2018 Geneva Motor Show as the smallest crossover model in Lexus' lineup prior to the introduction of LBX in 2023; since 2024, it is currently slotted between the smaller LBX and the larger NX. It is also the first Lexus model based on the same GA-C platform as the E210 series Toyota Corolla. The \"UX\" name stands for \"Urban Explorer\".",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_UX",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lexus_UX_250h_IMG_2810.jpg/1920px-Lexus_UX_250h_IMG_2810.jpg",

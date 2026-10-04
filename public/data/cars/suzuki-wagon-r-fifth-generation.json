@@ -1,0 +1,34 @@
+{
+  "id": "suzuki-wagon-r-fifth-generation",
+  "make": "Mazda",
+  "model": "Suzuki Wagon R",
+  "generation": "Fifth generation",
+  "aka": [
+    "AZ-Wagon",
+    "Wagon r",
+    "Suzuki wagon r wide",
+    "Wagon r wide",
+    "Flair",
+    "Chevrolet Wagon R",
+    "Suzuki Wagon R Stingray"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Suzuki_WagonR_Stingray_T_MH34S.JPG/960px-Suzuki_WagonR_Stingray_T_MH34S.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Wagon R  is a kei car manufactured and marketed by Suzuki since 1993. The R in the name stands for Revolution and Relaxation. The Wagon R uses a \"tall wagon\" configuration to maximize cabin space within kei car dimensional restrictions. The Wagon R is also sold by Mazda as the AZ-Wagon from 1994 to 2012 and as the Flair from 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Wagon_R",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Suzuki_WagonR_Stingray_T_MH34S.JPG/1920px-Suzuki_WagonR_Stingray_T_MH34S.JPG",
+  "sketchfab": null
+}

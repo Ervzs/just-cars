@@ -1,0 +1,29 @@
+{
+  "id": "geely-emgrand-fourth-generation",
+  "make": "Geely",
+  "model": "Emgrand",
+  "generation": "Fourth generation",
+  "aka": [
+    "Emgrand EC7",
+    "EC7",
+    "Emgrand EC7-RV"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Geely_Emgrand_IV_004_%28cropped%29.jpg/960px-Geely_Emgrand_IV_004_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Emgrand, originally the Emgrand EC7, is a car produced by Chinese automaker Geely Auto. After the discontinuation of the Emgrand brand, the EC7 was renamed to the Geely Emgrand in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Emgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Geely_Emgrand_IV_004_%28cropped%29.jpg/1920px-Geely_Emgrand_IV_004_%28cropped%29.jpg",
+  "sketchfab": null
+}

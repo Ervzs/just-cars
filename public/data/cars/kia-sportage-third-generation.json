@@ -1,0 +1,47 @@
+{
+  "id": "kia-sportage-third-generation",
+  "make": "Kia",
+  "model": "Sportage",
+  "generation": "Third generation",
+  "aka": [
+    "Sportage R",
+    "KX5"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kia_Sportage_2.0_CRDi_AWD_Platinum_Edition_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_4._Mai_2014%2C_D%C3%BCsseldorf.jpg/960px-Kia_Sportage_2.0_CRDi_AWD_Platinum_Edition_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_4._Mai_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sportage"
+  ],
+  "description": "The Kia Sportage is a series of automobiles manufactured by the South Korean manufacturer Kia since 1993 through five generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sportage transitioned to a car-based platform, placing it into the compact crossover SUV class, and was originally developed alongside the Hyundai Tucson, in two sizes with different wheelbase lengths for different markets, alongside the Hyundai Santa Fe and the Kia Sorento.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sportage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kia_Sportage_2.0_CRDi_AWD_Platinum_Edition_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_4._Mai_2014%2C_D%C3%BCsseldorf.jpg/1920px-Kia_Sportage_2.0_CRDi_AWD_Platinum_Edition_%28III%2C_Facelift%29_%E2%80%93_Frontansicht%2C_4._Mai_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "f15205a444fb42f7a2ebf6765a36026a",
+    "name": "Kia Sportage (SL 2011-2014)",
+    "author": "farhad.Guli",
+    "authorUrl": "https://sketchfab.com/farhad.Guli",
+    "license": "CC Attribution"
+  }
+}

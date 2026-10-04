@@ -2,6 +2,8 @@
   "id": "ford-e150-van",
   "make": "Ford",
   "model": "E150 Van",
+  "generation": null,
+  "aka": [],
   "years": [
     2011,
     2012,
@@ -25,6 +27,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "E150 Van"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

@@ -1,0 +1,43 @@
+{
+  "id": "nissan-patrol-fifth-generation",
+  "make": "Nissan",
+  "model": "Patrol",
+  "generation": "Fifth generation",
+  "aka": [
+    "Safari",
+    "Ebro Patrol",
+    "Patrol 4x4",
+    "Patrol GQ",
+    "Polerban Nissan Patrol",
+    "Ebro Patrol Autocarro",
+    "Patrol MQ",
+    "Patrol MK"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/1999-2006_Nissan_Patrol_%28GU%29_ST_cab_chassis_01.jpg/960px-1999-2006_Nissan_Patrol_%28GU%29_ST_cab_chassis_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Patrol  is a series of off-road vehicles and full-size SUVs manufactured by Nissan in Japan since 1951 and sold throughout the world. It is Nissan's longest running series of models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Patrol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/1999-2006_Nissan_Patrol_%28GU%29_ST_cab_chassis_01.jpg/1920px-1999-2006_Nissan_Patrol_%28GU%29_ST_cab_chassis_01.jpg",
+  "sketchfab": null
+}

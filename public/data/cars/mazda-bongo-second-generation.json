@@ -1,0 +1,48 @@
+{
+  "id": "mazda-bongo-second-generation",
+  "make": "Mazda",
+  "model": "Bongo",
+  "generation": "Second generation",
+  "aka": [
+    "E-Series",
+    "Ford Econovan",
+    "Access",
+    "Ford Spectron",
+    "Ford Maxi Econovan",
+    "E2000",
+    "E2200",
+    "Ford Econowagon"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mazda_Bongo_Brawny_001.JPG/960px-Mazda_Bongo_Brawny_001.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Bongo , also known as the Ford Econovan and Eunos Cargo, is a cabover van and pickup truck manufactured by the Japanese automobile manufacturer Mazda since 1966. The Bongo name was also used for the Bongo Friendee, which is not a cabover design.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Bongo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mazda_Bongo_Brawny_001.JPG/1280px-Mazda_Bongo_Brawny_001.JPG",
+  "sketchfab": {
+    "uid": "50dcc48960b043f5ba486c78efda033e",
+    "name": "Mazda Bongo 2004",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

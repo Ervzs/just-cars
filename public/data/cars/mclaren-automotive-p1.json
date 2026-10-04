@@ -2,6 +2,8 @@
   "id": "mclaren-automotive-p1",
   "make": "McLaren Automotive",
   "model": "P1",
+  "generation": null,
+  "aka": [],
   "years": [
     2014,
     2015
@@ -23,8 +25,11 @@
     "mpgCombined": 17,
     "evRangeMiles": 300
   },
-  "description": "McLaren Automotive is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. As of March 2025, McLaren Automotive is wholly owned by CYVN Holdings LLC, owned by the government of Abu Dhabi.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/McLaren_Automotive",
+  "variants": [
+    "P1"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
   "image": null,
   "sketchfab": null
 }

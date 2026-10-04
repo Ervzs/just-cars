@@ -1,0 +1,55 @@
+{
+  "id": "toyota-camry-xv40",
+  "make": "Toyota",
+  "model": "Camry",
+  "generation": "XV40",
+  "aka": [
+    "Daihatsu Altis",
+    "Vista",
+    "Jiamei",
+    "Kaimeirui",
+    "Camry Hybrid",
+    "Camary",
+    "Vienta",
+    "Camry CSi"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2006_Toyota_Camry_%28ACV40R%29_Altise_%282007-09-16%29.jpg/960px-2006_Toyota_Camry_%28ACV40R%29_Altise_%282007-09-16%29.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 33,
+    "mpgHighway": 34,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camry"
+  ],
+  "description": "The Toyota Camry is an automobile sold internationally by the Japanese auto manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), the Camry has grown since the 1990s to fit the mid-size classification (wide-body)—although the two widths co-existed in that decade. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second \"world car\" after the Corolla. As of 2022, the Camry is positioned above the Corolla and below the Avalon or Crown in several markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2006_Toyota_Camry_%28ACV40R%29_Altise_%282007-09-16%29.jpg/1920px-2006_Toyota_Camry_%28ACV40R%29_Altise_%282007-09-16%29.jpg",
+  "sketchfab": {
+    "uid": "3cf0bc6c19d14080a2cfdb80bc3efc57",
+    "name": "2006 Toyota Camry 24 G Limited",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

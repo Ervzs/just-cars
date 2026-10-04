@@ -2,6 +2,12 @@
   "id": "hyundai-ioniq-5",
   "make": "Hyundai",
   "model": "Ioniq 5",
+  "generation": null,
+  "aka": [
+    "45 EV Concept",
+    "Ionic 5",
+    "Ioniq 5 N"
+  ],
   "years": [
     2022,
     2024,
@@ -26,6 +32,9 @@
     "mpgCombined": 106,
     "evRangeMiles": 290
   },
+  "variants": [
+    "Ioniq 5"
+  ],
   "description": "The Hyundai Ioniq 5 is a battery electric compact crossover SUV produced by Hyundai since 2021.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/1920px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",

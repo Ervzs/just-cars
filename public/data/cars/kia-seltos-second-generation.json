@@ -1,0 +1,41 @@
+{
+  "id": "kia-seltos-second-generation",
+  "make": "Kia",
+  "model": "Seltos",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kia_Seltos_front_Pozna%C5%84_Motor_Show_2026.jpg/960px-Kia_Seltos_front_Pozna%C5%84_Motor_Show_2026.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Seltos"
+  ],
+  "description": "The Kia Seltos is a crossover SUV manufactured by Kia since 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Seltos",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kia_Seltos_front_Pozna%C5%84_Motor_Show_2026.jpg/1920px-Kia_Seltos_front_Pozna%C5%84_Motor_Show_2026.jpg",
+  "sketchfab": {
+    "uid": "9b883d7199f64214999e82146ae28dd4",
+    "name": "NEW KIA SELTOS 2026",
+    "author": "rmihir560",
+    "authorUrl": "https://sketchfab.com/rmihir560",
+    "license": "CC Attribution"
+  }
+}

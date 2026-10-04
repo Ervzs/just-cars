@@ -1,0 +1,55 @@
+{
+  "id": "mitsubishi-pajero-third-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero",
+  "generation": "Third generation",
+  "aka": [
+    "Dodge Raider",
+    "Montero",
+    "Shogun",
+    "Shogan",
+    "Mitsubishi-Montero",
+    "Pajero Evo 2+2",
+    "Pajero Plug-in Hybrid",
+    "Leopaard Q6"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2000-2002_Mitsubishi_Pajero_%28NM%29_Exceed_wagon_04.jpg/960px-2000-2002_Mitsubishi_Pajero_%28NM%29_Exceed_wagon_04.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Montero"
+  ],
+  "description": "The Mitsubishi Pajero  is a full-size SUV manufactured and marketed globally by Mitsubishi Motors since 1981. It is also known as the Mitsubishi Montero in North America, Spain, and Latin America, and the Mitsubishi Shogun in the United Kingdom.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2000-2002_Mitsubishi_Pajero_%28NM%29_Exceed_wagon_04.jpg/1920px-2000-2002_Mitsubishi_Pajero_%28NM%29_Exceed_wagon_04.jpg",
+  "sketchfab": {
+    "uid": "85bed21c6b4a48da88a216d4e6d28790",
+    "name": "2005 Mitsubishi Pajero Sport",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

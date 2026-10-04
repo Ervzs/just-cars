@@ -2,6 +2,17 @@
   "id": "porsche-taycan",
   "make": "Porsche",
   "model": "Taycan",
+  "generation": null,
+  "aka": [
+    "Mission E",
+    "Mission E Cross Turismo",
+    "Taycan Cross Turismo",
+    "Cross Turismo",
+    "Taycan Turbo S",
+    "Taycan 4 S",
+    "Taycan Turbo",
+    "Taycan 4"
+  ],
   "years": [
     2020,
     2021,
@@ -28,6 +39,9 @@
     "mpgCombined": 81,
     "evRangeMiles": 277
   },
+  "variants": [
+    "Taycan"
+  ],
   "description": "The Porsche Taycan is a battery electric luxury sports sedan and shooting brake car produced by German automobile manufacturer Porsche. The concept version of the Taycan, named the Porsche Mission E, debuted at the 2015 Frankfurt Motor Show. Four years later, the production Taycan was revealed at the 2019 Frankfurt Motor Show. As Porsche's first series production electric car, it is sold in several variants at different performance levels, and may spawn further derivatives in future models. It is built on the J1 electric car platform shared with the similarly shaped Audi e-tron GT.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Taycan",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Porsche_Taycan_4S_79kWh_Front.jpg/1920px-2020_Porsche_Taycan_4S_79kWh_Front.jpg",

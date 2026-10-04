@@ -2,6 +2,8 @@
   "id": "jaguar-i-pace",
   "make": "Jaguar",
   "model": "I-Pace",
+  "generation": null,
+  "aka": [],
   "years": [
     2019,
     2020,
@@ -26,6 +28,9 @@
     "mpgCombined": 85,
     "evRangeMiles": 246
   },
+  "variants": [
+    "I-Pace"
+  ],
   "description": "The Jaguar I-Pace is a battery-electric car produced by Jaguar Land Rover (JLR) under their Jaguar marque. A five-door executive car with a hatchback, the I-Pace was announced in March 2018, with European deliveries beginning in June 2018 and North American deliveries starting in October 2018. The I-Pace was discontinued in 2024 due to slowing sales and a change in corporate vision.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_I-Pace",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2018_Jaguar_I-Pace_EV400_AWD_Front.jpg/1920px-2018_Jaguar_I-Pace_EV400_AWD_Front.jpg",

@@ -1,0 +1,36 @@
+{
+  "id": "geely-haoyue-second-generation",
+  "make": "Geely",
+  "model": "Haoyue",
+  "generation": "Second generation",
+  "aka": [
+    "Okavango",
+    "Livan 9",
+    "Haoyue L",
+    "Proton X90"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Geely_Haoyue_L_009.jpg/960px-Geely_Haoyue_L_009.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Haoyue is a mid-size SUV produced by the Chinese automaker Geely.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Haoyue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Geely_Haoyue_L_009.jpg/1920px-Geely_Haoyue_L_009.jpg",
+  "sketchfab": {
+    "uid": "36a31c2caaaa4a74a6978580f38da62a",
+    "name": "Geely Haoyue L",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nissan-x-trail-second-generation",
+  "make": "Nissan",
+  "model": "X-Trail",
+  "generation": "Second generation",
+  "aka": [
+    "X-Trail FCHV",
+    "Dongfeng Fengdu MX6",
+    "Fengdu MX6"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Nissan_X-Trail_2.0_dCi_4x4_%28T31%29_%E2%80%93_Heckansicht%2C_5._Mai_2012%2C_D%C3%BCsseldorf.jpg/960px-Nissan_X-Trail_2.0_dCi_4x4_%28T31%29_%E2%80%93_Heckansicht%2C_5._Mai_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan X-Trail  is a compact crossover SUV produced by the Japanese automaker Nissan since 2000, replacing the Rasheen and Terrano II. Since 2018, it is positioned between the Qashqai and the larger Murano.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Nissan_X-Trail_2.0_dCi_4x4_%28T31%29_%E2%80%93_Heckansicht%2C_5._Mai_2012%2C_D%C3%BCsseldorf.jpg/1920px-Nissan_X-Trail_2.0_dCi_4x4_%28T31%29_%E2%80%93_Heckansicht%2C_5._Mai_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

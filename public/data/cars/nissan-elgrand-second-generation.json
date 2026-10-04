@@ -1,0 +1,40 @@
+{
+  "id": "nissan-elgrand-second-generation",
+  "make": "Nissan",
+  "model": "Elgrand",
+  "generation": "Second generation",
+  "aka": [
+    "Isuzu Filly",
+    "Isuzu Fargo Filly",
+    "Caravan Elgrand",
+    "Hyper Tourer"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2002-2003_NISSAN_ELGRAND_Highway_STAR.jpg/960px-2002-2003_NISSAN_ELGRAND_Highway_STAR.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Elgrand  is a minivan manufactured by Nissan Shatai for Nissan since 1997, available in fourth generations, with model codes E50 (1997–2002), E51 (2002–2010), E52 (2010–2026), and E53 (2026–present). The E50 Elgrand was also configured and produced as a light commercial vehicle from 1998 to 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Elgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2002-2003_NISSAN_ELGRAND_Highway_STAR.jpg/1920px-2002-2003_NISSAN_ELGRAND_Highway_STAR.jpg",
+  "sketchfab": {
+    "uid": "6101fb5f68f3495eb3717455cfd10a05",
+    "name": "2006 Nissan Elgrand Highway STAR",
+    "author": "T0y0taTV",
+    "authorUrl": "https://sketchfab.com/T0y0taTV",
+    "license": "CC Attribution"
+  }
+}

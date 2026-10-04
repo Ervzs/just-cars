@@ -1,0 +1,40 @@
+{
+  "id": "toyota-probox-second-generation",
+  "make": "Toyota",
+  "model": "Probox",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Toyota_Probox_GL_NCP160V.jpg/960px-Toyota_Probox_GL_NCP160V.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Probox  is a 5-door, 2- or 4-seater passenger car and light commercial van produced by the Japanese automaker Toyota since July 2002. It replaced the Corolla/Sprinter van and served as a slightly shorter version of the now-discontinued Toyota Succeed.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Probox",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Toyota_Probox_GL_NCP160V.jpg/1280px-Toyota_Probox_GL_NCP160V.jpg",
+  "sketchfab": {
+    "uid": "1b48dd220c69495e8f278376fb7a3add",
+    "name": "Toyota Probox",
+    "author": "Ford mondeo",
+    "authorUrl": "https://sketchfab.com/tnikita",
+    "license": "CC Attribution"
+  }
+}

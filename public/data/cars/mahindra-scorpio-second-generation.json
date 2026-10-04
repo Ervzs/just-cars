@@ -1,0 +1,36 @@
+{
+  "id": "mahindra-scorpio-second-generation",
+  "make": "Mahindra",
+  "model": "Scorpio",
+  "generation": "Second generation",
+  "aka": [
+    "Goa",
+    "Appalachia",
+    "Scorpion"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2024_Mahindra_Scorpio_Z8L_front.jpg/960px-2024_Mahindra_Scorpio_Z8L_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mahindra Scorpio is a mid-size SUV and compact SUV manufactured by the Indian automaker Mahindra & Mahindra since 2002. It was Mahindra's first model to be built for the global market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahindra_Scorpio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2024_Mahindra_Scorpio_Z8L_front.jpg/1920px-2024_Mahindra_Scorpio_Z8L_front.jpg",
+  "sketchfab": {
+    "uid": "538b10f2860f44e694dc3e9d3e223bf8",
+    "name": "2022 Mahindra Scorpio-N",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

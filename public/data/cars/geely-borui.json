@@ -1,0 +1,37 @@
+{
+  "id": "geely-borui",
+  "make": "Geely",
+  "model": "Borui",
+  "generation": null,
+  "aka": [
+    "Emgrand GT"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Geely_Borui_2_China_2016-04-03.jpg/960px-Geely_Borui_2_China_2016-04-03.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Borui is a large family car/mid-size car produced by the Chinese automaker Geely Auto from April 2015 to 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Borui",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Geely_Borui_2_China_2016-04-03.jpg/1280px-Geely_Borui_2_China_2016-04-03.jpg",
+  "sketchfab": {
+    "uid": "c779d279fec04793a9c7711023021ff5",
+    "name": "Geely Borui GC9",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

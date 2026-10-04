@@ -1,0 +1,37 @@
+{
+  "id": "renault-clio-third-generation",
+  "make": "Mitsubishi",
+  "model": "Renault Clio",
+  "generation": "Third generation",
+  "aka": [
+    "Renault Lutecia",
+    "Clio Williams",
+    "Renault Clio 197",
+    "Renaultsport Clio 197",
+    "Renault Clio Williams",
+    "Renault Clio III",
+    "Clio car",
+    "Clio Williams Maxi"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Renault_Clio_III_20090527_front.JPG/960px-Renault_Clio_III_20090527_front.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Clio KLEE-oh is a supermini (B-segment) car, produced by French automobile manufacturer Renault. It was launched in 1990, and entered its sixth generation in 2025. The Clio has had substantial critical and commercial success, being consistently one of Europe's top-selling cars since its launch, and it is largely credited with restoring Renault's reputation and stature after a difficult second half of the 1980s. The Clio is one of only two cars, the other being the Volkswagen Golf, to have been voted European Car of the Year twice: in 1991 and in 2006.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Clio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Renault_Clio_III_20090527_front.JPG/1920px-Renault_Clio_III_20090527_front.JPG",
+  "sketchfab": null
+}

@@ -2,6 +2,12 @@
   "id": "tesla-model-x",
   "make": "Tesla",
   "model": "Model X",
+  "generation": null,
+  "aka": [
+    "X",
+    "MX",
+    "Teslamodelx"
+  ],
   "years": [
     2016,
     2017,
@@ -32,6 +38,9 @@
     "mpgCombined": 105,
     "evRangeMiles": 352
   },
+  "variants": [
+    "Model X"
+  ],
   "description": "The Tesla Model X is a battery electric mid-size luxury crossover SUV built by Tesla, Inc. from 2015 to 2026. Developed from the full-sized sedan platform of the Tesla Model S, the vehicle uses distinctive falcon wing doors for rear passenger access. In January 2026, Tesla announced that the Model X would be discontinued alongside the Model S.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg",

@@ -1,0 +1,38 @@
+{
+  "id": "kia-ceed-first-generation",
+  "make": "Kia",
+  "model": "Ceed",
+  "generation": "First generation",
+  "aka": [
+    "Pro cee'd",
+    "Ex ceed",
+    "XCeed",
+    "Proceed GT"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kia_cee%27d_sw_isg_EX_%E2%80%93_Heckansicht%2C_13._Februar_2011%2C_Mettmann.jpg/960px-Kia_cee%27d_sw_isg_EX_%E2%80%93_Heckansicht%2C_13._Februar_2011%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Ceed is a compact car/small family car (C-segment) produced by the South Korean manufacturer Kia since October 2006 exclusively for the European market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kia_cee%27d_sw_isg_EX_%E2%80%93_Heckansicht%2C_13._Februar_2011%2C_Mettmann.jpg/1920px-Kia_cee%27d_sw_isg_EX_%E2%80%93_Heckansicht%2C_13._Februar_2011%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "04103fee156843fbaab438b565cf5523",
+    "name": "Kia Ceed 2011",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

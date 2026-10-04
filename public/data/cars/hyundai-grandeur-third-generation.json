@@ -1,0 +1,54 @@
+{
+  "id": "hyundai-grandeur-third-generation",
+  "make": "Hyundai",
+  "model": "Grandeur",
+  "generation": "Third generation",
+  "aka": [
+    "Azera",
+    "XG350",
+    "XG",
+    "XG300",
+    "XG30",
+    "Grandeur XG",
+    "XG250"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2001_Hyundai_XG300_--_03-16-2012.JPG/960px-2001_Hyundai_XG300_--_03-16-2012.JPG",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 24,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XG"
+  ],
+  "description": "The Hyundai Grandeur, is an executive car / full-size car manufactured and marketed by the South Korean manufacturer Hyundai since 1986, over seven generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Grandeur",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2001_Hyundai_XG300_--_03-16-2012.JPG/1920px-2001_Hyundai_XG300_--_03-16-2012.JPG",
+  "sketchfab": {
+    "uid": "8a333a1fecdb4b04ac4fa3bf9a4b5b82",
+    "name": "Hyundai Grandeur 2002",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

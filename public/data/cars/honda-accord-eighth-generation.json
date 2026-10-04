@@ -1,0 +1,53 @@
+{
+  "id": "honda-accord-eighth-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Eighth generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2008-2011_Honda_Accord_Euro_sedan_%282011-06-15%29_01.jpg/960px-2008-2011_Honda_Accord_Euro_sedan_%282011-06-15%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2008-2011_Honda_Accord_Euro_sedan_%282011-06-15%29_01.jpg/1920px-2008-2011_Honda_Accord_Euro_sedan_%282011-06-15%29_01.jpg",
+  "sketchfab": {
+    "uid": "1e3be91c28104f6489b42248884327fe",
+    "name": "Honda Accord 2008",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

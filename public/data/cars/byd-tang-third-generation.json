@@ -1,0 +1,34 @@
+{
+  "id": "byd-tang-third-generation",
+  "make": "BYD",
+  "model": "Tang",
+  "generation": "Third generation",
+  "aka": [
+    "Tang II",
+    "Tang DM",
+    "Tan",
+    "Dynasty Concept",
+    "Sealion 8"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/BYD_Tang_DM-p_front_quarter_trimmed_2.jpg/960px-BYD_Tang_DM-p_front_quarter_trimmed_2.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Tang is a series of mid-size SUV manufactured by BYD Auto, available as a battery electric, a plug-in hybrid or formerly a conventional ICE vehicle. The vehicle is the second model of BYD's \"Dynasty\" series passenger vehicles after the Qin, and gets its name from the Tang dynasty, the most prosperous of all the great Chinese dynasties.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Tang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/BYD_Tang_DM-p_front_quarter_trimmed_2.jpg/1920px-BYD_Tang_DM-p_front_quarter_trimmed_2.jpg",
+  "sketchfab": {
+    "uid": "101a56e650684590a46436089e8bba85",
+    "name": "BYD_Tang_EV",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

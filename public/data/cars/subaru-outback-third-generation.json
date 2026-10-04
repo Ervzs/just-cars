@@ -1,0 +1,30 @@
+{
+  "id": "subaru-outback-third-generation",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Third generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/05-07_Subaru_Outback_wagon.jpg/960px-05-07_Subaru_Outback_wagon.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/05-07_Subaru_Outback_wagon.jpg/1280px-05-07_Subaru_Outback_wagon.jpg",
+  "sketchfab": null
+}

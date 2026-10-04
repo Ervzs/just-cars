@@ -1,0 +1,29 @@
+{
+  "id": "haval-h4",
+  "make": "Haval",
+  "model": "H4",
+  "generation": null,
+  "aka": [
+    "Great Wall Motors Havel H4",
+    "Havel H4",
+    "Great Wall Haval H4"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Haval_H4_Blue_02_China_2018-04-02.jpg/960px-Haval_H4_Blue_02_China_2018-04-02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H4 is a compact crossover SUV produced by Great Wall Motor under the Haval marque from 2017 to 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Haval_H4_Blue_02_China_2018-04-02.jpg/1280px-Haval_H4_Blue_02_China_2018-04-02.jpg",
+  "sketchfab": null
+}

@@ -2,6 +2,8 @@
   "id": "saturn-lw",
   "make": "Saturn",
   "model": "LW",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -13,7 +15,7 @@
   "vehicleClass": "Midsize Station Wagons",
   "fuelType": "Regular",
   "engine": "3.0L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/960px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2005,
   "specs": {
@@ -27,8 +29,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Saturn L-Series is a line of automobiles, sedans and station wagons that were made by Saturn Corporation in Wilmington, Delaware for 2000–2005 model years.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_L-Series",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/1920px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg",
+  "variants": [
+    "LW"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

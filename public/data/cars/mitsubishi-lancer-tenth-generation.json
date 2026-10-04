@@ -1,0 +1,58 @@
+{
+  "id": "mitsubishi-lancer-tenth-generation",
+  "make": "Mitsubishi",
+  "model": "Lancer",
+  "generation": "Tenth generation",
+  "aka": [
+    "Chrysler Lancer",
+    "Colt Lancer",
+    "Lancer 2000 Turbo",
+    "Concept-Sportback",
+    "Galant Fortis",
+    "Chrysler Valiant Lancer",
+    "Cedia",
+    "Lancer GSR"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mitsubishi_Lancer_2017_Taiwan_002_%28cropped%29.jpg/960px-Mitsubishi_Lancer_2017_Taiwan_002_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Lancer"
+  ],
+  "description": "The Mitsubishi Lancer is an automobile that was produced by the Japanese manufacturer Mitsubishi Motors from 1973 until 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Lancer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mitsubishi_Lancer_2017_Taiwan_002_%28cropped%29.jpg/1920px-Mitsubishi_Lancer_2017_Taiwan_002_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "963b8275e8c940d390ccff5abeb0ce7e",
+    "name": "2022 Mitsubishi Lancer Evolution X - Asphalt 8",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

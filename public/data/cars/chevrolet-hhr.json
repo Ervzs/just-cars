@@ -2,6 +2,11 @@
   "id": "chevrolet-hhr",
   "make": "Chevrolet",
   "model": "HHR",
+  "generation": null,
+  "aka": [
+    "Chevy HHR",
+    "HHR SS"
+  ],
   "years": [
     2006,
     2007,
@@ -27,6 +32,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "HHR"
+  ],
   "description": "The Chevrolet HHR is a retro-styled, high-roofed, five-door, five-passenger, front-wheel drive wagon designed by Bryan Nesbitt and launched by the American automaker Chevrolet at the 2005 Los Angeles Auto Show as a 2006 model.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_HHR",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg/1920px-2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg",

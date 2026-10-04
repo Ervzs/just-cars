@@ -1,0 +1,68 @@
+{
+  "id": "mitsubishi-pajero-fourth-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero",
+  "generation": "Fourth generation",
+  "aka": [
+    "Dodge Raider",
+    "Montero",
+    "Shogun",
+    "Shogan",
+    "Mitsubishi-Montero",
+    "Pajero Evo 2+2",
+    "Pajero Plug-in Hybrid",
+    "Leopaard Q6"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2007_Mitsubishi_Pajero_3.8_SWB_silver_front.jpg/960px-2007_Mitsubishi_Pajero_3.8_SWB_silver_front.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Montero"
+  ],
+  "description": "The Mitsubishi Pajero  is a full-size SUV manufactured and marketed globally by Mitsubishi Motors since 1981. It is also known as the Mitsubishi Montero in North America, Spain, and Latin America, and the Mitsubishi Shogun in the United Kingdom.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2007_Mitsubishi_Pajero_3.8_SWB_silver_front.jpg/1920px-2007_Mitsubishi_Pajero_3.8_SWB_silver_front.jpg",
+  "sketchfab": {
+    "uid": "c21994c767b34212b5ad8bcb80bb7ffb",
+    "name": "Mitsubishi Pajero MK4 2006-2021",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

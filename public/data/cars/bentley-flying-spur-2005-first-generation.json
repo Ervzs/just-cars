@@ -1,0 +1,30 @@
+{
+  "id": "bentley-flying-spur-2005-first-generation",
+  "make": "Bentley",
+  "model": "Flying Spur (2005)",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bentley_Continental_Flying_Spur_Speed_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/960px-Bentley_Continental_Flying_Spur_Speed_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Bentley Flying Spur, known as the Bentley Continental Flying Spur before 2013, is a full-sized luxury car produced by Bentley Motors Limited since 2005. It is the four-door saloon variant of the Bentley Continental GT two-door coupé.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Flying_Spur_(2005)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bentley_Continental_Flying_Spur_Speed_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bentley_Continental_Flying_Spur_Speed_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

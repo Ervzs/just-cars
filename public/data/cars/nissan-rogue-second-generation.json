@@ -1,0 +1,49 @@
+{
+  "id": "nissan-rogue-second-generation",
+  "make": "Nissan",
+  "model": "Rogue",
+  "generation": "Second generation",
+  "aka": [
+    "Rouge",
+    "Rogue Plug-in Hybrid"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2017_Nissan_Rogue%2C_Front_Right%2C_09-13-2020.jpg/960px-2017_Nissan_Rogue%2C_Front_Right%2C_09-13-2020.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rogue"
+  ],
+  "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. It made its debut in October 2007 for the 2008 model year. Beginning in 2013 for the 2014 model year, the model has been merged with the X-Trail sold outside the North American market, making them identical.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Rogue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2017_Nissan_Rogue%2C_Front_Right%2C_09-13-2020.jpg/1920px-2017_Nissan_Rogue%2C_Front_Right%2C_09-13-2020.jpg",
+  "sketchfab": {
+    "uid": "318472f2afb24f82abbce567371c942e",
+    "name": "2016 Nissan Rogue Sport",
+    "author": "5spokehubcap",
+    "authorUrl": "https://sketchfab.com/5spokehubcap",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "toyota-ist-second-generation",
+  "make": "Toyota",
+  "model": "Ist",
+  "generation": "Second generation",
+  "aka": [
+    "xA"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Toyota_ist_001.JPG/960px-Toyota_ist_001.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Ist  is a subcompact car manufactured by the Japanese automaker Toyota. It is exported to the United States as the Scion xA and Scion xD, the Middle East as the Toyota xA and to Europe and Latin America as the Toyota Urban Cruiser for the second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Ist",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Toyota_ist_001.JPG/1280px-Toyota_ist_001.JPG",
+  "sketchfab": {
+    "uid": "3fc99331861840a5ab32a6505bfc3857",
+    "name": "toyota_ist",
+    "author": "Riku",
+    "authorUrl": "https://sketchfab.com/r-aiueo",
+    "license": "CC Attribution"
+  }
+}

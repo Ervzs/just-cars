@@ -1,0 +1,37 @@
+{
+  "id": "honda-crossroad-first-generation",
+  "make": "Honda",
+  "model": "Crossroad",
+  "generation": "First generation",
+  "aka": [
+    "Crosslander"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1994_Honda_Crossroad.jpg/960px-1994_Honda_Crossroad.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Crossroad  is an automobile nameplate used by two SUVs sold by Honda only in Japan. The vehicle's first generation was a rebadged Land Rover Discovery sold in Japan between 1993 and 1998, while the second generation was a more compact crossover vehicle introduced in 2007. The vehicle's last generation was produced until 2010, and was succeeded by the Honda CR-V.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Crossroad",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1994_Honda_Crossroad.jpg/1920px-1994_Honda_Crossroad.jpg",
+  "sketchfab": null
+}

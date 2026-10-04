@@ -1,0 +1,53 @@
+{
+  "id": "ferrari-575m-maranello",
+  "make": "Ferrari",
+  "model": "575M Maranello",
+  "generation": null,
+  "aka": [
+    "575M",
+    "575",
+    "575M Marenello",
+    "575 Superamerica",
+    "575 Maranello",
+    "575-GTC Maranello",
+    "575 GTC"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.7L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ferrari575M.jpg/960px-Ferrari575M.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "5.7L 12-cyl",
+    "displacementL": 5.7,
+    "cylinders": 12,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 15,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "575 M Maranello",
+    "575",
+    "575 M Maranello and Superamerica"
+  ],
+  "description": "The Ferrari 575M Maranello is a two-seat, two-door, grand tourer manufactured by Italian automobile manufacturer Ferrari. Launched in 2002, it is essentially an updated 550 Maranello featuring minor styling changes from Pininfarina. The 575M was replaced by the 599 GTB in the first half of 2006.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_575M_Maranello",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ferrari575M.jpg/1280px-Ferrari575M.jpg",
+  "sketchfab": {
+    "uid": "963c2a2d2405408494ce52a16b270d6a",
+    "name": "Ferrari 575M Maranello",
+    "author": "JUSTGAME",
+    "authorUrl": "https://sketchfab.com/JUSTGAME",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,12 @@
   "id": "volkswagen-arteon",
   "make": "Volkswagen",
   "model": "Arteon",
+  "generation": null,
+  "aka": [
+    "VW Arteon",
+    "Arteon Shooting Brake",
+    "Arteon R"
+  ],
   "years": [
     2019,
     2020,
@@ -27,6 +33,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Arteon"
+  ],
   "description": "The Volkswagen Arteon is a car manufactured by German car manufacturer Volkswagen. Described as a large family car or a mid-size car, it is available in five-door liftback or estate body styles. The Arteon was unveiled on 6 March 2017, at the Geneva Motor Show, and at the Chicago Auto Show for the North American market. It is a direct successor to the CC; however, Volkswagen announced that the Arteon is positioned to be more upmarket than the CC. The vehicle is based on the MQB platform.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Arteon",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Volkswagen_Arteon_2.0.jpg/1920px-2018_Volkswagen_Arteon_2.0.jpg",

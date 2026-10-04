@@ -1,0 +1,33 @@
+{
+  "id": "jeep-cherokee-fourth-generation",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Jeep_Cherokee_Liberty_2.8_CRD_2012_%2816733352286%29.jpg/960px-Jeep_Cherokee_Liberty_2.8_CRD_2012_%2816733352286%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Jeep_Cherokee_Liberty_2.8_CRD_2012_%2816733352286%29.jpg/1920px-Jeep_Cherokee_Liberty_2.8_CRD_2012_%2816733352286%29.jpg",
+  "sketchfab": {
+    "uid": "73060e09d107476d809496e0b3216039",
+    "name": "2012 Jeep Grand Cherokee SRT8",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

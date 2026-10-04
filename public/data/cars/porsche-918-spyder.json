@@ -2,6 +2,17 @@
   "id": "porsche-918-spyder",
   "make": "Porsche",
   "model": "918 Spyder",
+  "generation": null,
+  "aka": [
+    "918",
+    "Spyder 918",
+    "Weissach Package",
+    "918 Spyder with Weissach Package",
+    "Spyder 918 with Weissach Package",
+    "918 Spyder Weissach Package",
+    "Spyder 918 Weissach Package",
+    "Pack Weissach"
+  ],
   "years": [
     2015
   ],
@@ -22,6 +33,9 @@
     "mpgCombined": 22,
     "evRangeMiles": 420
   },
+  "variants": [
+    "918 Spyder"
+  ],
   "description": "The Porsche 918 Spyder is a limited-production mid-engine plug-in-hybrid sports car manufactured by German marque Porsche. The 918 Spyder is a plug-in hybrid powered by a mid-mounted naturally aspirated 4.6 L (4,593 cc) V8 engine, developing 447 kW at 8,700 RPM, with two electric motors delivering an additional 210 kW for a combined output of 652 kW (875 hp) and 1,280 N⋅m (944 lbf⋅ft) of torque. The 918 Spyder's 6.8 kWh lithium-ion battery pack delivers an all-electric range of 19 km (12 mi) under the US Environmental Protection Agency's five-cycle tests.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_918_Spyder",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2015_Porsche_918_Spyder_Platinum_Silver_Metallic_SCD_24.jpg/1920px-2015_Porsche_918_Spyder_Platinum_Silver_Metallic_SCD_24.jpg",

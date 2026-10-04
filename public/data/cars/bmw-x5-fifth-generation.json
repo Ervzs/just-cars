@@ -1,0 +1,43 @@
+{
+  "id": "bmw-x5-fifth-generation",
+  "make": "BMW",
+  "model": "X5",
+  "generation": "Fifth generation",
+  "aka": [
+    "X5 M",
+    "BMX X5"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_iX5_front_left_-_Autowizja.jpg/960px-BMW_iX5_front_left_-_Autowizja.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 28,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X5"
+  ],
+  "description": "The BMW X5 is a mid-size luxury crossover SUV produced by BMW. The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV. At launch, it featured all-wheel drive and was available with either a manual or automatic gearbox. The second generation was launched in 2006, and was known internally as the E70. The E70 featured the torque-split capable xDrive all-wheel drive system mated to an automatic gearbox. In 2009, the X5 M performance variant was released as a 2010 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_iX5_front_left_-_Autowizja.jpg/1920px-BMW_iX5_front_left_-_Autowizja.jpg",
+  "sketchfab": {
+    "uid": "f1adb5c9133f4938a9ee03076c2a1e5a",
+    "name": "BMW X5",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

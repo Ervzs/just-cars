@@ -1,0 +1,37 @@
+{
+  "id": "proton-persona-first-generation",
+  "make": "Proton",
+  "model": "Persona",
+  "generation": "First generation",
+  "aka": [
+    "Gen-2 Persona"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-21%29.jpg/960px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-21%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Persona is a series of compact and subcompact cars produced by Malaysian automobile manufacturer Proton from 1993 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Persona",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-21%29.jpg/1920px-1996_Proton_Wira_%28C90%29_XLi_sedan_%282010-07-21%29.jpg",
+  "sketchfab": null
+}

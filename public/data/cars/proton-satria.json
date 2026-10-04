@@ -1,0 +1,47 @@
+{
+  "id": "proton-satria",
+  "make": "Proton",
+  "model": "Satria",
+  "generation": null,
+  "aka": [
+    "Satria GTi",
+    "Satria Neo",
+    "Compact",
+    "Persona Compact",
+    "300",
+    "Neo",
+    "Satria Neo S2000"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2013_Proton_Satria_Neo_R3_in_Cyberjaya%2C_Malaysia_%2801%29.jpg/960px-2013_Proton_Satria_Neo_R3_in_Cyberjaya%2C_Malaysia_%2801%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Satria is a hatchback automobile produced by Malaysian manufacturer Proton from 1994 to 2005 in the first generation model and from 2006 to 2015 in the Satria Replacement Model (SRM), known as the Proton Satria Neo.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Satria",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2013_Proton_Satria_Neo_R3_in_Cyberjaya%2C_Malaysia_%2801%29.jpg/1920px-2013_Proton_Satria_Neo_R3_in_Cyberjaya%2C_Malaysia_%2801%29.jpg",
+  "sketchfab": {
+    "uid": "341394f96a824c818a830cbcb44ea6f6",
+    "name": "2000 Proton Satria Neo S2000",
+    "author": "zairiq-zairiq-123-pixar-cars-bfdi",
+    "authorUrl": "https://sketchfab.com/zairiqzairiqpixarcarsbfdi",
+    "license": "CC Attribution"
+  }
+}

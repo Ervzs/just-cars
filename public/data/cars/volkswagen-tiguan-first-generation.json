@@ -1,0 +1,47 @@
+{
+  "id": "volkswagen-tiguan-first-generation",
+  "make": "Volkswagen",
+  "model": "Tiguan",
+  "generation": "First generation",
+  "aka": [
+    "Tiquan",
+    "VW Tiguan",
+    "Tiguan Allspace",
+    "Tiguan X"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/VOLKSWAGEN_TIGUAN_FIRST_GENERATION_%28CHINA%29_%2828%29.jpg/960px-VOLKSWAGEN_TIGUAN_FIRST_GENERATION_%28CHINA%29_%2828%29.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tiguan"
+  ],
+  "description": "The Volkswagen Tiguan is a sport utility vehicle produced by German manufacturer Volkswagen since 2007, sitting between the smaller T-Roc and the larger Touareg in the company's crossover SUV range. The first generation was based on the PQ46 platform, while the second generation, released in 2016, utilizes the Volkswagen Group MQB A2 platform. It is generally considered to be a medium-sized SUV in Europe, while in North America it is considered to be a compact crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Tiguan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/VOLKSWAGEN_TIGUAN_FIRST_GENERATION_%28CHINA%29_%2828%29.jpg/1920px-VOLKSWAGEN_TIGUAN_FIRST_GENERATION_%28CHINA%29_%2828%29.jpg",
+  "sketchfab": null
+}

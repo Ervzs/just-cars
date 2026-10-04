@@ -1,0 +1,33 @@
+{
+  "id": "renault-master-fourth-generation",
+  "make": "Nissan",
+  "model": "Renault Master",
+  "generation": "Fourth generation",
+  "aka": [
+    "Interstar",
+    "NV400",
+    "Renault Mascott",
+    "Opel Movano A",
+    "Opel Movano B",
+    "Renault Master E-Tech Electric",
+    "Renault Master E-Tech",
+    "Renault Master Van H2-Tech"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Renault_Master_IV_Autofr%C3%BChling_Ulm_2025_DSC_8731.jpg/960px-Renault_Master_IV_Autofr%C3%BChling_Ulm_2025_DSC_8731.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Master is a large van produced by the French manufacturer Renault since 1980, now in its fourth generation. It replaced the earlier Renault Super Goélette light trucks. It is also sold as the Nissan Interstar. Opel and Vauxhall have sold versions of the second and third series vans as the Opel Movano in Continental Europe and Vauxhall Movano in the United Kingdom. All four generations have been designed and manufactured by Renault, irrespective of the brand. Renault Trucks markets it as the Renault Trucks Master.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Master",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Renault_Master_IV_Autofr%C3%BChling_Ulm_2025_DSC_8731.jpg/1920px-Renault_Master_IV_Autofr%C3%BChling_Ulm_2025_DSC_8731.jpg",
+  "sketchfab": null
+}

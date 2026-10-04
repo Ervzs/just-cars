@@ -1,0 +1,39 @@
+{
+  "id": "suzuki-solio-first-generation",
+  "make": "Mitsubishi",
+  "model": "Suzuki Solio",
+  "generation": "First generation",
+  "aka": [
+    "Suzuki Wagon R+",
+    "Suzuki Wagon R-Wide",
+    "Suzuki Solio Bandit",
+    "Chevrolet MW",
+    "Delica D:2"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Suzuki_Wagon_R%2B_DDiS.JPG/960px-Suzuki_Wagon_R%2B_DDiS.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Solio  is a mini MPV produced and marketed by Suzuki since 1997. The preceding model and the first generation Solio were derived from the narrower Wagon R; it was widened mainly for export markets and was originally sold as the Wagon R-Wide or Wagon R Plus.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Solio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Suzuki_Wagon_R%2B_DDiS.JPG/1920px-Suzuki_Wagon_R%2B_DDiS.JPG",
+  "sketchfab": null
+}

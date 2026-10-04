@@ -1,0 +1,43 @@
+{
+  "id": "nissan-sunny-n18",
+  "make": "Nissan",
+  "model": "Sunny",
+  "generation": "N18",
+  "aka": [
+    "Datsun 1000",
+    "Datsun 1200",
+    "Datsun 120Y",
+    "Datsun B210",
+    "Datsun Sunny 210",
+    "Datsun Sunny",
+    "Hikari",
+    "Laurel Spirit"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2020_Nissan_Almera_VLT_Turbo_front_view_%28Malaysia%29_01.png/960px-2020_Nissan_Almera_VLT_Turbo_front_view_%28Malaysia%29_01.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sunny  is an automobile built by the Japanese automaker Nissan from 1966 until 2004. In the early 1980s, the brand changed from Datsun to Nissan in line with other models by the company. Although production of the Sunny in Japan ended in 2004, the name remains in use in China and GCC countries for a rebadged version of the Nissan Almera.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sunny",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2020_Nissan_Almera_VLT_Turbo_front_view_%28Malaysia%29_01.png/960px-2020_Nissan_Almera_VLT_Turbo_front_view_%28Malaysia%29_01.png",
+  "sketchfab": {
+    "uid": "2c6b0c17cf4942f7a777da525fa8fa64",
+    "name": "Nissan Sunny N14 scan",
+    "author": "rsc.jes",
+    "authorUrl": "https://sketchfab.com/rsc.jes",
+    "license": "Free Standard"
+  }
+}

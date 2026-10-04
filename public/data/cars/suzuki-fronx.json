@@ -1,0 +1,32 @@
+{
+  "id": "suzuki-fronx",
+  "make": "Toyota",
+  "model": "Suzuki Fronx",
+  "generation": null,
+  "aka": [
+    "Maruti Fronx",
+    "Maruti Suzuki Fronx",
+    "Fronx",
+    "Urban Cruiser Taisor",
+    "Taisor",
+    "Starlet Cross"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2024_Suzuki_Fronx.jpg/960px-2024_Suzuki_Fronx.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Fronx  is a subcompact crossover SUV (B-segment) produced by the Japanese manufacturer Suzuki since 2023. It was first produced through its Indian subsidiary Maruti Suzuki, and is also assembled in Indonesia and Pakistan. It is based on the Baleno, and positioned below the Brezza.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Fronx",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2024_Suzuki_Fronx.jpg/1920px-2024_Suzuki_Fronx.jpg",
+  "sketchfab": null
+}

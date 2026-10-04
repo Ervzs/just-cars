@@ -1,0 +1,48 @@
+{
+  "id": "ford-gt-first-generation",
+  "make": "Ford",
+  "model": "GT",
+  "generation": "First generation",
+  "aka": [
+    "GTX1",
+    "GT GT3",
+    "GT43",
+    "GT1",
+    "GT3",
+    "GT-R Mk. VII"
+  ],
+  "years": [
+    2005,
+    2006
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ford_GT_Carmel.jpg/960px-Ford_GT_Carmel.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 19,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GT"
+  ],
+  "description": "The Ford GT is a mid-engine two-seater sports car manufactured and marketed by American automobile manufacturer Ford for the 2005 model year in conjunction with the company's 2003 centenary. The second generation Ford GT became available for the 2017 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ford_GT_Carmel.jpg/1920px-Ford_GT_Carmel.jpg",
+  "sketchfab": {
+    "uid": "ee5db1918a2b4c8cbe0388b67dee4b17",
+    "name": "Ford GT 2006",
+    "author": "Pooya_dh",
+    "authorUrl": "https://sketchfab.com/Pooya_dh",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

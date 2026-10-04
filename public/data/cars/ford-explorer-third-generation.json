@@ -1,0 +1,51 @@
+{
+  "id": "ford-explorer-third-generation",
+  "make": "Ford",
+  "model": "Explorer",
+  "generation": "Third generation",
+  "aka": [
+    "Explorer Sport",
+    "2014 Ford Explorer and editions",
+    "Police Interceptor Utility",
+    "Mazda Navajo",
+    "Explorer SUV",
+    "Explorer Police Interceptor",
+    "Explorer Interceptor"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2002-2005_Ford_Explorer_--_06-16-2011.jpg/960px-2002-2005_Ford_Explorer_--_06-16-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Explorer"
+  ],
+  "description": "The Ford Explorer is a range of SUVs manufactured by the Ford Motor Company since the 1991 model year. The first five-door SUV produced by Ford, the Explorer was introduced as a replacement for the three-door Bronco II. As with the Ford Ranger, the model line derives its name from a trim package previously offered on Ford F-Series pickup trucks. In 2020, the Explorer became the best-selling SUV in the American market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Explorer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2002-2005_Ford_Explorer_--_06-16-2011.jpg/1920px-2002-2005_Ford_Explorer_--_06-16-2011.jpg",
+  "sketchfab": {
+    "uid": "5841518fc64a4bc39979fddd9f3375a1",
+    "name": "2004 Ford Explorer",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

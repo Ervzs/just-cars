@@ -1,0 +1,40 @@
+{
+  "id": "toyota-vios-second-generation",
+  "make": "Toyota",
+  "model": "Vios",
+  "generation": "Second generation",
+  "aka": [
+    "Vios turbo",
+    "Soluna Vios",
+    "Yaris Ativ",
+    "Yars Ativ",
+    "Vios Ativ",
+    "Ativ"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2010_Toyota_Vios_1.5G_%28with_opt._TRD_Sportivo_bodykit%29_in_Cyberjaya%2C_Malaysia_%2802%29.jpg/960px-2010_Toyota_Vios_1.5G_%28with_opt._TRD_Sportivo_bodykit%29_in_Cyberjaya%2C_Malaysia_%2802%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vios is a nameplate used for subcompact cars produced by the Japanese manufacturer Toyota, primarily for markets in Southeast Asia, China and Taiwan since 2002. Slotted below the compact Corolla, the Vios serves as the replacement to the Tercel, which filled the subcompact or B-segment sedan class in the region. It is also successor to the entry-level variants of the E110 series Corolla in some markets such as the Philippines and Vietnam.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vios",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2010_Toyota_Vios_1.5G_%28with_opt._TRD_Sportivo_bodykit%29_in_Cyberjaya%2C_Malaysia_%2802%29.jpg/1920px-2010_Toyota_Vios_1.5G_%28with_opt._TRD_Sportivo_bodykit%29_in_Cyberjaya%2C_Malaysia_%2802%29.jpg",
+  "sketchfab": {
+    "uid": "0899fcfeac9845e09ae296145c7b2b67",
+    "name": "2007 Toyota Vios (low poly)",
+    "author": "JUSTGAME",
+    "authorUrl": "https://sketchfab.com/JUSTGAME",
+    "license": "CC Attribution"
+  }
+}

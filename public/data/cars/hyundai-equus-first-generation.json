@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-equus-first-generation",
+  "make": "Hyundai",
+  "model": "Equus",
+  "generation": "First generation",
+  "aka": [
+    "Centennial"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/20100801_hyundai_equus_01.jpg/960px-20100801_hyundai_equus_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Equus is a full-sized, front-engine, rear-wheel-drive luxury sedan manufactured and marketed by Hyundai Motor Company from 1999 to 2016. It was produced over two generations in a four-door, five passenger configuration. The nameplate derives from the Latin equus, meaning \"horse.\"",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Equus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/20100801_hyundai_equus_01.jpg/1920px-20100801_hyundai_equus_01.jpg",
+  "sketchfab": {
+    "uid": "888189da8f534508954e984c632a3d83",
+    "name": "Hyundai Equus 2004",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

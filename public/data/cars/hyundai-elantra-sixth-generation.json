@@ -1,0 +1,47 @@
+{
+  "id": "hyundai-elantra-sixth-generation",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "generation": "Sixth generation",
+  "aka": [
+    "Avante",
+    "Lantra",
+    "Bimantara Nenggala",
+    "Avante Touring",
+    "Elantra LPI",
+    "Avante XD",
+    "Elantra LPI Hybrid",
+    "Elantra LPI HEV"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/HYUNDAI_ELANTRA_LINGDONG_PLUG-IN_%28BASE_ON_HYUNDAI_ELANTRA_%28AD%29%29_China_%282%29.jpg/960px-HYUNDAI_ELANTRA_LINGDONG_PLUG-IN_%28BASE_ON_HYUNDAI_ELANTRA_%28AD%29%29_China_%282%29.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 32,
+    "mpgHighway": 40,
+    "mpgCombined": 35,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Elantra"
+  ],
+  "description": "The Hyundai Elantra, also known as the Hyundai Avante, is a series of compact cars produced by the South Korean manufacturer Hyundai since 1990.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Elantra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/HYUNDAI_ELANTRA_LINGDONG_PLUG-IN_%28BASE_ON_HYUNDAI_ELANTRA_%28AD%29%29_China_%282%29.jpg/1920px-HYUNDAI_ELANTRA_LINGDONG_PLUG-IN_%28BASE_ON_HYUNDAI_ELANTRA_%28AD%29%29_China_%282%29.jpg",
+  "sketchfab": null
+}

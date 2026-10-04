@@ -1,7 +1,9 @@
 {
   "id": "jaguar-s-type",
   "make": "Jaguar",
-  "model": "S-type",
+  "model": "S-Type",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -30,6 +32,10 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "S-type",
+    "S-Type"
+  ],
   "description": "Jaguar S-Type is the name of two vehicles:Jaguar S-Type (1963) (1963–1968)\nJaguar S-Type (1999) (1999–2008)",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_S-Type",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/1966-Jaguar-S-type.jpg/500px-1966-Jaguar-S-type.jpg",

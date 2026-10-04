@@ -1,0 +1,46 @@
+{
+  "id": "ford-taurus-seventh-generation",
+  "make": "Ford",
+  "model": "Taurus",
+  "generation": "Seventh generation",
+  "aka": [
+    "Taurus 2010",
+    "FordTaurus",
+    "The Ford Taurus",
+    "Taurus sedan",
+    "Taurus automobile"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Taurus_CN_01_China_2016-04-12.jpg/960px-Ford_Taurus_CN_01_China_2016-04-12.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Taurus"
+  ],
+  "description": "The Ford Taurus is an automobile that was manufactured and marketed by the Ford Motor Company in the United States from 1985 to 2019. From 1985 to 2009, Ford marketed the Taurus alongside its rebadged variant, the Mercury Sable. Four generations of the high-performance version were also manufactured from 1988 to 1999 and 2009 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Taurus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Taurus_CN_01_China_2016-04-12.jpg/1280px-Ford_Taurus_CN_01_China_2016-04-12.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "toyota-aygo-x",
+  "make": "Toyota",
+  "model": "Aygo X",
+  "generation": null,
+  "aka": [
+    "Aygo Cross"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_Aygo_X_Edge_1.0_VVT-i_%28Front%29.jpg/960px-2022_Toyota_Aygo_X_Edge_1.0_VVT-i_%28Front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aygo X is a crossover city car (A-segment) produced by Toyota since 2022. Using the Aygo nameplate, it is primarily marketed for the European market. It is built at the Toyota Motor Manufacturing Czech Republic plant in Kolín, Czech Republic, and replaces the previous Aygo hatchback produced in two generations from 2005 to 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aygo_X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_Aygo_X_Edge_1.0_VVT-i_%28Front%29.jpg/1920px-2022_Toyota_Aygo_X_Edge_1.0_VVT-i_%28Front%29.jpg",
+  "sketchfab": null
+}

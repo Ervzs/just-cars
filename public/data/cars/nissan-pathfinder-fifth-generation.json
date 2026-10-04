@@ -1,0 +1,52 @@
+{
+  "id": "nissan-pathfinder-fifth-generation",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "generation": "Fifth generation",
+  "aka": [
+    "Infiniti QX4",
+    "The Nissan Pathfinder",
+    "Pathfinder Hybrid",
+    "Terrano",
+    "Infiniti T30",
+    "Dunehawk"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Nissan_Pathfinder_Rock_Creek_%28R53%29_AMA_Marbach_2025_DSC_8669.jpg/960px-Nissan_Pathfinder_Rock_Creek_%28R53%29_AMA_Marbach_2025_DSC_8669.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pathfinder"
+  ],
+  "description": "The Nissan Pathfinder is a range of sport utility vehicles manufactured by Nissan since 1985. Until the third-generation model, the Pathfinder is based on Nissan's compact pickup truck platform which it shares with the Navara/Frontier.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pathfinder",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Nissan_Pathfinder_Rock_Creek_%28R53%29_AMA_Marbach_2025_DSC_8669.jpg/1920px-Nissan_Pathfinder_Rock_Creek_%28R53%29_AMA_Marbach_2025_DSC_8669.jpg",
+  "sketchfab": {
+    "uid": "92a0f988e83a45248f3dadd97c0c1b36",
+    "name": "2024 Nissan Pathfinder",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

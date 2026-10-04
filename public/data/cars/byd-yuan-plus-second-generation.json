@@ -1,0 +1,30 @@
+{
+  "id": "byd-yuan-plus-second-generation",
+  "make": "BYD",
+  "model": "Yuan Plus",
+  "generation": "Second generation",
+  "aka": [
+    "Atto 5"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BYD_Yuan_Plus_II_004.jpg/960px-BYD_Yuan_Plus_II_004.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Yuan Plus is a battery electric compact SUV manufactured by BYD Auto. Part of the BYD Yuan series named after the Yuan dynasty, the Yuan Plus is sold through BYD's Dynasty Network dealerships. Unlike the preceding BYD Yuan, the Yuan Plus is offered exclusively as a battery electric vehicle. The first generation went on sale in February 2022, and a second generation was introduced in April 2026 at the Beijing Auto Show. It is positioned above the Yuan Up.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Yuan_Plus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BYD_Yuan_Plus_II_004.jpg/1920px-BYD_Yuan_Plus_II_004.jpg",
+  "sketchfab": {
+    "uid": "4e7e1a4f4fcc4fc6b8c5fb4cd71db082",
+    "name": "BYD_Yuan_Plus_EV",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "suzuki-baleno",
+  "make": "Suzuki",
+  "model": "Baleno",
+  "generation": null,
+  "aka": [
+    "Maruti Baleno",
+    "Maruti Suzuki Baleno"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Suzuki_Baleno_front_20071004.jpg/960px-Suzuki_Baleno_front_20071004.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Baleno  nameplate has been used by the Japanese manufacturer Suzuki to denote several different subcompact cars since 1996.From 1996 to 2002, the Baleno that was sold in Europe and Asia-Pacific was a rebadged Cultus Crescent. It was also produced and sold in India as the Maruti Suzuki Baleno until 2007.\nAfter the introduction of the Aerio in 2001, the Baleno nameplate was discontinued in Europe and Asia Pacific, and remained in use only in Indonesia. This Baleno was a rebadged Aerio sedan, marketed as the Baleno Next-G, and sold from 2003 to 2007.\nFrom 2008 to 2010, the Indonesian market received a rebadged SX4 sedan, marketed as the Neo Baleno.\nBaleno – A five-door hatchback introduced in 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Baleno",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Suzuki_Baleno_front_20071004.jpg/1280px-Suzuki_Baleno_front_20071004.jpg",
+  "sketchfab": {
+    "uid": "d58789a7d74c4ea7b9ace0233f0f8b50",
+    "name": "2022 Suzuki Baleno",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

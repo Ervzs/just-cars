@@ -1,0 +1,32 @@
+{
+  "id": "proton-persona-second-generation",
+  "make": "Proton",
+  "model": "Persona",
+  "generation": "Second generation",
+  "aka": [
+    "Gen-2 Persona"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Proton_Persona_%28front%29%2C_Serdang.jpg/960px-Proton_Persona_%28front%29%2C_Serdang.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Persona is a series of compact and subcompact cars produced by Malaysian automobile manufacturer Proton from 1993 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Persona",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Proton_Persona_%28front%29%2C_Serdang.jpg/1920px-Proton_Persona_%28front%29%2C_Serdang.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "toyota-rav4-fifth-generation",
+  "make": "Toyota",
+  "model": "RAV4",
+  "generation": "Fifth generation",
+  "aka": [
+    "Vanguard",
+    "RAV4 Premium",
+    "RAV4 Adventure",
+    "RAV4 Hybrid",
+    "Rav",
+    "RAV4 Prime",
+    "Mitsuoka Buddy",
+    "Wildlander"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2019_Toyota_RAV4_Adventure%2C_front_5.15.22.jpg/960px-2019_Toyota_RAV4_Adventure%2C_front_5.15.22.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 35,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RAV4",
+    "RAV4 Prime"
+  ],
+  "description": "The Toyota RAV4  is a compact crossover SUV produced by the Japanese automobile manufacturer Toyota. Having sold over 15 million units worldwide as of 2025, the RAV4 is the best-selling SUV of all time.\nThe car is credited with popularizing compact crossover automobiles, often credited as the first modern compact crossover SUV. In February 2025, the RAV4 replaced the Ford F-150 as the best-selling car in the United States, after nearly four decades of the latter's reign.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2019_Toyota_RAV4_Adventure%2C_front_5.15.22.jpg/1920px-2019_Toyota_RAV4_Adventure%2C_front_5.15.22.jpg",
+  "sketchfab": {
+    "uid": "ed155ad0cb7d447085a519eaff9aa2df",
+    "name": "2023 Toyota RAV4 Hybrid",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

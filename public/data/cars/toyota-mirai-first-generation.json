@@ -1,0 +1,44 @@
+{
+  "id": "toyota-mirai-first-generation",
+  "make": "Toyota",
+  "model": "Mirai",
+  "generation": "First generation",
+  "aka": [
+    "FCV",
+    "FCV concept car",
+    "FCV concept",
+    "FCV-R"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Hydrogen",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Toyota_Mirai_%E2%80%93_Frontansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg/960px-Toyota_Mirai_%E2%80%93_Frontansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 67,
+    "mpgHighway": 67,
+    "mpgCombined": 67,
+    "evRangeMiles": 312
+  },
+  "variants": [
+    "Mirai"
+  ],
+  "description": "The Toyota Mirai  is a mid-size hydrogen fuel cell vehicle (FCV) manufactured by Toyota, and is the first FCV to be mass-produced and sold commercially. The Mirai was unveiled at the November 2014 Los Angeles Auto Show. As of November 2022, global sales totaled 21,475 units; the top-selling markets were the U.S. with 11,368 units, Japan with 7,435 and the rest of the world with 2,622.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Toyota_Mirai_%E2%80%93_Frontansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg/1920px-Toyota_Mirai_%E2%80%93_Frontansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

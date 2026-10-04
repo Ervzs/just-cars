@@ -1,0 +1,55 @@
+{
+  "id": "chevrolet-tahoe-fifth-generation",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "generation": "Fifth generation",
+  "aka": [
+    "GMC Yukon",
+    "Chevy Tahoe",
+    "GMC Yukon Denali",
+    "Tahoe Hybrid",
+    "GMC Yukon Hybrid",
+    "Grand Blazer",
+    "Sonora",
+    "GMC Yukon Denali Hybrid"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Diesel",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/2021_Chevrolet_Tahoe_Z71.jpg/960px-2021_Chevrolet_Tahoe_Z71.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 10-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 26,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tahoe",
+    "Yukon"
+  ],
+  "description": "The Chevrolet Tahoe is a line of full-size SUVs from Chevrolet, marketed since the 1995 model year. Marketed alongside the GMC Yukon for its entire production, the Tahoe is the successor to the Chevrolet K5 Blazer, while the Yukon replaced the full-sized GMC Jimmy. Both trucks derive their nameplates from western North America, with Tahoe referring to Lake Tahoe and Yukon referring to the Canadian Yukon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Tahoe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/2021_Chevrolet_Tahoe_Z71.jpg/1920px-2021_Chevrolet_Tahoe_Z71.jpg",
+  "sketchfab": {
+    "uid": "c63ed07ceac642b8ab2f360fe6ff016f",
+    "name": "Ps1 Low-poly 2021 Chevrolet Tahoe z71",
+    "author": "LolAndPop!",
+    "authorUrl": "https://sketchfab.com/LolAndPop",
+    "license": "CC Attribution"
+  }
+}

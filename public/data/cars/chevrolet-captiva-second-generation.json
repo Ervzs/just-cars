@@ -1,0 +1,41 @@
+{
+  "id": "chevrolet-captiva-second-generation",
+  "make": "Chevrolet",
+  "model": "Captiva",
+  "generation": "Second generation",
+  "aka": [
+    "T2X",
+    "S3X",
+    "Daewoo Winstorm",
+    "Chevy captiva",
+    "Holden Captiva 7"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Chevrolet_Captiva_1.5T_Premier_2021.jpg/960px-Chevrolet_Captiva_1.5T_Premier_2021.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Captiva is a compact crossover SUV marketed by General Motors. The first generation was developed by GM Korea, based on the GM Theta platform and derived from the S3X concept car revealed in 2004. Released in 2006, it was sold internationally as the Chevrolet Captiva, in Australia and New Zealand as the Holden Captiva and in South Korea as the Daewoo Winstorm prior to the adoption of its international name in 2011, when the Daewoo brand was discontinued. The vehicle shares much its underpinnings with the similarly-styled Opel/Vauxhall Antara / second-generation Saturn Vue, with the Captiva offering optional third-row seating.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Captiva",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Chevrolet_Captiva_1.5T_Premier_2021.jpg/1920px-Chevrolet_Captiva_1.5T_Premier_2021.jpg",
+  "sketchfab": {
+    "uid": "e951a6fb3c8640cf9090cb7974d080ad",
+    "name": "2024 Chevrolet Captiva Premier XL",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

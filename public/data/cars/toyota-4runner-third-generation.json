@@ -1,0 +1,53 @@
+{
+  "id": "toyota-4runner-third-generation",
+  "make": "Toyota",
+  "model": "4Runner",
+  "generation": "Third generation",
+  "aka": [
+    "Hilux Surf",
+    "Trekker",
+    "TrailBlazer",
+    "Winnebago",
+    "4Runners",
+    "Four Runner"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2001-2002_Toyota_4Runner_--_03-16-2012.JPG/960px-2001-2002_Toyota_4Runner_--_03-16-2012.JPG",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "4Runner"
+  ],
+  "description": "The Toyota 4Runner is an SUV manufactured by the Japanese automaker Toyota and marketed globally since 1984, across six generations. In Japan, it was marketed as the Toyota Hilux Surf  and was withdrawn from the market in 2009. The original 4Runner was a compact SUV and little more than a Toyota Hilux pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota's plant in Tahara, Aichi, or at the Hino Motors plant in Hamura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_4Runner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2001-2002_Toyota_4Runner_--_03-16-2012.JPG/1280px-2001-2002_Toyota_4Runner_--_03-16-2012.JPG",
+  "sketchfab": {
+    "uid": "a59c2f5115b04661af8029a49c6b6d4c",
+    "name": "Toyota 4Runner (Mk3) 1999",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

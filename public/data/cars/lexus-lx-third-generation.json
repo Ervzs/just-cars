@@ -1,0 +1,53 @@
+{
+  "id": "lexus-lx-third-generation",
+  "make": "Lexus",
+  "model": "LX",
+  "generation": "Third generation",
+  "aka": [
+    "LX 570",
+    "Toyota Land Cruiser Cygnus",
+    "LX 470",
+    "LX450",
+    "LX 600"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2008_Lexus_LX_570_%28URJ201R%29_Prestige_wagon_04.jpg/960px-2008_Lexus_LX_570_%28URJ201R%29_Prestige_wagon_04.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LX"
+  ],
+  "description": "The Lexus LX  is a full-size luxury SUV sold by Lexus, a luxury division of Toyota, since January 1996, having entered manufacturing in November 1995. As the flagship SUV from Lexus, it is the company's largest and most expensive SUV. Four generations have been produced, all based heavily on the long-running Toyota Land Cruiser SUVs. The first-generation LX 450 started production in 1995 as Lexus' first entry into the SUV market. Its successor, the LX 470, premiered in 1998 and was manufactured until 2007. The third-generation LX debuted at the New York International Auto Show in April 2007. The fourth-generation LX debuted in October 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2008_Lexus_LX_570_%28URJ201R%29_Prestige_wagon_04.jpg/1920px-2008_Lexus_LX_570_%28URJ201R%29_Prestige_wagon_04.jpg",
+  "sketchfab": null
+}

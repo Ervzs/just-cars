@@ -1,0 +1,22 @@
+{
+  "id": "nissan-pixo",
+  "make": "Nissan",
+  "model": "Pixo",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Nissan_Pixo_front_20100815.jpg/960px-Nissan_Pixo_front_20100815.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Pixo is an automobile nameplate used by the Japanese automobile manufacturer Nissan for several city car (A-segment) models:Suzuki Alto, rebadged as the Nissan Pixo between 2009 and 2013\nRenault Twingo E-Tech, rebadged as the Nissan Pixo EV since 2026",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pixo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Nissan_Pixo_front_20100815.jpg/1920px-Nissan_Pixo_front_20100815.jpg",
+  "sketchfab": null
+}

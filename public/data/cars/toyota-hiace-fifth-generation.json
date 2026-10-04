@@ -1,0 +1,51 @@
+{
+  "id": "toyota-hiace-fifth-generation",
+  "make": "Toyota",
+  "model": "HiAce",
+  "generation": "Fifth generation",
+  "aka": [
+    "Grandia",
+    "RegiusAce",
+    "Regius",
+    "Hiace Commercial Camper",
+    "Grand HiAce",
+    "Quantum",
+    "Ses'fikile",
+    "Gonow GA6530"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/First_facelift_white_Toyota_HiAce_H200_in_Japan.jpg/960px-First_facelift_white_Toyota_HiAce_H200_in_Japan.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota HiAce  is a light commercial vehicle produced by the Japanese automobile manufacturer Toyota. First launched in October 1967, the HiAce has since been available in a wide range of body configurations, including a minivan/MPV, minibus, panel van, crew van, pickup truck, taxi and an ambulance.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_HiAce",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/First_facelift_white_Toyota_HiAce_H200_in_Japan.jpg/1920px-First_facelift_white_Toyota_HiAce_H200_in_Japan.jpg",
+  "sketchfab": {
+    "uid": "f83b4ed4d8534efb81def77b6c1b642d",
+    "name": "Low Poly 2013 Toyota HiAce",
+    "author": "Alvin.Woodly",
+    "authorUrl": "https://sketchfab.com/Alvin.Woodly",
+    "license": "CC Attribution"
+  }
+}

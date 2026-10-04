@@ -2,6 +2,8 @@
   "id": "bentley-continental",
   "make": "Bentley",
   "model": "Continental",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -45,6 +47,10 @@
     "mpgCombined": 19,
     "evRangeMiles": 440
   },
+  "variants": [
+    "Continental",
+    "Continental Flying Spur"
+  ],
   "description": "Bentley Continental refers to several models of cars produced by Bentley Motors. Originally, it referred to a special chassis for engines more powerful than the usual offering, supplied to a selected number of coachbuilders for the fitting of very light-weight coachwork designed under Rolls-Royce supervision.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Continental",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1956_Bentley_Continental_coup%C3%A9_by_Park_Ward.jpg/1920px-1956_Bentley_Continental_coup%C3%A9_by_Park_Ward.jpg",

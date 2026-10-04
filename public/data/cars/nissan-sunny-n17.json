@@ -1,0 +1,46 @@
+{
+  "id": "nissan-sunny-n17",
+  "make": "Nissan",
+  "model": "Sunny",
+  "generation": "N17",
+  "aka": [
+    "Datsun 1000",
+    "Datsun 1200",
+    "Datsun 120Y",
+    "Datsun B210",
+    "Datsun Sunny 210",
+    "Datsun Sunny",
+    "Hikari",
+    "Laurel Spirit"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2011_Nissan_Sunny_%28front%29.jpg/960px-2011_Nissan_Sunny_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sunny  is an automobile built by the Japanese automaker Nissan from 1966 until 2004. In the early 1980s, the brand changed from Datsun to Nissan in line with other models by the company. Although production of the Sunny in Japan ended in 2004, the name remains in use in China and GCC countries for a rebadged version of the Nissan Almera.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sunny",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2011_Nissan_Sunny_%28front%29.jpg/1920px-2011_Nissan_Sunny_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "eb7d06f2b2984d3c94f8c3f6168c0e3a",
+    "name": "Đánh giá sơ bộ xe Nissan Sunny 2018",
+    "author": "giaotonissan",
+    "authorUrl": "https://sketchfab.com/giaotonissan",
+    "license": "CC Attribution"
+  }
+}

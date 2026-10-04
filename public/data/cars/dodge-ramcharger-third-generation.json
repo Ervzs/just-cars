@@ -1,0 +1,45 @@
+{
+  "id": "dodge-ramcharger-third-generation",
+  "make": "Dodge",
+  "model": "Ramcharger",
+  "generation": "Third generation",
+  "aka": [
+    "Plymouth Trailduster",
+    "Chrysler BW platform"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dodge_Ram_Charger_2005.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Ram 1500 Pickup"
+  ],
+  "description": "The Dodge Ramcharger is a large sport utility vehicle built by Dodge from 1974 to 1993, based on a shortened-wheelbase version of the Dodge D series/Ram pickup chassis. A Plymouth version, named the Plymouth Trail Duster, offered from 1974 to 1981, was Plymouth's only SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Ramcharger",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dodge_Ram_Charger_2005.jpg",
+  "sketchfab": {
+    "uid": "05706c6aabf2420484c752b65825cfdd",
+    "name": "Dodge Ramcharger",
+    "author": "bunny",
+    "authorUrl": "https://sketchfab.com/bunnyuwuj",
+    "license": "CC Attribution"
+  }
+}

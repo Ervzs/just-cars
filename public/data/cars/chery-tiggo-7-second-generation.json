@@ -1,0 +1,43 @@
+{
+  "id": "chery-tiggo-7-second-generation",
+  "make": "Chery",
+  "model": "Tiggo 7",
+  "generation": "Second generation",
+  "aka": [
+    "Qoros Young",
+    "Tiggo 7 Pro",
+    "XCITE X-Cross 7",
+    "Ebro S700",
+    "DR 6.0",
+    "DR F35",
+    "Tenet 32T",
+    "Sportequipe 6"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Chery_Tiggo_7_II_015_%28cropped%29.jpg/960px-Chery_Tiggo_7_II_015_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "\n\nThe Chery Tiggo 7 is a compact crossover SUV produced by the Chinese automaker Chery Automobile. The fourth model of the company's Tiggo crossover product series, the first-generation Tiggo 7 debuted in April 2016. The second-generation model debuted as a near-production concept car in November 2019, with the production model being revealed later December that year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Tiggo_7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Chery_Tiggo_7_II_015_%28cropped%29.jpg/1920px-Chery_Tiggo_7_II_015_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "a008dc4938ce4fc393240864309cca91",
+    "name": "2023 Chery Tiggo 7 Plus 290T",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

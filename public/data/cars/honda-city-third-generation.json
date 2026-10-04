@@ -1,0 +1,35 @@
+{
+  "id": "honda-city-third-generation",
+  "make": "Honda",
+  "model": "City",
+  "generation": "Third generation",
+  "aka": [
+    "Fit Aria",
+    "City ZX",
+    "Fit Sedan",
+    "Grace",
+    "Greiz",
+    "Gienia",
+    "City Hatchback"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Honda_City_%28third_generation%29_%28front%29%2C_Kajang.jpg/960px-Honda_City_%28third_generation%29_%28front%29%2C_Kajang.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda City  is a subcompact car which has been produced by the Japanese manufacturer Honda since 1981.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_City",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Honda_City_%28third_generation%29_%28front%29%2C_Kajang.jpg/1920px-Honda_City_%28third_generation%29_%28front%29%2C_Kajang.jpg",
+  "sketchfab": null
+}

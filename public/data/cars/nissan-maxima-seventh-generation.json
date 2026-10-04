@@ -1,0 +1,51 @@
+{
+  "id": "nissan-maxima-seventh-generation",
+  "make": "Nissan",
+  "model": "Maxima",
+  "generation": "Seventh generation",
+  "aka": [
+    "Datsun Maxima",
+    "Nissen Maxima",
+    "J30",
+    "Maxima QX"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2010_Nissan_Maxima_SV_Sport_--_05-03-2010.jpg/960px-2010_Nissan_Maxima_SV_Sport_--_05-03-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Maxima"
+  ],
+  "description": "The Nissan Maxima is a five-passenger, front-engine, full-size car that was manufactured and marketed by Nissan as Nissan's flagship sedan primarily in North America, the Middle East, South Korea, and China — across eight generations. The Maxima debuted for model year 1982 as the Datsun Maxima, replacing the Datsun 810.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Maxima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2010_Nissan_Maxima_SV_Sport_--_05-03-2010.jpg/1280px-2010_Nissan_Maxima_SV_Sport_--_05-03-2010.jpg",
+  "sketchfab": {
+    "uid": "e97dbcebc7d84fd297968c66d9b65b08",
+    "name": "2010 Nissan Maxima",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

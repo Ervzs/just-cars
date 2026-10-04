@@ -1,0 +1,41 @@
+{
+  "id": "kia-granbird-second-generation",
+  "make": "Kia",
+  "model": "Granbird",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%EB%89%B4_%EA%B7%B8%EB%9E%9C%EB%B2%84%EB%93%9C_%EA%B7%B8%EB%A6%B0%ED%95%84%EB%93%9C_2013%EB%85%84%EC%8B%9D.png/960px-%EB%89%B4_%EA%B7%B8%EB%9E%9C%EB%B2%84%EB%93%9C_%EA%B7%B8%EB%A6%B0%ED%95%84%EB%93%9C_2013%EB%85%84%EC%8B%9D.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Granbird is a high-decker coach produced by the South Korean vehicle manufacturer Kia. It was derived from the Hino S'elega platform and for a brief period of time from former Asia Motors. Production started in 1994, and the exterior look stayed the same until the second generation in 2007, and then finally a refresh in 2020. The Granbird is produced at Kia's Hanam plant, and Kia's commercial and military trucks. The Granbird is only sold in selected markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Granbird",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%EB%89%B4_%EA%B7%B8%EB%9E%9C%EB%B2%84%EB%93%9C_%EA%B7%B8%EB%A6%B0%ED%95%84%EB%93%9C_2013%EB%85%84%EC%8B%9D.png/1280px-%EB%89%B4_%EA%B7%B8%EB%9E%9C%EB%B2%84%EB%93%9C_%EA%B7%B8%EB%A6%B0%ED%95%84%EB%93%9C_2013%EB%85%84%EC%8B%9D.png",
+  "sketchfab": {
+    "uid": "9b0fe139142645318c88a3f13ebc718a",
+    "name": "KIA GRANBIRD 2011",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

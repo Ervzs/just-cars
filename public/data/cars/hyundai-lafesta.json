@@ -1,0 +1,35 @@
+{
+  "id": "hyundai-lafesta",
+  "make": "Hyundai",
+  "model": "Lafesta",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hyundai_Lafesta_Shishi_01_2022-03-12.jpg/960px-Hyundai_Lafesta_Shishi_01_2022-03-12.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Lafesta is compact sedan manufactured by Hyundai through its Beijing Hyundai joint venture in China from 2018 to 2025. It sits between the Hyundai Elantra and Hyundai Sonata in Hyundai's Chinese vehicle lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Lafesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hyundai_Lafesta_Shishi_01_2022-03-12.jpg/1920px-Hyundai_Lafesta_Shishi_01_2022-03-12.jpg",
+  "sketchfab": {
+    "uid": "e87561426e8e468db17079ba63ef89f6",
+    "name": "2021 Hyundai Lafesta EV",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

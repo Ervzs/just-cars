@@ -1,0 +1,27 @@
+{
+  "id": "suzuki-spacia-first-generation",
+  "make": "Mazda",
+  "model": "Suzuki Spacia",
+  "generation": "First generation",
+  "aka": [
+    "Flair Wagon"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Suzuki_Spacia_Custom_2015_%281%29.jpg/960px-Suzuki_Spacia_Custom_2015_%281%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Spacia is a kei car produced by Suzuki. It was a replacement for the Suzuki Palette, which was discontinued in February 2013. It improves upon fuel efficiency, is lighter and features a larger cabin than its predecessor. The vehicle is also supplied to Mazda as the Mazda Flair Wagon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Spacia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Suzuki_Spacia_Custom_2015_%281%29.jpg/1920px-Suzuki_Spacia_Custom_2015_%281%29.jpg",
+  "sketchfab": null
+}

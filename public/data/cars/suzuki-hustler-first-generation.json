@@ -1,0 +1,29 @@
+{
+  "id": "suzuki-hustler-first-generation",
+  "make": "Mazda",
+  "model": "Suzuki Hustler",
+  "generation": "First generation",
+  "aka": [
+    "Flair Crossover"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Suzuki_Hustler_Coupe_front-left_2013_Tokyo_Motor_Show.jpg/960px-Suzuki_Hustler_Coupe_front-left_2013_Tokyo_Motor_Show.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Hustler  is a crossover SUV-styled kei car produced by the Japanese automaker Suzuki since 2014. The car is also sold by Mazda as the Mazda Flair Crossover  through an OEM agreement.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Hustler",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Suzuki_Hustler_Coupe_front-left_2013_Tokyo_Motor_Show.jpg/1920px-Suzuki_Hustler_Coupe_front-left_2013_Tokyo_Motor_Show.jpg",
+  "sketchfab": null
+}

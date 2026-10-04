@@ -1,0 +1,32 @@
+{
+  "id": "honda-elysion-first-generation",
+  "make": "Honda",
+  "model": "Elysion",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2007_Honda_Elysion.JPG/960px-2007_Honda_Elysion.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Elysion  is a seven- or eight-seat minivan originally sold in Japan as a competitor to the Toyota Alphard and the Nissan Elgrand. The Honda LaGreat, marketed in the United States as the Honda Odyssey, featured popular styling but was considered impractical in Japan due to its relatively large dimensions. The Elysion was designed with styling cues from the LaGreat but made smaller to be competitive in the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Elysion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2007_Honda_Elysion.JPG/1280px-2007_Honda_Elysion.JPG",
+  "sketchfab": null
+}

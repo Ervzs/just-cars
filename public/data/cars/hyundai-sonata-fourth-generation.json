@@ -1,0 +1,48 @@
+{
+  "id": "hyundai-sonata-fourth-generation",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "generation": "Fourth generation",
+  "aka": [
+    "NF Sonata",
+    "Marcia",
+    "Sonata Embera",
+    "Sonata GLS",
+    "i45",
+    "Sonata Hybrid",
+    "Sonata Turbo",
+    "Stellar II"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hyundai_Sonata_older.jpg/960px-Hyundai_Sonata_older.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sonata"
+  ],
+  "description": "The Hyundai Sonata is a mid-size car that has been manufactured by Hyundai since 1985. The first generation Sonata, which was introduced in 1985, was a facelifted version of the Hyundai Stellar with an engine upgrade, and was withdrawn from the market in two years due to poor customer reaction. While the nameplate was originally only sold in South Korea, the second generation of 1988 was widely exported.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Sonata",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hyundai_Sonata_older.jpg/1280px-Hyundai_Sonata_older.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "icar-03",
+  "make": "Chery",
+  "model": "ICar 03",
+  "generation": null,
+  "aka": [
+    "Jaecoo 6",
+    "Jaecoo EJ6",
+    "Jaecoo J6",
+    "J6",
+    "X3",
+    "Fulwin X3",
+    "ICar 03T",
+    "ICaur 03"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ICar_03_001.jpg/960px-ICar_03_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Fulwin X3, previously known as iCar 03. is a battery electric compact crossover SUV produced by Chery Automobile under the Chery and iCar brand. The vehicle was first presented at the Chengdu Motor Show in 2023. It is exported since 2024 under various names, including Jaecoo J6, Chery J6, Aiqar eQ3, and iCaur 03.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ICar_03",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ICar_03_001.jpg/1920px-ICar_03_001.jpg",
+  "sketchfab": null
+}

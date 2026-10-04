@@ -1,0 +1,43 @@
+{
+  "id": "kia-picanto-third-generation",
+  "make": "Kia",
+  "model": "Picanto",
+  "generation": "Third generation",
+  "aka": [
+    "Morning",
+    "EuroStar",
+    "Naza Suria",
+    "New Morning",
+    "Naza Picanto"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kia_Morning_JA_Clear_White_%2819%29.jpg/960px-Kia_Morning_JA_Clear_White_%2819%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Picanto is a city car that has been produced by the South Korean car manufacturer, Kia, since 2003. Other names of the car include Kia Morning in South Korea, Hong Kong, Taiwan and Chile, Kia EuroStar in Taiwan, Kia New Morning in Vietnam and the Naza Suria or Naza Picanto in Malaysia. The Picanto is primarily manufactured at the Donghee joint-venture plant in Seosan, South Korea, though some countries locally assemble complete knock-down versions of the car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Picanto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kia_Morning_JA_Clear_White_%2819%29.jpg/1920px-Kia_Morning_JA_Clear_White_%2819%29.jpg",
+  "sketchfab": {
+    "uid": "8fa81f7e068f4d3ab625c214360f8e4e",
+    "name": "2017 Kia Picanto GT-Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

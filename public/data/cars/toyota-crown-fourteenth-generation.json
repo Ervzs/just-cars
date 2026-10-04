@@ -1,0 +1,42 @@
+{
+  "id": "toyota-crown-fourteenth-generation",
+  "make": "Toyota",
+  "model": "Crown",
+  "generation": "Fourteenth generation",
+  "aka": [
+    "Toyopet Crown",
+    "Master Line",
+    "Crown S180",
+    "Crown Athlete",
+    "Crown Hybrid",
+    "Crown Royal",
+    "RS",
+    "Crown Eight"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2012_Toyota_Crown-Royal_02.jpg/960px-2012_Toyota_Crown-Royal_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown  is an automobile which has been produced by Toyota in Japan since 1955. It is primarily a line of executive cars that is marketed as an upscale offering in the Toyota lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2012_Toyota_Crown-Royal_02.jpg/1280px-2012_Toyota_Crown-Royal_02.jpg",
+  "sketchfab": {
+    "uid": "8b3a2187529547a091da6da1a612beaa",
+    "name": "2013 Toyota Crown Athlete S Hybrid",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

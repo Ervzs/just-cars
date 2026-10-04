@@ -1,0 +1,32 @@
+{
+  "id": "honda-n-one-second-generation",
+  "make": "Honda",
+  "model": "N-One",
+  "generation": "Second generation",
+  "aka": [
+    "Super-N",
+    "Super EV",
+    "Super-One"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Honda_N-ONE_Premium_Tourer_%286BA-JG3%29_front.jpg/960px-Honda_N-ONE_Premium_Tourer_%286BA-JG3%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-One  is a kei car produced by Honda since 2012 over two generations. It is a five-door hatchback with retro styling and either front-wheel drive or all-wheel drive.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-One",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Honda_N-ONE_Premium_Tourer_%286BA-JG3%29_front.jpg/1920px-Honda_N-ONE_Premium_Tourer_%286BA-JG3%29_front.jpg",
+  "sketchfab": null
+}

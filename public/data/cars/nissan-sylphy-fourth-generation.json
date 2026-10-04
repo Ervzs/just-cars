@@ -1,0 +1,37 @@
+{
+  "id": "nissan-sylphy-fourth-generation",
+  "make": "Nissan",
+  "model": "Sylphy",
+  "generation": "Fourth generation",
+  "aka": [
+    "Bluebird Sylphy",
+    "Dongfeng E11K"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_Dongfeng-Nissan_Sylphy_B18_%28front%29.jpg/960px-2019_Dongfeng-Nissan_Sylphy_B18_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sylphy  is a compact car produced by the Japanese car maker Nissan since 2000 as the successor to the Nissan Pulsar. The Sylphy has also been marketed in export markets under several other nameplates, including Pulsar, Almera, Sunny and Sentra. For the third-generation model (B17) introduced in 2012, the Sylphy model was merged with the B17 Sentra, meaning it is no longer a standalone model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sylphy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_Dongfeng-Nissan_Sylphy_B18_%28front%29.jpg/1920px-2019_Dongfeng-Nissan_Sylphy_B18_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "881b0345d0d84d5d8df6af6601978d30",
+    "name": "2024 Nissan Sylphy E-POWER Hybrid",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

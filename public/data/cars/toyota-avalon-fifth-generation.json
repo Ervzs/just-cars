@@ -1,0 +1,51 @@
+{
+  "id": "toyota-avalon-fifth-generation",
+  "make": "Toyota",
+  "model": "Avalon",
+  "generation": "Fifth generation",
+  "aka": [
+    "Pronard",
+    "Avalon Hybrid"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2020_Toyota_Avalon_XSE%2C_front_left%2C_07-09-2023.jpg/960px-2020_Toyota_Avalon_XSE%2C_front_left%2C_07-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 43,
+    "mpgHighway": 43,
+    "mpgCombined": 43,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Avalon"
+  ],
+  "description": "The Toyota Avalon  is a full-size sedan manufactured by Toyota, as its largest front-wheel drive sedan; also its flagship in the United States, Canada, China and the Middle East. The Avalon was also manufactured in Australia from April 2000 until June 2005, when it was replaced in November 2006 by the Aurion. The first production Avalon was manufactured in September 1994 at the TMMK assembly line in Georgetown, Kentucky, where subsequent generations have been manufactured.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avalon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2020_Toyota_Avalon_XSE%2C_front_left%2C_07-09-2023.jpg/1920px-2020_Toyota_Avalon_XSE%2C_front_left%2C_07-09-2023.jpg",
+  "sketchfab": {
+    "uid": "f69f35f15ea74b29ae8be8e56751fe58",
+    "name": "2023 Toyota Avalon Hybrid Limited",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

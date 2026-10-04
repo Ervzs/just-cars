@@ -2,6 +2,11 @@
   "id": "oldsmobile-alero",
   "make": "Oldsmobile",
   "model": "Alero",
+  "generation": null,
+  "aka": [
+    "Chevrolet Alero",
+    "Chevy alero"
+  ],
   "years": [
     2000,
     2001,
@@ -26,6 +31,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Alero"
+  ],
   "description": "The Oldsmobile Alero is a compact car that was produced by General Motors for its Oldsmobile division. Introduced in 1998 as a 1999 model, the Alero was the replacement for both the Achieva and Cutlass. The Alero was Oldsmobile's last new model nameplate, and — on April 29, 2004 — was also the last Oldsmobile manufactured.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Alero",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Oldsmobile_Alero_sedan_--_03-16-2012.JPG/1280px-Oldsmobile_Alero_sedan_--_03-16-2012.JPG",

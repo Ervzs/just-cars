@@ -2,6 +2,12 @@
   "id": "lucid-air",
   "make": "Lucid",
   "model": "Air",
+  "generation": null,
+  "aka": [
+    "Motors Air",
+    "Air Sapphire",
+    "Sapphire"
+  ],
   "years": [
     2022,
     2023,
@@ -27,6 +33,9 @@
     "mpgCombined": 128,
     "evRangeMiles": 512
   },
+  "variants": [
+    "Air"
+  ],
   "description": "The Lucid Air is a battery electric four-door luxury sedan produced by Lucid Motors. The vehicle was announced in December 2016 and sales began in 2021 as the brand's first car. It has been positively reviewed by critics and is known for its range and performance capabilities.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucid_Air",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg/1920px-2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg",

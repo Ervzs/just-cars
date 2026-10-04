@@ -1,0 +1,55 @@
+{
+  "id": "chevrolet-corvette-eighth-generation",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "generation": "Eighth generation",
+  "aka": [
+    "Chevy Corvette",
+    "C5",
+    "C6",
+    "2006 Chevrolet Corvette Z06",
+    "C-5 Corvette",
+    "Traverse leaf spring",
+    "Traverse leaf springs",
+    "Corvette car"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg/960px-Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "5.5L 8-cyl",
+    "displacementL": 5.5,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corvette"
+  ],
+  "description": "The Chevrolet Corvette is a line of American two-door, two-seater sports cars manufactured and marketed by General Motors under the Chevrolet marque since 1953. Throughout eight generations, indicated sequentially as C1 to C8, the Corvette is noted for its performance, distinctive styling, lightweight fiberglass or composite bodywork, and competitive pricing. The Corvette has had domestic mass-produced two-seater competitors fielded by American Motors, Ford, and Chrysler; it is the only one continuously produced by a United States auto manufacturer. It serves as Chevrolet's halo car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg/1920px-Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg",
+  "sketchfab": {
+    "uid": "9df7e489a49c4820b09d3fdde7271e78",
+    "name": "2025 Chevrolet Corvette ZR1",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

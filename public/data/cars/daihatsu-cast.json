@@ -1,0 +1,33 @@
+{
+  "id": "daihatsu-cast",
+  "make": "Toyota",
+  "model": "Daihatsu Cast",
+  "generation": null,
+  "aka": [
+    "Pixis Joy",
+    "Daihatsu Cast Activa"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-2017_Daihatsu_Cast_Style_G.jpg/960px-2015-2017_Daihatsu_Cast_Style_G.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Cast  is a kei car built by the Japanese manufacturer Daihatsu from 2015 to 2023. It comes in three variations designated, \"Style\", \"Activa\" and \"Sport\". Each one can be equipped with either front- or four-wheel drive configuration.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Cast",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-2017_Daihatsu_Cast_Style_G.jpg/1920px-2015-2017_Daihatsu_Cast_Style_G.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "buick-century-sixth-generation",
+  "make": "Buick",
+  "model": "Century",
+  "generation": "Sixth generation",
+  "aka": [
+    "Luxus",
+    "Series 60",
+    "Chevrolet Century Limited",
+    "New Century",
+    "Chevrolet Century",
+    "Century Limited",
+    "GM Century Limited"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.1L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2003_Buick_Century_Limited_Package_in_Sterling_Silver_Metallic%2C_Front_Left%2C_05-02-2023.jpg/960px-2003_Buick_Century_Limited_Package_in_Sterling_Silver_Metallic%2C_Front_Left%2C_05-02-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.1L 6-cyl",
+    "displacementL": 3.1,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Century"
+  ],
+  "description": "Buick Century is the model name that was used by Buick for a line of upscale full-size cars from 1936 to 1942 and 1954 to 1958, as well as from 1973 to 2005 for mid-size cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Century",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2003_Buick_Century_Limited_Package_in_Sterling_Silver_Metallic%2C_Front_Left%2C_05-02-2023.jpg/1920px-2003_Buick_Century_Limited_Package_in_Sterling_Silver_Metallic%2C_Front_Left%2C_05-02-2023.jpg",
+  "sketchfab": {
+    "uid": "040e2a1bb18b488797e51f6d08df2685",
+    "name": "1997 Buick Century - Bus Driver 3D",
+    "author": "Villanueva-Jonatan-32621",
+    "authorUrl": "https://sketchfab.com/vj32621",
+    "license": "CC Attribution"
+  }
+}

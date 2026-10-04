@@ -1,0 +1,52 @@
+{
+  "id": "chevrolet-camaro-fourth-generation",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Fourth generation",
+  "aka": [
+    "Chevy Camaro",
+    "Camaro Z28",
+    "Camaro B4C",
+    "Camaro Convertible",
+    "Panther",
+    "Chevy Panther",
+    "The Chevrolet Camaro",
+    "Camaro GT"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/1993ChevroletCamaroZ28-001.jpg/960px-1993ChevroletCamaroZ28-001.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camaro"
+  ],
+  "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet, classified as a pony car. It first went on sale on September 29, 1966, for the 1967 model year, and was designed to compete with the Ford Mustang. The Camaro shared its platform and major components with the Firebird, produced by General Motors' Pontiac division that was also introduced for the 1967 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/1993ChevroletCamaroZ28-001.jpg/1920px-1993ChevroletCamaroZ28-001.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mazda3-second-generation",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "generation": "Second generation",
+  "aka": [
+    "3",
+    "BK3P",
+    "Axela",
+    "MazdaThree",
+    "3 SP25"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2009_Mazda3_%28BL%29_Neo_sedan_%282018-09-17%29_02.jpg/960px-2009_Mazda3_%28BL%29_Neo_sedan_%282018-09-17%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 32,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "3"
+  ],
+  "description": "The Mazda3 is a compact car manufactured by Mazda since 2003 over four generations. The body styles have been a 5-door hatchback and 4-door sedan across all generations. It was sold as the Mazda Axela  in Japan until 2019. From 2013 until 2019, it was called the Mazda 3 Axela in China.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2009_Mazda3_%28BL%29_Neo_sedan_%282018-09-17%29_02.jpg/1920px-2009_Mazda3_%28BL%29_Neo_sedan_%282018-09-17%29_02.jpg",
+  "sketchfab": null
+}

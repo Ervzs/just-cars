@@ -1,0 +1,49 @@
+{
+  "id": "nissan-kicks-first-generation",
+  "make": "Nissan",
+  "model": "Kicks",
+  "generation": "First generation",
+  "aka": [
+    "Kicks Play"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2020_Nissan_Kicks_SR%2C_front_right%2C_09-09-2023.jpg/960px-2020_Nissan_Kicks_SR%2C_front_right%2C_09-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 36,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Kicks"
+  ],
+  "description": "The Nissan Kicks  is a subcompact crossover SUV produced by Nissan since 2016. The crossover was initially introduced as a concept car under the same name and was premiered at the 2014 São Paulo International Motor Show. Nissan claimed the concept is inspired by the streets of Brazil.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Kicks",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2020_Nissan_Kicks_SR%2C_front_right%2C_09-09-2023.jpg/1920px-2020_Nissan_Kicks_SR%2C_front_right%2C_09-09-2023.jpg",
+  "sketchfab": {
+    "uid": "942244be457745678c54a7ff5330ba8d",
+    "name": "2021 Nissan Kicks",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

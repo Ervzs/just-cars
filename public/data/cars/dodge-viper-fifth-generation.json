@@ -1,0 +1,53 @@
+{
+  "id": "dodge-viper-fifth-generation",
+  "make": "Dodge",
+  "model": "Viper",
+  "generation": "Fifth generation",
+  "aka": [
+    "Vipers",
+    "Viper SRT-10",
+    "Viper Competition Coupe",
+    "Viper GTS",
+    "Chrysler Viper",
+    "Viper E85",
+    "Viper ACR",
+    "Viper GTS ACR"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.4L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dodge_Viper_%2855242%29.jpg/960px-Dodge_Viper_%2855242%29.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "8.4L 10-cyl",
+    "displacementL": 8.4,
+    "cylinders": 10,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 19,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Viper"
+  ],
+  "description": "The Dodge Viper is an American sports car that was manufactured by Dodge, a division of American car manufacturer Chrysler. First showcased in 1989 at the North American International Auto Show as a interpretative concept car of a modern-era AC Cobra, production of the two-seat sports car later began at New Mack Assembly Plant in 1991 and moved to Conner Avenue Assembly Plant in October 1995. Five generations of the Viper were developed from 1991 until 2017, with a brief hiatus in 2007 and between 2011 and 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Viper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dodge_Viper_%2855242%29.jpg/1920px-Dodge_Viper_%2855242%29.jpg",
+  "sketchfab": {
+    "uid": "f9849ec2069343f4a7fafbc94f5e80c0",
+    "name": "2016 Dodge Viper ACR",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

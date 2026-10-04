@@ -2,6 +2,15 @@
   "id": "mercedes-benz-glk-class",
   "make": "Mercedes-Benz",
   "model": "GLK-Class",
+  "generation": null,
+  "aka": [
+    "MLKX-Class",
+    "MLK-Class",
+    "GLK",
+    "Mercedes GLK",
+    "X204",
+    "Mercedes GLK-Class"
+  ],
   "years": [
     2010,
     2011,
@@ -27,6 +36,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "GLK-Class"
+  ],
   "description": "The Mercedes-Benz GLK-Class is a compact luxury crossover SUV produced from 2008 to 2015, debuting at the 2008 Beijing Auto Show. The name GLK is an acronym for Geländewagen Luxus Kompaktklasse, taking its name from the larger Mercedes-Benz GL-Class, which in turn was named after the G-Wagen or Geländewagen. Thus, the GL is the luxury-oriented version of the G, and GLK is the compact version of the GL.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLK-Class",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mercedes-Benz_GLK_220_CDI_4MATIC_Sport-Paket_AMG_%28X_204%2C_Facelift%29_%E2%80%93_Frontansicht%2C_24._August_2014%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_GLK_220_CDI_4MATIC_Sport-Paket_AMG_%28X_204%2C_Facelift%29_%E2%80%93_Frontansicht%2C_24._August_2014%2C_D%C3%BCsseldorf.jpg",

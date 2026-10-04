@@ -2,6 +2,8 @@
   "id": "porsche-turbo-4-911-cab",
   "make": "Porsche",
   "model": "Turbo 4 911 Cab",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005
@@ -23,6 +25,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "Turbo 4 911 Cab"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

@@ -1,0 +1,30 @@
+{
+  "id": "toyota-mark-x-first-generation",
+  "make": "Toyota",
+  "model": "Mark X",
+  "generation": "First generation",
+  "aka": [
+    "Reiz",
+    "Mark X G Sports Concept",
+    "Mark X GRMN"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2004_Toyota_Mark-X_02.jpg/960px-2004_Toyota_Mark-X_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Mark X  is a mid-size car manufactured by Toyota between 2004 and 2019, and was primarily aimed at the Japanese market. The Mark X was introduced in 2004 and is the successor to the Mark II which was first introduced in 1968, and was known in the North American market as the Corona Mark II starting in 1972, and renamed the Cressida from 1977 to 1992.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Mark_X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2004_Toyota_Mark-X_02.jpg/1280px-2004_Toyota_Mark-X_02.jpg",
+  "sketchfab": null
+}

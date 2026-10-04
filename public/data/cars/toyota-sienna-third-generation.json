@@ -1,0 +1,54 @@
+{
+  "id": "toyota-sienna-third-generation",
+  "make": "Toyota",
+  "model": "Sienna",
+  "generation": "Third generation",
+  "aka": [
+    "Siena",
+    "2011 Toyota Sienna",
+    "Sienna minivans",
+    "Toyotasienna"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Toyota_Sienna_%28XL30%29_IMG_3633.jpg/960px-Toyota_Sienna_%28XL30%29_IMG_3633.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sienna"
+  ],
+  "description": "The Toyota Sienna is a minivan manufactured and marketed by Toyota primarily for the North American market. It is named for the Italian city of Siena, in the region of Tuscany. It replaced the first generation Previa van, and the Toyota Camry wagon in 1997 with a more conventional front-wheel drive layout and shares a heavily revised platform with the Camry. Both the Previa and original Sienna were smaller than the other minivans they competed against, but a redesign in 2003 increased the dimensions to match those of its competitors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sienna",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Toyota_Sienna_%28XL30%29_IMG_3633.jpg/1920px-Toyota_Sienna_%28XL30%29_IMG_3633.jpg",
+  "sketchfab": {
+    "uid": "33fd5ed6b6df45ee979a726d553d9fcf",
+    "name": "Toyota Sienna 2016",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

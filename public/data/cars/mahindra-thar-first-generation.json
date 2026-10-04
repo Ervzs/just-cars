@@ -1,0 +1,31 @@
+{
+  "id": "mahindra-thar-first-generation",
+  "make": "Mahindra",
+  "model": "Thar",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mahindra_Thar_in_dark_red.jpg/960px-Mahindra_Thar_in_dark_red.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mahindra Thar is a compact SUV manufactured by Indian automaker Mahindra & Mahindra. It was introduced on October 4, 2010 and replaced the Mahindra Major.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahindra_Thar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mahindra_Thar_in_dark_red.jpg/1920px-Mahindra_Thar_in_dark_red.jpg",
+  "sketchfab": null
+}

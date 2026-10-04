@@ -2,31 +2,43 @@
   "id": "ferrari-california",
   "make": "Ferrari",
   "model": "California",
+  "generation": null,
+  "aka": [
+    "California T"
+  ],
   "years": [
     2009,
     2010,
     2011,
     2012,
     2013,
-    2014
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
   ],
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Premium",
-  "engine": "4.3L 8-cyl",
+  "engine": "3.9L 8-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg/960px-2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg",
   "has3d": true,
-  "representativeYear": 2014,
+  "representativeYear": 2018,
   "specs": {
-    "engine": "4.3L 8-cyl",
-    "displacementL": 4.3,
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
     "cylinders": 8,
     "transmission": "Automatic (AM7)",
     "drive": "Rear-Wheel Drive",
-    "mpgCity": 14,
-    "mpgHighway": 19,
-    "mpgCombined": 16,
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "California",
+    "California T"
+  ],
   "description": "The Ferrari California is a grand touring, high performance sports car created by the Italian automobile manufacturer Ferrari. It is a two-door 2+2 hard top convertible. When originally unveiled in 2008, the California was powered by a front-mid mounted, rear wheel drive, naturally aspirated 4.3-litre V8. In 2012, a lighter, slightly more powerful variant, the California 30, was introduced. In 2014, Ferrari announced the second generation of the model, named California T powered by a new twin-turbo 3.9-litre V8.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_California",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg/1920px-2013_Ferrari_California_4.3L_Hagerty_parking_lot_6.1.19.jpg",

@@ -1,0 +1,35 @@
+{
+  "id": "proton-iriz",
+  "make": "Proton",
+  "model": "Iriz",
+  "generation": null,
+  "aka": [
+    "P2-30A"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2014_Proton_Iriz_1.6L_Premium_in_Shah_Alam%2C_Malaysia_%2801%29.jpg/960px-2014_Proton_Iriz_1.6L_Premium_in_Shah_Alam%2C_Malaysia_%2801%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Iriz is a supermini (B-segment) produced by Malaysian automobile manufacturer Proton from 2014 to 2025. It was unveiled on 25 September 2014 at Proton City by Malaysia’s fourth and seventh prime minister, Mahathir Mohamad. The Iriz platform is also used by its sedan equivalent, the Persona (BH) which was introduced in 2016.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Iriz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2014_Proton_Iriz_1.6L_Premium_in_Shah_Alam%2C_Malaysia_%2801%29.jpg/1920px-2014_Proton_Iriz_1.6L_Premium_in_Shah_Alam%2C_Malaysia_%2801%29.jpg",
+  "sketchfab": null
+}

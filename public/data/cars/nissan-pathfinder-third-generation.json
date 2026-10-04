@@ -1,0 +1,54 @@
+{
+  "id": "nissan-pathfinder-third-generation",
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "generation": "Third generation",
+  "aka": [
+    "Infiniti QX4",
+    "The Nissan Pathfinder",
+    "Pathfinder Hybrid",
+    "Terrano",
+    "Infiniti T30",
+    "Dunehawk"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2005-2007_Nissan_Pathfinder_%28R51%29_ST-L_wagon_04.jpg/960px-2005-2007_Nissan_Pathfinder_%28R51%29_ST-L_wagon_04.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pathfinder"
+  ],
+  "description": "The Nissan Pathfinder is a range of sport utility vehicles manufactured by Nissan since 1985. Until the third-generation model, the Pathfinder is based on Nissan's compact pickup truck platform which it shares with the Navara/Frontier.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pathfinder",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2005-2007_Nissan_Pathfinder_%28R51%29_ST-L_wagon_04.jpg/1920px-2005-2007_Nissan_Pathfinder_%28R51%29_ST-L_wagon_04.jpg",
+  "sketchfab": {
+    "uid": "ca855da278ed46b4bb60daa1a08a2af4",
+    "name": "2005 Nissan Pathfinder",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

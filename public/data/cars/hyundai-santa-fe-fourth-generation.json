@@ -1,0 +1,49 @@
+{
+  "id": "hyundai-santa-fe-fourth-generation",
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "generation": "Fourth generation",
+  "aka": [
+    "Santa Fe FCEV",
+    "Santa Fe XL",
+    "Maxcruz",
+    "Santa Fe Sport"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2018_Hyundai_Santa_Fe_Leonberg_IMG_0144.jpg/960px-2018_Hyundai_Santa_Fe_Leonberg_IMG_0144.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 33,
+    "mpgHighway": 30,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Santa Fe"
+  ],
+  "description": "The Hyundai Santa Fe is a series of crossover SUVs produced across five generations by the South Korean manufacturer Hyundai since 2000. It is named after the city of Santa Fe, New Mexico, and was introduced for the 2001 model year as Hyundai's first SUV. The Santa Fe was a milestone in the company's restructuring program of the late 1990s because the SUV was a hit with American buyers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2018_Hyundai_Santa_Fe_Leonberg_IMG_0144.jpg/1920px-2018_Hyundai_Santa_Fe_Leonberg_IMG_0144.jpg",
+  "sketchfab": {
+    "uid": "0b21aa4f375249ff9fd421a0e41aa55e",
+    "name": "2020 Hyundai Santa Fe TM 380T HTrac China",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

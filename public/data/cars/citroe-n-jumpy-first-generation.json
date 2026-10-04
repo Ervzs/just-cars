@@ -1,0 +1,43 @@
+{
+  "id": "citroe-n-jumpy-first-generation",
+  "make": "Toyota",
+  "model": "Citroën Jumpy",
+  "generation": "First generation",
+  "aka": [
+    "Citroën Dispatch",
+    "Fiat Scudo",
+    "Citroen Dispatch",
+    "Citroen Jumpy",
+    "Peugeot Expert",
+    "ProAce",
+    "Peugeot Expert Tepee",
+    "Citroën Space Tourer"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Citro%C3%ABnJumpy30062013.jpg/960px-Citro%C3%ABnJumpy30062013.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Citroën Jumpy is a light commercial van jointly developed by FCA Italy and PSA Group and, since 2021, Stellantis. The Jumpy is also sold as the Peugeot Expert, Fiat Scudo, Opel Vivaro, and Toyota ProAce. They were previously built by Sevel, a joint venture created in 1994 by the two companies.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Citro%C3%ABnJumpy30062013.jpg/1280px-Citro%C3%ABnJumpy30062013.jpg",
+  "sketchfab": null
+}

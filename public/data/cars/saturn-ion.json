@@ -2,6 +2,11 @@
   "id": "saturn-ion",
   "make": "Saturn",
   "model": "Ion",
+  "generation": null,
+  "aka": [
+    "ION Redline",
+    "quad coupe"
+  ],
   "years": [
     2003,
     2004,
@@ -26,6 +31,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ion"
+  ],
   "description": "The Saturn Ion is a compact car sold by Saturn between the 2003 and 2007 model years. Based on the GM Delta platform, the Ion replaced the Saturn S-Series in 2002,\nand was replaced by the new Saturn Astra in 2008. Production of the Ion ended on March 29, 2007. The Ion was the last Saturn passenger car built at the Spring Hill, Tennessee, plant which was originally linked to the company's branding, with Saturn owners attending \"homecoming\" events at the plant.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Ion",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2005-Saturn-Ion-2.jpg/1280px-2005-Saturn-Ion-2.jpg",

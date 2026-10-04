@@ -1,0 +1,45 @@
+{
+  "id": "chevrolet-ssr",
+  "make": "Chevrolet",
+  "model": "SSR",
+  "generation": null,
+  "aka": [
+    "Chevy SSR"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Premium",
+  "engine": "6.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2004_Chevrolet_SSR%2C_front_left%2C_07-02-2023.jpg/960px-2004_Chevrolet_SSR%2C_front_left%2C_07-02-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "6.0L 8-cyl",
+    "displacementL": 6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SSR Pickup"
+  ],
+  "description": "The Chevrolet SSR is a retro-styled pickup truck with a retractable hardtop manufactured by Chevrolet from 2003 to 2006. The design was inspired by the Chevrolet Advance Design series of trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_SSR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2004_Chevrolet_SSR%2C_front_left%2C_07-02-2023.jpg/1920px-2004_Chevrolet_SSR%2C_front_left%2C_07-02-2023.jpg",
+  "sketchfab": {
+    "uid": "8e608a6062b64a1c94ae88aad775a980",
+    "name": "Chevrolet SSR",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mitsubishi-destinator",
+  "make": "Mitsubishi",
+  "model": "Destinator",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2025_Mitsubishi_Destinator_Ultimate_prototype_spec_%28Indonesia%29_front_view.jpg/960px-2025_Mitsubishi_Destinator_Ultimate_prototype_spec_%28Indonesia%29_front_view.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Destinator is a compact crossover SUV with three-row seating manufactured by Mitsubishi Motors since 2025. It is mainly marketed for emerging markets in Africa, Latin America, Middle East, South Asia, and Southeast Asia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Destinator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2025_Mitsubishi_Destinator_Ultimate_prototype_spec_%28Indonesia%29_front_view.jpg/1920px-2025_Mitsubishi_Destinator_Ultimate_prototype_spec_%28Indonesia%29_front_view.jpg",
+  "sketchfab": {
+    "uid": "c09929fe9655461394139cd61500c147",
+    "name": "Mitsubishi Destinator",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

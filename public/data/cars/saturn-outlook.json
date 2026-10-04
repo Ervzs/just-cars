@@ -2,6 +2,8 @@
   "id": "saturn-outlook",
   "make": "Saturn",
   "model": "Outlook",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008,
@@ -25,6 +27,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Outlook"
+  ],
   "description": "The Saturn Outlook is a full-size crossover SUV that debuted at the New York International Auto Show, and was based on the GM Lambda platform, which it shared with the Buick Enclave, Chevrolet Traverse and GMC Acadia. The Outlook went on sale in 2006 as a 2007 model. The Outlook featured the lowest sticker price among GM's Lambda crossover SUVs, slotting below the GMC Acadia and Buick Enclave. The Chevrolet Traverse would ultimately take the place of the Outlook as the family-oriented model following the introduction of the Traverse for the 2009 model year, and the demise of the Outlook, along with the entire Saturn brand in 2010, with the 2010 model year having several hundred models built to use up extra parts.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Outlook",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/07-Saturn-Outlook-XR.jpg/1280px-07-Saturn-Outlook-XR.jpg",

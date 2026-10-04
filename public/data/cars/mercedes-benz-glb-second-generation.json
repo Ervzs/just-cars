@@ -1,0 +1,38 @@
+{
+  "id": "mercedes-benz-glb-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLB",
+  "generation": "Second generation",
+  "aka": [
+    "GLB-Class",
+    "Mercedes GLB",
+    "Mercedes GLB with EQ Technology"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mercedes-Benz_X244_IMG_6208.jpg/960px-Mercedes-Benz_X244_IMG_6208.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GLB-Class"
+  ],
+  "description": "The Mercedes-Benz GLB is a three-row D-segment luxury crossover SUV produced by Mercedes-Benz. It was unveiled by the German manufacturer Daimler AG on 10 June 2019 in Park City, Utah. It was previously unveiled as a concept car to the public at the Shanghai Auto Show in April 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLB",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mercedes-Benz_X244_IMG_6208.jpg/1920px-Mercedes-Benz_X244_IMG_6208.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mercedes-benz-a-class-third-generation",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "generation": "Third generation",
+  "aka": [
+    "W168",
+    "W169",
+    "A Classe",
+    "Mercedes A Classe",
+    "Mercedes a160",
+    "Mercedes a class",
+    "Mercedes Benz A class",
+    "Baby Benz"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Heckansicht%2C_30._November_2014%2C_Ratingen.jpg/960px-Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Heckansicht%2C_30._November_2014%2C_Ratingen.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mercedes-Benz A-Class is a car manufactured by German luxury automaker Mercedes-Benz. It has been marketed across four generations as a front-engine, front-wheel drive, five-passenger, five-door hatchback, with a three-door hatchback offered for the second generation, as well as a saloon version for the fourth.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Heckansicht%2C_30._November_2014%2C_Ratingen.jpg/1920px-Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Heckansicht%2C_30._November_2014%2C_Ratingen.jpg",
+  "sketchfab": null
+}

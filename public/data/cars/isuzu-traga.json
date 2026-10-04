@@ -1,0 +1,32 @@
+{
+  "id": "isuzu-traga",
+  "make": "Isuzu",
+  "model": "Traga",
+  "generation": null,
+  "aka": [
+    "Traviz"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2019_Isuzu_Traga_Box%2C_Pasar_Atom%2C_North_Surabaya.jpg/960px-2019_Isuzu_Traga_Box%2C_Pasar_Atom%2C_North_Surabaya.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Traga is a small cab over pickup truck manufactured by Isuzu since 2018. It is developed to compete with the Mitsubishi L300 in the Indonesian medium pickup truck market. It replaces the L300-based Bison and Panther pickup in the market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Traga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2019_Isuzu_Traga_Box%2C_Pasar_Atom%2C_North_Surabaya.jpg/1920px-2019_Isuzu_Traga_Box%2C_Pasar_Atom%2C_North_Surabaya.jpg",
+  "sketchfab": null
+}

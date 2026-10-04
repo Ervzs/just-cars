@@ -1,0 +1,49 @@
+{
+  "id": "nissan-altima-third-generation",
+  "make": "Nissan",
+  "model": "Altima",
+  "generation": "Third generation",
+  "aka": [
+    "Altima Hybrid",
+    "Nissen Altima",
+    "L33 Altima",
+    "Altima L33"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2002-2004_Nissan_Altima_2.5S_%28cropped%29.jpg/960px-2002-2004_Nissan_Altima_2.5S_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Altima"
+  ],
+  "description": "The Nissan Altima is a mid-size car manufactured by Nissan since 1992. It is an offshoot of the Nissan Bluebird line, which began in 1955.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Altima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2002-2004_Nissan_Altima_2.5S_%28cropped%29.jpg/1280px-2002-2004_Nissan_Altima_2.5S_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "ae3d38c9e1c249f8adb4dec0b37aa095",
+    "name": "2005 Nissan Altima",
+    "author": "5spokehubcap",
+    "authorUrl": "https://sketchfab.com/5spokehubcap",
+    "license": "CC Attribution"
+  }
+}

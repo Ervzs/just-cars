@@ -1,0 +1,31 @@
+{
+  "id": "mg-cyberster",
+  "make": "MG",
+  "model": "Cyberster",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2024_MG_Cyberster.jpg/960px-2024_MG_Cyberster.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG Cyberster is a battery electric car produced by SAIC Motor under the MG marque since 2023. It is a two-door roadster with rear-motor, rear-wheel drive and dual-motor, all-wheel-drive variants. The vehicle was previewed as a concept car with the same name in 2021. In 2024, MG displayed a two-door coupé concept version of the Cyberster called the Cyber GTS.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_Cyberster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2024_MG_Cyberster.jpg/1920px-2024_MG_Cyberster.jpg",
+  "sketchfab": {
+    "uid": "194c998698594d7e825c9f5dedcdbef3",
+    "name": "2025 MG Cyberster (GLB)(mgmotor.com.mx)",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

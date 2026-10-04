@@ -1,0 +1,57 @@
+{
+  "id": "bmw-3-series-seventh-generation",
+  "make": "BMW",
+  "model": "3 Series",
+  "generation": "Seventh generation",
+  "aka": [
+    "330ci",
+    "3",
+    "300",
+    "300 Series",
+    "330i",
+    "325i",
+    "325ci",
+    "330xi"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/960px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 35,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "3 Series"
+  ],
+  "description": "The BMW 3 series is a line of compact executive cars manufactured by the German automaker BMW since May 1975. It is the successor to the 02 series and has been produced in eight generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_3_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/1920px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "6465b6ee36e24233b5b269b99471f8ef",
+    "name": "2021 BMW 3 Series 325LI",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "bmw-x6-third-generation",
+  "make": "BMW",
+  "model": "X6",
+  "generation": "Third generation",
+  "aka": [
+    "E71",
+    "Concept X6 ActiveHybrid",
+    "E72",
+    "X6 M",
+    "Cylinder-bank Comprehensive Manifold",
+    "ActiveHybrid X6",
+    "F16"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2020_BMW_X6_xDrive30d_M_Sport_Automatic_3.0.jpg/960px-2020_BMW_X6_xDrive30d_M_Sport_Automatic_3.0.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X6"
+  ],
+  "description": "The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW. The BMW X6 is the originator of the sports activity coupé (SAC), referencing its sloping rear roof design. It combines the attributes of an SUV with the stance of a coupé. It is built in BMW's North American plant in Greer, South Carolina alongside the BMW X5, whose platform it shares. Prior to the release of the X7, the X6 was considered a flagship SUV for BMW.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2020_BMW_X6_xDrive30d_M_Sport_Automatic_3.0.jpg/1920px-2020_BMW_X6_xDrive30d_M_Sport_Automatic_3.0.jpg",
+  "sketchfab": {
+    "uid": "43b22440191d48b888f8f267d105b422",
+    "name": "2020 BMW X6 xDrive40i",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

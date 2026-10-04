@@ -1,0 +1,36 @@
+{
+  "id": "honda-mobilio-first-generation",
+  "make": "Honda",
+  "model": "Mobilio",
+  "generation": "First generation",
+  "aka": [
+    "Mobilio Spike"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2004-2008_Honda_Mobilio.jpg/960px-2004-2008_Honda_Mobilio.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Mobilio  is a seven-seat mini MPV produced by the Japanese automaker Honda. The first-generation Mobilio that was produced from 2001 to 2008 and sold exclusively in Japan. It was the second model in Honda's \"Small Max\" series and also took Honda's Global Small Platform and their i-DSI engine. In May 2008, the Freed was introduced, replacing the first-generation model. The second-generation Mobilio, which is based on the Brio, was introduced in September 2013 and went on sale in January 2014 for several emerging markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Mobilio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2004-2008_Honda_Mobilio.jpg/1920px-2004-2008_Honda_Mobilio.jpg",
+  "sketchfab": null
+}

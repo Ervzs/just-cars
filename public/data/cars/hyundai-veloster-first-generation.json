@@ -1,0 +1,51 @@
+{
+  "id": "hyundai-veloster-first-generation",
+  "make": "Hyundai",
+  "model": "Veloster",
+  "generation": "First generation",
+  "aka": [
+    "Veloster Turbo",
+    "Veloster N",
+    "Veloster N TCR",
+    "Veloster N ETCR"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2013_Hyundai_Veloster_%28FS2%29_%2B_hatchback_%282015-07-03%29_01.jpg/960px-2013_Hyundai_Veloster_%28FS2%29_%2B_hatchback_%282015-07-03%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 32,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Veloster"
+  ],
+  "description": "The Hyundai Veloster is a compact car which was produced by Hyundai from 2011 until 2022. The car differs from most other hatchbacks with its asymmetrical door configuration, featuring one large door on the driver side and two smaller doors on the passenger side. This configuration is more common on commercial vehicles and minivans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Veloster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2013_Hyundai_Veloster_%28FS2%29_%2B_hatchback_%282015-07-03%29_01.jpg/1920px-2013_Hyundai_Veloster_%28FS2%29_%2B_hatchback_%282015-07-03%29_01.jpg",
+  "sketchfab": {
+    "uid": "274079ecb1b84307897656c09ee3376a",
+    "name": "2013 Hyundai Veloster Turbo",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

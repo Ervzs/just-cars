@@ -1,0 +1,55 @@
+{
+  "id": "chevrolet-cruze-first-generation",
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "generation": "First generation",
+  "aka": [
+    "Holden Cruze",
+    "Chevy Cruze",
+    "Daewoo Lacetti Premiere",
+    "Holden JG Cruze",
+    "Holden YG Cruze",
+    "Chevy cruise",
+    "Cruise"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2013_Chevrolet_Cruze_LTZ_Automatic_1.8_Front.jpg/960px-2013_Chevrolet_Cruze_LTZ_Automatic_1.8_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cruze"
+  ],
+  "description": "The Chevrolet Cruze is a compact car produced by General Motors from 2008 through 2023. It was designated as a globally developed, designed, and manufactured four-door compact sedan, complemented by a five-door hatchback body variant from 2011, and a station wagon in 2012. The Cruze replaced several compact models, including the Chevrolet Optra which was sold internationally under various names, the Chevrolet Cobalt sold exclusively in North America, and the Australasian-market Holden Astra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cruze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2013_Chevrolet_Cruze_LTZ_Automatic_1.8_Front.jpg/1920px-2013_Chevrolet_Cruze_LTZ_Automatic_1.8_Front.jpg",
+  "sketchfab": {
+    "uid": "3325700317ad4bb4a117eb460bb5ab5a",
+    "name": "Chevrolet Cruze 2014 - 3D Scanned Model",
+    "author": "Car 3D Models",
+    "authorUrl": "https://sketchfab.com/cars3dmodels",
+    "license": "CC Attribution"
+  }
+}

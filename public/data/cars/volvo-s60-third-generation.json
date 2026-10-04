@@ -1,0 +1,57 @@
+{
+  "id": "volvo-s60-third-generation",
+  "make": "Volvo",
+  "model": "S60",
+  "generation": "Third generation",
+  "aka": [
+    "S60R",
+    "S60 PHEV",
+    "S60 Plug-in Hybrid",
+    "S60L PPHEV",
+    "S60L PHEV",
+    "S60L Plug-in Hybrid",
+    "S60L",
+    "S60 Cross Country"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2019_Volvo_S60_T6_Momentum_in_Fusion_Red_Metallic%2C_Front_Left%2C_04-29-2023.jpg/960px-2019_Volvo_S60_T6_Momentum_in_Fusion_Red_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S60"
+  ],
+  "description": "The Volvo S60 is a compact executive car manufactured and marketed by Volvo Cars since 2000. Introduced as the successor to the Volvo S70, the model has been produced in three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S60",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2019_Volvo_S60_T6_Momentum_in_Fusion_Red_Metallic%2C_Front_Left%2C_04-29-2023.jpg/1920px-2019_Volvo_S60_T6_Momentum_in_Fusion_Red_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "sketchfab": {
+    "uid": "902df26956a44a9d87e953335950c287",
+    "name": "Volvo S60 Climate Controls",
+    "author": "bad_decision_works",
+    "authorUrl": "https://sketchfab.com/bad_decision_works",
+    "license": "CC Attribution"
+  }
+}

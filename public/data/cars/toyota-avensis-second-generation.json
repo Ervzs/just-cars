@@ -1,0 +1,38 @@
+{
+  "id": "toyota-avensis-second-generation",
+  "make": "Toyota",
+  "model": "Avensis",
+  "generation": "Second generation",
+  "aka": [
+    "Avensis T270",
+    "Avensis T250",
+    "Avensis T220",
+    "Avensis T210"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Toyota_Avensis_%28II%29_%E2%80%93_Heckansicht%2C_1._September_2013%2C_M%C3%BCnster.jpg/960px-Toyota_Avensis_%28II%29_%E2%80%93_Heckansicht%2C_1._September_2013%2C_M%C3%BCnster.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Avensis  is a mid-size/large family car built in Derbyshire, United Kingdom by the Japanese automaker Toyota from October 1997 to August 2018. It was the direct successor to the European Carina E and was available as a four-door saloon, five-door liftback and estate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avensis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Toyota_Avensis_%28II%29_%E2%80%93_Heckansicht%2C_1._September_2013%2C_M%C3%BCnster.jpg/1920px-Toyota_Avensis_%28II%29_%E2%80%93_Heckansicht%2C_1._September_2013%2C_M%C3%BCnster.jpg",
+  "sketchfab": {
+    "uid": "0b20ef50634b4961812805da3e50c867",
+    "name": "Toyota Avensis MK10 (E140,E150) 2006-2013",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

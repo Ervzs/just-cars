@@ -1,0 +1,40 @@
+{
+  "id": "kia-carens-fourth-generation",
+  "make": "Kia",
+  "model": "Carens",
+  "generation": "Fourth generation",
+  "aka": [
+    "Rondo",
+    "Naza Citra",
+    "Naza Citra II Rondo",
+    "Rondo7",
+    "Clavis",
+    "Hyundai Neira"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Front-right_look_of_Kia_All-new_Carens_during_GIIAS_2026_in_Bandung_20260913_193240.jpg/960px-Front-right_look_of_Kia_All-new_Carens_during_GIIAS_2026_in_Bandung_20260913_193240.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The  Kia Carens is a compact MPV manufactured by Kia since 1999, spanning over four generations, and was marketed worldwide under various nameplates, prominently as the Kia Rondo.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carens",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Front-right_look_of_Kia_All-new_Carens_during_GIIAS_2026_in_Bandung_20260913_193240.jpg/1920px-Front-right_look_of_Kia_All-new_Carens_during_GIIAS_2026_in_Bandung_20260913_193240.jpg",
+  "sketchfab": {
+    "uid": "9e7ded9b8dcc48b095eb9721be4cca87",
+    "name": "Kia Carens",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

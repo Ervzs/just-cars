@@ -1,0 +1,50 @@
+{
+  "id": "nissan-altima-fifth-generation",
+  "make": "Nissan",
+  "model": "Altima",
+  "generation": "Fifth generation",
+  "aka": [
+    "Altima Hybrid",
+    "Nissen Altima",
+    "L33 Altima",
+    "Altima L33"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2013-2015_Nissan_Altima_%28L33%29_ST_sedan_%282018-11-29%29_02.jpg/960px-2013-2015_Nissan_Altima_%28L33%29_ST_sedan_%282018-11-29%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 37,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Altima"
+  ],
+  "description": "The Nissan Altima is a mid-size car manufactured by Nissan since 1992. It is an offshoot of the Nissan Bluebird line, which began in 1955.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Altima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2013-2015_Nissan_Altima_%28L33%29_ST_sedan_%282018-11-29%29_02.jpg/1920px-2013-2015_Nissan_Altima_%28L33%29_ST_sedan_%282018-11-29%29_02.jpg",
+  "sketchfab": {
+    "uid": "310904aa382d4fbf9d42108e752cb6e9",
+    "name": "2016 Nissan Altima V8 Supercar",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

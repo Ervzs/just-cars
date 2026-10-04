@@ -1,0 +1,26 @@
+{
+  "id": "audi-s3-first-generation",
+  "make": "Audi",
+  "model": "S3",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Audi_S3_2003_dolphingray.jpg/960px-Audi_S3_2003_dolphingray.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Audi S3 is a performance version of the Audi A3 small family car, produced by German automaker Audi since 1999. S3 variants of have been produced from the first generation through the fourth generation of Audi A3.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Audi_S3_2003_dolphingray.jpg/1920px-Audi_S3_2003_dolphingray.jpg",
+  "sketchfab": null
+}

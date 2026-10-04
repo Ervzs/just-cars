@@ -2,6 +2,10 @@
   "id": "volkswagen-eos",
   "make": "Volkswagen",
   "model": "Eos",
+  "generation": null,
+  "aka": [
+    "VW Eos"
+  ],
   "years": [
     2007,
     2008,
@@ -31,6 +35,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Eos"
+  ],
   "description": "The Volkswagen Eos is a compact car manufactured and marketed by Volkswagen from 2006 to 2016. It is a two-door convertible which seats four passengers. The Eos has a five-section hardtop retractable roof which itself featured an independently operable glass sunroof. VW marketed the body configuration as a CSC (coupe-sunroof-convertible).",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Eos",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2006_Volkswagen_EOS_Sport_TDi_2.0_Front.jpg/1920px-2006_Volkswagen_EOS_Sport_TDi_2.0_Front.jpg",

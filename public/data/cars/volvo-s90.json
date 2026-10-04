@@ -2,6 +2,12 @@
   "id": "volvo-s90",
   "make": "Volvo",
   "model": "S90",
+  "generation": null,
+  "aka": [
+    "S90 T8 Plug-in Hybrid",
+    "I-ART",
+    "PowerPulse"
+  ],
   "years": [
     2017,
     2018,
@@ -31,6 +37,9 @@
     "mpgCombined": 28,
     "evRangeMiles": null
   },
+  "variants": [
+    "S90"
+  ],
   "description": "The Volvo S90 is an executive sedan manufactured and marketed by Swedish automaker Volvo Cars from 2016. Its estate variant is called the Volvo V90.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S90",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2018_Volvo_S90_T5_Momentum_front_4.6.18.jpg/1920px-2018_Volvo_S90_T5_Momentum_front_4.6.18.jpg",

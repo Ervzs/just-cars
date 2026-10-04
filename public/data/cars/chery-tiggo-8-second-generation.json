@@ -1,0 +1,38 @@
+{
+  "id": "chery-tiggo-8-second-generation",
+  "make": "Chery",
+  "model": "Tiggo 8",
+  "generation": "Second generation",
+  "aka": [
+    "Skytour",
+    "Sportequipe S8",
+    "Tiggo 8 Pro",
+    "Tiggo 8 Pro Max",
+    "XCITE X-Cross 8",
+    "Fulwin T8",
+    "Chirey Tiggo 8",
+    "Ebro S800"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chery_Tiggo_8_%28%E7%91%9E%E8%99%8E8%29_II_02_China_2026-03-18.jpg/960px-Chery_Tiggo_8_%28%E7%91%9E%E8%99%8E8%29_II_02_China_2026-03-18.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Tiggo 8 is a series of mid-size crossover SUVs, predominantly sold as a three-row vehicle, produced by Chery under the Tiggo product series. First introduced in 2018, it is positioned between the smaller Tiggo 7 and the larger Tiggo 9.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Tiggo_8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chery_Tiggo_8_%28%E7%91%9E%E8%99%8E8%29_II_02_China_2026-03-18.jpg/1280px-Chery_Tiggo_8_%28%E7%91%9E%E8%99%8E8%29_II_02_China_2026-03-18.jpg",
+  "sketchfab": {
+    "uid": "4a51e690819a4111a2055205a1009167",
+    "name": "Chery Tiggo 8 Pro",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

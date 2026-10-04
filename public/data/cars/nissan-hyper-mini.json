@@ -2,13 +2,15 @@
   "id": "nissan-hyper-mini",
   "make": "Nissan",
   "model": "Hyper-Mini",
+  "generation": null,
+  "aka": [],
   "years": [
     2001
   ],
   "vehicleClass": "Two Seaters",
   "fuelType": "Electricity",
   "engine": null,
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg/960px-2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2001,
   "specs": {
@@ -22,8 +24,11 @@
     "mpgCombined": 75,
     "evRangeMiles": 33
   },
-  "description": "The Nissan Micra, also known as the Nissan March , is a supermini car (B-segment) that has been produced by the Japanese automobile manufacturer Nissan from 1982. The March name has always been used in the Japanese markets but also in many export markets across Asia and Latin America and others.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Micra",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg/1920px-2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg",
+  "variants": [
+    "Hyper-Mini"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

@@ -1,0 +1,36 @@
+{
+  "id": "chrysler-lhs-second-generation",
+  "make": "Chrysler",
+  "model": "LHS",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chrysler-LHS.jpg",
+  "has3d": false,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LHS"
+  ],
+  "description": "The Chrysler LHS is a full-size luxury four-door sedan that was produced by Chrysler for the 1994 through the 2001 model years, with a one-year hiatus for 1998. It replaced the Chrysler Imperial and the Chrysler Fifth Avenue as the division's flagship model. The LHS was rebadged as the Concorde Limited for the 2002 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_LHS",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chrysler-LHS.jpg",
+  "sketchfab": null
+}

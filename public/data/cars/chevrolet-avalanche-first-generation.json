@@ -1,0 +1,42 @@
+{
+  "id": "chevrolet-avalanche-first-generation",
+  "make": "Chevrolet",
+  "model": "Avalanche",
+  "generation": "First generation",
+  "aka": [
+    "Chevy Avalanche",
+    "Avalanche 2500"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "5.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1st-Chevrolet-Avalanche.jpg/960px-1st-Chevrolet-Avalanche.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "5.3L 8-cyl",
+    "displacementL": 5.3,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Avalanche"
+  ],
+  "description": "The Chevrolet Avalanche is a four-door, five- or six-passenger full-size pickup truck that was manufactured by General Motors and marketed by its Chevrolet division. The Avalanche was a hybrid between the Chevrolet Suburban SUV and the Chevrolet Silverado pickup truck, sharing the chassis with the Suburban. Unlike a typical pickup truck where the bed is mounted separately from the cab on the frame, the bed of the Avalanche was integrated with the cab body.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Avalanche",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1st-Chevrolet-Avalanche.jpg/1920px-1st-Chevrolet-Avalanche.jpg",
+  "sketchfab": null
+}

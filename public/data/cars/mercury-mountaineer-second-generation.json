@@ -1,0 +1,43 @@
+{
+  "id": "mercury-mountaineer-second-generation",
+  "make": "Mercury",
+  "model": "Mountaineer",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2nd_Mercury_Mountaineer.jpg/960px-2nd_Mercury_Mountaineer.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mountaineer"
+  ],
+  "description": "The Mercury Mountaineer is a mid-size luxury sport utility vehicle (SUV) that was sold by Mercury from 1996 until 2010. The first Mercury SUV, the Mountaineer was a divisional counterpart of the Ford Explorer, marketed above it and between the Lincoln Aviator. Across its three generations, the Mountaineer was marketed exclusively as a 5-door wagon, with no counterpart to the 3-door Explorer Sport or the Explorer Sport Trac pickup truck.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Mountaineer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2nd_Mercury_Mountaineer.jpg/1920px-2nd_Mercury_Mountaineer.jpg",
+  "sketchfab": {
+    "uid": "5360849d766d40a5bcd94ef2bc54aff7",
+    "name": "2003 Mercury Mountaineer",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

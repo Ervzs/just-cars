@@ -1,0 +1,47 @@
+{
+  "id": "kia-sportage-first-generation",
+  "make": "Kia",
+  "model": "Sportage",
+  "generation": "First generation",
+  "aka": [
+    "Sportage R",
+    "KX5"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kia_Sportage_AWD_NB-%E2%85%A6_Purplish_Blue_%2813%29.jpg/960px-Kia_Sportage_AWD_NB-%E2%85%A6_Purplish_Blue_%2813%29.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sportage"
+  ],
+  "description": "The Kia Sportage is a series of automobiles manufactured by the South Korean manufacturer Kia since 1993 through five generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sportage transitioned to a car-based platform, placing it into the compact crossover SUV class, and was originally developed alongside the Hyundai Tucson, in two sizes with different wheelbase lengths for different markets, alongside the Hyundai Santa Fe and the Kia Sorento.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sportage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kia_Sportage_AWD_NB-%E2%85%A6_Purplish_Blue_%2813%29.jpg/1920px-Kia_Sportage_AWD_NB-%E2%85%A6_Purplish_Blue_%2813%29.jpg",
+  "sketchfab": null
+}

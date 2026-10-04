@@ -1,0 +1,41 @@
+{
+  "id": "kia-ceed-third-generation",
+  "make": "Kia",
+  "model": "Ceed",
+  "generation": "Third generation",
+  "aka": [
+    "Pro cee'd",
+    "Ex ceed",
+    "XCeed",
+    "Proceed GT"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Kia_Ceed_3_SW_CRDi_ISG_1.6_Front.jpg/960px-2018_Kia_Ceed_3_SW_CRDi_ISG_1.6_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Ceed is a compact car/small family car (C-segment) produced by the South Korean manufacturer Kia since October 2006 exclusively for the European market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Kia_Ceed_3_SW_CRDi_ISG_1.6_Front.jpg/1920px-2018_Kia_Ceed_3_SW_CRDi_ISG_1.6_Front.jpg",
+  "sketchfab": {
+    "uid": "c3bf8357b4b349349f3414dca2dc70fb",
+    "name": "2022 Kia Ceed Sportswagon GT-PlusLine",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

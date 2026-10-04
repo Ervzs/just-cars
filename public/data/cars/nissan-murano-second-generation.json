@@ -1,0 +1,47 @@
+{
+  "id": "nissan-murano-second-generation",
+  "make": "Nissan",
+  "model": "Murano",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2011_Nissan_Murano_CrossCabriolet_--_10-28-2011.jpg/960px-2011_Nissan_Murano_CrossCabriolet_--_10-28-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Murano"
+  ],
+  "description": "The Nissan Murano  is a mid-size crossover SUV manufactured and marketed by Nissan since May 2002 for the 2003 model year. The fourth generation was revealed in October 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Murano",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2011_Nissan_Murano_CrossCabriolet_--_10-28-2011.jpg/1920px-2011_Nissan_Murano_CrossCabriolet_--_10-28-2011.jpg",
+  "sketchfab": {
+    "uid": "bcefb9288f824519aea4d6ad48d756ce",
+    "name": "Nissan Murano (Z51) 2008-2014",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

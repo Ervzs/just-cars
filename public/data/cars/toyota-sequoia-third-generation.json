@@ -1,0 +1,36 @@
+{
+  "id": "toyota-sequoia-third-generation",
+  "make": "Toyota",
+  "model": "Sequoia",
+  "generation": "Third generation",
+  "aka": [
+    "Sequoia SUV"
+  ],
+  "years": [
+    2022
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2023_Toyota_Sequoia_Capstone%2C_front_NYIAS_2022.jpg/960px-2023_Toyota_Sequoia_Capstone%2C_front_NYIAS_2022.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sequoia"
+  ],
+  "description": "The Toyota Sequoia is a full-size SUV manufactured by Toyota mainly for the North American market since 2000 for the 2001 model year, being derived from the Tundra pickup truck. It is the second largest SUV ever produced under the Toyota brand, after the Japan-exclusive, military-focused Mega Cruiser.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sequoia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2023_Toyota_Sequoia_Capstone%2C_front_NYIAS_2022.jpg/1920px-2023_Toyota_Sequoia_Capstone%2C_front_NYIAS_2022.jpg",
+  "sketchfab": null
+}

@@ -2,6 +2,11 @@
   "id": "volvo-v90",
   "make": "Volvo",
   "model": "V90",
+  "generation": null,
+  "aka": [
+    "V90 XC",
+    "V90 Cross Country"
+  ],
   "years": [
     2017,
     2018,
@@ -31,6 +36,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "V90"
+  ],
   "description": "The Volvo V90 is a mid-size luxury wagon manufactured and marketed by Swedish automaker Volvo Cars from 2016 to 2025. Two months after the introduction of the sedan model, the Volvo S90, the V90 was revealed at the Geneva Motor Show in March 2016.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V90",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Volvo_V90_%28SPA%29_1X7A0384.jpg/1920px-Volvo_V90_%28SPA%29_1X7A0384.jpg",

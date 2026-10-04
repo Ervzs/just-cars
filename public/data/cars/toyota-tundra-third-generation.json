@@ -1,0 +1,47 @@
+{
+  "id": "toyota-tundra-third-generation",
+  "make": "Toyota",
+  "model": "Tundra",
+  "generation": "Third generation",
+  "aka": [
+    "T150"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2022_Toyota_Tundra_CrewMax_Limited%2C_front_6.30.22.jpg/960px-2022_Toyota_Tundra_CrewMax_Limited%2C_front_6.30.22.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 23,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tundra"
+  ],
+  "description": "The Toyota Tundra  is a full-size pickup truck manufactured in the United States by the Japanese manufacturer Toyota since May 1999. The Tundra was the second full-size pickup to be built by a Japanese manufacturer, but the Tundra was the first full-size pickup from a Japanese manufacturer to be built in North America. The Tundra was nominated for the North American Truck of the Year award and was Motor Trend magazine's Truck of the Year in 2000 and 2008. Initially built in a new Toyota plant in Princeton, Indiana, production was consolidated in 2008 to Toyota's San Antonio, Texas, factory.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Tundra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2022_Toyota_Tundra_CrewMax_Limited%2C_front_6.30.22.jpg/1920px-2022_Toyota_Tundra_CrewMax_Limited%2C_front_6.30.22.jpg",
+  "sketchfab": {
+    "uid": "162177af8ede410bb3829953d88dc4d2",
+    "name": "Toyota Tundra SR5 TRD 2022",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

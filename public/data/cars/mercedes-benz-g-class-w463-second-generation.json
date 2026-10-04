@@ -1,0 +1,55 @@
+{
+  "id": "mercedes-benz-g-class-w463-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "generation": "W463, second generation",
+  "aka": [
+    "G-Wagen",
+    "Geländewagen",
+    "Gelaendewagen",
+    "W461",
+    "W463",
+    "W460",
+    "Gelandewagen",
+    "G-wagon"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mercedes-AMG_G_63_W453A_black_%281%29.jpg/960px-Mercedes-AMG_G_63_W453A_black_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 9-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 16,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "G-Class"
+  ],
+  "description": "The Mercedes-Benz G-Class, colloquially known as the G-Wagon or G-Wagen, is a four-wheel drive luxury SUV sold by Mercedes-Benz. Originally developed as a military off-roader, later more luxurious models were added to the line. In certain markets, it was sold under the Puch name as Puch G until 2000.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mercedes-AMG_G_63_W453A_black_%281%29.jpg/1920px-Mercedes-AMG_G_63_W453A_black_%281%29.jpg",
+  "sketchfab": {
+    "uid": "64db1862be754722bbf4f23695bf06a5",
+    "name": "2020 Mercedes-Benz G-Class AMG G 63",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

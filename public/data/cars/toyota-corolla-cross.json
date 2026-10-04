@@ -2,6 +2,11 @@
   "id": "toyota-corolla-cross",
   "make": "Toyota",
   "model": "Corolla Cross",
+  "generation": null,
+  "aka": [
+    "Frontlander",
+    "Corolla Cross Hybrid GR Sport"
+  ],
   "years": [
     2022,
     2023,
@@ -26,6 +31,9 @@
     "mpgCombined": 32,
     "evRangeMiles": null
   },
+  "variants": [
+    "Corolla Cross"
+  ],
   "description": "The Toyota Corolla Cross  is a compact crossover SUV produced by the Japanese automaker Toyota since 2020. Adopting the Corolla nameplate, it is positioned as a more practical and larger alternative to the C-HR and is built on the same TNGA-C (GA-C) platform as the C-HR, Lexus UX and E210 series Corolla. By size, the Corolla Cross is positioned between the smaller C-HR and the larger RAV4 in Toyota's global crossover SUV lineup.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_Cross",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg/1920px-2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg",

@@ -1,0 +1,54 @@
+{
+  "id": "lexus-ls-third-generation",
+  "make": "Lexus",
+  "model": "LS",
+  "generation": "Third generation",
+  "aka": [
+    "LS 400",
+    "LS430",
+    "Toyota Celsior",
+    "LS 460 L",
+    "LS 460",
+    "Celsior",
+    "LS awards",
+    "List of awards won by the Lexus LS"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2000-2003_Toyota_Celsior.jpg/960px-2000-2003_Toyota_Celsior.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "4.3L 8-cyl",
+    "displacementL": 4.3,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LS"
+  ],
+  "description": "The Lexus LS  is a series of full-size luxury sedans that have served as the flagship model of Lexus, the luxury division of Toyota, since 1989. For the first four generations, all LS models featured V8 engines and were predominantly rear-wheel-drive. In the fourth generation, Lexus offered all-wheel-drive, hybrid, and long-wheelbase variants. The fifth generation changed to using a V6 engine with no V8 option, and only one length was offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2000-2003_Toyota_Celsior.jpg/1920px-2000-2003_Toyota_Celsior.jpg",
+  "sketchfab": {
+    "uid": "52819f40ae6344b98c1113299d92a863",
+    "name": "Lexus LS XF30 2003",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

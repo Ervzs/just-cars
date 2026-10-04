@@ -1,0 +1,47 @@
+{
+  "id": "honda-accord-ninth-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Ninth generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg/960px-2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 33,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg/1920px-2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg",
+  "sketchfab": null
+}

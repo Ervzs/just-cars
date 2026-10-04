@@ -1,0 +1,38 @@
+{
+  "id": "chevrolet-aveo-third-generation",
+  "make": "Chevrolet",
+  "model": "Aveo",
+  "generation": "Third generation",
+  "aka": [
+    "Gentra",
+    "Chevy aveo",
+    "Aveo 5",
+    "UV-A",
+    "Aveo UV-A",
+    "Chevy Sonic"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2024_Chevrolet_Aveo_Sed%C3%A1n_LT_%28Mexico%29_front_view.png/960px-2024_Chevrolet_Aveo_Sed%C3%A1n_LT_%28Mexico%29_front_view.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Aveo is a five-seat, front-wheel drive subcompact car (B-segment) marketed by General Motors (GM) since 2002 over two generations. Originally developed by South Korean manufacturer Daewoo Motors and marketed as the Daewoo Kalos, the takeover of Daewoo by GM to form GM Daewoo Auto & Technology (GMDAT) resulted in the car's marketing in 120 countries under seven brands — prominently as the Chevrolet Aveo.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Aveo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2024_Chevrolet_Aveo_Sed%C3%A1n_LT_%28Mexico%29_front_view.png/1920px-2024_Chevrolet_Aveo_Sed%C3%A1n_LT_%28Mexico%29_front_view.png",
+  "sketchfab": {
+    "uid": "0b2cf39c664043ccbdb5fa0261ae5644",
+    "name": "2009_Chevrolet_Aveo",
+    "author": "creativelion",
+    "authorUrl": "https://sketchfab.com/creativelion",
+    "license": "CC Attribution"
+  }
+}

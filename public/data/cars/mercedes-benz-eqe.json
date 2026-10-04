@@ -2,6 +2,10 @@
   "id": "mercedes-benz-eqe",
   "make": "Mercedes-Benz",
   "model": "EQE",
+  "generation": null,
+  "aka": [
+    "Mercedes EQE"
+  ],
   "years": [
     2024,
     2025,
@@ -25,6 +29,9 @@
     "mpgCombined": 93,
     "evRangeMiles": 302
   },
+  "variants": [
+    "EQE"
+  ],
   "description": "The Mercedes-Benz EQE (V295) is a battery electric executive car produced by German automobile manufacturer Mercedes-Benz Group. It is part of the EQ family, and was presented at the Munich Motor Show 2021. The only model available at launch was the rear-motor EQE 350. Its engine has a peak power of 215 kW (292 PS), and it has a range of up to 660 km (410 mi). More variants were said to follow later, including a 4Matic AWD dual-motor setup with a peak engine power output of up to 500 kW (680 PS). The U.S. will get one version simply called the Mercedes AMG EQE which is the same as the 460 kW EQE 53 4matic+ seen in Europe.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQE",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_V295_350%2B_Classic-Days_2022_DSC_0018.jpg/1920px-Mercedes-Benz_V295_350%2B_Classic-Days_2022_DSC_0018.jpg",

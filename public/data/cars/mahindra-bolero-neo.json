@@ -1,0 +1,37 @@
+{
+  "id": "mahindra-bolero-neo",
+  "make": "Mahindra",
+  "model": "Bolero Neo",
+  "generation": null,
+  "aka": [
+    "TUV300",
+    "& Mahindra TUV300",
+    "TUV three double O"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mahindra_TUV_300_Chennai_2016_%282%29.JPG/960px-Mahindra_TUV_300_Chennai_2016_%282%29.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mahindra Bolero Neo is a mini SUV manufactured by the Indian automaker Mahindra & Mahindra since 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahindra_Bolero_Neo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mahindra_TUV_300_Chennai_2016_%282%29.JPG/1920px-Mahindra_TUV_300_Chennai_2016_%282%29.JPG",
+  "sketchfab": null
+}

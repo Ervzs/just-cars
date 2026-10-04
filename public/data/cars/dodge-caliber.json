@@ -2,6 +2,10 @@
   "id": "dodge-caliber",
   "make": "Dodge",
   "model": "Caliber",
+  "generation": null,
+  "aka": [
+    "Chrysler Caliber"
+  ],
   "years": [
     2007,
     2008,
@@ -27,6 +31,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Caliber"
+  ],
   "description": "The Dodge Caliber is a compact hatchback manufactured and marketed by Chrysler's Dodge division from the 2007 through 2012 model years, replacing the Dodge Neon and Chrysler PT Cruiser.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Caliber",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dodge_Caliber_--_09-07-2009.jpg/1920px-Dodge_Caliber_--_09-07-2009.jpg",

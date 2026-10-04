@@ -1,0 +1,39 @@
+{
+  "id": "geely-boyue-third-generation",
+  "make": "Geely",
+  "model": "Boyue",
+  "generation": "Third generation",
+  "aka": [
+    "Proton PX7",
+    "Atlas",
+    "Azkarra",
+    "Farizon FX",
+    "Boyue Cool",
+    "Boyue L",
+    "Volga K40",
+    "Cityray"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Geely_Galaxy_L7_010.jpg/960px-Geely_Galaxy_L7_010.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Boyue is a compact SUV produced by the Chinese automaker Geely Auto.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Boyue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Geely_Galaxy_L7_010.jpg/1920px-Geely_Galaxy_L7_010.jpg",
+  "sketchfab": {
+    "uid": "434db1e3c0414f8ca399dda14de634ae",
+    "name": "Geely Boyue 2024",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

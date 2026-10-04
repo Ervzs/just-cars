@@ -1,0 +1,54 @@
+{
+  "id": "volvo-v70-third-generation",
+  "make": "Volvo",
+  "model": "V70",
+  "generation": "Third generation",
+  "aka": [
+    "V70 Plug-in Hybrid",
+    "V70 XC",
+    "V70 R"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Regular",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Volvo_V70_D5_%28III%29_%E2%80%93_Frontansicht%2C_28._Mai_2011%2C_Hilden.jpg/960px-Volvo_V70_D5_%28III%29_%E2%80%93_Frontansicht%2C_28._Mai_2011%2C_Hilden.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "V70"
+  ],
+  "description": "The Volvo V70 is an executive car manufactured and marketed by Volvo Cars from 1996 to 2016 across three generations.\nThe name V70 combines the letter V, standing for versatility, and 70, denoting relative platform size.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Volvo_V70_D5_%28III%29_%E2%80%93_Frontansicht%2C_28._Mai_2011%2C_Hilden.jpg/1920px-Volvo_V70_D5_%28III%29_%E2%80%93_Frontansicht%2C_28._Mai_2011%2C_Hilden.jpg",
+  "sketchfab": {
+    "uid": "05b1f7dfb90a4437a0fa2fe4fa5c57e5",
+    "name": "PSX Style 2008 Volvo V70 R- Design (FREE)",
+    "author": "Modelerf",
+    "authorUrl": "https://sketchfab.com/Modelerf",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

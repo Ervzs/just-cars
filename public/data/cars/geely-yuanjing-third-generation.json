@@ -1,0 +1,38 @@
+{
+  "id": "geely-yuanjing-third-generation",
+  "make": "Geely",
+  "model": "Yuanjing",
+  "generation": "Third generation",
+  "aka": [
+    "Vision",
+    "Gleagle GC7",
+    "Englon SC7",
+    "Haijing",
+    "SMA Haijing",
+    "Maple Haijing"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Geely_Yuanjing_%28Vision%29%2C_front_8.5.18.jpg/960px-2018_Geely_Yuanjing_%28Vision%29%2C_front_8.5.18.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Yuanjing is a four-door compact sedan produced by the Chinese automaker Geely Auto under the Yuanjing or Vision product series. It is the first commercial car produced by Geely Automobiles. The car was first introduced in 2006. It carries the first CVVT engine designed and made in China. The car was named Geely Tiger, Biaowang and Luhu, but it was later renamed \"Vision\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Yuanjing",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Geely_Yuanjing_%28Vision%29%2C_front_8.5.18.jpg/1920px-2018_Geely_Yuanjing_%28Vision%29%2C_front_8.5.18.jpg",
+  "sketchfab": {
+    "uid": "9e882d4740a741188dd5929700f9171b",
+    "name": "Geely Yuanjing",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

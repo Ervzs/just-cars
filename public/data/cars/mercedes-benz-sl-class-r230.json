@@ -1,0 +1,54 @@
+{
+  "id": "mercedes-benz-sl-class-r230",
+  "make": "Mercedes-Benz",
+  "model": "SL-Class",
+  "generation": "R230",
+  "aka": [
+    "SL",
+    "Mercedes SL",
+    "SL 500",
+    "Sl65amg",
+    "SL63 AMG",
+    "Mercedes Benz SL",
+    "MB SL-Class",
+    "Mercedes SL Class"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2006-2008_Mercedes-Benz_SL_350_%28R_230%29_roadster_%282011-01-12%29_01.jpg/960px-2006-2008_Mercedes-Benz_SL_350_%28R_230%29_roadster_%282011-01-12%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "5.5L 8-cyl",
+    "displacementL": 5.5,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SL-Class"
+  ],
+  "description": "The Mercedes-Benz SL-Class is a grand touring sports car manufactured by Mercedes-Benz since 1954. The designation \"SL\" derives from the German term \"Super-Leicht\", which translates to \"Super Light\" in English.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2006-2008_Mercedes-Benz_SL_350_%28R_230%29_roadster_%282011-01-12%29_01.jpg/1920px-2006-2008_Mercedes-Benz_SL_350_%28R_230%29_roadster_%282011-01-12%29_01.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nissan-rogue-first-generation",
+  "make": "Nissan",
+  "model": "Rogue",
+  "generation": "First generation",
+  "aka": [
+    "Rouge",
+    "Rogue Plug-in Hybrid"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2011_Nissan_Rogue_S_--_04-22-2011.jpg/960px-2011_Nissan_Rogue_S_--_04-22-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 28,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rogue"
+  ],
+  "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. It made its debut in October 2007 for the 2008 model year. Beginning in 2013 for the 2014 model year, the model has been merged with the X-Trail sold outside the North American market, making them identical.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Rogue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2011_Nissan_Rogue_S_--_04-22-2011.jpg/1920px-2011_Nissan_Rogue_S_--_04-22-2011.jpg",
+  "sketchfab": null
+}

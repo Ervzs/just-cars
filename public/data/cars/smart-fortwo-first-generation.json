@@ -1,0 +1,45 @@
+{
+  "id": "smart-fortwo-first-generation",
+  "make": "smart",
+  "model": "Fortwo",
+  "generation": "First generation",
+  "aka": [
+    "Diablo",
+    "Forfun",
+    "Forfun2",
+    "vending machine",
+    "City Coupe",
+    "City Cabrio",
+    "Smartfortwo",
+    "Fourtwo"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2006_smart_BRABUS_Canada_1_cdi_cabriolet.jpg/960px-2006_smart_BRABUS_Canada_1_cdi_cabriolet.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Smart Fortwo is a two-seater city car manufactured and marketed by the Smart division of the Mercedes-Benz Group for model years 1998–2024. The car was sold across three generations — each using a rear-engine, rear-wheel-drive layout and a (generally) one-box design body shape. Much like the original Volkswagen Beetle decades earlier, the Smart car's identity is interchangeably associated with both its brand name and its model name.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Smart_Fortwo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2006_smart_BRABUS_Canada_1_cdi_cabriolet.jpg/1280px-2006_smart_BRABUS_Canada_1_cdi_cabriolet.jpg",
+  "sketchfab": {
+    "uid": "2b200fc0d12e49c0b024782690761988",
+    "name": "Smart ForTwo 1998 scale1-80 for 3D-printing",
+    "author": "fishermans garage",
+    "authorUrl": "https://sketchfab.com/fishermans",
+    "license": "CC Attribution"
+  }
+}

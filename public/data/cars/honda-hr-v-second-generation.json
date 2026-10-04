@@ -1,0 +1,49 @@
+{
+  "id": "honda-hr-v-second-generation",
+  "make": "Honda",
+  "model": "HR-V",
+  "generation": "Second generation",
+  "aka": [
+    "Vezel",
+    "Vezel Hybrid",
+    "XR-V",
+    "HR-V Selfie Edition",
+    "Ciimo X-NV",
+    "Everus VE-1",
+    "Ciimo M-NV"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018_Honda_HR-V_VTi-S_wagon_%282018-08-27%29_02.jpg/960px-2018_Honda_HR-V_VTi-S_wagon_%282018-08-27%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 34,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "HR-V"
+  ],
+  "description": "The Honda HR-V is a subcompact crossover SUV (B-segment) manufactured and marketed by Honda over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_HR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018_Honda_HR-V_VTi-S_wagon_%282018-08-27%29_02.jpg/1920px-2018_Honda_HR-V_VTi-S_wagon_%282018-08-27%29_02.jpg",
+  "sketchfab": null
+}

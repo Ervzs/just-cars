@@ -1,0 +1,30 @@
+{
+  "id": "chery-kimo",
+  "make": "Chery",
+  "model": "Kimo",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "Two cars have been sold by Chery as the Chery Kimo in certain countries:Chery A1, a supermini manufactured from 2007 to 2015\nChery QQ3, a city car manufactured beginning in 2012",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Kimo",
+  "image": null,
+  "sketchfab": null
+}

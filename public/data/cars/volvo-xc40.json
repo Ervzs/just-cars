@@ -2,6 +2,14 @@
   "id": "volvo-xc40",
   "make": "Volvo",
   "model": "XC40",
+  "generation": null,
+  "aka": [
+    "XC40 Recharge",
+    "electric car",
+    "C40",
+    "EX40",
+    "EC40"
+  ],
   "years": [
     2019,
     2020,
@@ -29,6 +37,12 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "XC40",
+    "C40",
+    "EC40",
+    "EX40"
+  ],
   "description": "The Volvo XC40 is a subcompact crossover SUV (C-segment) manufactured by Volvo Cars. It was unveiled on 21 September 2017 as the smallest SUV model from Volvo, below the XC60. Orders started in September 2017, and manufacturing began in November 2017.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_XC40",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/1920px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",

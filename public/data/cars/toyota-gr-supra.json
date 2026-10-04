@@ -2,6 +2,14 @@
   "id": "toyota-gr-supra",
   "make": "Toyota",
   "model": "GR Supra",
+  "generation": null,
+  "aka": [
+    "Supra GR",
+    "GR Supra Racing Concept",
+    "GR Supra GT4 Concept",
+    "GR Supra GT4",
+    "DB42"
+  ],
   "years": [
     2020,
     2021,
@@ -28,6 +36,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "GR Supra"
+  ],
   "description": "The Toyota GR Supra is a sports car manufactured by Magna Steyr for Toyota from 2019 to 2026. The fifth-generation Supra, the GR Supra was sold under and developed by Toyota Gazoo Racing (TGR) brand in collaboration with BMW. It is the successor of the A80 Supra, which ceased production in 2002.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_GR_Supra",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_Toyota_GR_Supra_%28United_States%29.png/1920px-2020_Toyota_GR_Supra_%28United_States%29.png",

@@ -1,0 +1,23 @@
+{
+  "id": "mgs6-ev",
+  "make": "MG",
+  "model": "MGS6 EV",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/MG_S6_EV_IMG_5213.jpg/960px-MG_S6_EV_IMG_5213.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MGS6 EV is a battery electric mid-size CUV (D-segment) produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque since 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MGS6_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/MG_S6_EV_IMG_5213.jpg/1920px-MG_S6_EV_IMG_5213.jpg",
+  "sketchfab": null
+}

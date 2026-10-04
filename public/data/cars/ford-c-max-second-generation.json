@@ -1,0 +1,61 @@
+{
+  "id": "ford-c-max-second-generation",
+  "make": "Ford",
+  "model": "C-Max",
+  "generation": "Second generation",
+  "aka": [
+    "Focus C-Max",
+    "C-Max Energi",
+    "C-Max Hybrid",
+    "C-Max Plug-in Hybrid",
+    "Grand C-Max"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/960px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 42,
+    "mpgHighway": 38,
+    "mpgCombined": 40,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C-MAX"
+  ],
+  "description": "The Ford C-Max is a car produced by the Ford Motor Company from 2003 to 2019. It has a five-door compact multi-purpose vehicle (MPV) design. The Ford Grand C-Max has a longer wheelbase.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_C-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/1920px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "ae21290ed9724e73abdf7495d1313d4f",
+    "name": "2013 Ford C-max Titanium",
+    "author": "Dejo",
+    "authorUrl": "https://sketchfab.com/dejomiletic",
+    "license": "CC Attribution"
+  }
+}

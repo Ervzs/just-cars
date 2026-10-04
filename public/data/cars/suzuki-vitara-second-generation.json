@@ -1,0 +1,51 @@
+{
+  "id": "suzuki-vitara-second-generation",
+  "make": "Suzuki",
+  "model": "Vitara",
+  "generation": "Second generation",
+  "aka": [
+    "Sidekick",
+    "Grand Vitara",
+    "Maruti Grand Vitara",
+    "Chevrolet Grand Vitara",
+    "Chevrolet Vitara",
+    "Mazda Proceed Levante",
+    "Nomade",
+    "Escudo"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Suzuki_Escudo_201.JPG/960px-Suzuki_Escudo_201.JPG",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.5L 6-cyl",
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Vitara",
+    "Vitara"
+  ],
+  "description": "The Suzuki Vitara is a series of SUVs produced by Suzuki in five generations since 1988. The second and third generation were known as the Suzuki Grand Vitara, while the fourth generation eschewed the \"Grand\" prefix. In Japan and a number of other markets, all generations have used the name Suzuki Escudo  until 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Vitara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Suzuki_Escudo_201.JPG/1280px-Suzuki_Escudo_201.JPG",
+  "sketchfab": null
+}

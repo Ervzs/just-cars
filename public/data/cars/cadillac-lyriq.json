@@ -1,7 +1,12 @@
 {
   "id": "cadillac-lyriq",
   "make": "Cadillac",
-  "model": "LYRIQ",
+  "model": "Lyriq",
+  "generation": null,
+  "aka": [
+    "Lyric",
+    "Lyriq-V"
+  ],
   "years": [
     2023,
     2024,
@@ -26,6 +31,9 @@
     "mpgCombined": 92,
     "evRangeMiles": 326
   },
+  "variants": [
+    "LYRIQ"
+  ],
   "description": "The Cadillac Lyriq is a battery electric mid-size luxury crossover SUV manufactured and marketed by the Cadillac division of General Motors. As Cadillac's first fully electric vehicle, and the first GM production vehicle using the BEV3 platform, the Lyriq introduces a new version of GM's Super Cruise semi-autonomous driving system.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Lyriq",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2023_Cadillac_Lyriq_in_Satin_Steel_Metallic%2C_front_left.jpg/1920px-2023_Cadillac_Lyriq_in_Satin_Steel_Metallic%2C_front_left.jpg",

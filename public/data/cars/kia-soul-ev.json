@@ -1,0 +1,41 @@
+{
+  "id": "kia-soul-ev",
+  "make": "Kia",
+  "model": "Soul EV",
+  "generation": null,
+  "aka": [
+    "e-Soul",
+    "Soul electric"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Kia_Soul_First_Edition_EV_Front.jpg/960px-2020_Kia_Soul_First_Edition_EV_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Soul EV, also known as Kia e-Soul, is a battery electric subcompact crossover hatchback manufactured by Kia, produced from 2014 to 2024. It is the battery electric variant of the Soul.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Soul_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Kia_Soul_First_Edition_EV_Front.jpg/1920px-2020_Kia_Soul_First_Edition_EV_Front.jpg",
+  "sketchfab": {
+    "uid": "bb8a52faa37d4458ad24f8d6275084c1",
+    "name": "Kia Soul EV 2020",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

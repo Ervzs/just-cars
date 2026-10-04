@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-palisade-first-generation",
+  "make": "Hyundai",
+  "model": "Palisade",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hyundai_Palisade_LX2_Steel_Graphite_%2817%29.jpg/960px-Hyundai_Palisade_LX2_Steel_Graphite_%2817%29.jpg",
+  "has3d": false,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Palisade"
+  ],
+  "description": "The Hyundai Palisade is a mid-size crossover SUV with three-row seating manufactured and marketed by Hyundai Motor Company since late 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Palisade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hyundai_Palisade_LX2_Steel_Graphite_%2817%29.jpg/1920px-Hyundai_Palisade_LX2_Steel_Graphite_%2817%29.jpg",
+  "sketchfab": null
+}

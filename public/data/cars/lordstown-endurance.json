@@ -2,6 +2,10 @@
   "id": "lordstown-endurance",
   "make": "Lordstown",
   "model": "Endurance",
+  "generation": null,
+  "aka": [
+    "Workhorse W-15"
+  ],
   "years": [
     2023
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 48,
     "evRangeMiles": 174
   },
+  "variants": [
+    "Endurance"
+  ],
   "description": "The Lordstown Endurance is a battery electric full-size pickup truck with wheel hub motors manufactured by Lordstown Motors in collaboration with Foxconn at its Ohio factory. The Endurance entered limited production in September 2022 with plans to manufacture no more than 500 vehicles through June 2023. It was the company's first production automobile.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lordstown_Endurance",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Vice_President_Pence_in_Ohio_%2850058668927%29.jpg/1920px-Vice_President_Pence_in_Ohio_%2850058668927%29.jpg",

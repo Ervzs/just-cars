@@ -1,0 +1,53 @@
+{
+  "id": "subaru-wrx-second-generation",
+  "make": "Subaru",
+  "model": "WRX",
+  "generation": "Second generation",
+  "aka": [
+    "Impreza WRX",
+    "Impreza WRX STI",
+    "Impreza 555",
+    "Impreza WRC",
+    "Impreza WRC 2007",
+    "Impreza WRC P2000",
+    "Impreza WRC S12b"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Osaka_Auto_Messe_2025_%28123%29_-_Subaru_S210_PROTOTYPE.jpg/960px-Osaka_Auto_Messe_2025_%28123%29_-_Subaru_S210_PROTOTYPE.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "WRX"
+  ],
+  "description": "The Subaru WRX is an all-wheel drive sport compact car manufactured by the Japanese automaker Subaru, originally based on the Impreza created for the World Rally Championship in 1992. Subaru claimed the name WRX stands for \"World Rally eXperimental\". Starting with the 2015 models, the WRX lineup has been split from the Impreza, with a different body style that is not offered as an optional hatchback/wagon, being introduced as the separate Levorg model. The car is known for its striking blue shade, with gold alloy wheels, because of a sponsorship with a Singaporean cigarette manufacturer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_WRX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Osaka_Auto_Messe_2025_%28123%29_-_Subaru_S210_PROTOTYPE.jpg/1920px-Osaka_Auto_Messe_2025_%28123%29_-_Subaru_S210_PROTOTYPE.jpg",
+  "sketchfab": {
+    "uid": "065804733fa245c6b1b10ca2de44099d",
+    "name": "2022 Subaru Impreza WRX",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

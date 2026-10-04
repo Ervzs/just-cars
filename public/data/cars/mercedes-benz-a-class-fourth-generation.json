@@ -1,0 +1,51 @@
+{
+  "id": "mercedes-benz-a-class-fourth-generation",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "generation": "Fourth generation",
+  "aka": [
+    "W168",
+    "W169",
+    "A Classe",
+    "Mercedes A Classe",
+    "Mercedes a160",
+    "Mercedes a class",
+    "Mercedes Benz A class",
+    "Baby Benz"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mercedes-Benz_A_180_Progressive_%28W_177%29_%E2%80%93_h_16032019.jpg/960px-Mercedes-Benz_A_180_Progressive_%28W_177%29_%E2%80%93_h_16032019.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 35,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A-Class"
+  ],
+  "description": "The Mercedes-Benz A-Class is a car manufactured by German luxury automaker Mercedes-Benz. It has been marketed across four generations as a front-engine, front-wheel drive, five-passenger, five-door hatchback, with a three-door hatchback offered for the second generation, as well as a saloon version for the fourth.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mercedes-Benz_A_180_Progressive_%28W_177%29_%E2%80%93_h_16032019.jpg/1920px-Mercedes-Benz_A_180_Progressive_%28W_177%29_%E2%80%93_h_16032019.jpg",
+  "sketchfab": null
+}

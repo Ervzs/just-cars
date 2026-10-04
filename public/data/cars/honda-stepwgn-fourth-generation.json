@@ -1,0 +1,29 @@
+{
+  "id": "honda-stepwgn-fourth-generation",
+  "make": "Honda",
+  "model": "Stepwgn",
+  "generation": "Fourth generation",
+  "aka": [
+    "Stepwagon"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2009_Honda_StepWGN_02.jpg/960px-2009_Honda_StepWGN_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Stepwgn  is a minivan produced by Honda since 1996. In contrast to the Odyssey and also the Stream, it sports a taller, more upright greenhouse and can accommodate eight people instead of seven. For its first two generations, the car had one door on the driver's side and two doors on the passenger's side.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Stepwgn",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2009_Honda_StepWGN_02.jpg/1280px-2009_Honda_StepWGN_02.jpg",
+  "sketchfab": null
+}

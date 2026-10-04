@@ -1,0 +1,56 @@
+{
+  "id": "chevrolet-silverado-fourth-generation-silverado-fifth-generation-sierra",
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "generation": "Fourth-generation Silverado / fifth-generation Sierra",
+  "aka": [
+    "GMC Sierra",
+    "Silverado HD",
+    "Chevy Silverado",
+    "Silverado Hybrid",
+    "GMC Sierra Hybrid",
+    "GMC Silverado",
+    "GMC Sierra Classic",
+    "This is Our Country"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2019_GMC_Sierra_1500_SLE_X31_Off-Road_front_5.31.19.jpg/960px-2019_GMC_Sierra_1500_SLE_X31_Off-Road_front_5.31.19.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.7L 4-cyl",
+    "displacementL": 2.7,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 21,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Silverado",
+    "Sierra"
+  ],
+  "description": "The Chevrolet Silverado is a range of trucks manufactured by General Motors under the Chevrolet brand. Introduced for the 1999 model year, the Silverado is the successor to the long-running Chevrolet C/K model line. Taking its name from the top trim level from the Chevrolet C/K series, the Silverado is offered as a series of full-size pickup trucks, chassis cab trucks, and medium-duty trucks. The fourth generation of the model line was introduced for the 2019 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Silverado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2019_GMC_Sierra_1500_SLE_X31_Off-Road_front_5.31.19.jpg/1920px-2019_GMC_Sierra_1500_SLE_X31_Off-Road_front_5.31.19.jpg",
+  "sketchfab": {
+    "uid": "73a1f1a86dc54b97b1f658daf070460c",
+    "name": "2024 Chevrolet Silverado EV RST",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

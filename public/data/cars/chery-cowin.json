@@ -1,0 +1,40 @@
+{
+  "id": "chery-cowin",
+  "make": "Chery",
+  "model": "Cowin",
+  "generation": null,
+  "aka": [
+    "Flagcloud",
+    "Amulet",
+    "Cowin 2",
+    "A15"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Car_in_Syria.jpg/960px-Car_in_Syria.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Cowin, also known as Chery A15, Flagcloud, or Amulet, is a compact car produced by the Chinese manufacturer Chery from 2003 to 2010. A facelifted variant was called the Cowin 2 and was sold from 2010 to 2016.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Cowin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Car_in_Syria.jpg/1920px-Car_in_Syria.jpg",
+  "sketchfab": {
+    "uid": "94911877d6c94a13b277bc2c4bc1976e",
+    "name": "Chery Cowin 2014",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ford-escape-second-generation",
+  "make": "Ford",
+  "model": "Escape",
+  "generation": "Second generation",
+  "aka": [
+    "Escape Hybrid",
+    "Mercury Mariner Hybrid",
+    "Mazda Tribute Hybrid",
+    "hybrid escape",
+    "Escape Plug-in Hybrid",
+    "Escape PHEV"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2012_Ford_Escape_XLT_in_Steel_Blue_Metallic%2C_Front_Left%2C_04-29-2023.jpg/960px-2012_Ford_Escape_XLT_in_Steel_Blue_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 34,
+    "mpgHighway": 30,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escape"
+  ],
+  "description": "The Ford Escape is a compact crossover SUV manufactured and marketed by the Ford Motor Company from the 2001 to the 2026 model years across four generations, as Ford's first SUV derived from a car platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Escape",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2012_Ford_Escape_XLT_in_Steel_Blue_Metallic%2C_Front_Left%2C_04-29-2023.jpg/1920px-2012_Ford_Escape_XLT_in_Steel_Blue_Metallic%2C_Front_Left%2C_04-29-2023.jpg",
+  "sketchfab": {
+    "uid": "f8ae732675df4f11a5ea54a41c29d42b",
+    "name": "2012 Ford Escape XLT",
+    "author": "LEON elenaisakova248",
+    "authorUrl": "https://sketchfab.com/elenaisakova248",
+    "license": "CC Attribution"
+  }
+}

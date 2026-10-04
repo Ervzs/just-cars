@@ -1,0 +1,53 @@
+{
+  "id": "dodge-viper-third-generation",
+  "make": "Dodge",
+  "model": "Viper",
+  "generation": "Third generation",
+  "aka": [
+    "Vipers",
+    "Viper SRT-10",
+    "Viper Competition Coupe",
+    "Viper GTS",
+    "Chrysler Viper",
+    "Viper E85",
+    "Viper ACR",
+    "Viper GTS ACR"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.3L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2003_Dodge_VIPER_SRT10_Roadster.jpg/960px-2003_Dodge_VIPER_SRT10_Roadster.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "8.3L 10-cyl",
+    "displacementL": 8.3,
+    "cylinders": 10,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 19,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Viper"
+  ],
+  "description": "The Dodge Viper is an American sports car that was manufactured by Dodge, a division of American car manufacturer Chrysler. First showcased in 1989 at the North American International Auto Show as a interpretative concept car of a modern-era AC Cobra, production of the two-seat sports car later began at New Mack Assembly Plant in 1991 and moved to Conner Avenue Assembly Plant in October 1995. Five generations of the Viper were developed from 1991 until 2017, with a brief hiatus in 2007 and between 2011 and 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Viper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2003_Dodge_VIPER_SRT10_Roadster.jpg/1920px-2003_Dodge_VIPER_SRT10_Roadster.jpg",
+  "sketchfab": {
+    "uid": "b2e81881e8e441a0bf26610fdc5cc1d6",
+    "name": "2003 Dodge Viper SRT10",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

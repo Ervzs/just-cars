@@ -1,0 +1,39 @@
+{
+  "id": "toyota-vios-fourth-generation",
+  "make": "Toyota",
+  "model": "Vios",
+  "generation": "Fourth generation",
+  "aka": [
+    "Vios turbo",
+    "Soluna Vios",
+    "Yaris Ativ",
+    "Yars Ativ",
+    "Vios Ativ",
+    "Ativ"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Toyota_Vios_1.5_VVT-i_G_%28IV%29_%E2%80%93_h_13032025.jpg/960px-Toyota_Vios_1.5_VVT-i_G_%28IV%29_%E2%80%93_h_13032025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vios is a nameplate used for subcompact cars produced by the Japanese manufacturer Toyota, primarily for markets in Southeast Asia, China and Taiwan since 2002. Slotted below the compact Corolla, the Vios serves as the replacement to the Tercel, which filled the subcompact or B-segment sedan class in the region. It is also successor to the entry-level variants of the E110 series Corolla in some markets such as the Philippines and Vietnam.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vios",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Toyota_Vios_1.5_VVT-i_G_%28IV%29_%E2%80%93_h_13032025.jpg/1920px-Toyota_Vios_1.5_VVT-i_G_%28IV%29_%E2%80%93_h_13032025.jpg",
+  "sketchfab": {
+    "uid": "e7ed099be52a454bbcfa082ea513118a",
+    "name": "Toyota Vios G",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

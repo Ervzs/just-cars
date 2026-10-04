@@ -1,0 +1,33 @@
+{
+  "id": "toyota-verossa",
+  "make": "Toyota",
+  "model": "Verossa",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Toyota_Verossa.jpg/960px-Toyota_Verossa.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Verossa  is a mid-size sedan produced by Toyota for the Japanese market, and was exclusive new to the Netz Store locations as the smaller companion sedan to the Aristo. The Verossa exceeded Japanese government dimension regulations concerning external dimensions and engine displacement, offering buyers a sedan that continued to offer a rear-wheel drive platform, opposite the 2001–2006 Camry with very similar dimensions and front-wheel drive platform. The advantage the Verossa offered over the Camry was the ability to offer four-wheel drive, which the Camry could not do. The Verossa, introduced in June 2001, was launched with the Toyopet Store alternative called the Progrès and the Toyota Store Brevis.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Verossa",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Toyota_Verossa.jpg/1920px-Toyota_Verossa.jpg",
+  "sketchfab": {
+    "uid": "65980f4bf86347ac90cbac55f6295064",
+    "name": "Toyota Verossa",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

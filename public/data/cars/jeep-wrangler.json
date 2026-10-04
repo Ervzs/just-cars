@@ -2,6 +2,17 @@
   "id": "jeep-wrangler",
   "make": "Jeep",
   "model": "Wrangler",
+  "generation": null,
+  "aka": [
+    "Wranglers",
+    "TJ Wrangler Rubicon",
+    "EV",
+    "TJL",
+    "Sahra",
+    "Commando Jeep",
+    "Wrangler YJ",
+    "Wrangler 4 Door"
+  ],
   "years": [
     2000,
     2001,
@@ -45,6 +56,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Wrangler"
+  ],
   "description": "The Jeep Wrangler is a series of compact and mid-size off-road SUVs manufactured by Jeep since 1986, and currently in its fourth generation. The Wrangler JL, the most recent generation, was unveiled in late 2017 and is produced at Jeep's Toledo Complex.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Wrangler",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg/1920px-2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg",

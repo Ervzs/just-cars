@@ -1,0 +1,50 @@
+{
+  "id": "toyota-tacoma-fourth-generation",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "generation": "Fourth generation",
+  "aka": [
+    "S-runner",
+    "takoma",
+    "Tacoma X-Runner",
+    "Tacoma X-Runner 2023 Concept",
+    "Tacoma truck",
+    "Pickup EV"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Toyota_Tacoma_TRD_Off_Road_%28N400%29_DSC_7353.jpg/960px-Toyota_Tacoma_TRD_Off_Road_%28N400%29_DSC_7353.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 24,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tacoma"
+  ],
+  "description": "The Toyota Tacoma is a pickup truck manufactured by Japanese automobile manufacturer Toyota since 1995. The first-generation Tacoma was classified as a compact pickup truck; subsequent models are classified as mid-size pickup trucks. The Tacoma was Motor Trend's Truck of the Year for 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Tacoma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Toyota_Tacoma_TRD_Off_Road_%28N400%29_DSC_7353.jpg/1920px-Toyota_Tacoma_TRD_Off_Road_%28N400%29_DSC_7353.jpg",
+  "sketchfab": {
+    "uid": "bb1b4eda91d4466a96bbfde388252ecb",
+    "name": "Toyota Tacoma TRD Pro (2024) - Metallic Blue",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

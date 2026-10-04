@@ -1,0 +1,30 @@
+{
+  "id": "nissan-almera-g15",
+  "make": "Nissan",
+  "model": "Almera",
+  "generation": "G15",
+  "aka": [
+    "V-Drive"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nissan_Almera_%28Russia%29.JPG/960px-Nissan_Almera_%28Russia%29.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Almera is a line of sedans produced by Japanese manufacturer Nissan since 1995. The early generations, including the first-generation N15 and second-generation N16, were classified as compact cars (C-segment) and were essentially the European export versions of the Nissan Pulsar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Almera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nissan_Almera_%28Russia%29.JPG/1280px-Nissan_Almera_%28Russia%29.JPG",
+  "sketchfab": null
+}

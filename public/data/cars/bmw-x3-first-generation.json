@@ -1,0 +1,47 @@
+{
+  "id": "bmw-x3-first-generation",
+  "make": "BMW",
+  "model": "X3",
+  "generation": "First generation",
+  "aka": [
+    "E83",
+    "F25",
+    "iX3.",
+    "Alpina XD3",
+    "X3 xDrive30e",
+    "X3M"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_X3_%28E83%29_Facelift_front_20100926.jpg/960px-BMW_X3_%28E83%29_Facelift_front_20100926.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X3"
+  ],
+  "description": "The BMW X3 is a compact luxury crossover SUV manufactured by BMW since 2003, based on the BMW 3 Series platform. BMW markets the car as a Sports Activity Vehicle, the company's proprietary descriptor for its X-line luxury vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_X3_%28E83%29_Facelift_front_20100926.jpg/1920px-BMW_X3_%28E83%29_Facelift_front_20100926.jpg",
+  "sketchfab": null
+}

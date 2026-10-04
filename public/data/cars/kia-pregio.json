@@ -1,0 +1,39 @@
+{
+  "id": "kia-pregio",
+  "make": "Kia",
+  "model": "Pregio",
+  "generation": null,
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2005_Kia_Pregio_%28CT2_MY05%29_van.jpg/960px-2005_Kia_Pregio_%28CT2_MY05%29_van.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Pregio is a rear-wheel drive cabover van and minibus based on the Kia Bongo and manufactured by Kia from November 1995 to 2006. It replaced the previous Bongo-based van, sold as the \"Besta\" in most markets. At one point, it slotted between the Kia Carens and the larger, front-wheel drive Kia Carnival/Sedona. The long-wheelbase version was known as the Kia Pregio Grand. The Kia Pregio Grand is a best selling van in Latin American countries such as Colombia and Ecuador because of its high passenger capacity in its segment.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Pregio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2005_Kia_Pregio_%28CT2_MY05%29_van.jpg/1920px-2005_Kia_Pregio_%28CT2_MY05%29_van.jpg",
+  "sketchfab": {
+    "uid": "0058f78aee9b4bf2b7e7c1fcc63fda66",
+    "name": "Kia Pregio 2007",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

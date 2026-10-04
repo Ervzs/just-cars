@@ -1,0 +1,29 @@
+{
+  "id": "kia-pv5",
+  "make": "Kia",
+  "model": "PV5",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kia_PV5_%28SW1%29_Cargo_%E2%80%93_Seoul_Mobility_Show_2025_%2807%29.jpg/960px-Kia_PV5_%28SW1%29_Cargo_%E2%80%93_Seoul_Mobility_Show_2025_%2807%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia PV5 is a battery electric van and minivan, and PBV produced by Kia since 2025. It is Kia's first-ever dedicated electric van.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_PV5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kia_PV5_%28SW1%29_Cargo_%E2%80%93_Seoul_Mobility_Show_2025_%2807%29.jpg/1920px-Kia_PV5_%28SW1%29_Cargo_%E2%80%93_Seoul_Mobility_Show_2025_%2807%29.jpg",
+  "sketchfab": {
+    "uid": "25dc3716894c4c5ba7b2789b7bdcd1de",
+    "name": "Kia Pv5",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "audi-s4-b9",
+  "make": "Audi",
+  "model": "S4",
+  "generation": "B9",
+  "aka": [
+    "\"S4 25quattro\"",
+    "100 S4"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2017_Audi_S4_TFSi_Quattro_Automatic_Sedan_3.0_Front.jpg/960px-2017_Audi_S4_TFSi_Quattro_Automatic_Sedan_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S4"
+  ],
+  "description": "The Audi S4 is the high performance variant of Audi's compact executive car A4. The original Audi S4, built from 1991 until 1994, was a performance-oriented version of Audi's 100 saloon/sedan. All subsequent S4s, beginning with the \"B5\" platform car in 1997, have been based on the Audi A4; and as the A4 has evolved from one generation to the next, so has the S4. Audi's platform generation names, beginning with \"B5\" in 1997, are used throughout to distinguish between generations/evolutions of these products.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2017_Audi_S4_TFSi_Quattro_Automatic_Sedan_3.0_Front.jpg/1920px-2017_Audi_S4_TFSi_Quattro_Automatic_Sedan_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "17f171de3bfe4a53bb325e3cdd38f70e",
+    "name": "audi s4",
+    "author": "amogusstrikesback2",
+    "authorUrl": "https://sketchfab.com/amogusstrikesback2",
+    "license": "CC Attribution"
+  }
+}

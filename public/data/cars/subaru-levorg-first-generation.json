@@ -1,0 +1,40 @@
+{
+  "id": "subaru-levorg-first-generation",
+  "make": "Subaru",
+  "model": "Levorg",
+  "generation": "First generation",
+  "aka": [
+    "Levorg GT",
+    "WRX Sportswagon",
+    "WRX-GTB",
+    "WRX GT",
+    "WRX Wagon",
+    "Levorg Layback"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2021_Subaru_Levorg_GT_Symmetrical_AWD_2.0_Front.jpg/960px-2021_Subaru_Levorg_GT_Symmetrical_AWD_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Levorg  is a mid-size car manufactured since 2014 by Subaru. According to the company, the name Levorg is a blended word or portmanteau of three words: LEgacy, reVOlution and touRinG. The first Levorg shares its platform with the Impreza/WRX and the Legacy. The second generation Levorg sits on the Subaru Global Platform used by the majority of Subaru's family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Levorg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2021_Subaru_Levorg_GT_Symmetrical_AWD_2.0_Front.jpg/1920px-2021_Subaru_Levorg_GT_Symmetrical_AWD_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "f163336b925f451893ff057c7d4d944c",
+    "name": "2019 Subaru Levorg AWD",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

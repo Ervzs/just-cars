@@ -1,0 +1,47 @@
+{
+  "id": "jeep-liberty-first-generation",
+  "make": "Jeep",
+  "model": "Liberty",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Diesel",
+  "engine": "2.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2005-2007_Jeep_Liberty_--_08-16-2010.jpg/960px-2005-2007_Jeep_Liberty_--_08-16-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.8L 4-cyl",
+    "displacementL": 2.8,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 23,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Liberty",
+    "Liberty/Cherokee"
+  ],
+  "description": "The Jeep Liberty is a four-door unibody compact SUV manufactured and marketed by Jeep for model years 2002–2012 over two generations, internally designated the KJ (2002–2007) and KK (2008–2012), respectively. Both generations were marketed globally, including as the Jeep Cherokee outside North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Liberty",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2005-2007_Jeep_Liberty_--_08-16-2010.jpg/1920px-2005-2007_Jeep_Liberty_--_08-16-2010.jpg",
+  "sketchfab": {
+    "uid": "87df65bda444435cbffd529322806496",
+    "name": "3D Scanned Jeep Liberty (2005) [Free]",
+    "author": "agent",
+    "authorUrl": "https://sketchfab.com/agentmooshroom5",
+    "license": "CC Attribution"
+  }
+}

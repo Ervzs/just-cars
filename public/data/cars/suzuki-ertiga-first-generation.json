@@ -1,0 +1,48 @@
+{
+  "id": "suzuki-ertiga-first-generation",
+  "make": "Suzuki",
+  "model": "Ertiga",
+  "generation": "First generation",
+  "aka": [
+    "Maruti Ertiga",
+    "Life Utility Vehicle",
+    "Mazda VX-1",
+    "XL7",
+    "Proton Ertiga",
+    "Proton Ertiga Xtra",
+    "Maruti Suzuki XL6",
+    "XL6"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2012_Suzuki_Ertiga_GL_1.4_ZE81S_%2820200321%29_02.jpg/960px-2012_Suzuki_Ertiga_GL_1.4_ZE81S_%2820200321%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XL7"
+  ],
+  "description": "The Suzuki Ertiga is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Suzuki since 2012, designed primarily for emerging markets. The first generation was heavily based on the second-generation Swift while the second generation introduced in 2018 is made larger and based on the HEARTECT platform. A crossover-styled version was introduced in 2019 as a separate model called the Suzuki XL6 in India and Suzuki XL7 for worldwide markets. The largest markets for the Ertiga are India and Indonesia, where the model is mainly manufactured. The vehicle has also been exported to other South Asian and Southeast Asian markets, along with several markets in Africa, Middle East, Pacific Islands, Caribbean and Latin America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ertiga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2012_Suzuki_Ertiga_GL_1.4_ZE81S_%2820200321%29_02.jpg/1920px-2012_Suzuki_Ertiga_GL_1.4_ZE81S_%2820200321%29_02.jpg",
+  "sketchfab": null
+}

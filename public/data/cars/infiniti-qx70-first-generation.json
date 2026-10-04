@@ -1,0 +1,48 @@
+{
+  "id": "infiniti-qx70-first-generation",
+  "make": "Infiniti",
+  "model": "QX70",
+  "generation": "First generation",
+  "aka": [
+    "FX45",
+    "FX35",
+    "Infinity fx",
+    "FX",
+    "FX30",
+    "FX37",
+    "FX50"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2003-2005_Infiniti_FX35.jpg/960px-2003-2005_Infiniti_FX35.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "FX35",
+    "FX45"
+  ],
+  "description": "The Infiniti QX70, formerly the Infiniti FX until 2013, is a mid-size luxury crossover SUV marketed by Infiniti, Nissan's luxury division between 2002 and 2019 over two generations. The model replaced the QX4 as Infiniti's mid-size SUV. The model does not have a Nissan-branded equivalent, and was never sold in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2003-2005_Infiniti_FX35.jpg/1920px-2003-2005_Infiniti_FX35.jpg",
+  "sketchfab": null
+}

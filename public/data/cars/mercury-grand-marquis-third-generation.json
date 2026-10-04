@@ -1,0 +1,40 @@
+{
+  "id": "mercury-grand-marquis-third-generation",
+  "make": "Mercury",
+  "model": "Grand Marquis",
+  "generation": "Third generation",
+  "aka": [
+    "Ford Grand Marquis"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/1998-02_Mercury_Grand_Marquis.jpg/960px-1998-02_Mercury_Grand_Marquis.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Marquis"
+  ],
+  "description": "The Mercury Grand Marquis is an automobile that was produced by Mercury from the 1975 until 2011 model years. Introduced as the flagship sub-model of the Mercury Marquis in 1975, the Grand Marquis became a stand-alone model line in 1983, serving as the largest Mercury sedan. The model line served as the sedan counterpart of the Mercury Colony Park station wagon up to 1991. The fourth generation was the basis of the 2003 and 2004 Mercury Marauder.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Grand_Marquis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/1998-02_Mercury_Grand_Marquis.jpg/1280px-1998-02_Mercury_Grand_Marquis.jpg",
+  "sketchfab": null
+}

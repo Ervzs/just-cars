@@ -2,6 +2,8 @@
   "id": "porsche-turbo-2-911-gt2",
   "make": "Porsche",
   "model": "Turbo 2 911 GT2",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005
@@ -9,7 +11,7 @@
   "vehicleClass": "Two Seaters",
   "fuelType": "Premium",
   "engine": "3.6L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg/960px-Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2005,
   "specs": {
@@ -23,8 +25,12 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
-  "description": "The Porsche 911 GT2 is a high-performance, track-focused sports car built by the German automobile manufacturer Porsche from 1993 to 2019, and since 2010 as the GT2 RS. It is based on the 911 Turbo, and uses a similar twin-turbocharged engine, but features numerous upgrades, including engine enhancements, larger brakes, and stiffer suspension calibration. The GT2 is significantly lighter than the Turbo due to its use of rear-wheel-drive instead of an all-wheel-drive system and the reduction or removal of interior components. As a result, the GT2 is the most expensive and fastest model among the 911 lineup.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_GT2",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg/1920px-Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg",
+  "variants": [
+    "Turbo 2 911 Gt2",
+    "Turbo 2 911 GT2"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

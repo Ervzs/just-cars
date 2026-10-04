@@ -1,0 +1,28 @@
+{
+  "id": "geely-pu",
+  "make": "Geely",
+  "model": "PU",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely PU was a subcompact vehicle produced by Chinese manufacturer Geely Automobile from 2001 to 2007. The vehicle was nicknamed as 'Urban Nanny' or 'Rural Nanny'.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_PU",
+  "image": null,
+  "sketchfab": null
+}

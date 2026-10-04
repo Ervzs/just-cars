@@ -1,0 +1,58 @@
+{
+  "id": "bentley-continental-gt-second-generation-4",
+  "make": "Bentley",
+  "model": "Continental GT",
+  "generation": "Second generation",
+  "aka": [
+    "Continental GTC",
+    "Baby Bentley",
+    "Continental Supersports",
+    "Continental GT3",
+    "Mulliner Bacalar",
+    "GT3",
+    "Bacalar",
+    "Mulliner Batur"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg/960px-Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 23,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Continental GT Convertible",
+    "Continental Supersports Convertible",
+    "Continental Supersports"
+  ],
+  "description": "The Bentley Continental GT is a grand touring car manufactured and marketed by the British company Bentley Motors since 2003. The Continental GT is offered as a two-door coupé or convertible, with four seats. It was the first new Bentley released after the company's acquisition by Volkswagen AG in 1998, and the first Bentley to employ mass production manufacturing techniques. It was later joined by the Bentley Continental Flying Spur, a four-door saloon car variant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Continental_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg/1920px-Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "229a4a6d8b7849fea2cf4f23510f9538",
+    "name": "2018 Bentley Continental GT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lexus-nx-second-generation",
+  "make": "Lexus",
+  "model": "NX",
+  "generation": "Second generation",
+  "aka": [
+    "NX200t",
+    "NX Hybrid"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lexus_NX_250%22version_L%22_%285BA-AAZA20-AWZLB%28L%29%29_front.jpg/960px-Lexus_NX_250%22version_L%22_%285BA-AAZA20-AWZLB%28L%29%29_front.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "NX"
+  ],
+  "description": "The Lexus NX  is a compact luxury crossover SUV sold by Lexus, a luxury division of Toyota. Introduced in late 2014, it is positioned between the subcompact UX and the mid-size RX in Lexus’ crossover SUV lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_NX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lexus_NX_250%22version_L%22_%285BA-AAZA20-AWZLB%28L%29%29_front.jpg/1920px-Lexus_NX_250%22version_L%22_%285BA-AAZA20-AWZLB%28L%29%29_front.jpg",
+  "sketchfab": null
+}

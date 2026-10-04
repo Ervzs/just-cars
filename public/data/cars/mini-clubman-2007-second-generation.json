@@ -1,0 +1,48 @@
+{
+  "id": "mini-clubman-2007-second-generation",
+  "make": "MINI",
+  "model": "Clubman (2007)",
+  "generation": "Second generation",
+  "aka": [
+    "F54",
+    "Clubvan"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mini_Cooper_D_Clubman_%28F54%29_%E2%80%93_Heckansicht%2C_6._M%C3%A4rz_2016%2C_D%C3%BCsseldorf.jpg/960px-Mini_Cooper_D_Clubman_%28F54%29_%E2%80%93_Heckansicht%2C_6._M%C3%A4rz_2016%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 35,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Clubman"
+  ],
+  "description": "The Mini Clubman is a subcompact executive estate car engineered and manufactured by German automaker BMW and sold under the Mini marque. The first-generation Clubman was introduced in 2007, as a variant of the Mini Hatch. A panel van version called Clubvan was added to the range in 2012. The current second-generation model has been in production since 2015 and available with front- and all-wheel drive.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Clubman_(2007)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mini_Cooper_D_Clubman_%28F54%29_%E2%80%93_Heckansicht%2C_6._M%C3%A4rz_2016%2C_D%C3%BCsseldorf.jpg/1920px-Mini_Cooper_D_Clubman_%28F54%29_%E2%80%93_Heckansicht%2C_6._M%C3%A4rz_2016%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

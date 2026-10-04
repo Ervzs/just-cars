@@ -1,0 +1,51 @@
+{
+  "id": "ferrari-f12-f12tdf",
+  "make": "Ferrari",
+  "model": "F12",
+  "generation": "F12tdf",
+  "aka": [
+    "F12 berlinetta",
+    "F60 America",
+    "F12tdf",
+    "Touring Superleggera Aero 3",
+    "Tipo F152"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.3L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ferrari_F12_TDF_at_the_2016_Ferrari_Finali_Mondiali.jpg/960px-Ferrari_F12_TDF_at_the_2016_Ferrari_Finali_Mondiali.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "6.3L 12-cyl",
+    "displacementL": 6.3,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "F12",
+    "F12 tdf",
+    "F60 America",
+    "F12 Berlinetta"
+  ],
+  "description": "The Ferrari F12berlinetta is a front mid-engine, rear-wheel-drive grand tourer produced by Italian automobile manufacturer Ferrari. The F12berlinetta debuted at the 2012 Geneva Motor Show, and replaced the 599 grand tourer. The naturally aspirated 6.3 litre Ferrari V12 engine used in the F12berlinetta won the 2013 International Engine of the Year Award in the Best Performance category and Best Engine above 4.0 litres. The F12berlinetta was named \"The Supercar of the Year 2012\" by car magazine Top Gear. The F12berlinetta was replaced by the 812 Superfast in early 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_F12",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ferrari_F12_TDF_at_the_2016_Ferrari_Finali_Mondiali.jpg/1920px-Ferrari_F12_TDF_at_the_2016_Ferrari_Finali_Mondiali.jpg",
+  "sketchfab": {
+    "uid": "b8e2b21534df47318d1d5c521308678d",
+    "name": "2017 Ferrari F12 70th Anniversary",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

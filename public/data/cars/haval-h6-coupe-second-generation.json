@@ -1,0 +1,28 @@
+{
+  "id": "haval-h6-coupe-second-generation",
+  "make": "Haval",
+  "model": "H6 Coupe",
+  "generation": "Second generation",
+  "aka": [
+    "Great Wall Haval H6 Coupe"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2018_Great-Wall_H6_Coupe%2C_front_8.8.18.jpg/960px-2018_Great-Wall_H6_Coupe%2C_front_8.8.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H6S or H6 Coupe is a coupe compact SUV based on the Haval H6 compact SUV produced by Haval of Great Wall Motor.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H6_Coupe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2018_Great-Wall_H6_Coupe%2C_front_8.8.18.jpg/1920px-2018_Great-Wall_H6_Coupe%2C_front_8.8.18.jpg",
+  "sketchfab": null
+}

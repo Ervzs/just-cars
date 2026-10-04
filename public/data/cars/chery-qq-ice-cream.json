@@ -1,0 +1,29 @@
+{
+  "id": "chery-qq-ice-cream",
+  "make": "Chery",
+  "model": "QQ Ice Cream",
+  "generation": null,
+  "aka": [
+    "Jetour Ice Cream"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2023_Chery_QQ_Ice_Cream%2C_front_8.17.25.jpg/960px-2023_Chery_QQ_Ice_Cream%2C_front_8.17.25.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery QQ Ice Cream is a battery electric city car manufactured by Chery since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_QQ_Ice_Cream",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2023_Chery_QQ_Ice_Cream%2C_front_8.17.25.jpg/1920px-2023_Chery_QQ_Ice_Cream%2C_front_8.17.25.jpg",
+  "sketchfab": null
+}

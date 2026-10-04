@@ -1,0 +1,48 @@
+{
+  "id": "lexus-es-seventh-generation",
+  "make": "Lexus",
+  "model": "ES",
+  "generation": "Seventh generation",
+  "aka": [
+    "Toyota Windom",
+    "ES350",
+    "ES 250",
+    "ES330",
+    "ES300",
+    "ES Hybrid",
+    "ES 300h"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Lexus_ES_300h%2C_Paris_Motor_Show_2018%2C_IMG_0414.jpg/960px-Lexus_ES_300h%2C_Paris_Motor_Show_2018%2C_IMG_0414.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 34,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ES"
+  ],
+  "description": "The Lexus ES is a luxury sedan marketed since 1989 by Lexus, the luxury division of Toyota, across multiple generations, each offering V6 engines and a front-engine, front-wheel-drive layout. The first five generations of the ES used the Toyota Camry platform, while the latter generations are more closely related to both the Camry and the Avalon. Manual transmissions were offered until 1993, a lower-displacement inline-four engine became an option in Asian markets in 2010, and a gasoline-electric hybrid version was introduced in 2012. The battery electric version was later introduced in 2025. The ES was Lexus's only front-wheel drive vehicle until 1998, when the related RX was introduced, and the sedan occupied the entry-level luxury car segment of the Lexus lineup in North America and other regions until the debut of the IS in 1999. The ES name stands for \"Executive Sedan\". However, some Lexus importers use the name, \"Elegant Sedan\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_ES",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Lexus_ES_300h%2C_Paris_Motor_Show_2018%2C_IMG_0414.jpg/1920px-Lexus_ES_300h%2C_Paris_Motor_Show_2018%2C_IMG_0414.jpg",
+  "sketchfab": null
+}

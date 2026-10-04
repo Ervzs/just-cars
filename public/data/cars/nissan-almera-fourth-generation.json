@@ -1,0 +1,37 @@
+{
+  "id": "nissan-almera-fourth-generation",
+  "make": "Nissan",
+  "model": "Almera",
+  "generation": "Fourth generation",
+  "aka": [
+    "V-Drive"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nissan_Almera_1.0_EL_2022_%281%29.jpg/960px-Nissan_Almera_1.0_EL_2022_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Almera is a line of sedans produced by Japanese manufacturer Nissan since 1995. The early generations, including the first-generation N15 and second-generation N16, were classified as compact cars (C-segment) and were essentially the European export versions of the Nissan Pulsar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Almera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nissan_Almera_1.0_EL_2022_%281%29.jpg/1920px-Nissan_Almera_1.0_EL_2022_%281%29.jpg",
+  "sketchfab": {
+    "uid": "3cded728aba34660a06ad692afaaefed",
+    "name": "Nissan almera classic",
+    "author": "Azazazella",
+    "authorUrl": "https://sketchfab.com/Azazazella",
+    "license": "CC Attribution"
+  }
+}

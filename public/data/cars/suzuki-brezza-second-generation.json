@@ -1,0 +1,38 @@
+{
+  "id": "suzuki-brezza-second-generation",
+  "make": "Suzuki",
+  "model": "Brezza",
+  "generation": "Second generation",
+  "aka": [
+    "Vitara Brezza",
+    "Maruti Brezza",
+    "Maruti Vitara Brezza",
+    "Maruti Suzuki Vitara Brezza",
+    "Maruti Suzuki Brezza"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_02.png/960px-2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_02.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Brezza is a subcompact SUV from Suzuki and manufactured by Maruti Suzuki in India. The Brezza is the first Suzuki-branded car which was fully developed in India. The model was designed as a smaller alternative to the global market Vitara and targeted to young audiences. It is only available for right-hand drive emerging markets in Asia and Africa. The first-generation model was also marketed by Toyota as the Toyota Urban Cruiser between 2020 and 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Brezza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_02.png/1920px-2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_02.png",
+  "sketchfab": {
+    "uid": "1a5cbddc8acb457e9d896d7345fd07d8",
+    "name": "2022 Maruti Suzuki Vitara Brezza",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

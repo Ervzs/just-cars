@@ -1,0 +1,55 @@
+{
+  "id": "lotus-elise",
+  "make": "Lotus",
+  "model": "Elise",
+  "generation": null,
+  "aka": [
+    "Zytek Lotus Elise",
+    "Zytec Lotus Elise",
+    "111",
+    "elise s1",
+    "Elise Motorsport 200",
+    "Elise 111S",
+    "Type 135"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Lotus_Elise_Club_Racer_%28front_quarter%29.jpg/960px-Lotus_Elise_Club_Racer_%28front_quarter%29.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Elise/exige",
+    "Elise/Exige"
+  ],
+  "description": "The Lotus Elise is a sports car conceived in early 1994 and released in September 1996 by the British manufacturer Lotus Cars. A two-seater roadster with a rear mid-engine, rear-wheel-drive layout, the Elise has a fibreglass body shell atop its bonded extruded aluminium chassis that provides a rigid platform for the suspension, while keeping weight and production costs to a minimum. The Elise was named after Elisa Artioli, the granddaughter of Romano Artioli, who was chairman of Lotus and Bugatti at the time of the car's launch.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Elise",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Lotus_Elise_Club_Racer_%28front_quarter%29.jpg/1920px-Lotus_Elise_Club_Racer_%28front_quarter%29.jpg",
+  "sketchfab": {
+    "uid": "ea5927b1a3f04c2589ec80cb1113675e",
+    "name": "2006 Lotus Elise",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

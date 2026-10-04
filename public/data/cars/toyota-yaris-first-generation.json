@@ -1,0 +1,49 @@
+{
+  "id": "toyota-yaris-first-generation",
+  "make": "Toyota",
+  "model": "Yaris",
+  "generation": "First generation",
+  "aka": [
+    "Echo",
+    "Yaris T Sport",
+    "Bouncing Yaris"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2000_Toyota_Yaris_GS_1.0_Front.jpg/960px-2000_Toyota_Yaris_GS_1.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Echo"
+  ],
+  "description": "The Toyota Yaris  is a supermini/subcompact car sold by Toyota since 1999, replacing the Starlet and Tercel.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2000_Toyota_Yaris_GS_1.0_Front.jpg/1920px-2000_Toyota_Yaris_GS_1.0_Front.jpg",
+  "sketchfab": {
+    "uid": "443fd49eb0844557a06854cae0b61267",
+    "name": "2001 Toyota Yaris",
+    "author": "Dave Love SketchFab",
+    "authorUrl": "https://sketchfab.com/Tyler_Dave",
+    "license": "CC Attribution"
+  }
+}

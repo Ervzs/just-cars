@@ -1,0 +1,48 @@
+{
+  "id": "infiniti-qx60-first-generation",
+  "make": "Infiniti",
+  "model": "QX60",
+  "generation": "First generation",
+  "aka": [
+    "QX60 Hybrid",
+    "JX",
+    "JX35",
+    "Infinity QX60"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Infiniti_JX35_1X7A7101.jpg/960px-Infiniti_JX35_1X7A7101.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "QX60",
+    "JX35"
+  ],
+  "description": "The Infiniti QX60, called the Infiniti JX until the 2014 model year, is a mid-size luxury crossover SUV with three-row seating produced by Infiniti, the luxury vehicle division of Japanese automaker Nissan. It is underpinned by an elongated Nissan Murano platform also used by the Nissan Pathfinder.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX60",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Infiniti_JX35_1X7A7101.jpg/1920px-Infiniti_JX35_1X7A7101.jpg",
+  "sketchfab": null
+}

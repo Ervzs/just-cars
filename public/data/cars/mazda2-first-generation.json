@@ -1,0 +1,33 @@
+{
+  "id": "mazda2-first-generation",
+  "make": "Mazda",
+  "model": "Mazda2",
+  "generation": "First generation",
+  "aka": [
+    "2",
+    "Hazumi",
+    "Scion iA",
+    "Toyota Yaris R",
+    "Toyota Yaris iA",
+    "Tamura"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg/960px-Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda 2  is a subcompact/supermini (B-segment) car, which has been available as a 4-door sedan and a 5 door hatchback manufactured and marketed by Mazda since 2002, currently in its third generation. An entry-level model of the brand in markets outside Japan, the Mazda2 is positioned below the Mazda3. The Mazda2 has also been marketed as the Mazda Demio, while its direct predecessor was exported as the Mazda 121.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

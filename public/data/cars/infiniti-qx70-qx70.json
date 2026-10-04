@@ -1,0 +1,63 @@
+{
+  "id": "infiniti-qx70-qx70",
+  "make": "Infiniti",
+  "model": "QX70",
+  "generation": "QX70",
+  "aka": [
+    "FX45",
+    "FX35",
+    "Infinity fx",
+    "FX",
+    "FX30",
+    "FX37",
+    "FX50"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/INFINITI_FX50S.jpg/960px-INFINITI_FX50S.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "FX50",
+    "QX70",
+    "FX37"
+  ],
+  "description": "The Infiniti QX70, formerly the Infiniti FX until 2013, is a mid-size luxury crossover SUV marketed by Infiniti, Nissan's luxury division between 2002 and 2019 over two generations. The model replaced the QX4 as Infiniti's mid-size SUV. The model does not have a Nissan-branded equivalent, and was never sold in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/INFINITI_FX50S.jpg/1920px-INFINITI_FX50S.jpg",
+  "sketchfab": {
+    "uid": "ea69f04e1bdb48fcb9dc6a05567253d5",
+    "name": "Lowpoly Car Infiniti QX70 Lookalike",
+    "author": "DemuriaGT",
+    "authorUrl": "https://sketchfab.com/demuriagt",
+    "license": "CC Attribution"
+  }
+}

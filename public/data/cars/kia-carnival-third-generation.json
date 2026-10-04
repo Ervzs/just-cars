@@ -1,0 +1,45 @@
+{
+  "id": "kia-carnival-third-generation",
+  "make": "Kia",
+  "model": "Carnival",
+  "generation": "Third generation",
+  "aka": [
+    "Sedona",
+    "Hyundai Entourage",
+    "Naza Ria",
+    "Carnival & Sedona",
+    "Grand Carnival"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Kia_Carnival_%28YP_MY17%29_SLi_van_%282018-11-22%29_02.jpg/960px-2017_Kia_Carnival_%28YP_MY17%29_SLi_van_%282018-11-22%29_02.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sedona"
+  ],
+  "description": "The Kia Carnival is a minivan manufactured by the South Korean automaker Kia since 1998, formerly marketed as the Kia Sedona in North America and several other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carnival",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Kia_Carnival_%28YP_MY17%29_SLi_van_%282018-11-22%29_02.jpg/1920px-2017_Kia_Carnival_%28YP_MY17%29_SLi_van_%282018-11-22%29_02.jpg",
+  "sketchfab": null
+}

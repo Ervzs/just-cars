@@ -2,6 +2,12 @@
   "id": "volkswagen-phaeton",
   "make": "Volkswagen",
   "model": "Phaeton",
+  "generation": null,
+  "aka": [
+    "VW Phaeton",
+    "Volkswagon Phaeton",
+    "Phaeton V6"
+  ],
   "years": [
     2004,
     2005,
@@ -24,6 +30,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "Phaeton"
+  ],
   "description": "The Volkswagen Phaeton is a full-size sedan/saloon manufactured by the German automobile manufacturer Volkswagen, described by Volkswagen as their \"premium class\" vehicle. Introduced at the 2002 Geneva Motor Show, the Phaeton was marketed worldwide. Sales in North America ended in 2006 and global sales ended in 2016.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Phaeton",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2005_VW_Phaeton.jpg/960px-2005_VW_Phaeton.jpg",

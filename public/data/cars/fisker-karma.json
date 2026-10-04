@@ -2,6 +2,15 @@
   "id": "fisker-karma",
   "make": "Fisker",
   "model": "Karma",
+  "generation": null,
+  "aka": [
+    "KARMA HYBRID",
+    "Surf",
+    "Karma fire incidents",
+    "Elux Karma",
+    "Sunset",
+    "The Fisker"
+  ],
   "years": [
     2012
   ],
@@ -22,6 +31,9 @@
     "mpgCombined": 20,
     "evRangeMiles": 240
   },
+  "variants": [
+    "Karma"
+  ],
   "description": "The Fisker Karma is a luxury plug-in range-extended electric sports sedan produced by Fisker Automotive between 2011 and 2012. The cars were manufactured by Valmet Automotive in Finland.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Fisker_Karma",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg/1920px-Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg",

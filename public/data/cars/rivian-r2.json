@@ -2,6 +2,8 @@
   "id": "rivian-r2",
   "make": "Rivian",
   "model": "R2",
+  "generation": null,
+  "aka": [],
   "years": [
     2027
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 99,
     "evRangeMiles": 307
   },
+  "variants": [
+    "R2"
+  ],
   "description": "The Rivian R2 is a battery electric mid-size SUV being produced by American electric vehicle manufacturer Rivian. It is the second Rivian SUV.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivian_R2",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RivianR2.jpg/1920px-RivianR2.jpg",

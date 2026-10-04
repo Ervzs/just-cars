@@ -1,0 +1,51 @@
+{
+  "id": "range-rover-fifth-generation",
+  "make": "Land Rover",
+  "model": "Range Rover",
+  "generation": "Fifth generation",
+  "aka": [
+    "Range Rovers",
+    "Range Rover II",
+    "Range Rover Vogue",
+    "Range Rover Hybrid",
+    "Range Rover TDV8 Vogue SE",
+    "Rover Range Rover"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg/960px-2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Range Rover"
+  ],
+  "description": "Range Rover is a 4×4 luxury marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and since 2022 is in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Range_Rover",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg/1920px-2022_Land_Rover_Range_Rover_SE_P440e_AWD_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "640826210d2a4be9ae6e638fec1e84fa",
+    "name": "Land Rover Range Rover Sport - 2023",
+    "author": "Unn Tech",
+    "authorUrl": "https://sketchfab.com/unntech",
+    "license": "CC Attribution"
+  }
+}

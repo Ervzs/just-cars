@@ -1,0 +1,54 @@
+{
+  "id": "bmw-3-series-fourth-generation",
+  "make": "BMW",
+  "model": "3 Series",
+  "generation": "Fourth generation",
+  "aka": [
+    "330ci",
+    "3",
+    "300",
+    "300 Series",
+    "330i",
+    "325i",
+    "325ci",
+    "330xi"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/BMW_E46_front_20080328.jpg/960px-BMW_E46_front_20080328.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.5L 6-cyl",
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "3 Series"
+  ],
+  "description": "The BMW 3 series is a line of compact executive cars manufactured by the German automaker BMW since May 1975. It is the successor to the 02 series and has been produced in eight generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_3_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/BMW_E46_front_20080328.jpg/1280px-BMW_E46_front_20080328.jpg",
+  "sketchfab": {
+    "uid": "478330312c3d46fd94999c3133ce0366",
+    "name": "BMW 3 Series touring (E46) 2001",
+    "author": "Luquita",
+    "authorUrl": "https://sketchfab.com/speedmodel",
+    "license": "CC Attribution"
+  }
+}

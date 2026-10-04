@@ -1,0 +1,37 @@
+{
+  "id": "toyota-hilux-sixth-generation",
+  "make": "Toyota",
+  "model": "Hilux",
+  "generation": "Sixth generation",
+  "aka": [
+    "Hilux platform",
+    "Pickup",
+    "pickup trucks",
+    "Truck",
+    "Truck Maintenance",
+    "Truck Maintainence",
+    "Highlux",
+    "Hiluxes"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Toyota_Hilux_2.4_DLX_Customer_2001_%2852271459670%29.jpg/960px-Toyota_Hilux_2.4_DLX_Customer_2001_%2852271459670%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Hilux, stylised as HiLux and historically as Hi-Lux, is a series of pickup trucks produced and marketed by the Japanese automobile manufacturer Toyota. The majority of these vehicles are sold as a pickup truck or cab chassis, although they could be configured in a variety of body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Hilux",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Toyota_Hilux_2.4_DLX_Customer_2001_%2852271459670%29.jpg/1920px-Toyota_Hilux_2.4_DLX_Customer_2001_%2852271459670%29.jpg",
+  "sketchfab": null
+}

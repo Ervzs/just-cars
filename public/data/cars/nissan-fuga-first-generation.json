@@ -1,0 +1,26 @@
+{
+  "id": "nissan-fuga-first-generation",
+  "make": "Nissan",
+  "model": "Fuga",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2007_Nissan_Fuga_01.JPG/960px-2007_Nissan_Fuga_01.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Fuga is a mid-size luxury sedan produced by Japanese automaker Nissan from 2004 to 2022. It is built on a wider, stretched wheelbase version of the Nissan FM platform. After the Nissan Cima and Nissan President were discontinued in August 2010, the Fuga became Nissan's flagship vehicle. In North America and Europe, the Fuga was sold as the second and third-generation Infiniti M and Infiniti Q70, where it was the flagship sedan of the Infiniti luxury division of Nissan from 2006 to 2019. In 2022, the Fuga was discontinued alongside the Cima, leaving the Skyline as Nissan's sole sedan offering in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Fuga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2007_Nissan_Fuga_01.JPG/1280px-2007_Nissan_Fuga_01.JPG",
+  "sketchfab": null
+}

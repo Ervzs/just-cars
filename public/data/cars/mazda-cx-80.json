@@ -1,0 +1,30 @@
+{
+  "id": "mazda-cx-80",
+  "make": "Mazda",
+  "model": "CX-80",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mazda_CX-80_PHEV_DSC_6066.jpg/960px-Mazda_CX-80_PHEV_DSC_6066.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda CX-80 is a mid-size crossover SUV with three-row seating produced by the Japanese automaker Mazda since 2024. Based on the shorter, five-seater CX-60, the CX-80 is the fourth vehicle to use Mazda's rear- and all-wheel drive with longitudinal engine layout categorized as Large Product Group, with same powertrains found in the CX-60 including a plug-in hybrid.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mazda_CX-80_PHEV_DSC_6066.jpg/1920px-Mazda_CX-80_PHEV_DSC_6066.jpg",
+  "sketchfab": {
+    "uid": "9cb4a8829464420dbe040878cb3b9a24",
+    "name": "Mazda CX-80",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "volkswagen-golf-eighth-generation",
+  "make": "Volkswagen",
+  "model": "Golf",
+  "generation": "Eighth generation",
+  "aka": [
+    "VW Rabbit",
+    "Golf GTi",
+    "Rabbit",
+    "VW GTI",
+    "Volkswagon Cabrio",
+    "VW Cabrioley",
+    "VW Cabriolet",
+    "VW Golf"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2020_Volkswagen_Golf_Style_ETSi_S-A_1.5_Front.jpg/960px-2020_Volkswagen_Golf_Style_ETSi_S-A_1.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volkswagen Golf is a compact car/small family car (C-segment) produced by the German automotive manufacturer Volkswagen since 1974, marketed worldwide across eight generations, in various body configurations and under various nameplates – including as the Volkswagen Rabbit in the United States and Canada, and as the Volkswagen Caribe in Mexico (Mk1). The Golf is Volkswagen's bestseller and the third best-selling automobile of all time, with over 37 million units sold worldwide.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2020_Volkswagen_Golf_Style_ETSi_S-A_1.5_Front.jpg/1920px-2020_Volkswagen_Golf_Style_ETSi_S-A_1.5_Front.jpg",
+  "sketchfab": {
+    "uid": "d1a0e38cbb2b4cb3b0da13c2ccdcf730",
+    "name": "2025 Volkswagen Golf R",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

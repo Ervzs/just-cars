@@ -1,0 +1,43 @@
+{
+  "id": "bentley-continental-gt-third-generation",
+  "make": "Bentley",
+  "model": "Continental GT",
+  "generation": "Third generation",
+  "aka": [
+    "Continental GTC",
+    "Baby Bentley",
+    "Continental Supersports",
+    "Continental GT3",
+    "Mulliner Bacalar",
+    "GT3",
+    "Bacalar",
+    "Mulliner Batur"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2019_Bentley_Continental_GT_Coupe_6.0_Front.jpg/960px-2019_Bentley_Continental_GT_Coupe_6.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Bentley Continental GT is a grand touring car manufactured and marketed by the British company Bentley Motors since 2003. The Continental GT is offered as a two-door coupé or convertible, with four seats. It was the first new Bentley released after the company's acquisition by Volkswagen AG in 1998, and the first Bentley to employ mass production manufacturing techniques. It was later joined by the Bentley Continental Flying Spur, a four-door saloon car variant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Continental_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2019_Bentley_Continental_GT_Coupe_6.0_Front.jpg/1920px-2019_Bentley_Continental_GT_Coupe_6.0_Front.jpg",
+  "sketchfab": {
+    "uid": "229a4a6d8b7849fea2cf4f23510f9538",
+    "name": "2018 Bentley Continental GT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "volkswagen-atlas-second-generation",
+  "make": "Volkswagen",
+  "model": "Atlas",
+  "generation": "Second generation",
+  "aka": [
+    "Teramont",
+    "VW Atlas",
+    "VW Teramont",
+    "Teramont X",
+    "VW Teramont X",
+    "Atlas Cross Sport",
+    "Teramont Pro"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volkswagen_Teramont_Pro_001_%28cropped%29.jpg/960px-Volkswagen_Teramont_Pro_001_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Atlas"
+  ],
+  "description": "The Volkswagen Atlas is a mid-size crossover SUV manufactured by the German automaker Volkswagen since 2017. Developed mainly for the American, Chinese, and Middle Eastern markets, the vehicle is based on the MQB platform. In China, Mexico, the Middle East, and Vietnam the vehicle is marketed as the Volkswagen Teramont. It is positioned above the Tayron and in China, below the Tavendor and Talagon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Atlas",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volkswagen_Teramont_Pro_001_%28cropped%29.jpg/1920px-Volkswagen_Teramont_Pro_001_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "8fec636e245a4909814bf564d6da307f",
+    "name": "Volkswagen Atlas Teramont Cross Sport (2025)",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

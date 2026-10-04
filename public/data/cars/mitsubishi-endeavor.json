@@ -2,6 +2,10 @@
   "id": "mitsubishi-endeavor",
   "make": "Mitsubishi",
   "model": "Endeavor",
+  "generation": null,
+  "aka": [
+    "SSU"
+  ],
   "years": [
     2004,
     2005,
@@ -29,6 +33,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Endeavor"
+  ],
   "description": "The Mitsubishi Endeavor is a mid-size crossover SUV that was built by Mitsubishi Motors at their manufacturing facility in Normal, Illinois from 2003 until 2011. Based on the PS platform, it was the first vehicle built under Mitsubishi's \"Project America\", a program aimed at introducing vehicles for North America without having to compromise for, or accommodate, global markets.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Endeavor",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2004-2005_Mitsubishi_Endeavor_--_03-11-2011.jpg/1920px-2004-2005_Mitsubishi_Endeavor_--_03-11-2011.jpg",

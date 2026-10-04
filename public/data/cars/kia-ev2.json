@@ -1,0 +1,22 @@
+{
+  "id": "kia-ev2",
+  "make": "Kia",
+  "model": "EV2",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kia_EV2_IMG_8443.jpg/960px-Kia_EV2_IMG_8443.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia EV2 is a battery electric subcompact car / supermini car produced by South Korean automaker Kia since 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kia_EV2_IMG_8443.jpg/1920px-Kia_EV2_IMG_8443.jpg",
+  "sketchfab": null
+}

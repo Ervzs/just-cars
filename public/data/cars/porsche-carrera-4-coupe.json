@@ -2,6 +2,8 @@
   "id": "porsche-carrera-4-coupe",
   "make": "Porsche",
   "model": "Carrera 4 Coupe",
+  "generation": null,
+  "aka": [],
   "years": [
     2006,
     2007,
@@ -11,7 +13,7 @@
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Premium",
   "engine": "3.6L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg/960px-Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2009,
   "specs": {
@@ -25,8 +27,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Porsche 997 is the sixth generation of the Porsche 911 sports car manufactured and sold by the German automobile manufacturer Porsche. It was sold between 2004 and 2013. Production of the Carrera and Carrera S coupé began in early 2004, and the all-wheel drive Carrera 4 and Carrera 4S began to be delivered to customers in November 2005. Deliveries of the Turbo and GT3 derivatives were carried out in late 2006, along with the GT2 in 2007. In addition to the coupé and cabriolet versions, Targa versions of the Carrera 4 and Carrera 4S were also available, which continued the trend of the \"glass canopy\" roof design utilized during the 993 and 996 generations. This was later reverted to the classic targa top layout used in earlier models of the 911 Targa with the introduction of the 991 generation.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_(997)",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg/1920px-Porsche_997_Turbo_-_Flickr_-_Alexandre_Pr%C3%A9vot_%288%29.jpg",
+  "variants": [
+    "Carrera 4 Coupe"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

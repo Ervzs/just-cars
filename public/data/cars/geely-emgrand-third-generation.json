@@ -1,0 +1,28 @@
+{
+  "id": "geely-emgrand-third-generation",
+  "make": "Geely",
+  "model": "Emgrand",
+  "generation": "Third generation",
+  "aka": [
+    "Emgrand EC7",
+    "EC7",
+    "Emgrand EC7-RV"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Geely_Emgrand_EV_001.jpg/960px-Geely_Emgrand_EV_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Emgrand, originally the Emgrand EC7, is a car produced by Chinese automaker Geely Auto. After the discontinuation of the Emgrand brand, the EC7 was renamed to the Geely Emgrand in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Emgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Geely_Emgrand_EV_001.jpg/1920px-Geely_Emgrand_EV_001.jpg",
+  "sketchfab": null
+}

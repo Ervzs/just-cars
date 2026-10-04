@@ -1,0 +1,33 @@
+{
+  "id": "nissan-z-car-fifth-generation-nissan-350z",
+  "make": "Nissan",
+  "model": "Z-car",
+  "generation": "Fifth generation: Nissan 350Z",
+  "aka": [
+    "Z",
+    "Fairlady Z",
+    "Datsun ZX",
+    "400Z"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nissan_350Z_flickr.jpg/960px-Nissan_350Z_flickr.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Z is a model series of sports cars manufactured by Nissan since 1969.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Z-car",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nissan_350Z_flickr.jpg/960px-Nissan_350Z_flickr.jpg",
+  "sketchfab": null
+}

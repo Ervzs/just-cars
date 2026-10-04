@@ -1,0 +1,29 @@
+{
+  "id": "honda-fit-shuttle-second-generation",
+  "make": "Honda",
+  "model": "Fit Shuttle",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2016_Honda_Shuttle_%28GP7%29_1.5G_station_wagon_%282017-11-29%29.jpg/960px-2016_Honda_Shuttle_%28GP7%29_1.5G_station_wagon_%282017-11-29%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Fit Shuttle is a subcompact station wagon which was produced by Honda from May 2011 until August 2022 over two generations. The Fit Shuttle is a Japanese domestic market five-door station wagon derived from the Fit platform. The first generation served as the successor of the Airwave, which was derived from the first-generation Fit. The second generation entered production in April 2015. The Fit Shuttle has a front-mounted engine equipped with either front-wheel drive or four-wheel drive versions of petrol engined and petrol-electric hybrid variants.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Fit_Shuttle",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2016_Honda_Shuttle_%28GP7%29_1.5G_station_wagon_%282017-11-29%29.jpg/1920px-2016_Honda_Shuttle_%28GP7%29_1.5G_station_wagon_%282017-11-29%29.jpg",
+  "sketchfab": null
+}

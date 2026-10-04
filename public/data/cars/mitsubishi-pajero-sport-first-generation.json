@@ -1,0 +1,59 @@
+{
+  "id": "mitsubishi-pajero-sport-first-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero Sport",
+  "generation": "First generation",
+  "aka": [
+    "Montero Sport",
+    "Shogun Sport",
+    "Nativa",
+    "G-Wagon",
+    "Challenger",
+    "Strada G-Wagon"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/1998-2000_Mitsubishi_Challenger_%28PA%29_wagon_03.jpg/960px-1998-2000_Mitsubishi_Challenger_%28PA%29_wagon_03.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Montero Sport",
+    "Nativa"
+  ],
+  "description": "The Mitsubishi Pajero Sport is a body-on-frame mid-size SUV produced by the Japanese manufacturer Mitsubishi Motors using the Pajero nameplate since 1996. It has spanned over three generations, based on the Triton pickup truck.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero_Sport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/1998-2000_Mitsubishi_Challenger_%28PA%29_wagon_03.jpg/1920px-1998-2000_Mitsubishi_Challenger_%28PA%29_wagon_03.jpg",
+  "sketchfab": {
+    "uid": "85bed21c6b4a48da88a216d4e6d28790",
+    "name": "2005 Mitsubishi Pajero Sport",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

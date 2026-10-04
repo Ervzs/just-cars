@@ -2,6 +2,8 @@
   "id": "roush-performance-mustang",
   "make": "Roush Performance",
   "model": "Mustang",
+  "generation": null,
+  "aka": [],
   "years": [
     2001,
     2002,
@@ -25,7 +27,7 @@
   "vehicleClass": "Subcompact Cars",
   "fuelType": "Premium",
   "engine": "5.0L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/DaytonaCoupeEngines01.JPG/960px-DaytonaCoupeEngines01.JPG",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2021,
   "specs": {
@@ -39,8 +41,11 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
-  "description": "Roush Performance is an American automotive company primarily involved in the engineering, development, and manufacturing of high-performance components for street and competitive racing applications. The company's namesake is automotive mogul Jack Roush, who owns and operates the firm. Founded in 1995 by Roush, it provides automotive engineering from racing to street cars.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roush_Performance",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/DaytonaCoupeEngines01.JPG/1920px-DaytonaCoupeEngines01.JPG",
+  "variants": [
+    "Mustang"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

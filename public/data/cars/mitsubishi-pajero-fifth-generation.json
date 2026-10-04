@@ -1,0 +1,37 @@
+{
+  "id": "mitsubishi-pajero-fifth-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero",
+  "generation": "Fifth generation",
+  "aka": [
+    "Dodge Raider",
+    "Montero",
+    "Shogun",
+    "Shogan",
+    "Mitsubishi-Montero",
+    "Pajero Evo 2+2",
+    "Pajero Plug-in Hybrid",
+    "Leopaard Q6"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2026_Mitsubishi_event_in_Tokyo_-_Pajero_left_front_-_POV_L%C3%81I_TH%E1%BB%AC.jpg/960px-2026_Mitsubishi_event_in_Tokyo_-_Pajero_left_front_-_POV_L%C3%81I_TH%E1%BB%AC.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Pajero  is a full-size SUV manufactured and marketed globally by Mitsubishi Motors since 1981. It is also known as the Mitsubishi Montero in North America, Spain, and Latin America, and the Mitsubishi Shogun in the United Kingdom.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2026_Mitsubishi_event_in_Tokyo_-_Pajero_left_front_-_POV_L%C3%81I_TH%E1%BB%AC.jpg/1920px-2026_Mitsubishi_event_in_Tokyo_-_Pajero_left_front_-_POV_L%C3%81I_TH%E1%BB%AC.jpg",
+  "sketchfab": {
+    "uid": "bec38f586d9349ee9c1f295b6f5569cb",
+    "name": "Mitsubishi Pajero 4WD [FREE / GAMEREADY]",
+    "author": "rileylane",
+    "authorUrl": "https://sketchfab.com/rileylane",
+    "license": "CC Attribution"
+  }
+}

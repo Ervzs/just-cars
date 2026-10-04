@@ -1,0 +1,51 @@
+{
+  "id": "mitsubishi-eclipse-third-generation",
+  "make": "Mitsubishi",
+  "model": "Eclipse",
+  "generation": "Third generation",
+  "aka": [
+    "2006 Mitsubishi Eclipse GT",
+    "Eclipse EV",
+    "SST",
+    "Dodge Laser",
+    "Eclipse Concept-E"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Mitsubishi_Eclipse_front_20080303.jpg/960px-Mitsubishi_Eclipse_front_20080303.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Eclipse"
+  ],
+  "description": "The Mitsubishi Eclipse  is a sport compact car which was manufactured and marketed by Mitsubishi over four generations in the 1990–2012 model years. A convertible body style was added during the 1996 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Mitsubishi_Eclipse_front_20080303.jpg/1280px-Mitsubishi_Eclipse_front_20080303.jpg",
+  "sketchfab": {
+    "uid": "23f41e6a4c0943abbab558aec143f176",
+    "name": "2003 Mitsubishi Eclipse Spyder GTS \"Roman\"",
+    "author": "SIU Car Garage",
+    "authorUrl": "https://sketchfab.com/Game_mode",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

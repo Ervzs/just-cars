@@ -1,0 +1,36 @@
+{
+  "id": "volvo-v70-first-generation",
+  "make": "Volvo",
+  "model": "V70",
+  "generation": "First generation",
+  "aka": [
+    "V70 Plug-in Hybrid",
+    "V70 XC",
+    "V70 R"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1999_Volvo_V70_%28MY00%29_2.4_20V_CD_station_wagon_%282015-07-10%29_01.jpg/960px-1999_Volvo_V70_%28MY00%29_2.4_20V_CD_station_wagon_%282015-07-10%29_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volvo V70 is an executive car manufactured and marketed by Volvo Cars from 1996 to 2016 across three generations.\nThe name V70 combines the letter V, standing for versatility, and 70, denoting relative platform size.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1999_Volvo_V70_%28MY00%29_2.4_20V_CD_station_wagon_%282015-07-10%29_01.jpg/1920px-1999_Volvo_V70_%28MY00%29_2.4_20V_CD_station_wagon_%282015-07-10%29_01.jpg",
+  "sketchfab": {
+    "uid": "9a29f1d07f314514bf0f38bd47d6c4cb",
+    "name": "Volvo V70 MK2 2000-2007",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

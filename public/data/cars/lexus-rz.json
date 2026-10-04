@@ -2,6 +2,10 @@
   "id": "lexus-rz",
   "make": "Lexus",
   "model": "RZ",
+  "generation": null,
+  "aka": [
+    "RZ 450e"
+  ],
   "years": [
     2023,
     2024,
@@ -25,6 +29,9 @@
     "mpgCombined": 120,
     "evRangeMiles": 284
   },
+  "variants": [
+    "RZ"
+  ],
   "description": "The Lexus RZ  is a battery electric mid-size luxury crossover SUV built by Toyota for its luxury division Lexus since 2023. It is considered a \"large SUV\" by Euro NCAP and a \"small sport utility vehicle\" by the United States Environmental Protection Agency. The RZ is built on the e-TNGA platform shared with the Toyota bZ4X/Subaru Solterra, it is the first dedicated battery electric vehicle of the Lexus marque that will be sold worldwide and also the second battery electric model after the ICE-based UX 300e.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_RZ",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lexus_RZ_300e_%28XEBM10%29_IMG_6622.jpg/1920px-Lexus_RZ_300e_%28XEBM10%29_IMG_6622.jpg",

@@ -1,0 +1,33 @@
+{
+  "id": "honda-logo",
+  "make": "Honda",
+  "model": "Logo",
+  "generation": null,
+  "aka": [],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1996_Honda_Logo_01.jpg/960px-1996_Honda_Logo_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Logo is a supermini car (B-segment) which was made by Honda from 1996 to 2001. It is a three- or five-door hatchback that replaced the second-generation City and was then superseded by the Fit/Jazz. It slotted between the smaller kei-class Life and the larger Civic in Honda's range of the era. The Honda Capa and Honda HR-V were developed from the Logo's platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Logo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1996_Honda_Logo_01.jpg/1280px-1996_Honda_Logo_01.jpg",
+  "sketchfab": {
+    "uid": "51a85b91050e4021a279918c7e9299bb",
+    "name": "Honda Logo",
+    "author": "Chamath Zoysa",
+    "authorUrl": "https://sketchfab.com/chamathpzoysa",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "toyota-aygo-second-generation",
+  "make": "Toyota",
+  "model": "Aygo",
+  "generation": "Second generation",
+  "aka": [
+    "Aygo Crazy"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Toyota_Aygo_1.0_VVT-i_x-wave_%28II%29_%E2%80%93_Heckansicht%2C_18._Oktober_2015%2C_D%C3%BCsseldorf.jpg/960px-Toyota_Aygo_1.0_VVT-i_x-wave_%28II%29_%E2%80%93_Heckansicht%2C_18._Oktober_2015%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aygo is a city car (A-segment) marketed by Toyota mainly in the European market between 2005 and 2022 across two generations. The Aygo was first displayed at the 2005 Geneva International Motor Show. It was built alongside the related Citroën C1 and Peugeot 107/108 at the Toyota Peugeot Citroën Automobile Czech (TPCA) joint venture in Kolín, Czech Republic. The Aygo's production ended in 2021 and the model was replaced by the crossover-styled Aygo X.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aygo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Toyota_Aygo_1.0_VVT-i_x-wave_%28II%29_%E2%80%93_Heckansicht%2C_18._Oktober_2015%2C_D%C3%BCsseldorf.jpg/1920px-Toyota_Aygo_1.0_VVT-i_x-wave_%28II%29_%E2%80%93_Heckansicht%2C_18._Oktober_2015%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "c01363c599a242c5b2955813959eb6f3",
+    "name": "Toyota Aygo  2019",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

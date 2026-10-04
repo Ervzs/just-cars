@@ -1,0 +1,56 @@
+{
+  "id": "mitsubishi-galant-eighth-generation",
+  "make": "Mitsubishi",
+  "model": "Galant",
+  "generation": "Eighth generation",
+  "aka": [
+    "Legnum",
+    "Gallant",
+    "Emeraude",
+    "Eterna",
+    "Aspire",
+    "Grunder",
+    "Dodge 2000GTX",
+    "Eagle 2000GTX"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mitsubishi_galant_ea1a_vr-g_1_f.jpg/960px-Mitsubishi_galant_ea1a_vr-g_1_f.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Galant"
+  ],
+  "description": "The Mitsubishi Galant  is an automobile which was produced by Japanese manufacturer Mitsubishi from 1969 until 2012. The model name was derived from the French word galant, meaning \"chivalrous\". There have been nine distinct generations with total cumulative sales exceeding five million units. It began as a compact sedan, but over the course of its life evolved into a mid-size car. Initial production was based in Japan, with manufacturing later moved to other countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Galant",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mitsubishi_galant_ea1a_vr-g_1_f.jpg/1280px-Mitsubishi_galant_ea1a_vr-g_1_f.jpg",
+  "sketchfab": {
+    "uid": "5f3d62954d7442cd8b4bcb033700e92f",
+    "name": "Mitsubishi Galant (Mk8) 1996",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

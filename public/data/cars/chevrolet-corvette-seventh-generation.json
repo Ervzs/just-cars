@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-corvette-seventh-generation",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "generation": "Seventh generation",
+  "aka": [
+    "Chevy Corvette",
+    "C5",
+    "C6",
+    "2006 Chevrolet Corvette Z06",
+    "C-5 Corvette",
+    "Traverse leaf spring",
+    "Traverse leaf springs",
+    "Corvette car"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2014_Chevy_Corvette_Stingray_in_yellow_at_LA_Auto_Show.jpg/960px-2014_Chevy_Corvette_Stingray_in_yellow_at_LA_Auto_Show.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "6.2L 8-cyl",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "transmission": "Manual 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 25,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corvette"
+  ],
+  "description": "The Chevrolet Corvette is a line of American two-door, two-seater sports cars manufactured and marketed by General Motors under the Chevrolet marque since 1953. Throughout eight generations, indicated sequentially as C1 to C8, the Corvette is noted for its performance, distinctive styling, lightweight fiberglass or composite bodywork, and competitive pricing. The Corvette has had domestic mass-produced two-seater competitors fielded by American Motors, Ford, and Chrysler; it is the only one continuously produced by a United States auto manufacturer. It serves as Chevrolet's halo car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2014_Chevy_Corvette_Stingray_in_yellow_at_LA_Auto_Show.jpg/1920px-2014_Chevy_Corvette_Stingray_in_yellow_at_LA_Auto_Show.jpg",
+  "sketchfab": {
+    "uid": "92b1b185b0d44847b0d099a787f8ed12",
+    "name": "2019 Chevrolet Corvette ZR1",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

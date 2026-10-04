@@ -1,0 +1,48 @@
+{
+  "id": "mazda-mx-5-second-generation-nb",
+  "make": "Mazda",
+  "model": "MX-5",
+  "generation": "Second generation – NB",
+  "aka": [
+    "MX-5 Miata",
+    "Roadster",
+    "Miata",
+    "MX-5 10th Anniversary Model",
+    "MX-5 20th Anniversary Model",
+    "Jota MX-5 GT"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1999_Mazda_MX-5_Miata_Leather_Package_in_Highlight_Silver_Metallic%2C_Front_Right%2C_06-29-2023.jpg/960px-1999_Mazda_MX-5_Miata_Leather_Package_in_Highlight_Silver_Metallic%2C_Front_Right%2C_06-29-2023.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MX-5 Miata"
+  ],
+  "description": "The Mazda MX-5 is a lightweight two-seat sports car manufactured and marketed by Mazda. While in most markets it is called the MX5, in Japan it is marketed as the Mazda Roadster or, previously, as the Eunos Roadster, and In the United States it is sold as the Mazda MX-5 Miata. The name miata derives from Old High German for \"reward\", and the MX-5 nameplate was derived from it being the fifth vehicle produced by the Mazda experimental division.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_MX-5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1999_Mazda_MX-5_Miata_Leather_Package_in_Highlight_Silver_Metallic%2C_Front_Right%2C_06-29-2023.jpg/1920px-1999_Mazda_MX-5_Miata_Leather_Package_in_Highlight_Silver_Metallic%2C_Front_Right%2C_06-29-2023.jpg",
+  "sketchfab": null
+}

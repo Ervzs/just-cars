@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-trax-first-generation",
+  "make": "Chevrolet",
+  "model": "Trax",
+  "generation": "First generation",
+  "aka": [
+    "Chevy Trax",
+    "Holden Trax",
+    "Seeker",
+    "Chevy seeker"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Chevrolet_Trax_LS%2B_1.4_4WD_%E2%80%93_Heckansicht%2C_11._August_2013%2C_Wuppertal.jpg/960px-Chevrolet_Trax_LS%2B_1.4_4WD_%E2%80%93_Heckansicht%2C_11._August_2013%2C_Wuppertal.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Trax"
+  ],
+  "description": "The Chevrolet Trax is a subcompact crossover SUV manufactured by General Motors and marketed under the Chevrolet brand since 2013, currently in its second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Trax",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Chevrolet_Trax_LS%2B_1.4_4WD_%E2%80%93_Heckansicht%2C_11._August_2013%2C_Wuppertal.jpg/1920px-Chevrolet_Trax_LS%2B_1.4_4WD_%E2%80%93_Heckansicht%2C_11._August_2013%2C_Wuppertal.jpg",
+  "sketchfab": {
+    "uid": "76e12f46be1743c591ac01544fb97399",
+    "name": "Chevrolet Trax 2021",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

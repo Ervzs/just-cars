@@ -1,0 +1,40 @@
+{
+  "id": "honda-city-fifth-generation",
+  "make": "Honda",
+  "model": "City",
+  "generation": "Fifth generation",
+  "aka": [
+    "Fit Aria",
+    "City ZX",
+    "Fit Sedan",
+    "Grace",
+    "Greiz",
+    "Gienia",
+    "City Hatchback"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2009_Honda_City_%28GM2_MY09%29_VTi-L_sedan_%282011-01-13%29.jpg/960px-2009_Honda_City_%28GM2_MY09%29_VTi-L_sedan_%282011-01-13%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda City  is a subcompact car which has been produced by the Japanese manufacturer Honda since 1981.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_City",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2009_Honda_City_%28GM2_MY09%29_VTi-L_sedan_%282011-01-13%29.jpg/1920px-2009_Honda_City_%28GM2_MY09%29_VTi-L_sedan_%282011-01-13%29.jpg",
+  "sketchfab": {
+    "uid": "65e2974c74254021b027b223190418e8",
+    "name": "2008 Honda City V AT",
+    "author": "Palma123 JAAT",
+    "authorUrl": "https://sketchfab.com/palma123.jaat",
+    "license": "CC Attribution"
+  }
+}

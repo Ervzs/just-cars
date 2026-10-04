@@ -1,0 +1,38 @@
+{
+  "id": "toyota-aygo-first-generation",
+  "make": "Toyota",
+  "model": "Aygo",
+  "generation": "First generation",
+  "aka": [
+    "Aygo Crazy"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2010_Toyota_Aygo_Blue_1.0_Front.jpg/960px-2010_Toyota_Aygo_Blue_1.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aygo is a city car (A-segment) marketed by Toyota mainly in the European market between 2005 and 2022 across two generations. The Aygo was first displayed at the 2005 Geneva International Motor Show. It was built alongside the related Citroën C1 and Peugeot 107/108 at the Toyota Peugeot Citroën Automobile Czech (TPCA) joint venture in Kolín, Czech Republic. The Aygo's production ended in 2021 and the model was replaced by the crossover-styled Aygo X.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aygo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2010_Toyota_Aygo_Blue_1.0_Front.jpg/1920px-2010_Toyota_Aygo_Blue_1.0_Front.jpg",
+  "sketchfab": {
+    "uid": "aaf87da9481f46ccba404f3156c70d9b",
+    "name": "Toyota Aygo 2009 5-doors",
+    "author": "pancakesbassoondonut",
+    "authorUrl": "https://sketchfab.com/vrchris",
+    "license": "CC Attribution"
+  }
+}

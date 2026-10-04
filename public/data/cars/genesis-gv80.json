@@ -2,6 +2,8 @@
   "id": "genesis-gv80",
   "make": "Genesis",
   "model": "GV80",
+  "generation": null,
+  "aka": [],
   "years": [
     2021,
     2022,
@@ -28,6 +30,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "GV80"
+  ],
   "description": "The Genesis GV80 is a mid-size luxury crossover SUV manufactured and marketed by Genesis, Hyundai's luxury division, since 2021.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_GV80",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/1920px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg",

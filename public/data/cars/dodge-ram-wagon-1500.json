@@ -2,6 +2,8 @@
   "id": "dodge-ram-wagon-1500",
   "make": "Dodge",
   "model": "Ram Wagon 1500",
+  "generation": null,
+  "aka": [],
   "years": [
     2001,
     2002
@@ -9,7 +11,7 @@
   "vehicleClass": "Vans, Passenger Type",
   "fuelType": "Regular",
   "engine": "3.9L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/54_Dodge_Power_Wagon_1_Ton_Pick-Up_%287154796521%29.jpg/960px-54_Dodge_Power_Wagon_1_Ton_Pick-Up_%287154796521%29.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2002,
   "specs": {
@@ -23,8 +25,11 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
-  "description": "The Dodge Power Wagon is a four-wheel drive medium duty truck that was produced in various model series from 1945 to 1980 by Dodge. The Power Wagon name was revived for the 2005 model year as a four-wheel drive version of the Dodge Ram 2500. As a nameplate, \"Power Wagon\" continues as a special package of the four-wheel drive version of 3/4 ton Ram Trucks 2500 model.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Power_Wagon",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/54_Dodge_Power_Wagon_1_Ton_Pick-Up_%287154796521%29.jpg/1920px-54_Dodge_Power_Wagon_1_Ton_Pick-Up_%287154796521%29.jpg",
+  "variants": [
+    "Ram Wagon 1500"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

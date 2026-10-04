@@ -1,0 +1,29 @@
+{
+  "id": "audi-rs-6-c7",
+  "make": "Audi",
+  "model": "RS 6",
+  "generation": "C7",
+  "aka": [
+    "RS6 Avant"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2015_Audi_RS6_Avant_TFSi_Quattro_Automatic_4.0_Front.jpg/960px-2015_Audi_RS6_Avant_TFSi_Quattro_Automatic_4.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Audi RS 6 is a high-performance variant of the Audi A6 range, produced by the high-performance subsidiary company Audi Sport GmbH, for its parent company Audi AG, a subsidiary of the Volkswagen Group, from 2002 onwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2015_Audi_RS6_Avant_TFSi_Quattro_Automatic_4.0_Front.jpg/1920px-2015_Audi_RS6_Avant_TFSi_Quattro_Automatic_4.0_Front.jpg",
+  "sketchfab": null
+}

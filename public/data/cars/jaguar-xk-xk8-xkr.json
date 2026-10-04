@@ -1,0 +1,55 @@
+{
+  "id": "jaguar-xk-xk8-xkr",
+  "make": "Jaguar",
+  "model": "XK",
+  "generation": "XK8/XKR",
+  "aka": [
+    "XKR",
+    "XK8",
+    "XKR GT2"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1988_Jaguar_XJ42_Prototype.jpg/960px-1988_Jaguar_XJ42_Prototype.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XKR",
+    "XK"
+  ],
+  "description": "The Jaguar XK is a two-door 2+2 grand tourer manufactured and marketed by Jaguar Cars from 1996–2012 and by Jaguar Land Rover from 2013–2014 in hatchback coupé and convertible body styles, across two generations. The XK was introduced at the Geneva Motor Show in March 1996 and was discontinued in July 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XK",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1988_Jaguar_XJ42_Prototype.jpg/1920px-1988_Jaguar_XJ42_Prototype.jpg",
+  "sketchfab": {
+    "uid": "51fdc1e2bd7b43e78a2e8492308adfa3",
+    "name": "Jaguar XK MK2 2006-2014",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

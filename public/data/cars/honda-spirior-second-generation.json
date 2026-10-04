@@ -1,0 +1,33 @@
+{
+  "id": "honda-spirior-second-generation",
+  "make": "Honda",
+  "model": "Spirior",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2016_Dongfeng-Honda_Spirior%2C_front_8.11.18.jpg/960px-2016_Dongfeng-Honda_Spirior%2C_front_8.11.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Spirior is a mid-size sedan produced by Honda. It was introduced from 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Spirior",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2016_Dongfeng-Honda_Spirior%2C_front_8.11.18.jpg/1920px-2016_Dongfeng-Honda_Spirior%2C_front_8.11.18.jpg",
+  "sketchfab": null
+}

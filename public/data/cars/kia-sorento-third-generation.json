@@ -1,0 +1,49 @@
+{
+  "id": "kia-sorento-third-generation",
+  "make": "Kia",
+  "model": "Sorento",
+  "generation": "Third generation",
+  "aka": [
+    "Naza Sorento",
+    "Sorentos",
+    "Sorrento"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Kia_Sorento_KX-2_CRDI_ISG_4X4_2.2_Front.jpg/960px-2018_Kia_Sorento_KX-2_CRDI_ISG_4X4_2.2_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sorento"
+  ],
+  "description": "The Kia Sorento is a series of two-wheel drive and four-wheel drive family SUVs manufactured by the South Korean manufacturer Kia since 2002 through four generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sorento transitioned to a larger car-based platform which placed it into the mid-size crossover SUV class, and has been developed alongside the Hyundai Santa Fe. It is presumed to be named after the Italian city of Sorrento, though Kia did not confirm this. However, Kia released the cryptic post teasing the launch of Sorento in India featuring the image of Piazza Tasso located in Sorrento, Italy.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sorento",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Kia_Sorento_KX-2_CRDI_ISG_4X4_2.2_Front.jpg/1920px-2018_Kia_Sorento_KX-2_CRDI_ISG_4X4_2.2_Front.jpg",
+  "sketchfab": {
+    "uid": "6cfea2e7fe474032b2b7a0f388fc2e6f",
+    "name": "Kia Sorento 2014",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

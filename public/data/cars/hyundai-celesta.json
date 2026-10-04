@@ -1,0 +1,28 @@
+{
+  "id": "hyundai-celesta",
+  "make": "Hyundai",
+  "model": "Celesta",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HYUNDAI_CELESTA_China_%2814%29.jpg/960px-HYUNDAI_CELESTA_China_%2814%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Celesta is a compact car produced by the Beijing Hyundai joint venture since 2017 to 2023, replacing the extended production of the Hyundai Elantra Yuedong.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Celesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/HYUNDAI_CELESTA_China_%2814%29.jpg/1920px-HYUNDAI_CELESTA_China_%2814%29.jpg",
+  "sketchfab": null
+}

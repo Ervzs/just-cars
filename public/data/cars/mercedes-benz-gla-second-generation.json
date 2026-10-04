@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-gla-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLA",
+  "generation": "Second generation",
+  "aka": [
+    "GLA-Class",
+    "Mercedes GLA"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercedes-Benz_GLA_250_e_AMG_Line_%28H_247%29_%E2%80%93_h_11042021_%28exposure_adjusted%29.jpg/960px-Mercedes-Benz_GLA_250_e_AMG_Line_%28H_247%29_%E2%80%93_h_11042021_%28exposure_adjusted%29.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GLA-Class"
+  ],
+  "description": "The Mercedes-Benz GLA is a subcompact luxury crossover SUV manufactured and marketed by Mercedes-Benz over two generations. It is essentially the SUV equivalent of the A-Class, and the smallest SUV marketed by the brand. The production version was revealed in August 2013 ahead of the 2013 Frankfurt Auto Show in September 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercedes-Benz_GLA_250_e_AMG_Line_%28H_247%29_%E2%80%93_h_11042021_%28exposure_adjusted%29.jpg/1920px-Mercedes-Benz_GLA_250_e_AMG_Line_%28H_247%29_%E2%80%93_h_11042021_%28exposure_adjusted%29.jpg",
+  "sketchfab": {
+    "uid": "ab7b5df3ba634f38a14effde3d542466",
+    "name": "Mercedes-Benz GLA-Class 2020",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

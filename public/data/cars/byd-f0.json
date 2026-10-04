@@ -1,0 +1,38 @@
+{
+  "id": "byd-f0",
+  "make": "BYD",
+  "model": "F0",
+  "generation": null,
+  "aka": [
+    "F1",
+    "e1"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2009_BYD_F0_front_8.3.18.jpg/960px-2009_BYD_F0_front_8.3.18.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD F0, formerly known as BYD F1, is a city car produced by the Chinese manufacturer BYD. It was introduced in July 2008 and was produced until 2015. Although petrol versions were discontinued, a subsequent electric version, branded under the new \"e series\" was launched in 2019 as the BYD e1.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_F0",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2009_BYD_F0_front_8.3.18.jpg/1920px-2009_BYD_F0_front_8.3.18.jpg",
+  "sketchfab": {
+    "uid": "183f7364a70c412794f1903a25311040",
+    "name": "Byd F0",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

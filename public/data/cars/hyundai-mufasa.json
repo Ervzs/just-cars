@@ -1,0 +1,33 @@
+{
+  "id": "hyundai-mufasa",
+  "make": "Hyundai",
+  "model": "Mufasa",
+  "generation": null,
+  "aka": [
+    "Mufasa Adventure"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HYUNDAI_MUFASA_China_%285%29.jpg/960px-HYUNDAI_MUFASA_China_%285%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Mufasa is a compact SUV produced by the South Korean manufacturer Hyundai through its Beijing Hyundai joint venture in China since 2023, and Taiwan since 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Mufasa",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/HYUNDAI_MUFASA_China_%285%29.jpg/1920px-HYUNDAI_MUFASA_China_%285%29.jpg",
+  "sketchfab": {
+    "uid": "c0d23aafdbd2430891116cc834da1a48",
+    "name": "2023 Hyundai Mufasa",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

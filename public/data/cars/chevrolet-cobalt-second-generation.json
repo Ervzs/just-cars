@@ -1,0 +1,50 @@
+{
+  "id": "chevrolet-cobalt-second-generation",
+  "make": "Chevrolet",
+  "model": "Cobalt",
+  "generation": "Second generation",
+  "aka": [
+    "Pontiac Pursuit",
+    "Chevy Cobalt",
+    "Pontiac G5",
+    "Pontiac G4",
+    "Pontiac G5 Pursuit",
+    "Ravon R4"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chevrolet_Cobalt_2013_in_Russia.JPG/960px-Chevrolet_Cobalt_2013_in_Russia.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Cobalt is a compact car that was introduced by Chevrolet in 2004 for the 2005 model year. The Cobalt replaced both the Cavalier and the Toyota-based Geo/Chevrolet Prizm as Chevrolet's compact car. The Cobalt was available as both a coupe and sedan, as well as a sport compact version dubbed the Cobalt SS. Like the Chevrolet HHR and the Saturn ION, it was based on the GM Delta platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cobalt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chevrolet_Cobalt_2013_in_Russia.JPG/1920px-Chevrolet_Cobalt_2013_in_Russia.JPG",
+  "sketchfab": {
+    "uid": "f91cbef731444f939e263041400216ca",
+    "name": "Chevrolet Cobalt LTZ 2014",
+    "author": "Q.SARDOR",
+    "authorUrl": "https://sketchfab.com/qsardor57913",
+    "license": "CC Attribution"
+  }
+}

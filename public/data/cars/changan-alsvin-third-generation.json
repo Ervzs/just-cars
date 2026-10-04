@@ -1,0 +1,40 @@
+{
+  "id": "changan-alsvin-third-generation",
+  "make": "Changan",
+  "model": "Alsvin",
+  "generation": "Third generation",
+  "aka": [
+    "Alsvin V5",
+    "Chang'an Alsvin"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Changan_Alsvin_II_001.jpg/960px-Changan_Alsvin_II_001.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Changan Alsvin  or Changan Yuexiang is a subcompact sedan produced by Chinese auto maker Changan Automobile. A slightly redesigned facelift called the Alsvin V5 was launched in 2014 as a more premium trim of the Changan Alsvin and positioned slightly above. The Alsvin and Alsvin V5 were different in styling on the front and rear ends and were sold side by side.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changan_Alsvin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Changan_Alsvin_II_001.jpg/1920px-Changan_Alsvin_II_001.jpg",
+  "sketchfab": {
+    "uid": "735eb32cd26c44d794603f45ed63d152",
+    "name": "Changan Alsvin 3d model",
+    "author": "wajahat usman",
+    "authorUrl": "https://sketchfab.com/wajahatusman",
+    "license": "CC Attribution"
+  }
+}

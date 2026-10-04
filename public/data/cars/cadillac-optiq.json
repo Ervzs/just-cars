@@ -1,7 +1,11 @@
 {
   "id": "cadillac-optiq",
   "make": "Cadillac",
-  "model": "OPTIQ",
+  "model": "Optiq",
+  "generation": null,
+  "aka": [
+    "Optiq-V"
+  ],
   "years": [
     2026,
     2027
@@ -23,6 +27,9 @@
     "mpgCombined": 99,
     "evRangeMiles": 303
   },
+  "variants": [
+    "OPTIQ"
+  ],
   "description": "The Cadillac Optiq is a battery electric compact luxury crossover SUV marketed under the Cadillac brand of General Motors and manufactured in China by SAIC-GM, a joint venture between General Motors and SAIC Motor. It has been marketed in China since late 2023, in North America since early 2025 and in Europe starting late 2025.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Optiq",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/2026_Cadillac_Optiq_700E4.jpg/1920px-2026_Cadillac_Optiq_700E4.jpg",

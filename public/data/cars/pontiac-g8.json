@@ -2,6 +2,12 @@
   "id": "pontiac-g8",
   "make": "Pontiac",
   "model": "G8",
+  "generation": null,
+  "aka": [
+    "G8 GT",
+    "G8 ST",
+    "g8 gxp"
+  ],
   "years": [
     2008,
     2009
@@ -23,6 +29,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "G8"
+  ],
   "description": "The Pontiac G8 is a full-size sedan that was produced by Holden in Australia for export to the United States, where it was sold by Pontiac. The G8, a rebadged Holden Commodore, was released in early 2008 for the 2008 model year in the United States, and in 2008 for the 2009 model year in Canada. Production stopped in mid-2009, following the decision by GM to discontinue Pontiac. While available, the G8 took the place in the Pontiac lineup of both the Pontiac Bonneville, which ceased production after the 2005 model year, and the Pontiac Grand Prix, which ceased production after the 2008 model year.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_G8",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Pontiac_G8_V6_--_02-04-2012_2.jpg/1920px-Pontiac_G8_V6_--_02-04-2012_2.jpg",

@@ -1,0 +1,39 @@
+{
+  "id": "mazda-premacy-first-generation",
+  "make": "Mazda",
+  "model": "Premacy",
+  "generation": "First generation",
+  "aka": [
+    "Ford Ixion",
+    "Mazda5",
+    "5",
+    "Ford i-Max",
+    "Premacy and Mazda5"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2001-2002_Mazda_Premacy_%28CP%29_hatchback_%282011-04-28%29_02.jpg/960px-2001-2002_Mazda_Premacy_%28CP%29_hatchback_%282011-04-28%29_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Premacy  is a passenger minivan that was built by the Japanese manufacturer Mazda from 1999 to 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Premacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2001-2002_Mazda_Premacy_%28CP%29_hatchback_%282011-04-28%29_02.jpg/1920px-2001-2002_Mazda_Premacy_%28CP%29_hatchback_%282011-04-28%29_02.jpg",
+  "sketchfab": {
+    "uid": "fc8b030b67844bb6a9dc2e1eaf239027",
+    "name": "Mazda Premacy 2000",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

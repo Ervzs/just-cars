@@ -1,0 +1,32 @@
+{
+  "id": "toyota-crown-majesta-third-generation",
+  "make": "Toyota",
+  "model": "Crown Majesta",
+  "generation": "Third generation",
+  "aka": [
+    "Majesta",
+    "Hongqi Shengshi",
+    "Hongqi HQ430",
+    "Hongqi HQ300",
+    "Hongqi HQ3"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toyota_Crown_Majesta_S170.jpg/960px-Toyota_Crown_Majesta_S170.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown Majesta  is a full-size luxury sedan from Toyota. It is an upmarket variant of the Crown and serves as Toyota's flagship model in various countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown_Majesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toyota_Crown_Majesta_S170.jpg/1920px-Toyota_Crown_Majesta_S170.jpg",
+  "sketchfab": null
+}

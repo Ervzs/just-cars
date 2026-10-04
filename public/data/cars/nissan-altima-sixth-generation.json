@@ -1,0 +1,53 @@
+{
+  "id": "nissan-altima-sixth-generation",
+  "make": "Nissan",
+  "model": "Altima",
+  "generation": "Sixth generation",
+  "aka": [
+    "Altima Hybrid",
+    "Nissen Altima",
+    "L33 Altima",
+    "Altima L33"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nissan_Vmotion_2.0.jpg/960px-Nissan_Vmotion_2.0.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Altima"
+  ],
+  "description": "The Nissan Altima is a mid-size car manufactured by Nissan since 1992. It is an offshoot of the Nissan Bluebird line, which began in 1955.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Altima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nissan_Vmotion_2.0.jpg/1920px-Nissan_Vmotion_2.0.jpg",
+  "sketchfab": {
+    "uid": "d7a699a69c634bdcaef419b81087d461",
+    "name": "2019 Nissan Altima",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

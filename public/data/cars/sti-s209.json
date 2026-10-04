@@ -2,6 +2,8 @@
   "id": "sti-s209",
   "make": "STI",
   "model": "S209",
+  "generation": null,
+  "aka": [],
   "years": [
     2019
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 17,
     "evRangeMiles": null
   },
+  "variants": [
+    "S209"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

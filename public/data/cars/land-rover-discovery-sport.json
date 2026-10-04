@@ -2,6 +2,10 @@
   "id": "land-rover-discovery-sport",
   "make": "Land Rover",
   "model": "Discovery Sport",
+  "generation": null,
+  "aka": [
+    "Disco Sport"
+  ],
   "years": [
     2021
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Discovery Sport"
+  ],
   "description": "The Land Rover Discovery Sport is a compact luxury crossover SUV produced by British automotive company Jaguar Land Rover since 2014. Sold under their Land Rover marque, it has been their best-selling model since 2017.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Land_Rover_Discovery_Sport",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/1920px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg",

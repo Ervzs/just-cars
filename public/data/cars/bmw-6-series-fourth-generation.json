@@ -1,0 +1,48 @@
+{
+  "id": "bmw-6-series-fourth-generation",
+  "make": "BMW",
+  "model": "6 Series",
+  "generation": "Fourth generation",
+  "aka": [
+    "6"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2018_BMW_630d_GT_M_Sport_Automatic_3.0_Front.jpg/960px-2018_BMW_630d_GT_M_Sport_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "6 Series"
+  ],
+  "description": "The BMW 6 Series is a range of grand tourers produced by BMW since 1976. It is the successor to the E9 Coupé and is currently in its fourth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_6_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2018_BMW_630d_GT_M_Sport_Automatic_3.0_Front.jpg/1920px-2018_BMW_630d_GT_M_Sport_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "a904b6990df146998458fbd2aa00a46a",
+    "name": "BMW 6-series Coupe Concept",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

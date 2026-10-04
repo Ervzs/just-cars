@@ -1,0 +1,47 @@
+{
+  "id": "toyota-ractis-second-generation",
+  "make": "Toyota",
+  "model": "Ractis",
+  "generation": "Second generation",
+  "aka": [
+    "Verso-S",
+    "Subaru Trezia"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Toyota_Verso-S_1.33_VVT-i_Life_%E2%80%93_Heckansicht_%281%29%2C_31._M%C3%A4rz_2011%2C_Mettmann.jpg/960px-Toyota_Verso-S_1.33_VVT-i_Life_%E2%80%93_Heckansicht_%281%29%2C_31._M%C3%A4rz_2011%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Ractis  is a mini MPV produced by Japanese automaker Toyota. It is a five-seater mini MPV based on the Vitz. \"Ractis\" is derived from \"Run\", \"Activity\" and \"Space\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Ractis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Toyota_Verso-S_1.33_VVT-i_Life_%E2%80%93_Heckansicht_%281%29%2C_31._M%C3%A4rz_2011%2C_Mettmann.jpg/1920px-Toyota_Verso-S_1.33_VVT-i_Life_%E2%80%93_Heckansicht_%281%29%2C_31._M%C3%A4rz_2011%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "f09fbe7373304a988b9b9a6c8667cf0c",
+    "name": "Toyota Ractis",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,8 @@
   "id": "jeep-commander",
   "make": "Jeep",
   "model": "Commander",
+  "generation": null,
+  "aka": [],
   "years": [
     2006,
     2007,
@@ -26,6 +28,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "Commander"
+  ],
   "description": "The Jeep Commander is an automobile nameplate used by Jeep since 2005 for several SUV models:Jeep Commander (XK), a mid-size SUV produced from 2005 to 2010\nJeep Commander (2022), a mid-size crossover SUV based on the Jeep Compass produced for markets outside of the US and Canada since 2021\nJeep Grand Commander, a mid-size crossover SUV produced for the Chinese market from 2018 to 2022, also marketed as the Jeep Commander until 2020 for the two-row model",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Commander",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jeep-Commander.jpg/1920px-Jeep-Commander.jpg",

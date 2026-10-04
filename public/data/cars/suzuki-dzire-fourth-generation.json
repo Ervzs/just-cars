@@ -1,0 +1,36 @@
+{
+  "id": "suzuki-dzire-fourth-generation",
+  "make": "Suzuki",
+  "model": "Dzire",
+  "generation": "Fourth generation",
+  "aka": [
+    "Maruti Suzuki Swift DZire",
+    "Maruti DZiRE",
+    "Maruti Swift Dzire",
+    "Maruti Suzuki Dzire",
+    "Swift Dzire"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suzuki_Dzire_II_1.2_GLX_Hybrid_Magma_Gray_Metallic_02.jpg/960px-Suzuki_Dzire_II_1.2_GLX_Hybrid_Magma_Gray_Metallic_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Dzire is a subcompact notchback sedan manufactured and marketed by Suzuki since 2008, primarily for India — as a sedan variant of the Swift hatchback over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Dzire",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suzuki_Dzire_II_1.2_GLX_Hybrid_Magma_Gray_Metallic_02.jpg/1920px-Suzuki_Dzire_II_1.2_GLX_Hybrid_Magma_Gray_Metallic_02.jpg",
+  "sketchfab": {
+    "uid": "885c8f08674f48d7a54706fee791402f",
+    "name": "Suzuki Swift Dzire",
+    "author": "r34maxpro",
+    "authorUrl": "https://sketchfab.com/unitygtt34",
+    "license": "CC Attribution"
+  }
+}

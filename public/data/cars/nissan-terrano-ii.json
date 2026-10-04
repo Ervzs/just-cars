@@ -1,0 +1,42 @@
+{
+  "id": "nissan-terrano-ii",
+  "make": "Nissan",
+  "model": "Terrano II",
+  "generation": null,
+  "aka": [
+    "Mistral"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1994_Nissan_Terrano_II_SLX_2.4_Front.jpg/960px-1994_Nissan_Terrano_II_SLX_2.4_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Terrano II is a compact SUV manufactured by the Japanese automaker Nissan from 1993 to 2005. It was also made by Nissan's Spanish subsidiary Nissan Motor Ibérica S.A. for the European market, where it was marketed as the Terrano II, and also supplied under an OEM agreement to Ford Europe for sale as the Ford Maverick on the continent and in the United Kingdom.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Terrano_II",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1994_Nissan_Terrano_II_SLX_2.4_Front.jpg/1920px-1994_Nissan_Terrano_II_SLX_2.4_Front.jpg",
+  "sketchfab": {
+    "uid": "bd8a4b724ff24fddab28c329b3de4953",
+    "name": "Nissan Terrano II",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

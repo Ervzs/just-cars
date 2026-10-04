@@ -1,0 +1,54 @@
+{
+  "id": "mazda6-third-generation",
+  "make": "Mazda",
+  "model": "Mazda6",
+  "generation": "Third generation",
+  "aka": [
+    "6",
+    "Atenza and Mazda6",
+    "Atenza",
+    "6 MPS",
+    "Mazdaspeed6"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mazda6_2.0_SKYACTIV-G_Center-Line_%28GJ%29_%E2%80%93_Heckansicht%2C_14._April_2013%2C_D%C3%BCsseldorf.jpg/960px-Mazda6_2.0_SKYACTIV-G_Center-Line_%28GJ%29_%E2%80%93_Heckansicht%2C_14._April_2013%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 35,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "6"
+  ],
+  "description": "The Mazda 6  is a mid-size sedan produced by Mazda from 2002 to 2024, replacing the long-produced Capella/626.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mazda6_2.0_SKYACTIV-G_Center-Line_%28GJ%29_%E2%80%93_Heckansicht%2C_14._April_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mazda6_2.0_SKYACTIV-G_Center-Line_%28GJ%29_%E2%80%93_Heckansicht%2C_14._April_2013%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

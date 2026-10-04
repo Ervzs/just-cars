@@ -1,0 +1,41 @@
+{
+  "id": "byd-f3-second-generation",
+  "make": "BYD",
+  "model": "F3",
+  "generation": "Second generation",
+  "aka": [
+    "Surui",
+    "F3R",
+    "F5 Surui",
+    "F5"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BYD_Surui_01_China_2014-04-28.jpg/960px-BYD_Surui_01_China_2014-04-28.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD F3 is a compact car that was produced by the Chinese car manufacturer BYD between 2005 and 2021. The first BYD vehicle of their own design, production of the first generation model commenced in September 2005. A few variants were introduced including the BYD F3DM plug-in hybrid version, and the larger and more premium BYD G3 and BYD L3.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_F3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BYD_Surui_01_China_2014-04-28.jpg/1280px-BYD_Surui_01_China_2014-04-28.jpg",
+  "sketchfab": null
+}

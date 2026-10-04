@@ -1,0 +1,33 @@
+{
+  "id": "nissan-livina-l11",
+  "make": "Nissan",
+  "model": "Livina",
+  "generation": "L11",
+  "aka": [
+    "Grand Livina",
+    "Livina X-Gear",
+    "Livina Geniss",
+    "X-Gear",
+    "Grand Livina X-Gear"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/NISSAN_LIVINA_%28L11%29_China_%284%29_%28cropped%29.jpg/960px-NISSAN_LIVINA_%28L11%29_China_%284%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Livina is a compact MPV model produced by the Japanese automobile manufacturer Nissan. It was introduced in July 2006 by Dongfeng Nissan at the Guangzhou International Motor Show and went on sale in December 2006. Sharing the same platform with the first-generation Note, the first-generation Livina was the first Nissan vehicle to debut in China before being released in other countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Livina",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/NISSAN_LIVINA_%28L11%29_China_%284%29_%28cropped%29.jpg/1920px-NISSAN_LIVINA_%28L11%29_China_%284%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

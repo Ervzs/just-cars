@@ -1,0 +1,32 @@
+{
+  "id": "honda-freed-third-generation",
+  "make": "Honda",
+  "model": "Freed",
+  "generation": "Third generation",
+  "aka": [
+    "Freed Hybrid"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_frontview_of_Honda_FREED_III_AIR_with_Superior_Style_parts.jpg/960px-The_frontview_of_Honda_FREED_III_AIR_with_Superior_Style_parts.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Freed   is a mini MPV produced by the Japanese automaker Honda since 2008. The vehicle is designed mainly for the need of Japanese consumers. It is based on the Fit/Jazz platform and acts as a replacement for the first generation Mobilio in Japan. Three different versions of the Freed are available: a six-seater version which features captain's seats in the second row, a seven-seater version and a five-seater version. Honda also stated that a wheelchair-accessible model is offered in addition to versions with a side lift-up seat and passenger lift-up seat.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Freed",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_frontview_of_Honda_FREED_III_AIR_with_Superior_Style_parts.jpg/1920px-The_frontview_of_Honda_FREED_III_AIR_with_Superior_Style_parts.jpg",
+  "sketchfab": {
+    "uid": "e80f9e16a1b6437d82370858f71b7feb",
+    "name": "Honda Freed E HEV 2025",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

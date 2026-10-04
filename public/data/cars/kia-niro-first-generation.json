@@ -1,0 +1,51 @@
+{
+  "id": "kia-niro-first-generation",
+  "make": "Kia",
+  "model": "Niro",
+  "generation": "First generation",
+  "aka": [
+    "nitro",
+    "Niro EV",
+    "e-Niro",
+    "Niro Electric",
+    "Nero",
+    "Niro Plus"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Kia_Niro_3_PHEV_S-A_1.6.jpg/960px-2018_Kia_Niro_3_PHEV_S-A_1.6.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 51,
+    "mpgHighway": 46,
+    "mpgCombined": 49,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Niro"
+  ],
+  "description": "The Kia Niro is a subcompact crossover SUV (B-segment) manufactured by Kia since 2016. It is an electrification-focused vehicle, offering three versions: hybrid, plug-in hybrid and battery electric variants.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Niro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Kia_Niro_3_PHEV_S-A_1.6.jpg/1920px-2018_Kia_Niro_3_PHEV_S-A_1.6.jpg",
+  "sketchfab": {
+    "uid": "b2a0d0ad41f74638bd7452a522c1f103",
+    "name": "2020 Kia Niro Hybrid",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,8 @@
   "id": "toyota-grand-highlander",
   "make": "Toyota",
   "model": "Grand Highlander",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -24,6 +26,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Grand Highlander"
+  ],
   "description": "The Toyota Grand Highlander is a mid-size crossover SUV with three-row seating produced by Toyota since 2023. The Grand Highlander was introduced for the North American market on February 8, 2023. While sharing the nameplate and the GA-K platform with the regular Highlander, the Grand Highlander is longer, taller, and wider, and features entirely different exterior and interior styling.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Grand_Highlander",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2026_Toyota_Grand_Highlander_Hybrid_XLE_in_Wind_Chill_Pearl%2C_front_left%2C_07-10-2026.jpg/1920px-2026_Toyota_Grand_Highlander_Hybrid_XLE_in_Wind_Chill_Pearl%2C_front_left%2C_07-10-2026.jpg",

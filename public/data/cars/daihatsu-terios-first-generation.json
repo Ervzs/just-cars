@@ -1,0 +1,39 @@
+{
+  "id": "daihatsu-terios-first-generation",
+  "make": "Toyota",
+  "model": "Daihatsu Terios",
+  "generation": "First generation",
+  "aka": [
+    "Cami",
+    "Rush",
+    "Perodua Kembara",
+    "Daihatsu Taruna",
+    "Perodua Nautica",
+    "Terios",
+    "Premier Rio",
+    "Dario Terios"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/1999_Daihatsu_Terios_%28J100%29_SX_wagon.jpg/960px-1999_Daihatsu_Terios_%28J100%29_SX_wagon.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Terios  is a mini SUV produced by the Japanese automobile manufacturer Daihatsu since 1997 as the successor to the F300 series Rocky. It was initially offered in both short- and long-wheelbase configurations before the former stopped production in 2016 to be replaced by the A200 series Rocky crossover in 2019. The long-wheelbase variant is available mainly for the Indonesian market with three-row seating options. A smaller kei car model called it the Terios Kid/Lucia was also available for the first-generation model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Terios",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/1999_Daihatsu_Terios_%28J100%29_SX_wagon.jpg/1920px-1999_Daihatsu_Terios_%28J100%29_SX_wagon.jpg",
+  "sketchfab": null
+}

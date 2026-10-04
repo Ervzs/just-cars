@@ -2,6 +2,10 @@
   "id": "ford-mustang-mach-e",
   "make": "Ford",
   "model": "Mustang Mach-E",
+  "generation": null,
+  "aka": [
+    "Mach-E"
+  ],
   "years": [
     2021,
     2022,
@@ -27,6 +31,9 @@
     "mpgCombined": 100,
     "evRangeMiles": 240
   },
+  "variants": [
+    "Mustang Mach-E"
+  ],
   "description": "The Ford Mustang Mach-E is a battery electric compact crossover SUV produced by Ford. Introduced on November 17, 2019, it went on sale in December 2020 as a 2021 model. The Mach-E is part of the Mustang series, with its name inspired by the Mach 1 variant of the first-generation Mustang. The car won the 2021 North American SUV of the Year Award.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Mustang_Mach-E",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg/1920px-2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg",

@@ -2,6 +2,17 @@
   "id": "tesla-cybertruck",
   "make": "Tesla",
   "model": "Cybertruck",
+  "generation": null,
+  "aka": [
+    "Model B",
+    "pickup truck",
+    "Cybrtrk",
+    "pickup",
+    "Cybertruck Gigafactory",
+    "Cybertruck Cyberbeast",
+    "Cyberbeast",
+    "Cybertrucks"
+  ],
   "years": [
     2025,
     2026
@@ -23,6 +34,9 @@
     "mpgCombined": 79,
     "evRangeMiles": 325
   },
+  "variants": [
+    "Cybertruck"
+  ],
   "description": "The Tesla Cybertruck is a battery-electric full-size pickup truck manufactured by Tesla, Inc. since 2023. It was presented as a prototype concept in November 2019, with an angular design composed of flat, unpainted stainless steel body panels, drawing comparisons to low-polygon computer models.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Cybertruck",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2024_Tesla_Cybertruck_Foundation_Series%2C_front_left_%28Greenwich%29.jpg/1920px-2024_Tesla_Cybertruck_Foundation_Series%2C_front_left_%28Greenwich%29.jpg",

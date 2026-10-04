@@ -2,6 +2,17 @@
   "id": "daewoo-lanos",
   "make": "Daewoo",
   "model": "Lanos",
+  "generation": null,
+  "aka": [
+    "ZAZ Lanos",
+    "Sens",
+    "Chevrolet Lanos",
+    "Doninvest Assol",
+    "FSO Lanos",
+    "ZAZ Sens",
+    "ZAZ Lanos Pick-up",
+    "Chevy Lanos"
+  ],
   "years": [
     2000,
     2001,
@@ -25,6 +36,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "Lanos"
+  ],
   "description": "The Daewoo Lanos is a compact hatchback / sedan car produced by the South Korean manufacturer Daewoo from 1997 to 2002, and thereafter produced under license agreements in various countries worldwide. It has also been marketed as the Daewoo Sens, ZAZ Sens and ZAZ Lanos in Ukraine, Doninvest Assol and ZAZ Chance in Russia, FSO Lanos in Poland, or Chevrolet Lanos in Ukraine, Russia, and Egypt.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Daewoo_Lanos",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Daewoo_Lanos_hatchback_--_04-22-2011_front.jpg/1920px-Daewoo_Lanos_hatchback_--_04-22-2011_front.jpg",

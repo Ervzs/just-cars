@@ -1,0 +1,38 @@
+{
+  "id": "toyota-porte-second-generation",
+  "make": "Toyota",
+  "model": "Porte",
+  "generation": "Second generation",
+  "aka": [
+    "Spade"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Toyota_porte2.jpg/960px-Toyota_porte2.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Porte , the plural Italian word for \"door\", is a mini MPV produced by the Japanese automaker Toyota from 2004 to 2020 that features an electric-powered sliding door on the passenger side, similar in approach to the Isis. The driver's door is of the conventional swing-open type.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Porte",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Toyota_porte2.jpg/1280px-Toyota_porte2.jpg",
+  "sketchfab": null
+}

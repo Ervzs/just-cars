@@ -1,0 +1,41 @@
+{
+  "id": "suzuki-cultus-crescent",
+  "make": "Suzuki",
+  "model": "Cultus Crescent",
+  "generation": null,
+  "aka": [
+    "Cultus Esteem",
+    "Chevrolet Cassia",
+    "Esteem",
+    "Chevrolet Esteem"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Suzuki_Baleno_1.6_GL_1998.jpg/960px-Suzuki_Baleno_1.6_GL_1998.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Esteem"
+  ],
+  "description": "The Suzuki Cultus Crescent  is a subcompact car that was produced by Suzuki in Japan between 1995 and 2002, with South Asian production continuing until 2007. The Cultus Crescent was sold as such in Japan until May 1998, when it was renamed Suzuki Cultus due to the sales discontinuation of the previous Cultus in the Japanese market. The Cultus Crescent was also marketed as the Suzuki Esteem in North America, Philippines and Thailand, and as the Suzuki Baleno throughout Asia, Australasia, Europe, and Latin America. In India where it was manufactured by Maruti Suzuki, the Cultus Crescent was sold as the Maruti Suzuki Baleno. In the Philippines, the facelift model was marketed as the Chevrolet Cassia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Cultus_Crescent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Suzuki_Baleno_1.6_GL_1998.jpg/1920px-Suzuki_Baleno_1.6_GL_1998.jpg",
+  "sketchfab": null
+}

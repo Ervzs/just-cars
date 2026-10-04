@@ -1,0 +1,45 @@
+{
+  "id": "toyota-prius-plug-in-hybrid-third-generation",
+  "make": "Toyota",
+  "model": "Prius Plug-in Hybrid",
+  "generation": "Third generation",
+  "aka": [
+    "Plug-in HV",
+    "Prius PHEV",
+    "Plug-in Prius",
+    "Prius PHV",
+    "Prius Prime",
+    "Prius Prime Plug-in Hybrid",
+    "Prius plug-in"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular Gas and Electricity",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Toyota_PRIUS_PHEV_%285th_generation_prototype%29_front.jpg/960px-Toyota_PRIUS_PHEV_%285th_generation_prototype%29_front.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 50,
+    "mpgHighway": 47,
+    "mpgCombined": 48,
+    "evRangeMiles": 550
+  },
+  "variants": [
+    "Prius Prime"
+  ],
+  "description": "The Toyota Prius Plug-in Hybrid is a plug-in hybrid liftback manufactured by Toyota. The first-generation model was produced from 2012 to 2016. The second-generation model has been produced since 2016. Production of the third-generation model began in 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius_Plug-in_Hybrid",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Toyota_PRIUS_PHEV_%285th_generation_prototype%29_front.jpg/1920px-Toyota_PRIUS_PHEV_%285th_generation_prototype%29_front.jpg",
+  "sketchfab": null
+}

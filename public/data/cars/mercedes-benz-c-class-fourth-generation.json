@@ -1,0 +1,55 @@
+{
+  "id": "mercedes-benz-c-class-fourth-generation",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "generation": "Fourth generation",
+  "aka": [
+    "Mercedes Benz C-Class",
+    "Mercedes C-Class",
+    "C-klasse",
+    "C43 AMG",
+    "Mercedes c180",
+    "Mercedez-Benz C Class",
+    "CLR-Class",
+    "Mercedes C"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg/960px-Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 33,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C-Class"
+  ],
+  "description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz Group AG. Introduced in 1993 as a replacement for the 190 (W201) range, the C-Class was the smallest model in the marque's line-up until the W168 A-Class arrived in 1997. The C-Class has been available with a \"4MATIC\" four-wheel drive option since 2002. The third generation (W204) was launched in 2007 while the current W206 generation was launched in 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "19d59344b7554e6ab614a6cc02e7ad0a",
+    "name": "Mercedes-Benz C-Class 2020",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vinfast-vf-8-second-generation",
+  "make": "Vinfast",
+  "model": "VF 8",
+  "generation": "Second generation",
+  "aka": [
+    "VF32",
+    "VF e35"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/VinFast_VF_8_DSC_8568.jpg/960px-VinFast_VF_8_DSC_8568.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 77,
+    "mpgHighway": 69,
+    "mpgCombined": 73,
+    "evRangeMiles": 256
+  },
+  "variants": [
+    "VF 8"
+  ],
+  "description": "The VinFast VF 8 is a battery electric mid-size SUV (D-segment) manufactured and marketed by VinFast of Vingroup from 2022. The model made its debut in the second half of January 2022, as one of the products to support the automaker's planned expansion to global markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/VinFast_VF_8_DSC_8568.jpg/1920px-VinFast_VF_8_DSC_8568.jpg",
+  "sketchfab": null
+}

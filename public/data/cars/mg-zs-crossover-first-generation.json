@@ -1,0 +1,37 @@
+{
+  "id": "mg-zs-crossover-first-generation",
+  "make": "MG",
+  "model": "ZS (crossover)",
+  "generation": "First generation",
+  "aka": [
+    "ZS SUV",
+    "ZST",
+    "SAIC MG ZS EV",
+    "ZS EV",
+    "Astor",
+    "ZX",
+    "VS",
+    "EZS"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/MG_ZS_at_races.jpg/960px-MG_ZS_at_races.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG ZS is a subcompact SUV produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque. Announced at the 2016 Guangzhou Auto Show in China, the MG ZS is the second SUV to be produced under the MG marque after the MG GS. It is positioned below the larger HS, and above the smaller MG 3 hatchback. Since 2018, the ZS is available with a battery electric version called the ZS EV or in China, the EZS. In 2025, the hybrid version of the ZS was awarded Best Hybrid Car by British motoring magazine Carbuyer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_ZS_(crossover)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/MG_ZS_at_races.jpg/1920px-MG_ZS_at_races.jpg",
+  "sketchfab": null
+}

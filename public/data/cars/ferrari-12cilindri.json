@@ -2,6 +2,8 @@
   "id": "ferrari-12cilindri",
   "make": "Ferrari",
   "model": "12Cilindri",
+  "generation": null,
+  "aka": [],
   "years": [
     2026
   ],
@@ -9,7 +11,7 @@
   "fuelType": "Premium",
   "engine": "6.5L 12-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg/960px-2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2026,
   "specs": {
     "engine": "6.5L 12-cyl",
@@ -22,8 +24,17 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
+  "variants": [
+    "12Cilindri"
+  ],
   "description": "The Ferrari 12Cilindri is a two-seater front-engine, rear-wheel-drive grand tourer produced by the Italian sports car manufacturer Ferrari. It was unveiled at Miami Beach on May 3, 2024, to coincide with the 70th anniversary of Ferrari in the American market.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_12Cilindri",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg/1920px-2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "cb0b42a5bda844bd8ccd62451f1db427",
+    "name": "2025 Ferrari 12Cilindri",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "jeep-grand-wagoneer-ws",
+  "make": "Jeep",
+  "model": "Grand Wagoneer (WS)",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/960px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Wagoneer"
+  ],
+  "description": "The Jeep Grand Wagoneer is a full-size SUV produced by the Jeep division of Stellantis North America. Originally launched in March 2021 under two sub-models; the Wagoneer and Grand Wagoneer, they were initially branded as \"Wagoneer by Jeep\" without the Jeep badge on vehicles and were described as a \"premium extension\" of the Jeep brand in marketing copy. The Wagoneer served as the affordable mainstream model, while the Grand Wagoneer was the luxury version. Both were available in short wheelbase and long wheelbase \"L\" configurations. Production of the 2022 Wagoneer and Grand Wagoneer commenced in the first half of 2021 at Warren Truck Assembly.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Grand_Wagoneer_(WS)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/1920px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg",
+  "sketchfab": null
+}

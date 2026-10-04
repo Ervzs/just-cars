@@ -1,0 +1,28 @@
+{
+  "id": "honda-crider-first-generation",
+  "make": "Honda",
+  "model": "Crider",
+  "generation": "First generation",
+  "aka": [
+    "Envix"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/HONDA_CRIDER_FIRST_GENERATION_China_%287%29_%28cropped%29.jpg/960px-HONDA_CRIDER_FIRST_GENERATION_China_%287%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Crider is a compact sedan produced by GAC Honda in China. It was introduced in 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Crider",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/HONDA_CRIDER_FIRST_GENERATION_China_%287%29_%28cropped%29.jpg/1920px-HONDA_CRIDER_FIRST_GENERATION_China_%287%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

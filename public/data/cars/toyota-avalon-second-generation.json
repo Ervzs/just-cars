@@ -1,0 +1,47 @@
+{
+  "id": "toyota-avalon-second-generation",
+  "make": "Toyota",
+  "model": "Avalon",
+  "generation": "Second generation",
+  "aka": [
+    "Pronard",
+    "Avalon Hybrid"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2000-2002_Toyota_Avalon_--_04-11-2012_2.JPG/960px-2000-2002_Toyota_Avalon_--_04-11-2012_2.JPG",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Avalon"
+  ],
+  "description": "The Toyota Avalon  is a full-size sedan manufactured by Toyota, as its largest front-wheel drive sedan; also its flagship in the United States, Canada, China and the Middle East. The Avalon was also manufactured in Australia from April 2000 until June 2005, when it was replaced in November 2006 by the Aurion. The first production Avalon was manufactured in September 1994 at the TMMK assembly line in Georgetown, Kentucky, where subsequent generations have been manufactured.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avalon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2000-2002_Toyota_Avalon_--_04-11-2012_2.JPG/1920px-2000-2002_Toyota_Avalon_--_04-11-2012_2.JPG",
+  "sketchfab": {
+    "uid": "02d3327fc64e46c48838937d274ce2b9",
+    "name": "Toyota Avalon II XX20 2001",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

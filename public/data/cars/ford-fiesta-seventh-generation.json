@@ -1,0 +1,58 @@
+{
+  "id": "ford-fiesta-seventh-generation",
+  "make": "Ford",
+  "model": "Fiesta",
+  "generation": "Seventh generation",
+  "aka": [
+    "XR2",
+    "V2CII",
+    "Verve",
+    "Fiesta ST N3",
+    "Icon",
+    "Fiesta XR4",
+    "Dogbot",
+    "Fiesta ST"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2017_Ford_Fiesta_ST-Line_Turbo_1.0.jpg/960px-2017_Ford_Fiesta_ST-Line_Turbo_1.0.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 37,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Fiesta"
+  ],
+  "description": "The Ford Fiesta is a supermini car that was marketed by Ford from 1976 to 2023 over seven generations. Over the years, the Fiesta has mainly been developed and manufactured by Ford's European operations, and had been positioned below the Escort.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Fiesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2017_Ford_Fiesta_ST-Line_Turbo_1.0.jpg/1920px-2017_Ford_Fiesta_ST-Line_Turbo_1.0.jpg",
+  "sketchfab": {
+    "uid": "890f9f3c4e2444f58658d3e3e58ed556",
+    "name": "2019 Ford Fiesta ST",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

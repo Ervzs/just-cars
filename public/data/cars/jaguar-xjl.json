@@ -2,6 +2,8 @@
   "id": "jaguar-xjl",
   "make": "Jaguar",
   "model": "XJL",
+  "generation": null,
+  "aka": [],
   "years": [
     2013,
     2014,
@@ -12,7 +14,7 @@
   "vehicleClass": "Large Cars",
   "fuelType": "Premium",
   "engine": "3.0L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Jaguar_XJ_3.0_Kompressor_AWD_Premium_Luxury_%28X351%29_%E2%80%93_Frontansicht%2C_17._Mai_2013%2C_M%C3%BCnster.jpg/960px-Jaguar_XJ_3.0_Kompressor_AWD_Premium_Luxury_%28X351%29_%E2%80%93_Frontansicht%2C_17._Mai_2013%2C_M%C3%BCnster.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2017,
   "specs": {
@@ -26,8 +28,11 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
-  "description": "The Jaguar XJ (X351) is a saloon car built by British manufacturer Jaguar Cars, later known as Jaguar Land Rover, from 2010 to 2019. It is the fourth and final generation of the Jaguar XJ model. Referred to internally within Jaguar as the X351, it was announced in 2009 before going on sale in 2010, and combined revised styling with underpinnings of the previous Jaguar X350 generation. The model was discontinued in 2019. It was the final generation of the XJ, after the electric Jaguar XJ was cancelled in February 2021.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XJ_(X351)",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Jaguar_XJ_3.0_Kompressor_AWD_Premium_Luxury_%28X351%29_%E2%80%93_Frontansicht%2C_17._Mai_2013%2C_M%C3%BCnster.jpg/1920px-Jaguar_XJ_3.0_Kompressor_AWD_Premium_Luxury_%28X351%29_%E2%80%93_Frontansicht%2C_17._Mai_2013%2C_M%C3%BCnster.jpg",
+  "variants": [
+    "XJL"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

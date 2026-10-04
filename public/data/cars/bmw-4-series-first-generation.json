@@ -1,0 +1,50 @@
+{
+  "id": "bmw-4-series-first-generation",
+  "make": "BMW",
+  "model": "4 Series",
+  "generation": "First generation",
+  "aka": [
+    "4",
+    "Four Series",
+    "4 Series Gran Coupé"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2016_BMW_428i_%28F32%29_Luxury_Line_coupe_%282018-08-06%29_01.jpg/960px-2016_BMW_428i_%28F32%29_Luxury_Line_coupe_%282018-08-06%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 34,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "4 Series"
+  ],
+  "description": "The BMW 4 Series is a range of compact executive cars manufactured by BMW since 2013. The 4 Series was created when BMW spun off the 2-door models of the 3 Series into a separate series. The 4 Series is currently in its second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_4_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2016_BMW_428i_%28F32%29_Luxury_Line_coupe_%282018-08-06%29_01.jpg/1920px-2016_BMW_428i_%28F32%29_Luxury_Line_coupe_%282018-08-06%29_01.jpg",
+  "sketchfab": {
+    "uid": "cd3892440b4148a1a5845d8af34515bd",
+    "name": "2014 LB★WORKS BMW 4 Series Body Kit (F82)",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

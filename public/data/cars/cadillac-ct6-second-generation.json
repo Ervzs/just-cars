@@ -1,0 +1,35 @@
+{
+  "id": "cadillac-ct6-second-generation",
+  "make": "Cadillac",
+  "model": "CT6",
+  "generation": "Second generation",
+  "aka": [
+    "CT6 Plug-in Hybrid",
+    "CT6 PHEV",
+    "CT6-V"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cadillac_CT6_II_005.jpg/960px-Cadillac_CT6_II_005.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Cadillac CT6 is a full-size luxury car manufactured by Cadillac starting in 2016 over two generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CT6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cadillac_CT6_II_005.jpg/1920px-Cadillac_CT6_II_005.jpg",
+  "sketchfab": {
+    "uid": "331a5931230440078a0cc4e42901f7d7",
+    "name": "Cadillac CT6 3D Model",
+    "author": "IPfuentes",
+    "authorUrl": "https://sketchfab.com/IPfuentes",
+    "license": "CC Attribution"
+  }
+}

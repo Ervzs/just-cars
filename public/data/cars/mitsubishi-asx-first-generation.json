@@ -1,0 +1,44 @@
+{
+  "id": "mitsubishi-asx-first-generation",
+  "make": "Mitsubishi",
+  "model": "ASX",
+  "generation": "First generation",
+  "aka": [
+    "Concept-cX",
+    "ASX Plug-in Hybrid",
+    "Outlander Sport"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mitsubishi_Concept-cX.jpg/960px-Mitsubishi_Concept-cX.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi ASX is a subcompact crossover SUV manufactured by the Japanese automaker Mitsubishi Motors. On introduction, it was positioned below the Outlander in Mitsubishi's crossover SUV line-up, until the Eclipse Cross filled the gap between the ASX and Outlander in 2017. It was built on the GS platform closely shared with the Lancer and Outlander.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mitsubishi_Concept-cX.jpg/1920px-Mitsubishi_Concept-cX.jpg",
+  "sketchfab": {
+    "uid": "e54c0d1506d744caa25177b935c7c6d6",
+    "name": "Mitsubishi ASX 2011",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

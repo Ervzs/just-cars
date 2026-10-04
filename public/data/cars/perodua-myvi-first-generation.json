@@ -1,0 +1,35 @@
+{
+  "id": "perodua-myvi-first-generation",
+  "make": "Perodua",
+  "model": "Myvi",
+  "generation": "First generation",
+  "aka": [
+    "Myvi SE"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Perodua_MyVi_%28front%29%2C_Kuala_Lumpur.jpg/960px-Perodua_MyVi_%28front%29%2C_Kuala_Lumpur.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Perodua Myvi is a subcompact car/supermini (B-segment) produced by the Malaysian manufacturer Perodua since 2005. Based on the Daihatsu Boon, the Myvi is the result of Perodua's collaboration with both Toyota and Daihatsu. However, the third generation Myvi was entirely designed and made in Malaysia, thus not being based on the third generation Boon. The Myvi was the best-selling car in Malaysia for nine consecutive years, between 2006 and 2014, and again between the years 2018 and 2022. The Myvi has been Malaysia's best-selling car for 14 years since its first full year of sales in 2006. By the end of 2024, the Myvi reached 1.487 million units sold since the launch of its first generation in 2005 as Perodua's best-selling nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perodua_Myvi",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Perodua_MyVi_%28front%29%2C_Kuala_Lumpur.jpg/1920px-Perodua_MyVi_%28front%29%2C_Kuala_Lumpur.jpg",
+  "sketchfab": {
+    "uid": "d43201cddbfb4ea79cfb8f6945d726be",
+    "name": "2005 Perodua Myvi",
+    "author": "zairiq-zairiq-123-pixar-cars-bfdi",
+    "authorUrl": "https://sketchfab.com/zairiqzairiqpixarcarsbfdi",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "toyota-prius-nhw10",
+  "make": "Toyota",
+  "model": "Prius",
+  "generation": "NHW10",
+  "aka": [
+    "Prius II",
+    "Thepri.us",
+    "Pryus",
+    "Prius Touring",
+    "Prii",
+    "Prium",
+    "Priuses",
+    "Prien"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/960px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Prius   is a car produced by Toyota since 1997 over five generations. The Prius has a hybrid drivetrain, called Hybrid Synergy Drive, which combines an internal combustion engine and an electric motor. Initially offered as a subcompact four-door saloon, it has been produced only as a compact five-door liftback since 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/1920px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bentley-flying-spur-2005-second-generation",
+  "make": "Bentley",
+  "model": "Flying Spur (2005)",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Geneva_MotorShow_2013_-_Bentley_New_Flying_Spur_steering_wheel_and_center_console.jpg/960px-Geneva_MotorShow_2013_-_Bentley_New_Flying_Spur_steering_wheel_and_center_console.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 22,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Flying Spur"
+  ],
+  "description": "The Bentley Flying Spur, known as the Bentley Continental Flying Spur before 2013, is a full-sized luxury car produced by Bentley Motors Limited since 2005. It is the four-door saloon variant of the Bentley Continental GT two-door coupé.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Flying_Spur_(2005)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Geneva_MotorShow_2013_-_Bentley_New_Flying_Spur_steering_wheel_and_center_console.jpg/1920px-Geneva_MotorShow_2013_-_Bentley_New_Flying_Spur_steering_wheel_and_center_console.jpg",
+  "sketchfab": null
+}

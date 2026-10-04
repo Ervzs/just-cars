@@ -2,6 +2,13 @@
   "id": "lotus-evora",
   "make": "Lotus",
   "model": "Evora",
+  "generation": null,
+  "aka": [
+    "Eagle",
+    "Type 122",
+    "Evora GT4",
+    "Evora GTE"
+  ],
   "years": [
     2010,
     2011,
@@ -30,6 +37,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Evora"
+  ],
   "description": "The Lotus Evora is a sports car produced by British automaker Lotus. The car, which was developed under the project name Project Eagle, was launched on 22 July 2008 at the British International Motor Show. The Evora S was launched in 2010 with a supercharged 3.5-litre V6. The facelifted and more powerful Evora 400 model was unveiled at the 2015 Geneva Motor Show, followed by another more powerful variant, the Evora GT430, which was unveiled in 2017.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Evora",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg/1920px-2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg",

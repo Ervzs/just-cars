@@ -1,0 +1,56 @@
+{
+  "id": "buick-regal-sixth-generation",
+  "make": "Buick",
+  "model": "Regal",
+  "generation": "Sixth generation",
+  "aka": [
+    "Grand National",
+    "GNX",
+    "Regal GNX",
+    "Regal Grand National",
+    "Regal GN",
+    "Regal TourX",
+    "Grand National Experimental"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2019_Buick_Regal_Sportback_Preferred_II%2C_Front_Left%2C_05-23-2021.jpg/960px-2019_Buick_Regal_Sportback_Preferred_II%2C_Front_Left%2C_05-23-2021.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Regal"
+  ],
+  "description": "The Buick Regal is a line of mid-size cars marketed by Buick since 1973. Serving as the premium mid-size/intermediate car of the Buick product range for nearly its entire production, the Regal initially served as the divisional counterpart of the Pontiac Grand Prix and Oldsmobile Cutlass Supreme; since the late 2000s, the model line has been derived from the European Opel Insignia. The Regal also serves as the basis of the high-performance Grand National, Gran Sport (GS), and Buick GNX coupes.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Regal",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2019_Buick_Regal_Sportback_Preferred_II%2C_Front_Left%2C_05-23-2021.jpg/1920px-2019_Buick_Regal_Sportback_Preferred_II%2C_Front_Left%2C_05-23-2021.jpg",
+  "sketchfab": {
+    "uid": "f1543a30608c422a9e2d85b0d5b4e108",
+    "name": "2018-2020 Buick Regal",
+    "author": "justjack",
+    "authorUrl": "https://sketchfab.com/justjack",
+    "license": "CC Attribution"
+  }
+}

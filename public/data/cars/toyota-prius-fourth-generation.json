@@ -1,0 +1,55 @@
+{
+  "id": "toyota-prius-fourth-generation",
+  "make": "Toyota",
+  "model": "Prius",
+  "generation": "Fourth generation",
+  "aka": [
+    "Prius II",
+    "Thepri.us",
+    "Pryus",
+    "Prius Touring",
+    "Prii",
+    "Prium",
+    "Priuses",
+    "Prien"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2016_Toyota_Prius_Excel_VVT-I_CVT_1.8.jpg/960px-2016_Toyota_Prius_Excel_VVT-I_CVT_1.8.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 54,
+    "mpgHighway": 50,
+    "mpgCombined": 52,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prius"
+  ],
+  "description": "The Toyota Prius   is a car produced by Toyota since 1997 over five generations. The Prius has a hybrid drivetrain, called Hybrid Synergy Drive, which combines an internal combustion engine and an electric motor. Initially offered as a subcompact four-door saloon, it has been produced only as a compact five-door liftback since 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2016_Toyota_Prius_Excel_VVT-I_CVT_1.8.jpg/1920px-2016_Toyota_Prius_Excel_VVT-I_CVT_1.8.jpg",
+  "sketchfab": {
+    "uid": "ad0d925cb51040798d96f166db8c7f80",
+    "name": "Toyota Prius 2020",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

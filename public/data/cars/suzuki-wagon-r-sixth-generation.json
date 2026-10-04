@@ -1,0 +1,39 @@
+{
+  "id": "suzuki-wagon-r-sixth-generation",
+  "make": "Mazda",
+  "model": "Suzuki Wagon R",
+  "generation": "Sixth generation",
+  "aka": [
+    "AZ-Wagon",
+    "Wagon r",
+    "Suzuki wagon r wide",
+    "Wagon r wide",
+    "Flair",
+    "Chevrolet Wagon R",
+    "Suzuki Wagon R Stingray"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Suzuki_Wagon_R_Hybrid_FZ_in_Steel_Silver_Metallic%2C_front_right.jpg/960px-Suzuki_Wagon_R_Hybrid_FZ_in_Steel_Silver_Metallic%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Wagon R  is a kei car manufactured and marketed by Suzuki since 1993. The R in the name stands for Revolution and Relaxation. The Wagon R uses a \"tall wagon\" configuration to maximize cabin space within kei car dimensional restrictions. The Wagon R is also sold by Mazda as the AZ-Wagon from 1994 to 2012 and as the Flair from 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Wagon_R",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Suzuki_Wagon_R_Hybrid_FZ_in_Steel_Silver_Metallic%2C_front_right.jpg/1920px-Suzuki_Wagon_R_Hybrid_FZ_in_Steel_Silver_Metallic%2C_front_right.jpg",
+  "sketchfab": null
+}

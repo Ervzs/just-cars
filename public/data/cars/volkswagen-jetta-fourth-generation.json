@@ -1,0 +1,52 @@
+{
+  "id": "volkswagen-jetta-fourth-generation",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "generation": "Fourth generation",
+  "aka": [
+    "VW Jetta",
+    "Volkswagon Jetta",
+    "GLI",
+    "EJetta",
+    "VW Sagitar",
+    "sagitar"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg/960px-2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Jetta"
+  ],
+  "description": "The Volkswagen Jetta is a compact car/small family car manufactured and marketed by Volkswagen since 1979. Positioned to fill a sedan niche slightly above the Golf hatchback, it has been marketed over seven generations, variously as the Atlantic, Vento, Bora, City Jetta, Jetta City, GLI, Jetta, Clasico, and Sagitar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Jetta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg/1920px-2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg",
+  "sketchfab": {
+    "uid": "6a838b86926d40fe86f3d54fe8d5553f",
+    "name": "2001 Volkswagen Jetta Wolfsburg Edition",
+    "author": "SIU Car Garage",
+    "authorUrl": "https://sketchfab.com/Game_mode",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

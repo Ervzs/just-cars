@@ -1,0 +1,37 @@
+{
+  "id": "nissan-serena-fifth-generation",
+  "make": "Nissan",
+  "model": "Serena",
+  "generation": "Fifth generation",
+  "aka": [
+    "LDV Cub",
+    "Largo",
+    "Dongfeng Yuxuan"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Nissan_Serena_Highway_Star_VIP_%28front%29.jpg/960px-2016_Nissan_Serena_Highway_Star_VIP_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Serena  is a minivan manufactured by Nissan, joining the slightly larger Vanette. The car was engineered by Nissan's Aichi Manufacturing Division and launched in 1991 as a compact passenger van, and it grew larger with each generation over the years. Earlier versions were front-engine, rear-wheel-drive layout with a live axle mounted on leaf springs, while the following generations are front-wheel drive or 4WD.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Serena",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Nissan_Serena_Highway_Star_VIP_%28front%29.jpg/1920px-2016_Nissan_Serena_Highway_Star_VIP_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "cd652275d57c432cb595aa09b56007e8",
+    "name": "Nissan Serena Nismo 2020",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

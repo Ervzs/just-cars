@@ -1,0 +1,39 @@
+{
+  "id": "toyota-soarer-third-generation",
+  "make": "Toyota",
+  "model": "Soarer",
+  "generation": "Third generation",
+  "aka": [
+    "JZZ30",
+    "JZZ31",
+    "UZZ31",
+    "UZZ32",
+    "UZZ30",
+    "Soarer Turbo"
+  ],
+  "years": [
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Toyota_Soarer_30_011.jpg/960px-Toyota_Soarer_30_011.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Soarer  is a personal luxury GT coupé produced from 1981 to 2005 by Toyota and sold in Japan. It was available at both Japanese Toyota dealerships called Toyota Store and Toyopet Store, and it debuted with the Z10 series, replacing the Toyopet Store exclusive Mark II coupé, the Toyota Auto Store exclusive Chaser coupé, and both the Toyota Store exclusive Crown coupé and Carina coupé.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Soarer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Toyota_Soarer_30_011.jpg/1280px-Toyota_Soarer_30_011.jpg",
+  "sketchfab": null
+}

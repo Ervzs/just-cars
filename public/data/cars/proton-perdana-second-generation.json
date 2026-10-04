@@ -1,0 +1,29 @@
+{
+  "id": "proton-perdana-second-generation",
+  "make": "Proton",
+  "model": "Perdana",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2014_Proton_Perdana_2.4P_in_Shah_Alam%2C_Malaysia_%2801%29.jpg/960px-2014_Proton_Perdana_2.4P_in_Shah_Alam%2C_Malaysia_%2801%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Perdana is a series of four-door mid-size sedan cars produced by Malaysian automobile manufacturer Proton.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Perdana",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2014_Proton_Perdana_2.4P_in_Shah_Alam%2C_Malaysia_%2801%29.jpg/1920px-2014_Proton_Perdana_2.4P_in_Shah_Alam%2C_Malaysia_%2801%29.jpg",
+  "sketchfab": null
+}

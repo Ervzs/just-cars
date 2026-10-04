@@ -1,0 +1,33 @@
+{
+  "id": "byd-sealion-7",
+  "make": "BYD",
+  "model": "Sealion 7",
+  "generation": null,
+  "aka": [
+    "Sealion 07 EV",
+    "Sea Lion 07"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2025_BYD_Sealion_7_Performance_front.jpg/960px-2025_BYD_Sealion_7_Performance_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Sealion 7, also sold in China as the BYD Sealion 07 EV, is a battery electric mid-size SUV manufactured by BYD Auto since 2024. It is the first vehicle of the Sealion family of SUVs under the Ocean Series product line-up.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Sealion_7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2025_BYD_Sealion_7_Performance_front.jpg/1920px-2025_BYD_Sealion_7_Performance_front.jpg",
+  "sketchfab": {
+    "uid": "4eb4a93ae47b47f4b213dd89a0ad89f0",
+    "name": "2024 BYD Sealion 7",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

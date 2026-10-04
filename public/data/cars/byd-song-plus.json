@@ -1,0 +1,38 @@
+{
+  "id": "byd-song-plus",
+  "make": "BYD",
+  "model": "Song Plus",
+  "generation": null,
+  "aka": [
+    "Seal U",
+    "Sealion 6",
+    "X PLUS"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2023_BYD_Song_Plus_DM-i_%28front%29.jpg/960px-2023_BYD_Song_Plus_DM-i_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Song Plus is a compact SUV manufactured by BYD Auto since 2020. It is part of the BYD Song series of SUVs that are named after the Song dynasty. Initially available solely as an internal combustion engine (ICE) vehicle with a 1.5-litre turbocharged petrol engine, in 2021 BYD introduced the plug-in hybrid Song Plus DM-i and the battery electric Song Plus EV. The petrol model was phased out in 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Song_Plus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2023_BYD_Song_Plus_DM-i_%28front%29.jpg/1920px-2023_BYD_Song_Plus_DM-i_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "dbc8a20d557042c5be32dd60bf470ae1",
+    "name": "2022 BYD Song Plus EV",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

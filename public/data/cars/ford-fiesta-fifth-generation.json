@@ -1,0 +1,36 @@
+{
+  "id": "ford-fiesta-fifth-generation",
+  "make": "Ford",
+  "model": "Fiesta",
+  "generation": "Fifth generation",
+  "aka": [
+    "XR2",
+    "V2CII",
+    "Verve",
+    "Fiesta ST N3",
+    "Icon",
+    "Fiesta XR4",
+    "Dogbot",
+    "Fiesta ST"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2005_Ford_Fiesta_%28WP%29_Ghia_5-door_hatchback_%282015-07-24%29_01.jpg/960px-2005_Ford_Fiesta_%28WP%29_Ghia_5-door_hatchback_%282015-07-24%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Ford Fiesta is a supermini car that was marketed by Ford from 1976 to 2023 over seven generations. Over the years, the Fiesta has mainly been developed and manufactured by Ford's European operations, and had been positioned below the Escort.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Fiesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2005_Ford_Fiesta_%28WP%29_Ghia_5-door_hatchback_%282015-07-24%29_01.jpg/1920px-2005_Ford_Fiesta_%28WP%29_Ghia_5-door_hatchback_%282015-07-24%29_01.jpg",
+  "sketchfab": null
+}

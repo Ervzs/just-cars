@@ -1,0 +1,50 @@
+{
+  "id": "ram-pickup-fifth-generation",
+  "make": "Ram",
+  "model": "pickup",
+  "generation": "Fifth generation",
+  "aka": [
+    "Dodge Ram 100",
+    "Dodge Ram 150",
+    "Chrysler BR platform",
+    "Chrysler BE platform",
+    "Chrysler DR platform",
+    "Dodge Ram Rumble Bee",
+    "Dodge Ram Daytona",
+    "Dodge Ram HEMI"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ram_1500_Laramie%2C_front_2.28.20.jpg/960px-2019_Ram_1500_Laramie%2C_front_2.28.20.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "1500"
+  ],
+  "description": "The Ram pickup is a full-size pickup truck manufactured by Stellantis North America and marketed from 2010 onwards under the Ram Trucks brand. The current fifth-generation Ram debuted at the 2018 North American International Auto Show in Detroit, Michigan, in January of that year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_pickup",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ram_1500_Laramie%2C_front_2.28.20.jpg/1920px-2019_Ram_1500_Laramie%2C_front_2.28.20.jpg",
+  "sketchfab": null
+}

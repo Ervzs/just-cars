@@ -1,0 +1,57 @@
+{
+  "id": "toyota-mr2-third-generation",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "Third generation",
+  "aka": [
+    "MR-S",
+    "AW11",
+    "Mr2 spyder",
+    "AW10",
+    "SV-3",
+    "ZZW30",
+    "Spyder",
+    "Spider"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2005_Toyota_MR2_Spyder%2C_front_left%2C_06-19-2023.jpg/960px-2005_Toyota_MR2_Spyder%2C_front_left%2C_06-19-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MR2"
+  ],
+  "description": "The Toyota MR2 is a two-seater sports car which was manufactured and marketed by Toyota from 1984 until 2007 over three generations. It was the first Japanese rear-mid-engine, rear-wheel-drive production car and was sold around the world. The first generation (W10) was produced from 1984 to 1989, the second generation (W20) from 1989 to 1999, and the third generation (W30) from 1999 to 2007.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_MR2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2005_Toyota_MR2_Spyder%2C_front_left%2C_06-19-2023.jpg/1920px-2005_Toyota_MR2_Spyder%2C_front_left%2C_06-19-2023.jpg",
+  "sketchfab": {
+    "uid": "9cc8dbbd68514a0fa8c2d14595cade99",
+    "name": "259: 2005 Toyota MR2 Spyder",
+    "author": "alexdelker",
+    "authorUrl": "https://sketchfab.com/alexdelker",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "toyota-sequoia-first-generation-2",
+  "make": "Toyota",
+  "model": "Sequoia",
+  "generation": "First generation",
+  "aka": [
+    "Sequoia SUV"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg/960px-2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.7L 8-cyl",
+    "displacementL": 4.7,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sequoia"
+  ],
+  "description": "The Toyota Sequoia is a full-size SUV manufactured by Toyota mainly for the North American market since 2000 for the 2001 model year, being derived from the Tundra pickup truck. It is the second largest SUV ever produced under the Toyota brand, after the Japan-exclusive, military-focused Mega Cruiser.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sequoia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg/1920px-2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg",
+  "sketchfab": null
+}

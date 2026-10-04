@@ -1,0 +1,28 @@
+{
+  "id": "geely-bl",
+  "make": "Geely",
+  "model": "BL",
+  "generation": null,
+  "aka": [
+    "Beauty Leopard",
+    "BO"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Beauty_Leopard.jpg/500px-Beauty_Leopard.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely BL is a sports coupe produced by Chinese manufacturer Geely Automobile from 2003 to 2006.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_BL",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Beauty_Leopard.jpg/500px-Beauty_Leopard.jpg",
+  "sketchfab": null
+}

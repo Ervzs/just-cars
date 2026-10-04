@@ -1,0 +1,44 @@
+{
+  "id": "spyker-c8-third-generation",
+  "make": "Spyker",
+  "model": "C8",
+  "generation": "Third generation",
+  "aka": [
+    "C8 Spyder GT2-R",
+    "C8 Double-12R",
+    "C8 Laviolette GT2-R",
+    "C8 Preliator",
+    "C8 Preliator Spyder"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Spyker_C8_Preliator_%2821%29_%28cropped%29.JPG/960px-Spyker_C8_Preliator_%2821%29_%28cropped%29.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Spyker C8 is a sports car produced by the Dutch automaker Spyker Cars since 2000. The design takes visual cues from the 1999 Spyker Silvestris V8 prototype but with changes to the proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spyker_C8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Spyker_C8_Preliator_%2821%29_%28cropped%29.JPG/1920px-Spyker_C8_Preliator_%2821%29_%28cropped%29.JPG",
+  "sketchfab": {
+    "uid": "78cf6abf9a4f47eeb962b9d7b2d670ea",
+    "name": "Spyker C8 Preliator",
+    "author": "JUSTGAME",
+    "authorUrl": "https://sketchfab.com/JUSTGAME",
+    "license": "CC Attribution"
+  }
+}

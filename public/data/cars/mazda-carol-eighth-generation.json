@@ -1,0 +1,31 @@
+{
+  "id": "mazda-carol-eighth-generation",
+  "make": "Mazda",
+  "model": "Carol",
+  "generation": "Eighth generation",
+  "aka": [
+    "Autozam Carol",
+    "P360",
+    "600"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mazda_CAROL_HYBRID_GS_2WD_%285AA-HB97S%29.jpg/960px-Mazda_CAROL_HYBRID_GS_2WD_%285AA-HB97S%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Carol is a kei car manufactured by Mazda from 1962 until 1970. The Carol name was revived again with Mazda's 1989 re-entry into the kei car class with the Autozam brand. Since 1989, the Carol has been a rebadged model manufactured by Suzuki for Mazda, based on the Japanese Suzuki Alto. The first two generations of the modern era Carols received unique bodywork, but since late 1998 the nameplate has been strictly a badging exercise.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Carol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mazda_CAROL_HYBRID_GS_2WD_%285AA-HB97S%29.jpg/1920px-Mazda_CAROL_HYBRID_GS_2WD_%285AA-HB97S%29.jpg",
+  "sketchfab": null
+}

@@ -2,6 +2,12 @@
   "id": "saturn-aura",
   "make": "Saturn",
   "model": "Aura",
+  "generation": null,
+  "aka": [
+    "Aura Hybrid",
+    "Aura Green Line",
+    "aurora"
+  ],
   "years": [
     2007,
     2008,
@@ -25,6 +31,9 @@
     "mpgCombined": 26,
     "evRangeMiles": null
   },
+  "variants": [
+    "Aura"
+  ],
   "description": "The Saturn Aura is a four-door, five-passenger front engine/front-wheel drive mid-sized sedan manufactured and marketed by GM's Saturn subsidiary over a single generation from 2006 to 2009. The car launched one year before the seventh generation Chevrolet Malibu, its most closely related platform companion.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Aura",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg/1920px-Saturn_Aura_XR_--_08-28-2009.jpg",

@@ -1,0 +1,34 @@
+{
+  "id": "suzuki-solio-fourth-generation",
+  "make": "Mitsubishi",
+  "model": "Suzuki Solio",
+  "generation": "Fourth generation",
+  "aka": [
+    "Suzuki Wagon R+",
+    "Suzuki Wagon R-Wide",
+    "Suzuki Solio Bandit",
+    "Chevrolet MW",
+    "Delica D:2"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Suzuki_Solio_Bandit_Hybrid_MV.jpg/960px-Suzuki_Solio_Bandit_Hybrid_MV.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Solio  is a mini MPV produced and marketed by Suzuki since 1997. The preceding model and the first generation Solio were derived from the narrower Wagon R; it was widened mainly for export markets and was originally sold as the Wagon R-Wide or Wagon R Plus.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Solio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Suzuki_Solio_Bandit_Hybrid_MV.jpg/1920px-Suzuki_Solio_Bandit_Hybrid_MV.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "toyota-tacoma-first-generation",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "generation": "First generation",
+  "aka": [
+    "S-runner",
+    "takoma",
+    "Tacoma X-Runner",
+    "Tacoma X-Runner 2023 Concept",
+    "Tacoma truck",
+    "Pickup EV"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Toyota_Tacoma_XtraCab_2WD.jpg/960px-Toyota_Tacoma_XtraCab_2WD.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 23,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tacoma"
+  ],
+  "description": "The Toyota Tacoma is a pickup truck manufactured by Japanese automobile manufacturer Toyota since 1995. The first-generation Tacoma was classified as a compact pickup truck; subsequent models are classified as mid-size pickup trucks. The Tacoma was Motor Trend's Truck of the Year for 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Tacoma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Toyota_Tacoma_XtraCab_2WD.jpg/1920px-Toyota_Tacoma_XtraCab_2WD.jpg",
+  "sketchfab": {
+    "uid": "4bce0e6640a143d1ad16c21a41017bbe",
+    "name": "1998 Toyota Tacoma Pikes Peak",
+    "author": "Dave Love SketchFab",
+    "authorUrl": "https://sketchfab.com/Tyler_Dave",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nissan-qashqai-first-generation",
+  "make": "Nissan",
+  "model": "Qashqai",
+  "generation": "First generation",
+  "aka": [
+    "Dongfeng Qashqai",
+    "Rogue Sport",
+    "Qashqai J11"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2009_Nissan_Qashqai_%2B2_Tekna_dCi_1.5.jpg/960px-2009_Nissan_Qashqai_%2B2_Tekna_dCi_1.5.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Qashqai is a compact SUV (C-segment) designed and produced by the Japanese car manufacturer Nissan since 2006. The first generation of the vehicle was sold as the Nissan Dualis  in Japan and Australia, and Qashqai in the rest of the world. The second generation, launched in late-2013 for the 2014 model year, was not sold in Japan and was badged as the Qashqai in all countries it was sold, except in the United States, where it was rebadged as the Nissan Rogue Sport. Since the third and latest generation model launched in 2021, the Qashqai is available with hybrid powertrains.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Qashqai",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2009_Nissan_Qashqai_%2B2_Tekna_dCi_1.5.jpg/1920px-2009_Nissan_Qashqai_%2B2_Tekna_dCi_1.5.jpg",
+  "sketchfab": {
+    "uid": "d26880a3c5464b87b7a5a67323775947",
+    "name": "Nissan Qashqai 2010",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mazda-bt-50-second-generation",
+  "make": "Mazda",
+  "model": "BT-50",
+  "generation": "Second generation",
+  "aka": [
+    "Ford Ranger UK"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2013_Mazda_BT-50_%28UP%29_XTR_4WD_4-door_utility_%282015-07-24%29_02.jpg/960px-2013_Mazda_BT-50_%28UP%29_XTR_4WD_4-door_utility_%282015-07-24%29_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda BT-50 is a compact pickup truck / mid-size pickup truck marketed by the Japanese manufacturer Mazda since 2006. It is a larger version of the predecessor B-Series pickup and is not sold in the Japanese and North American markets. The second-generation Ranger has been designed by Ford Australia, with a Mazda derivative sold as the BT-50. The third-generation BT-50 was revealed in 2020, based on the Isuzu D-Max.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_BT-50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2013_Mazda_BT-50_%28UP%29_XTR_4WD_4-door_utility_%282015-07-24%29_02.jpg/1920px-2013_Mazda_BT-50_%28UP%29_XTR_4WD_4-door_utility_%282015-07-24%29_02.jpg",
+  "sketchfab": {
+    "uid": "0b1995a46ee446a8b92b0e77ee55a4e6",
+    "name": "2017 Mazda BT-50 Tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

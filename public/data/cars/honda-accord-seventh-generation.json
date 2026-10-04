@@ -1,0 +1,53 @@
+{
+  "id": "honda-accord-seventh-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Seventh generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2003-2005_Honda_Accord_Euro_sedan_%282011-07-17%29.jpg/960px-2003-2005_Honda_Accord_Euro_sedan_%282011-07-17%29.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2003-2005_Honda_Accord_Euro_sedan_%282011-07-17%29.jpg/1920px-2003-2005_Honda_Accord_Euro_sedan_%282011-07-17%29.jpg",
+  "sketchfab": {
+    "uid": "deefd0face794e3b89b8f7908bbf2235",
+    "name": "Honda Accord 2004",
+    "author": "dirocris",
+    "authorUrl": "https://sketchfab.com/dirocris",
+    "license": "CC Attribution"
+  }
+}

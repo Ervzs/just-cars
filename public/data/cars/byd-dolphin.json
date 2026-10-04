@@ -1,0 +1,35 @@
+{
+  "id": "byd-dolphin",
+  "make": "BYD",
+  "model": "Dolphin",
+  "generation": null,
+  "aka": [
+    "EA1"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2021_BYD_Dolphin_EV_%28front%29.jpg/960px-2021_BYD_Dolphin_EV_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Dolphin is a battery electric hatchback produced by the Chinese manufacturer BYD Auto since 2021. A subcompact (B-segment) hatchback, the Dolphin is positioned above the Seagull in the Chinese market and part of BYD's Ocean Series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Dolphin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2021_BYD_Dolphin_EV_%28front%29.jpg/1920px-2021_BYD_Dolphin_EV_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "e8f3cf54c0e545b1b290d7a55ca77fca",
+    "name": "2024 BYD Dolphin",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

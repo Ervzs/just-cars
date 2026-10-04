@@ -1,0 +1,45 @@
+{
+  "id": "buick-encore-first-generation",
+  "make": "Buick",
+  "model": "Encore",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Buick_Encore_facelift_4_China_2017-04-06.jpg/960px-Buick_Encore_facelift_4_China_2017-04-06.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Encore"
+  ],
+  "description": "The Buick Encore is a subcompact crossover SUV built by General Motors from 2012 to 2022. It is a subcompact crossover SUV marketed by Buick and its fourth SUV overall after the Rendezvous, Rainier, and Enclave.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Encore",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Buick_Encore_facelift_4_China_2017-04-06.jpg/1280px-Buick_Encore_facelift_4_China_2017-04-06.jpg",
+  "sketchfab": {
+    "uid": "b4f79b2450db458996bb2fc19888a7d6",
+    "name": "2015 Buick Encore Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

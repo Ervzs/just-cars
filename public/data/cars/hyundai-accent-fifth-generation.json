@@ -1,0 +1,48 @@
+{
+  "id": "hyundai-accent-fifth-generation",
+  "make": "Hyundai",
+  "model": "Accent",
+  "generation": "Fifth generation",
+  "aka": [
+    "Bimantara Cakra",
+    "Verna",
+    "Accent Hybrid",
+    "Solaris",
+    "Accent Evo 3",
+    "Accent GT",
+    "i25",
+    "Dodge Verna"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2019_Hyundai_Accent_Preferred_in_Urban_Grey%2C_Front_Left%2C_05-22-2022.jpg/960px-2019_Hyundai_Accent_Preferred_in_Urban_Grey%2C_Front_Left%2C_05-22-2022.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 33,
+    "mpgHighway": 41,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accent"
+  ],
+  "description": "The Hyundai Accent, or Hyundai Verna is a subcompact car produced by Hyundai. In Australia, the first generation models carried over the Hyundai Excel name used by the Accent's predecessor. The Accent was replaced in 2000 by the Hyundai Verna in South Korea, although most international markets, including the US, retained the \"Accent\" name. The \"Accent\" name is an acronym of Advanced Compact Car of Epoch-making New Technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Accent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2019_Hyundai_Accent_Preferred_in_Urban_Grey%2C_Front_Left%2C_05-22-2022.jpg/1920px-2019_Hyundai_Accent_Preferred_in_Urban_Grey%2C_Front_Left%2C_05-22-2022.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mazda-carol-fifth-generation",
+  "make": "Mazda",
+  "model": "Carol",
+  "generation": "Fifth generation",
+  "aka": [
+    "Autozam Carol",
+    "P360",
+    "600"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mazdacarol.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda Carol is a kei car manufactured by Mazda from 1962 until 1970. The Carol name was revived again with Mazda's 1989 re-entry into the kei car class with the Autozam brand. Since 1989, the Carol has been a rebadged model manufactured by Suzuki for Mazda, based on the Japanese Suzuki Alto. The first two generations of the modern era Carols received unique bodywork, but since late 1998 the nameplate has been strictly a badging exercise.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Carol",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mazdacarol.jpg",
+  "sketchfab": null
+}

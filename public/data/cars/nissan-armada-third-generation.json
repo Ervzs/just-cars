@@ -1,0 +1,37 @@
+{
+  "id": "nissan-armada-third-generation",
+  "make": "Nissan",
+  "model": "Armada",
+  "generation": "Third generation",
+  "aka": [
+    "Pathfinder Armada"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nissan_Armada_%28Y63%29_Washington_DC_Metro_Area%2C_USA.jpg/960px-Nissan_Armada_%28Y63%29_Washington_DC_Metro_Area%2C_USA.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S9)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Armada"
+  ],
+  "description": "The Nissan Armada is a full-size SUV manufactured by Nissan for the North American market, since 2003 for the 2004 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Armada",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nissan_Armada_%28Y63%29_Washington_DC_Metro_Area%2C_USA.jpg/1920px-Nissan_Armada_%28Y63%29_Washington_DC_Metro_Area%2C_USA.jpg",
+  "sketchfab": null
+}

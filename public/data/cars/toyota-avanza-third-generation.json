@@ -1,0 +1,42 @@
+{
+  "id": "toyota-avanza-third-generation",
+  "make": "Toyota",
+  "model": "Avanza",
+  "generation": "Third generation",
+  "aka": [
+    "Daihatsu Xenia",
+    "FAW Senya M80",
+    "FAW Senya S80",
+    "Veloz",
+    "Transmover",
+    "Avanza Veloz",
+    "Senya S80",
+    "Senya M80"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2021_Toyota_Avanza_1.5_G_Toyota_Safety_Sense_%28Indonesia%29_front_view_03.jpg/960px-2021_Toyota_Avanza_1.5_G_Toyota_Safety_Sense_%28Indonesia%29_front_view_03.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Avanza and Daihatsu Xenia are a series of multi-purpose vehicles (MPV) developed by Daihatsu and marketed by both Toyota and Daihatsu, mainly sold with three-row seating. The Avanza and Xenia were developed as an entry-level MPV marketed mainly for the Indonesian and other emerging markets, and mainly produced in Indonesia by Astra Daihatsu Motor. Avanza's spiritual predecessor was the Kijang, whose model program has since been split into two different models to expand Toyota's reach in the MPV sector.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avanza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2021_Toyota_Avanza_1.5_G_Toyota_Safety_Sense_%28Indonesia%29_front_view_03.jpg/1920px-2021_Toyota_Avanza_1.5_G_Toyota_Safety_Sense_%28Indonesia%29_front_view_03.jpg",
+  "sketchfab": {
+    "uid": "c06ad3e8cdc74a70ae6a87130d49f6f7",
+    "name": "Toyota Avanza 2022",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "chery-qq6",
+  "make": "Chery",
+  "model": "QQ6",
+  "generation": null,
+  "aka": [
+    "S21",
+    "Cowin 1"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chery_QQ6_China_2016-04-08.jpg/960px-Chery_QQ6_China_2016-04-08.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery QQ6 is a city car produced by the Chinese manufacturer Chery Automobile. It is a four-door sedan which is based on a platform self-developed by Chery. Chery discontinued the QQ6 in 2010. A facelifted variant of the QQ6 was known as the Cowin 1 and was sold from 2010 to 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_QQ6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chery_QQ6_China_2016-04-08.jpg/1280px-Chery_QQ6_China_2016-04-08.jpg",
+  "sketchfab": {
+    "uid": "825658c4c32945a3acd8746190423623",
+    "name": "Chery QQ6",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

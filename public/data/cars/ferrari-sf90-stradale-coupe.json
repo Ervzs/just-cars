@@ -2,13 +2,15 @@
   "id": "ferrari-sf90-stradale-coupe",
   "make": "Ferrari",
   "model": "SF90 Stradale Coupe",
+  "generation": null,
+  "aka": [],
   "years": [
     2021
   ],
   "vehicleClass": "Two Seaters",
   "fuelType": "Premium and Electricity",
   "engine": "3.9L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2026_Ferrari_849_Testarossa_Assetto_Fiorano_in_Blu_Corsa.jpg/960px-2026_Ferrari_849_Testarossa_Assetto_Fiorano_in_Blu_Corsa.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2021,
   "specs": {
@@ -22,8 +24,11 @@
     "mpgCombined": 18,
     "evRangeMiles": 330
   },
-  "description": "The Ferrari 849 Testarossa is a sports car built by Italian manufacturer Ferrari. Containing a plug-in hybrid V8 powertrain, it is a successor to the Ferrari SF90 Stradale, and it takes its name from the 1950s and 1960s Ferrari racecars, such as the 250 Testarossa. According to Ferrari, the 8 of the \"849\" part of its name comes from its eight cylinders, and the 49 comes from the displacement of each cylinder in cubic centimeters.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_849_Testarossa",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2026_Ferrari_849_Testarossa_Assetto_Fiorano_in_Blu_Corsa.jpg/1920px-2026_Ferrari_849_Testarossa_Assetto_Fiorano_in_Blu_Corsa.jpg",
+  "variants": [
+    "SF90 Stradale Coupe"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

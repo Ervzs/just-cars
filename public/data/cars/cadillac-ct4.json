@@ -2,6 +2,11 @@
   "id": "cadillac-ct4",
   "make": "Cadillac",
   "model": "CT4",
+  "generation": null,
+  "aka": [
+    "CT4-V",
+    "ct4 v blackwing"
+  ],
   "years": [
     2020,
     2021,
@@ -28,6 +33,9 @@
     "mpgCombined": 26,
     "evRangeMiles": null
   },
+  "variants": [
+    "CT4"
+  ],
   "description": "The Cadillac CT4 is a sedan manufactured and marketed by Cadillac. It replaced the Cadillac ATS sedan and sits below the CT5 in Cadillac's lineup. The CT4-V was unveiled on May 30, 2019, followed by the standard CT4 four months later.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CT4",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2023_Cadillac_CT4_Luxury%2B_in_Summit_White%2C_front_left.jpg/1920px-2023_Cadillac_CT4_Luxury%2B_in_Summit_White%2C_front_left.jpg",

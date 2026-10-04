@@ -1,0 +1,53 @@
+{
+  "id": "toyota-4runner-fourth-generation",
+  "make": "Toyota",
+  "model": "4Runner",
+  "generation": "Fourth generation",
+  "aka": [
+    "Hilux Surf",
+    "Trekker",
+    "TrailBlazer",
+    "Winnebago",
+    "4Runners",
+    "Four Runner"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/03-05_Toyota_4Runner_SR5.jpg/960px-03-05_Toyota_4Runner_SR5.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 21,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "4Runner"
+  ],
+  "description": "The Toyota 4Runner is an SUV manufactured by the Japanese automaker Toyota and marketed globally since 1984, across six generations. In Japan, it was marketed as the Toyota Hilux Surf  and was withdrawn from the market in 2009. The original 4Runner was a compact SUV and little more than a Toyota Hilux pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota's plant in Tahara, Aichi, or at the Hino Motors plant in Hamura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_4Runner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/03-05_Toyota_4Runner_SR5.jpg/1920px-03-05_Toyota_4Runner_SR5.jpg",
+  "sketchfab": {
+    "uid": "8e96408b838e42c4821d16373abea0be",
+    "name": "Toyota 4Runner (Mk4) 2005",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

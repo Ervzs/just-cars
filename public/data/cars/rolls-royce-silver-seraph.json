@@ -2,6 +2,10 @@
   "id": "rolls-royce-silver-seraph",
   "make": "Rolls-Royce",
   "model": "Silver Seraph",
+  "generation": null,
+  "aka": [
+    "Rolls Royce Silver Seraph"
+  ],
   "years": [
     2001,
     2002
@@ -23,6 +27,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Silver Seraph"
+  ],
   "description": "The Rolls-Royce Silver Seraph and its extended wheelbase version, the Rolls-Royce Park Ward, are full-size luxury automobiles manufactured and marketed by Rolls-Royce Motors from 1998 to 2002. The Silver Seraph were launched in March 1998, at the Geneva Motor Show. They replaced the Rolls-Royce Silver Spirit and the slightly longer Silver Spur, made from 1980 through 1997.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Silver_Seraph",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Rolls-Royce_Silver_Seraph_1999.jpg/1280px-Rolls-Royce_Silver_Seraph_1999.jpg",

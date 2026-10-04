@@ -1,0 +1,44 @@
+{
+  "id": "nissan-navara-second-generation",
+  "make": "Nissan",
+  "model": "Navara",
+  "generation": "Second generation",
+  "aka": [
+    "D40 Navara",
+    "D22 Navara",
+    "Pickup",
+    "NP300",
+    "Renault Alaskan",
+    "D22"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2005-2007_Nissan_Navara_%28D40%29_RX_4-door_utility_%282007-12-12%29_01.jpg/960px-2005-2007_Nissan_Navara_%28D40%29_RX_4-door_utility_%282007-12-12%29_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Navara  is a nameplate used for Nissan pickup trucks with D21, D22, D40, D23 and D27 model codes. The nameplate has been used in Australia, New Zealand, Central America, South America, Asia, Europe, and South Africa. In North, Central and South America and some selected markets, it is marketed as the Nissan Frontier or Nissan NP300.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2005-2007_Nissan_Navara_%28D40%29_RX_4-door_utility_%282007-12-12%29_01.jpg/1920px-2005-2007_Nissan_Navara_%28D40%29_RX_4-door_utility_%282007-12-12%29_01.jpg",
+  "sketchfab": {
+    "uid": "d3824f36344c47dfbd17a113c9e5b71f",
+    "name": "Nissan Navara From CMR 2005 | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution"
+  }
+}

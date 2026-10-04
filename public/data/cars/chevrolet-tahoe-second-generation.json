@@ -1,0 +1,50 @@
+{
+  "id": "chevrolet-tahoe-second-generation",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "generation": "Second generation",
+  "aka": [
+    "GMC Yukon",
+    "Chevy Tahoe",
+    "GMC Yukon Denali",
+    "Tahoe Hybrid",
+    "GMC Yukon Hybrid",
+    "Grand Blazer",
+    "Sonora",
+    "GMC Yukon Denali Hybrid"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.8L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/GMC_Yukon_GMT800.jpg/960px-GMC_Yukon_GMT800.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.8L 8-cyl",
+    "displacementL": 4.8,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tahoe",
+    "Yukon"
+  ],
+  "description": "The Chevrolet Tahoe is a line of full-size SUVs from Chevrolet, marketed since the 1995 model year. Marketed alongside the GMC Yukon for its entire production, the Tahoe is the successor to the Chevrolet K5 Blazer, while the Yukon replaced the full-sized GMC Jimmy. Both trucks derive their nameplates from western North America, with Tahoe referring to Lake Tahoe and Yukon referring to the Canadian Yukon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Tahoe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/GMC_Yukon_GMT800.jpg/960px-GMC_Yukon_GMT800.jpg",
+  "sketchfab": null
+}

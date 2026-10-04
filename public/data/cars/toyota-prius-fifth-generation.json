@@ -1,0 +1,53 @@
+{
+  "id": "toyota-prius-fifth-generation",
+  "make": "Toyota",
+  "model": "Prius",
+  "generation": "Fifth generation",
+  "aka": [
+    "Prius II",
+    "Thepri.us",
+    "Pryus",
+    "Prius Touring",
+    "Prii",
+    "Prium",
+    "Priuses",
+    "Prien"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Toyota_Prius_%28XW60%29_Plug-in_Hybrid_IMG_9895.jpg/960px-Toyota_Prius_%28XW60%29_Plug-in_Hybrid_IMG_9895.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 56,
+    "mpgHighway": 49,
+    "mpgCombined": 53,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Prius"
+  ],
+  "description": "The Toyota Prius   is a car produced by Toyota since 1997 over five generations. The Prius has a hybrid drivetrain, called Hybrid Synergy Drive, which combines an internal combustion engine and an electric motor. Initially offered as a subcompact four-door saloon, it has been produced only as a compact five-door liftback since 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Toyota_Prius_%28XW60%29_Plug-in_Hybrid_IMG_9895.jpg/1920px-Toyota_Prius_%28XW60%29_Plug-in_Hybrid_IMG_9895.jpg",
+  "sketchfab": {
+    "uid": "0ea0291e2df14fa5afc309578b3c5a1e",
+    "name": "2026 Toyota Prius",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "honda-wr-v-first-generation",
+  "make": "Honda",
+  "model": "WR-V",
+  "generation": "First generation",
+  "aka": [
+    "SUV RS",
+    "SUV RS Concept"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Honda_WR-V_in_South_Africa_1_%28cropped%29.jpg/960px-Honda_WR-V_in_South_Africa_1_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda WR-V is a subcompact crossover SUV manufactured by Honda since 2017 and mainly sold for emerging markets. It is positioned below the HR-V/Vezel or the BR-V depending on the market where it is sold. For the first generation, it was a crossover-styled derivative of the third-generation Fit/Jazz with different front fascia and bonnet treatments. Introduced at the 2016 São Paulo International Motor Show, the first-generation WR-V was built and specifically sold for the South American and Indian market. The second-generation model introduced in Indonesia in 2022 is based on the shortened second-generation BR-V's platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_WR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Honda_WR-V_in_South_Africa_1_%28cropped%29.jpg/1920px-Honda_WR-V_in_South_Africa_1_%28cropped%29.jpg",
+  "sketchfab": null
+}

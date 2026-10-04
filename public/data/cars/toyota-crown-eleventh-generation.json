@@ -1,0 +1,40 @@
+{
+  "id": "toyota-crown-eleventh-generation",
+  "make": "Toyota",
+  "model": "Crown",
+  "generation": "Eleventh generation",
+  "aka": [
+    "Toyopet Crown",
+    "Master Line",
+    "Crown S180",
+    "Crown Athlete",
+    "Crown Hybrid",
+    "Crown Royal",
+    "RS",
+    "Crown Eight"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2002_Toyota_Crown_Athlete_V_2.5_Front.jpg/960px-2002_Toyota_Crown_Athlete_V_2.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown  is an automobile which has been produced by Toyota in Japan since 1955. It is primarily a line of executive cars that is marketed as an upscale offering in the Toyota lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2002_Toyota_Crown_Athlete_V_2.5_Front.jpg/1920px-2002_Toyota_Crown_Athlete_V_2.5_Front.jpg",
+  "sketchfab": {
+    "uid": "3ef4527459f5406fb4599864800ab1fa",
+    "name": "2001 Toyota Crown Comfort [S10]",
+    "author": "boiledfish.vvti",
+    "authorUrl": "https://sketchfab.com/iwak.rebus",
+    "license": "CC Attribution"
+  }
+}

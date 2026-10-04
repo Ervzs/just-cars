@@ -1,0 +1,37 @@
+{
+  "id": "suzuki-s-presso",
+  "make": "Suzuki",
+  "model": "S-Presso",
+  "generation": null,
+  "aka": [
+    "Maruti Suzuki S-Presso"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Suzuki_S-Presso_%E2%80%93_Dubai_%28cropped%29.jpg/960px-Suzuki_S-Presso_%E2%80%93_Dubai_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki S-Presso is a city car produced by Maruti Suzuki, Suzuki's subsidiary in India since 2019. It slots above the Alto and below the Wagon R in the Indian market. The car is marketed as a \"micro SUV\" or a \"mini crossover\" by its rugged styling and high ground clearance of 180 mm (7.1 in). The S-Presso is built on the HEARTECT platform, which is derived from Suzuki's kei cars, and uses 40% high tensile steel. It is exported to several emerging markets in Africa, South Asia, Southeast Asia, Latin America, and the Middle East.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_S-Presso",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Suzuki_S-Presso_%E2%80%93_Dubai_%28cropped%29.jpg/1920px-Suzuki_S-Presso_%E2%80%93_Dubai_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "eee53feaf00741f0a5e5535cad0dcae4",
+    "name": "Suzuki S-Presso",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ferrari-550",
+  "make": "Ferrari",
+  "model": "550",
+  "generation": null,
+  "aka": [
+    "550 Maranello",
+    "550 Marenello",
+    "Barchetta",
+    "550-GTS Maranello"
+  ],
+  "years": [
+    2000,
+    2001
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.5L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg/960px-Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "5.5L 12-cyl",
+    "displacementL": 5.5,
+    "cylinders": 12,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 8,
+    "mpgHighway": 12,
+    "mpgCombined": 9,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "550 Maranello",
+    "550 Maranello/Barchetta"
+  ],
+  "description": "The Ferrari 550 Maranello is a front-engine V12 2-seat grand tourer built by Ferrari from 1996 to 2002. The 550 Maranello marked Ferrari's return to a front-engine, rear-wheel drive layout for its 2-seater 12-cylinder model, 23 years after the 365 GTB/4 Daytona had been replaced by the mid-engined Berlinetta Boxer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_550",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg/1920px-Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg",
+  "sketchfab": {
+    "uid": "45f7f9a0276a465fa44156b02b4fddd8",
+    "name": "Ferrari 550 Barchetta 2000 Azzurro Hyperion",
+    "author": "ᗩᒪE᙭. Kᗩ.🚗",
+    "authorUrl": "https://sketchfab.com/Alex.Ka.",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

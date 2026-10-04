@@ -1,0 +1,38 @@
+{
+  "id": "toyota-rav4-ev-first-generation",
+  "make": "Toyota",
+  "model": "RAV4 EV",
+  "generation": "First generation",
+  "aka": [
+    "RAV4 EV Concept"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Toyota_RAV4_EV_WAS_2012_0759.JPG/960px-Toyota_RAV4_EV_WAS_2012_0759.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota RAV4 EV is an all-electric version of the popular RAV4 SUV produced by Toyota until 2014. Two generations of the EV model were sold in California, and to fleets elsewhere in the US, with a gap of almost ten years between them.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Toyota_RAV4_EV_WAS_2012_0759.JPG/1920px-Toyota_RAV4_EV_WAS_2012_0759.JPG",
+  "sketchfab": null
+}

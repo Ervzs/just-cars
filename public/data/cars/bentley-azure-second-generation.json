@@ -1,0 +1,38 @@
+{
+  "id": "bentley-azure-second-generation",
+  "make": "Bentley",
+  "model": "Azure",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "6.8L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2007_Bentley_Azure_Auto.jpg/960px-2007_Bentley_Azure_Auto.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "6.8L 8-cyl",
+    "displacementL": 6.8,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 15,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Azure"
+  ],
+  "description": "The Bentley Azure is a four-seater convertible grand tourer produced by British automobile manufacturer Bentley Motors. The first version debuted in 1995 on the Bentley Continental R platform and was made until 2003. After a three-year break, a completely new version debuted in 2006 and was produced until 2010. It was powered by a significantly updated engine and based on the newer Arnage platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Azure",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2007_Bentley_Azure_Auto.jpg/1920px-2007_Bentley_Azure_Auto.jpg",
+  "sketchfab": null
+}

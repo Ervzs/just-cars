@@ -1,0 +1,53 @@
+{
+  "id": "hyundai-equus-second-generation",
+  "make": "Hyundai",
+  "model": "Equus",
+  "generation": "Second generation",
+  "aka": [
+    "Centennial"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2011_Hyundai_Equus_--_12-29-2011.jpg/960px-2011_Hyundai_Equus_--_12-29-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Equus"
+  ],
+  "description": "The Hyundai Equus is a full-sized, front-engine, rear-wheel-drive luxury sedan manufactured and marketed by Hyundai Motor Company from 1999 to 2016. It was produced over two generations in a four-door, five passenger configuration. The nameplate derives from the Latin equus, meaning \"horse.\"",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Equus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2011_Hyundai_Equus_--_12-29-2011.jpg/1920px-2011_Hyundai_Equus_--_12-29-2011.jpg",
+  "sketchfab": null
+}

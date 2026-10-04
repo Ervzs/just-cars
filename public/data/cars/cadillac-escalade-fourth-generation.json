@@ -1,0 +1,52 @@
+{
+  "id": "cadillac-escalade-fourth-generation",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "generation": "Fourth generation",
+  "aka": [
+    "Escalade EXT",
+    "Escalade ESV",
+    "Escalade Hybrid",
+    "Escalade IQL",
+    "escalade iq",
+    "Escalade v"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "6.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2018_Cadillac_Escalade_ESV_Platinum_front_4.6.19.jpg/960px-2018_Cadillac_Escalade_ESV_Platinum_front_4.6.19.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "6.2L 8-cyl",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "transmission": "Automatic 10-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 23,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escalade"
+  ],
+  "description": "The Cadillac Escalade is a full-size luxury SUV manufactured by General Motors and marketed by Cadillac as its first major entry into the SUV market. The Escalade was introduced for the 1999 model year in response to an influx of new luxury SUVs during the late 1990s, including the Mercedes-Benz M-Class, Range Rover, Lexus LX, and Lincoln Navigator. The Escalade project went into production only ten months after it was approved. The Escalade is built at Arlington Assembly in Arlington, Texas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Escalade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2018_Cadillac_Escalade_ESV_Platinum_front_4.6.19.jpg/1920px-2018_Cadillac_Escalade_ESV_Platinum_front_4.6.19.jpg",
+  "sketchfab": {
+    "uid": "57204780d10648c59ceb3021e6f66116",
+    "name": "2015 Cadillac Escalade ESV",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

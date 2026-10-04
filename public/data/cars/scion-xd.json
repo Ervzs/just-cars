@@ -2,6 +2,10 @@
   "id": "scion-xd",
   "make": "Scion",
   "model": "xD",
+  "generation": null,
+  "aka": [
+    "Toyota Scion xD"
+  ],
   "years": [
     2008,
     2009,
@@ -28,6 +32,9 @@
     "mpgCombined": 29,
     "evRangeMiles": null
   },
+  "variants": [
+    "xD"
+  ],
   "description": "The Scion xD is a subcompact hatchback that was marketed in the U.S. and Canada by Japanese manufacturer Toyota beginning with the 2008 model year, as a five-door subcompact hatchback — replacing the xA. The Scion xD and the second generation xB were first shown to the public on February 8, 2007 at the Chicago Auto Show.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_xD",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Scion_xD_in_Silver%2C_front_right.jpg/1920px-2008_Scion_xD_in_Silver%2C_front_right.jpg",

@@ -2,6 +2,8 @@
   "id": "infiniti-m56",
   "make": "Infiniti",
   "model": "M56",
+  "generation": null,
+  "aka": [],
   "years": [
     2011,
     2012,
@@ -10,7 +12,7 @@
   "vehicleClass": "Midsize Cars",
   "fuelType": "Premium",
   "engine": "5.6L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2011_Infiniti_M37_--_NHTSA_1.jpg/960px-2011_Infiniti_M37_--_NHTSA_1.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2013,
   "specs": {
@@ -24,8 +26,11 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
-  "description": "The Infiniti M is a line of mid-size luxury (executive) cars from the Infiniti luxury division of Nissan. From 2013 on it has been marketed as the Infiniti Q70, reflecting the company's later naming formula.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_M",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2011_Infiniti_M37_--_NHTSA_1.jpg/1920px-2011_Infiniti_M37_--_NHTSA_1.jpg",
+  "variants": [
+    "M56"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

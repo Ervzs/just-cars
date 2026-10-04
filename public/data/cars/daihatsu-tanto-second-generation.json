@@ -1,0 +1,29 @@
+{
+  "id": "daihatsu-tanto-second-generation",
+  "make": "Subaru",
+  "model": "Daihatsu Tanto",
+  "generation": "Second generation",
+  "aka": [
+    "Chiffon"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2008_Daihatsu_Tanto_Custom_01.JPG/960px-2008_Daihatsu_Tanto_Custom_01.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Tanto  is a kei car manufactured by the Japanese carmaker Daihatsu. It was introduced at the 2003 Tokyo Motor Show as a vehicle based on the Move's \"tall\" body style, and followed by the Tanto Custom in July 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Tanto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2008_Daihatsu_Tanto_Custom_01.JPG/1920px-2008_Daihatsu_Tanto_Custom_01.JPG",
+  "sketchfab": null
+}

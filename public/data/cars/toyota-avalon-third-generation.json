@@ -1,0 +1,44 @@
+{
+  "id": "toyota-avalon-third-generation",
+  "make": "Toyota",
+  "model": "Avalon",
+  "generation": "Third generation",
+  "aka": [
+    "Pronard",
+    "Avalon Hybrid"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/05-07_Toyota-Avalon.jpg/960px-05-07_Toyota-Avalon.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Avalon"
+  ],
+  "description": "The Toyota Avalon  is a full-size sedan manufactured by Toyota, as its largest front-wheel drive sedan; also its flagship in the United States, Canada, China and the Middle East. The Avalon was also manufactured in Australia from April 2000 until June 2005, when it was replaced in November 2006 by the Aurion. The first production Avalon was manufactured in September 1994 at the TMMK assembly line in Georgetown, Kentucky, where subsequent generations have been manufactured.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avalon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/05-07_Toyota-Avalon.jpg/1920px-05-07_Toyota-Avalon.jpg",
+  "sketchfab": null
+}

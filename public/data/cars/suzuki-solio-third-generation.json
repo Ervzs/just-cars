@@ -1,0 +1,32 @@
+{
+  "id": "suzuki-solio-third-generation",
+  "make": "Mitsubishi",
+  "model": "Suzuki Solio",
+  "generation": "Third generation",
+  "aka": [
+    "Suzuki Wagon R+",
+    "Suzuki Wagon R-Wide",
+    "Suzuki Solio Bandit",
+    "Chevrolet MW",
+    "Delica D:2"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Suzuki_SOLIO_BANDIT_HYBRID_MV_%28MA36S%29_front.JPG/960px-Suzuki_SOLIO_BANDIT_HYBRID_MV_%28MA36S%29_front.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Solio  is a mini MPV produced and marketed by Suzuki since 1997. The preceding model and the first generation Solio were derived from the narrower Wagon R; it was widened mainly for export markets and was originally sold as the Wagon R-Wide or Wagon R Plus.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Solio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Suzuki_SOLIO_BANDIT_HYBRID_MV_%28MA36S%29_front.JPG/1920px-Suzuki_SOLIO_BANDIT_HYBRID_MV_%28MA36S%29_front.JPG",
+  "sketchfab": null
+}

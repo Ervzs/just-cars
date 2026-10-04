@@ -1,0 +1,29 @@
+{
+  "id": "nissan-leopard-fourth-generation",
+  "make": "Nissan",
+  "model": "Leopard",
+  "generation": "Fourth generation",
+  "aka": [
+    "Leopard F30",
+    "Leopard F31"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nissan_Leopard_012.jpg/960px-Nissan_Leopard_012.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Leopard is a line of sport/luxury cars built by Japanese carmaker Nissan from 1980 to 2000. The Leopard were initially based on the Japanese market Nissan Skyline and Nissan Laurel, then later based on the chassis of their Nissan Cedric and Nissan Gloria contemporaries and were rear wheel drive. Final versions were the contributing factors to Nissan's Infiniti M and J products.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Leopard",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nissan_Leopard_012.jpg/1280px-Nissan_Leopard_012.jpg",
+  "sketchfab": null
+}

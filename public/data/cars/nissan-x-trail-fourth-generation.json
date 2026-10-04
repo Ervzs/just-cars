@@ -1,0 +1,36 @@
+{
+  "id": "nissan-x-trail-fourth-generation",
+  "make": "Nissan",
+  "model": "X-Trail",
+  "generation": "Fourth generation",
+  "aka": [
+    "X-Trail FCHV",
+    "Dongfeng Fengdu MX6",
+    "Fengdu MX6"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Nissan_X-Trail_2.5_Xtronic_CVT_ST_%28IV%29_%E2%80%93_h_02012026.jpg/960px-Nissan_X-Trail_2.5_Xtronic_CVT_ST_%28IV%29_%E2%80%93_h_02012026.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan X-Trail  is a compact crossover SUV produced by the Japanese automaker Nissan since 2000, replacing the Rasheen and Terrano II. Since 2018, it is positioned between the Qashqai and the larger Murano.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Nissan_X-Trail_2.5_Xtronic_CVT_ST_%28IV%29_%E2%80%93_h_02012026.jpg/1920px-Nissan_X-Trail_2.5_Xtronic_CVT_ST_%28IV%29_%E2%80%93_h_02012026.jpg",
+  "sketchfab": {
+    "uid": "f9f2cbdacac74ee7acfe1c731195ccaa",
+    "name": "2023 Nissan X-Trail 4x4-i",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

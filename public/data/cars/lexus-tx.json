@@ -2,6 +2,8 @@
   "id": "lexus-tx",
   "make": "Lexus",
   "model": "TX",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -24,6 +26,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "TX"
+  ],
   "description": "The Lexus TX is a full-size luxury crossover SUV with three-row seating produced by Japanese brand Lexus, a luxury division of Toyota. Produced since September 2023, it is exclusively marketed in North America, with no plans for export to Europe, Asia or other world markets. The TX is constructed upon the front- and all-wheel drive TNGA-K platform, shared with its Toyota Grand Highlander sibling and the mid-size XU70 Highlander/Kluger. The TX was revealed simultaneously with the J250 GX on June 8, 2023. Replacing the RX L, it takes the position of being the brand's only three-row crossover SUV.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_TX",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2024_Lexus_TX350_in_Wind_Chill_Pearl%2C_front_right.jpg/1920px-2024_Lexus_TX350_in_Wind_Chill_Pearl%2C_front_right.jpg",

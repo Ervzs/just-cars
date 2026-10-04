@@ -1,0 +1,48 @@
+{
+  "id": "mercedes-benz-e-class-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "generation": "Second generation",
+  "aka": [
+    "Mercedes E500",
+    "Mercedes Benz E-class",
+    "Mercedes E-class",
+    "Mercedes E55",
+    "E63 AMG",
+    "Mercedes E",
+    "MB E-Class",
+    "Mercedes Benz E"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mercedes-Benz_W210_front_20080809.jpg/960px-Mercedes-Benz_W210_front_20080809.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "E-Class"
+  ],
+  "description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by German automaker Mercedes-Benz in various engine and body configurations. Produced since September 1953, the E-Class falls as a midrange in the Mercedes line-up, and has been marketed worldwide across five generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mercedes-Benz_W210_front_20080809.jpg/1280px-Mercedes-Benz_W210_front_20080809.jpg",
+  "sketchfab": null
+}

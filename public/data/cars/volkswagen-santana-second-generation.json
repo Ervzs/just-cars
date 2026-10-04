@@ -1,0 +1,41 @@
+{
+  "id": "volkswagen-santana-second-generation",
+  "make": "Nissan",
+  "model": "Volkswagen Santana",
+  "generation": "Second generation",
+  "aka": [
+    "VW Santana",
+    "Volkswagen corsar",
+    "VW Corsar",
+    "VW Carat",
+    "Volkswagen Carat",
+    "Santana",
+    "Volkswagen Santana Mk2"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Volkswagen_Santana_2000_Sanming_01_2022-08-17.jpg/960px-Volkswagen_Santana_2000_Sanming_01_2022-08-17.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volkswagen Santana is a nameplate used by Volkswagen for various sedans and station wagons since 1983. The first generation is based on the second-generation Volkswagen Passat (B2). It was introduced in 1981 while production started in 1983 for China. The use of the \"Santana\" badge rather than \"Passat\" echoes the use of different names for the sedan versions of the Polo (Derby) and Golf (Jetta).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Santana",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Volkswagen_Santana_2000_Sanming_01_2022-08-17.jpg/1920px-Volkswagen_Santana_2000_Sanming_01_2022-08-17.jpg",
+  "sketchfab": null
+}

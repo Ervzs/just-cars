@@ -1,0 +1,56 @@
+{
+  "id": "range-rover-fourth-generation",
+  "make": "Land Rover",
+  "model": "Range Rover",
+  "generation": "Fourth generation",
+  "aka": [
+    "Range Rovers",
+    "Range Rover II",
+    "Range Rover Vogue",
+    "Range Rover Hybrid",
+    "Range Rover TDV8 Vogue SE",
+    "Rover Range Rover"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium and Electricity",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Land_Rover_Range_Rover_Autobiography_2016.jpg/960px-Land_Rover_Range_Rover_Autobiography_2016.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 21,
+    "mpgCombined": 19,
+    "evRangeMiles": 480
+  },
+  "variants": [
+    "Range Rover"
+  ],
+  "description": "Range Rover is a 4×4 luxury marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and since 2022 is in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Range_Rover",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Land_Rover_Range_Rover_Autobiography_2016.jpg/1920px-Land_Rover_Range_Rover_Autobiography_2016.jpg",
+  "sketchfab": {
+    "uid": "54b717eea6ab44f9820736cbbc4dd566",
+    "name": "2016 Custom Land Rover Range Rover Sport",
+    "author": "K  E  N | 3DModels",
+    "authorUrl": "https://sketchfab.com/KEN3DModels",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

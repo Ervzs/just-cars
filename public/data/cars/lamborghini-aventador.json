@@ -2,6 +2,17 @@
   "id": "lamborghini-aventador",
   "make": "Lamborghini",
   "model": "Aventador",
+  "generation": null,
+  "aka": [
+    "Aventador J",
+    "LP 700-4",
+    "Aventador LP 700-4",
+    "Lambo Aventador",
+    "Lambo Aventador J",
+    "Aventador Jota",
+    "Aventador LP 700-4 Roadster",
+    "Aventador LP 750-4 Superveloce"
+  ],
   "years": [
     2012,
     2013,
@@ -32,6 +43,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "Aventador"
+  ],
   "description": "The Lamborghini Aventador is a mid-engine, two-seater sports car manufactured and marketed by Lamborghini from 2011 until 2022. Named after a prominent Spanish fighting bull that fought in Zaragoza, Aragón, in 1993, the Aventador succeeded the Murciélago and was manufactured in Sant'Agata Bolognese, Italy.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Aventador",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg/1920px-Lamborghini_Aventador_S_%2844554%29.jpg",

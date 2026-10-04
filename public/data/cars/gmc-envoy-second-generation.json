@@ -1,0 +1,52 @@
+{
+  "id": "gmc-envoy-second-generation",
+  "make": "GMC",
+  "model": "Envoy",
+  "generation": "Second generation",
+  "aka": [
+    "Envoy XL",
+    "Envoy XUV",
+    "Envoy Denali",
+    "Envoy XL Denali"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/06-08_GMC_Envoy.jpg/960px-06-08_GMC_Envoy.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "4.2L 6-cyl",
+    "displacementL": 4.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Envoy"
+  ],
+  "description": "The GMC Envoy is a mid-size SUV manufactured and marketed by General Motors for the 1998 to 2009 model years over two generations. Adopting a nameplate used by GM Canada, the Envoy was phased in as a trim variant of the GMC Jimmy alongside the similar Chevrolet TrailBlazer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Envoy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/06-08_GMC_Envoy.jpg/1920px-06-08_GMC_Envoy.jpg",
+  "sketchfab": {
+    "uid": "4c0f6797787f48bebb5bd40d726195f9",
+    "name": "2006 GMC Envoy",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

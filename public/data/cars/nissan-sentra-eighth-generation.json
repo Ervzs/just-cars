@@ -1,0 +1,52 @@
+{
+  "id": "nissan-sentra-eighth-generation",
+  "make": "Nissan",
+  "model": "Sentra",
+  "generation": "Eighth generation",
+  "aka": [
+    "Tsuru",
+    "SE-R Spec-V",
+    "Spec V",
+    "Sentra SE-R Spec-V",
+    "Nissen Sentra"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2024_Nissan_Sentra_front_view.jpg/960px-2024_Nissan_Sentra_front_view.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 40,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sentra"
+  ],
+  "description": "The Nissan Sentra is a series of automobiles manufactured by the Japanese automaker Nissan since 1982. Since 1999, the Sentra has been categorized as a compact car, while previously it occupied the subcompact class. Until 2006, Sentra was a rebadged version of the Japanese Nissan Sunny for markets outside of Japan, but since the 2013 model year, Sentra is a rebadged version of the Sylphy for markets outside of Japan. The Sentra nameplate is not used in Japan. Several other countries in Latin America sell their versions of the Sunny as the Sentra. In Mexico, the first three generations of the Sentra were known as the Nissan Tsuru, and the B13 model was sold under that name until 2017, alongside the updated models badged as Sentra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2024_Nissan_Sentra_front_view.jpg/1920px-2024_Nissan_Sentra_front_view.jpg",
+  "sketchfab": {
+    "uid": "74de3cda4e0c4d3eb493ea1ebc7c72e4",
+    "name": "2020 Nissan Sentra Sylphy",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

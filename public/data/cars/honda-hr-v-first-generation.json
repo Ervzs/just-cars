@@ -1,0 +1,49 @@
+{
+  "id": "honda-hr-v-first-generation",
+  "make": "Honda",
+  "model": "HR-V",
+  "generation": "First generation",
+  "aka": [
+    "Vezel",
+    "Vezel Hybrid",
+    "XR-V",
+    "HR-V Selfie Edition",
+    "Ciimo X-NV",
+    "Everus VE-1",
+    "Ciimo M-NV"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2002_Honda_HR-V_01.jpg/960px-2002_Honda_HR-V_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda HR-V is a subcompact crossover SUV (B-segment) manufactured and marketed by Honda over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_HR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2002_Honda_HR-V_01.jpg/1280px-2002_Honda_HR-V_01.jpg",
+  "sketchfab": {
+    "uid": "b3c0f77626644e99b54304aebbafc60b",
+    "name": "Honda HR-V 5door 2001",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

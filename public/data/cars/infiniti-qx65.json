@@ -2,6 +2,8 @@
   "id": "infiniti-qx65",
   "make": "Infiniti",
   "model": "QX65",
+  "generation": null,
+  "aka": [],
   "years": [
     2027
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "QX65"
+  ],
   "description": "The Infiniti QX65 is a mid-size luxury crossover SUV with a sloping roofline produced by Nissan for their Infiniti luxury brand. It debuted on March 27, 2026 in the United States. Production has started since April 2026.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX65",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Infiniti_QX65_Monograph_au_SIAM_2026.JPG/1920px-Infiniti_QX65_Monograph_au_SIAM_2026.JPG",

@@ -1,0 +1,52 @@
+{
+  "id": "chrysler-300-first-generation",
+  "make": "Chrysler",
+  "model": "300",
+  "generation": "First generation",
+  "aka": [
+    "Three Hundred",
+    "300 SRT",
+    "300C SRT8",
+    "300 limited",
+    "300 LX"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chrysler_300C_.jpg/960px-Chrysler_300C_.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "300",
+    "300 SRT8"
+  ],
+  "description": "The Chrysler 300 is a full-size car produced by Chrysler under Stellantis North America and its predecessors. The first generation was available as a four-door sedan and station wagon, in the second generation was available solely as a sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_300",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chrysler_300C_.jpg/1920px-Chrysler_300C_.jpg",
+  "sketchfab": {
+    "uid": "3e6cd847505c4deab5c8de33daae2f0a",
+    "name": "2005 Chrysler 300",
+    "author": "zairiq-zairiq-123-pixar-cars-bfdi",
+    "authorUrl": "https://sketchfab.com/zairiqzairiqpixarcarsbfdi",
+    "license": "CC Attribution"
+  }
+}

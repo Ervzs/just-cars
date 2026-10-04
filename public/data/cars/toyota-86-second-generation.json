@@ -1,0 +1,49 @@
+{
+  "id": "toyota-86-second-generation",
+  "make": "Subaru",
+  "model": "Toyota 86",
+  "generation": "Second generation",
+  "aka": [
+    "Toyota FR-S",
+    "BRZ Concept STI",
+    "BRZ",
+    "Scion FR-S",
+    "Toyobaru",
+    "Toyota GT 86",
+    "FT-86",
+    "Toyota 86 GTS"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Subaru_BRZ_%28ZD8%29_Auto_Zuerich_2023_1X7A1254.jpg/960px-Subaru_BRZ_%28ZD8%29_Auto_Zuerich_2023_1X7A1254.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "BRZ",
+    "GR 86"
+  ],
+  "description": "The Toyota 86 and the Subaru BRZ are 2+2 sports cars jointly developed by Toyota and Subaru, manufactured at Subaru's Ōta, Gunma assembly plant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_86",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Subaru_BRZ_%28ZD8%29_Auto_Zuerich_2023_1X7A1254.jpg/1920px-Subaru_BRZ_%28ZD8%29_Auto_Zuerich_2023_1X7A1254.jpg",
+  "sketchfab": null
+}

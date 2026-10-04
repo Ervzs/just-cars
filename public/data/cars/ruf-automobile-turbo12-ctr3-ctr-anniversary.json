@@ -2,6 +2,8 @@
   "id": "ruf-automobile-turbo12-ctr3-ctr-anniversary",
   "make": "RUF Automobile",
   "model": "TURBO12/CTR3/CTR ANNIVERSARY",
+  "generation": null,
+  "aka": [],
   "years": [
     2020
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "TURBO12/CTR3/CTR ANNIVERSARY"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

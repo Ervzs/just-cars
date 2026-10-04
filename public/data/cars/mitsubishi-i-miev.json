@@ -2,6 +2,17 @@
   "id": "mitsubishi-i-miev",
   "make": "Mitsubishi",
   "model": "i-MiEV",
+  "generation": null,
+  "aka": [
+    "MiEV",
+    "Peugeot iOn",
+    "Imeiv",
+    "Citroen C-ZERO",
+    "i electric car",
+    "Peugeot lon",
+    "Citroën C-ZERO",
+    "i-MiEV family"
+  ],
   "years": [
     2012,
     2013,
@@ -26,6 +37,9 @@
     "mpgCombined": 112,
     "evRangeMiles": 59
   },
+  "variants": [
+    "i-MiEV"
+  ],
   "description": "The Mitsubishi i-MiEV is a five-door electric city car produced in the 2010s by Mitsubishi Motors, and is the electric version of the Mitsubishi i. Rebadged variants of the i-MiEV are also sold by PSA as the Peugeot iOn and Citroën C-Zero, mainly in Europe. The i-MiEV was the world's first modern highway-capable mass production electric car.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_i-MiEV",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2010_Mitsubishi_i-MiEV_%28GA_MY10%29_hatchback_%282015-11-11%29_01.jpg/1920px-2010_Mitsubishi_i-MiEV_%28GA_MY10%29_hatchback_%282015-11-11%29_01.jpg",

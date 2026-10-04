@@ -1,0 +1,30 @@
+{
+  "id": "suzuki-hustler-second-generation",
+  "make": "Mazda",
+  "model": "Suzuki Hustler",
+  "generation": "Second generation",
+  "aka": [
+    "Flair Crossover"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Suzuki_HUSTLER_HYBRID_G_%285AA-MR92S-HBGB-JN%29_front.jpg/960px-Suzuki_HUSTLER_HYBRID_G_%285AA-MR92S-HBGB-JN%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Hustler  is a crossover SUV-styled kei car produced by the Japanese automaker Suzuki since 2014. The car is also sold by Mazda as the Mazda Flair Crossover  through an OEM agreement.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Hustler",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Suzuki_HUSTLER_HYBRID_G_%285AA-MR92S-HBGB-JN%29_front.jpg/1920px-Suzuki_HUSTLER_HYBRID_G_%285AA-MR92S-HBGB-JN%29_front.jpg",
+  "sketchfab": null
+}

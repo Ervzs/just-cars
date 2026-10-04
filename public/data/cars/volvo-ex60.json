@@ -2,6 +2,10 @@
   "id": "volvo-ex60",
   "make": "Volvo",
   "model": "EX60",
+  "generation": null,
+  "aka": [
+    "EX60 Recharge"
+  ],
   "years": [
     2027
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 110,
     "evRangeMiles": 330
   },
+  "variants": [
+    "EX60"
+  ],
   "description": "The Volvo EX60 is a battery electric compact luxury crossover SUV manufactured and marketed by Swedish automaker Volvo Cars.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_EX60",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Volvo_EX60_fl.jpg/1920px-Volvo_EX60_fl.jpg",

@@ -2,6 +2,8 @@
   "id": "mercedes-benz-metris-passenger",
   "make": "Mercedes-Benz",
   "model": "Metris Passenger",
+  "generation": null,
+  "aka": [],
   "years": [
     2016,
     2017,
@@ -15,7 +17,7 @@
   "vehicleClass": "Special Purpose Vehicle 2WD",
   "fuelType": "Premium",
   "engine": "2.0L 4-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg/960px-Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2023,
   "specs": {
@@ -29,8 +31,11 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
-  "description": "The Mercedes-Benz Vito is a mid-sized light commercial vehicle (LCV) produced by Mercedes-Benz, available as a panel van, chassis cab, or multi-purpose vehicle (MPV), carrying cargo or up to eight passengers. In the Mercedes-Benz van lineup, it is positioned between the larger Sprinter and the smaller Citan.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_Vito",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg",
+  "variants": [
+    "Metris Passenger"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

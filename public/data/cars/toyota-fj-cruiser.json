@@ -2,6 +2,8 @@
   "id": "toyota-fj-cruiser",
   "make": "Toyota",
   "model": "FJ Cruiser",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008,
@@ -29,6 +31,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "FJ Cruiser"
+  ],
   "description": "The Toyota FJ Cruiser  is a retro-styled mid-size SUV produced by Toyota between 2006 and 2022. Introduced as a concept car at the January 2003 North American International Auto Show, the FJ Cruiser was approved for production after positive consumer response and debuted at the February 2005 Chicago Auto Show in final production form.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_FJ_Cruiser",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg/1920px-2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg",

@@ -1,0 +1,27 @@
+{
+  "id": "toyota-nadia",
+  "make": "Toyota",
+  "model": "Nadia",
+  "generation": null,
+  "aka": [],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Toyota_Nadia_in_Laos%2C_cropped.jpg/960px-Toyota_Nadia_in_Laos%2C_cropped.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Nadia is a compact MPV produced by the Japanese automaker Toyota from 1998 to 2003. It was sold only at Japanese dealerships called Toyota Corolla Store next to the Corolla and popular in the Russian Far East.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Nadia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Toyota_Nadia_in_Laos%2C_cropped.jpg/1280px-Toyota_Nadia_in_Laos%2C_cropped.jpg",
+  "sketchfab": null
+}

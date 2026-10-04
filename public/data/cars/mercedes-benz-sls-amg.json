@@ -2,6 +2,17 @@
   "id": "mercedes-benz-sls-amg",
   "make": "Mercedes-Benz",
   "model": "SLS AMG",
+  "generation": null,
+  "aka": [
+    "SLS-Class",
+    "SLS",
+    "Mercedes sls",
+    "C197",
+    "MB SLS AMG",
+    "SLS AMG GT3",
+    "SLS AMG Electric Drive",
+    "Mercedes SLS AMG"
+  ],
   "years": [
     2011,
     2012,
@@ -26,6 +37,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "SLS AMG"
+  ],
   "description": "The Mercedes-Benz SLS AMG is a front mid-engine, 2-seater, limited production sports car developed by the Mercedes-AMG division of German automotive manufacturer Mercedes-Benz, with the assistance of Scottish Formula One driver David Coulthard. SLS stands for \"Super Leicht Sport\".",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLS_AMG",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mercedes-Benz_SLS_AMG_%28C_197%29_%E2%80%93_Frontansicht_ge%C3%B6ffnet%2C_10._August_2011%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_SLS_AMG_%28C_197%29_%E2%80%93_Frontansicht_ge%C3%B6ffnet%2C_10._August_2011%2C_D%C3%BCsseldorf.jpg",

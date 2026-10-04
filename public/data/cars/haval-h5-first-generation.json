@@ -1,0 +1,36 @@
+{
+  "id": "haval-h5-first-generation",
+  "make": "Haval",
+  "model": "H5",
+  "generation": "First generation",
+  "aka": [
+    "Great Wall X240",
+    "Great Wall Haval H5",
+    "Great Wall H5"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Great_Wall_Haval_H5_01_China_2012-05-12.jpg/960px-Great_Wall_Haval_H5_01_China_2012-05-12.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H5, also known as the Great Wall Haval H5 and Hover H5 for the first generation model, is a compact sport utility vehicle (SUV) from June 2010 to 2020, and full-size SUV from 2023 produced by the Chinese manufacturer Great Wall Motor. It uses body-on-frame construction, with rear-wheel-drive and selectable four-wheel-drive, and is available with either gasoline or diesel engines.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Great_Wall_Haval_H5_01_China_2012-05-12.jpg/1280px-Great_Wall_Haval_H5_01_China_2012-05-12.jpg",
+  "sketchfab": null
+}

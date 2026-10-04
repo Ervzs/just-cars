@@ -2,6 +2,17 @@
   "id": "tesla-model-s",
   "make": "Tesla",
   "model": "Model S",
+  "generation": null,
+  "aka": [
+    "WhiteStar",
+    "S",
+    "Model D",
+    "S P85D",
+    "p85d",
+    "Ludicrous Mode",
+    "Insane Mode",
+    "Maximum Plaid"
+  ],
   "years": [
     2012,
     2013,
@@ -36,6 +47,9 @@
     "mpgCombined": 124,
     "evRangeMiles": 410
   },
+  "variants": [
+    "Model S"
+  ],
   "description": "The Tesla Model S is a battery-electric, four-door full-size car that the American automaker Tesla produced from 2012 to 2026. The automaker's second vehicle, the Model S has been described as one of the most influential electric cars in the industry. Its various accolades include the Motor Trend Car of the Year Award in 2013.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_S",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg/1920px-Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg",

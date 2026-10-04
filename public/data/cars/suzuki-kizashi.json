@@ -2,6 +2,10 @@
   "id": "suzuki-kizashi",
   "make": "Suzuki",
   "model": "Kizashi",
+  "generation": null,
+  "aka": [
+    "Maruti Suzuki Kizashi"
+  ],
   "years": [
     2010,
     2011,
@@ -25,6 +29,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "Kizashi"
+  ],
   "description": "The Suzuki Kizashi is a mid-size car manufactured by Japanese automaker Suzuki. It was unveiled in the United States on July 30, 2009. The Kizashi went on sale in Japan on October 21, 2009, in North America on December 1, 2009, and in Australia and New Zealand on May 11, 2010. It is the first mid-size Suzuki automobile sold in the Australian market. In February 2011, the Kizashi became available to the Indian market. The car was also available in European markets.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Kizashi",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg/1920px-Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg",

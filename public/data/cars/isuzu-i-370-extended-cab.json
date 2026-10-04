@@ -2,6 +2,8 @@
   "id": "isuzu-i-370-extended-cab",
   "make": "Isuzu",
   "model": "i-370 Extended Cab",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008
@@ -23,6 +25,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "i-370 Extended Cab"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

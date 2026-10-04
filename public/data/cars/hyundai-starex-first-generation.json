@@ -1,0 +1,41 @@
+{
+  "id": "hyundai-starex-first-generation",
+  "make": "Hyundai",
+  "model": "Starex",
+  "generation": "First generation",
+  "aka": [
+    "Libero",
+    "iLoad",
+    "iMax",
+    "H-200",
+    "i800",
+    "Satellite",
+    "Grand Starex",
+    "H300"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hyundai_H-1_front_20070928.jpg/960px-Hyundai_H-1_front_20070928.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Starex is a series of light commercial vehicles built by Hyundai, produced from 1996 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Starex",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hyundai_H-1_front_20070928.jpg/1280px-Hyundai_H-1_front_20070928.jpg",
+  "sketchfab": null
+}

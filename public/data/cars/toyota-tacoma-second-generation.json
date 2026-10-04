@@ -1,0 +1,51 @@
+{
+  "id": "toyota-tacoma-second-generation",
+  "make": "Toyota",
+  "model": "Tacoma",
+  "generation": "Second generation",
+  "aka": [
+    "S-runner",
+    "takoma",
+    "Tacoma X-Runner",
+    "Tacoma X-Runner 2023 Concept",
+    "Tacoma truck",
+    "Pickup EV"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2009_Toyota_Tacoma_ext_cab.jpg/960px-2009_Toyota_Tacoma_ext_cab.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.7L 4-cyl",
+    "displacementL": 2.7,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tacoma"
+  ],
+  "description": "The Toyota Tacoma is a pickup truck manufactured by Japanese automobile manufacturer Toyota since 1995. The first-generation Tacoma was classified as a compact pickup truck; subsequent models are classified as mid-size pickup trucks. The Tacoma was Motor Trend's Truck of the Year for 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Tacoma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2009_Toyota_Tacoma_ext_cab.jpg/1920px-2009_Toyota_Tacoma_ext_cab.jpg",
+  "sketchfab": null
+}

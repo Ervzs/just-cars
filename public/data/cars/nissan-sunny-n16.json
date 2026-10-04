@@ -1,0 +1,48 @@
+{
+  "id": "nissan-sunny-n16",
+  "make": "Nissan",
+  "model": "Sunny",
+  "generation": "N16",
+  "aka": [
+    "Datsun 1000",
+    "Datsun 1200",
+    "Datsun 120Y",
+    "Datsun B210",
+    "Datsun Sunny 210",
+    "Datsun Sunny",
+    "Hikari",
+    "Laurel Spirit"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nissan_Sunny_NEO.JPG/960px-Nissan_Sunny_NEO.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sunny  is an automobile built by the Japanese automaker Nissan from 1966 until 2004. In the early 1980s, the brand changed from Datsun to Nissan in line with other models by the company. Although production of the Sunny in Japan ended in 2004, the name remains in use in China and GCC countries for a rebadged version of the Nissan Almera.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sunny",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nissan_Sunny_NEO.JPG/1280px-Nissan_Sunny_NEO.JPG",
+  "sketchfab": {
+    "uid": "8615496c9a3c40d6ac190e2454ae1ca8",
+    "name": "2000 Nissan Sunny (N16)",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

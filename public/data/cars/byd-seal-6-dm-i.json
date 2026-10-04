@@ -1,0 +1,36 @@
+{
+  "id": "byd-seal-6-dm-i",
+  "make": "BYD",
+  "model": "Seal 6 DM-i",
+  "generation": null,
+  "aka": [
+    "Seal 06 DM-i Wagon",
+    "Seal 06 DM-i Touring",
+    "Seal 6 DM-i Touring",
+    "Seal 6 Touring",
+    "Seal 06 DM-i"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%28SGP-Singapore%29_Showcar_BYD_Seal_6_DM-i_No-plate_2026-01-09.jpg/960px-%28SGP-Singapore%29_Showcar_BYD_Seal_6_DM-i_No-plate_2026-01-09.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Seal 6 DM-i is a plug-in hybrid mid-size car manufactured by BYD Auto since 2024, originally marketed in China as the BYD Seal 06 DM-i (Chinese: 比亚迪海豹06DM-i; pinyin: Bǐyǎdí Hǎibào 06 DM-i. It is available as a sedan and station wagon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Seal_6_DM-i",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%28SGP-Singapore%29_Showcar_BYD_Seal_6_DM-i_No-plate_2026-01-09.jpg/1920px-%28SGP-Singapore%29_Showcar_BYD_Seal_6_DM-i_No-plate_2026-01-09.jpg",
+  "sketchfab": {
+    "uid": "5cb99da87d6e4df4909d7d9e684dc456",
+    "name": "2025 BYD Seal 6 DM-i Touring",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

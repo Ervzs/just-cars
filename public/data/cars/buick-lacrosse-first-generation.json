@@ -1,0 +1,50 @@
+{
+  "id": "buick-lacrosse-first-generation",
+  "make": "Buick",
+  "model": "LaCrosse",
+  "generation": "First generation",
+  "aka": [
+    "Allure",
+    "2008 Buick LaCrosse",
+    "LaX",
+    "Daewoo Alpheon",
+    "Alpheon"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Buick_LaCrosse_CN_01_China_2012-04-04.jpg/960px-Buick_LaCrosse_CN_01_China_2012-04-04.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Lacrosse/Allure"
+  ],
+  "description": "The Buick LaCrosse is a four-door, front-wheel-drive sedan manufactured by Buick since the 2005 model year, and marketed variously across four generations for the North American and Chinese markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_LaCrosse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Buick_LaCrosse_CN_01_China_2012-04-04.jpg/1920px-Buick_LaCrosse_CN_01_China_2012-04-04.jpg",
+  "sketchfab": {
+    "uid": "56a834a848014cac9b033371780bbb64",
+    "name": "2005 Buick LaCrosse",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

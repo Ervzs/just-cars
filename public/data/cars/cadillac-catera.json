@@ -2,6 +2,10 @@
   "id": "cadillac-catera",
   "make": "Cadillac",
   "model": "Catera",
+  "generation": null,
+  "aka": [
+    "lse"
+  ],
   "years": [
     2000,
     2001
@@ -23,6 +27,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Catera"
+  ],
   "description": "The Cadillac Catera is a compact executive car marketed from 1997 to 2001 by Cadillac over a single generation in the United States, Canada, and GCC.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Catera",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg/1920px-1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg",

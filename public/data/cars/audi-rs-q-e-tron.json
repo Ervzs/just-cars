@@ -1,0 +1,42 @@
+{
+  "id": "audi-rs-q-e-tron",
+  "make": "Audi",
+  "model": "RS Q e-tron",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Audi_RS_Q_e-tron_105.jpg/960px-Audi_RS_Q_e-tron_105.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 85,
+    "mpgHighway": 82,
+    "mpgCombined": 84,
+    "evRangeMiles": 278
+  },
+  "variants": [
+    "RS e-tron"
+  ],
+  "description": "The Audi RS Q e-tron is an off-road competition car, built by Audi under the e-tron battery electric sub-brand. Unveiled in 2021, it is specially designed for competing in rally raids. An upgraded model, dubbed the Audi RS Q e-tron E2, debuted in 2022. A slightly updated version of the vehicle won the 2024 Dakar Rally.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_Q_e-tron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Audi_RS_Q_e-tron_105.jpg/1920px-Audi_RS_Q_e-tron_105.jpg",
+  "sketchfab": {
+    "uid": "b115a32f65704139b79d7e4643fbc5d2",
+    "name": "Audi RS Q e-tron",
+    "author": "Ander Artola",
+    "authorUrl": "https://sketchfab.com/artola3d",
+    "license": "CC Attribution"
+  }
+}

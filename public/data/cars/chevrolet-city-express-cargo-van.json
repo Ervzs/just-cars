@@ -2,6 +2,8 @@
   "id": "chevrolet-city-express-cargo-van",
   "make": "Chevrolet",
   "model": "City Express Cargo Van",
+  "generation": null,
+  "aka": [],
   "years": [
     2015,
     2016,
@@ -11,7 +13,7 @@
   "vehicleClass": "Special Purpose Vehicle 2WD",
   "fuelType": "Regular",
   "engine": "2.0L 4-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/960px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2018,
   "specs": {
@@ -25,8 +27,11 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
-  "description": "The Chevrolet Express is a series of full-size vans produced by General Motors since 1996. The successor to the Chevrolet G-series van, the Express is produced in passenger and cargo variants. Alongside the standard van body, the line is offered as a cutaway van chassis, which is a chassis cab variant developed for commercial-grade applications, including ambulances, buses, motorhomes, and small trucks.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Express",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/1920px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "variants": [
+    "City Express Cargo Van"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

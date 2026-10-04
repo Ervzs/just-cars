@@ -1,0 +1,43 @@
+{
+  "id": "infiniti-m-second-generation",
+  "make": "Infiniti",
+  "model": "M",
+  "generation": "Second generation",
+  "aka": [
+    "M45",
+    "M30",
+    "M35",
+    "M35 Hybrid",
+    "M35h",
+    "M37"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "4.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%2703-%2705_Infiniti_M45.jpg/960px-%2703-%2705_Infiniti_M45.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.5L 8-cyl",
+    "displacementL": 4.5,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "M45"
+  ],
+  "description": "The Infiniti M is a line of mid-size luxury (executive) cars from the Infiniti luxury division of Nissan. From 2013 on it has been marketed as the Infiniti Q70, reflecting the company's later naming formula.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_M",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%2703-%2705_Infiniti_M45.jpg/960px-%2703-%2705_Infiniti_M45.jpg",
+  "sketchfab": null
+}

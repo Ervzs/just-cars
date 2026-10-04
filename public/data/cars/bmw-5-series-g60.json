@@ -1,0 +1,41 @@
+{
+  "id": "bmw-5-series-g60",
+  "make": "BMW",
+  "model": "5 Series (G60)",
+  "generation": null,
+  "aka": [
+    "i5",
+    "G60",
+    "i5 Touring"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/BMW_G60_520i_1X7A2443.jpg/960px-BMW_G60_520i_1X7A2443.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 120,
+    "mpgHighway": 113,
+    "mpgCombined": 116,
+    "evRangeMiles": 328
+  },
+  "variants": [
+    "i5"
+  ],
+  "description": "The BMW 5 Series (G60) is an executive car manufactured and marketed by German luxury automaker BMW since 2023. The lineup consists of the G60 saloon, G61 estate, and the G68 long-wheelbase sedan. It represents the eighth generation of the BMW 5 Series, succeeding the G30 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_5_Series_(G60)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/BMW_G60_520i_1X7A2443.jpg/1920px-BMW_G60_520i_1X7A2443.jpg",
+  "sketchfab": null
+}

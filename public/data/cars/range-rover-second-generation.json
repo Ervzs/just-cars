@@ -1,0 +1,47 @@
+{
+  "id": "range-rover-second-generation",
+  "make": "Land Rover",
+  "model": "Range Rover",
+  "generation": "Second generation",
+  "aka": [
+    "Range Rovers",
+    "Range Rover II",
+    "Range Rover Vogue",
+    "Range Rover Hybrid",
+    "Range Rover TDV8 Vogue SE",
+    "Rover Range Rover"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/1995-1998_Land_Rover_Range_Rover_%28P38A%29_4.0_SE_wagon_05.jpg/960px-1995-1998_Land_Rover_Range_Rover_%28P38A%29_4.0_SE_wagon_05.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Range Rover"
+  ],
+  "description": "Range Rover is a 4×4 luxury marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and since 2022 is in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Range_Rover",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/1995-1998_Land_Rover_Range_Rover_%28P38A%29_4.0_SE_wagon_05.jpg/1920px-1995-1998_Land_Rover_Range_Rover_%28P38A%29_4.0_SE_wagon_05.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-galloper-second-generation",
+  "make": "Hyundai",
+  "model": "Galloper",
+  "generation": "Second generation",
+  "aka": [
+    "Galloper Exceed",
+    "Galloper Innovation",
+    "Mitsubishi Galloper"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/20100812_hyundai_galloper2_01.jpg/960px-20100812_hyundai_galloper2_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Galloper, also known as the Galloper Exceed, Galloper Innovation, Mitsubishi Galloper, Asia Galloper or Hawtai Jitian, is a full-size SUV manufactured by the South Korean manufacturer Hyundai from 1991 to 2004. It is a localised version of the first-generation Mitsubishi Pajero.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Galloper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/20100812_hyundai_galloper2_01.jpg/960px-20100812_hyundai_galloper2_01.jpg",
+  "sketchfab": {
+    "uid": "64ac6e6dd55444e4bcbbbaf1995fd08b",
+    "name": "2000 Hyundai GALLOPER",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

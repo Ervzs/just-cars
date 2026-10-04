@@ -1,0 +1,43 @@
+{
+  "id": "audi-s6-c7",
+  "make": "Audi",
+  "model": "S6",
+  "generation": "C7",
+  "aka": [
+    "S6 Plus",
+    "S6 Avant"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Audi_S6%2C_IAA_2011%2C_Frankfurt_am_Main_%28DSC03308%29_%28cropped%29.jpg/960px-Audi_S6%2C_IAA_2011%2C_Frankfurt_am_Main_%28DSC03308%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S6"
+  ],
+  "description": "The Audi S6 is a high-performance variant of the Audi A6, an executive car produced by German automaker Audi. It went on sale in 1994, shortly after the \"A6\" designation was introduced, replacing the \"100\" nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Audi_S6%2C_IAA_2011%2C_Frankfurt_am_Main_%28DSC03308%29_%28cropped%29.jpg/1920px-Audi_S6%2C_IAA_2011%2C_Frankfurt_am_Main_%28DSC03308%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mahindra-thar-second-generation",
+  "make": "Mahindra",
+  "model": "Thar",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02.jpg/960px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mahindra Thar is a compact SUV manufactured by Indian automaker Mahindra & Mahindra. It was introduced on October 4, 2010 and replaced the Mahindra Major.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahindra_Thar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02.jpg/1920px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02.jpg",
+  "sketchfab": {
+    "uid": "f85210fe98774b7fab1199d8ee151ead",
+    "name": "Mahindra - Thar Roxx",
+    "author": "ansari_studios",
+    "authorUrl": "https://sketchfab.com/ansari_studios",
+    "license": "CC Attribution"
+  }
+}

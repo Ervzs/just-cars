@@ -2,6 +2,10 @@
   "id": "oldsmobile-intrigue",
   "make": "Oldsmobile",
   "model": "Intrigue",
+  "generation": null,
+  "aka": [
+    "Olds Intrigue"
+  ],
   "years": [
     2000,
     2001,
@@ -24,6 +28,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Intrigue"
+  ],
   "description": "The Oldsmobile Intrigue is a mid-size sedan that was manufactured from 1997 through 2002 by Oldsmobile. The Intrigue's design cues were first seen in 1995 with the Oldsmobile Antares concept car, being unveiled in production form in January 1996 at the North American International Auto Show. The Intrigue was the first casualty in the three-year phase-out process of Oldsmobile; Olds' remaining models would last an additional year or two.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Intrigue",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Oldsmobile-Intrigue.jpg/1920px-Oldsmobile-Intrigue.jpg",

@@ -1,0 +1,32 @@
+{
+  "id": "geely-boyue-fourth-generation",
+  "make": "Geely",
+  "model": "Boyue",
+  "generation": "Fourth generation",
+  "aka": [
+    "Proton PX7",
+    "Atlas",
+    "Azkarra",
+    "Farizon FX",
+    "Boyue Cool",
+    "Boyue L",
+    "Volga K40",
+    "Cityray"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Geely_Boyue_L_IV_006.jpg/960px-Geely_Boyue_L_IV_006.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Boyue is a compact SUV produced by the Chinese automaker Geely Auto.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Boyue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Geely_Boyue_L_IV_006.jpg/1920px-Geely_Boyue_L_IV_006.jpg",
+  "sketchfab": null
+}

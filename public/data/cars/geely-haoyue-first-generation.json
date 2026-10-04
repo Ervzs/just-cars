@@ -1,0 +1,33 @@
+{
+  "id": "geely-haoyue-first-generation",
+  "make": "Geely",
+  "model": "Haoyue",
+  "generation": "First generation",
+  "aka": [
+    "Okavango",
+    "Livan 9",
+    "Haoyue L",
+    "Proton X90"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Geely_Haoyue_005.jpg/960px-Geely_Haoyue_005.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Haoyue is a mid-size SUV produced by the Chinese automaker Geely.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Haoyue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Geely_Haoyue_005.jpg/1920px-Geely_Haoyue_005.jpg",
+  "sketchfab": null
+}

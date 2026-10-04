@@ -1,0 +1,43 @@
+{
+  "id": "chrysler-town-country-minivan-third-generation",
+  "make": "Chrysler",
+  "model": "Town & Country (minivan)",
+  "generation": "Third generation",
+  "aka": [
+    "EV",
+    "town and country",
+    "Town & Country Plug-in Hybrid",
+    "Town & Country"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Chrysler_Town_and_Country_SWB_--_07-09-2009.jpg/960px-Chrysler_Town_and_Country_SWB_--_07-09-2009.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Town and Country/Voyager/Grand Voyager"
+  ],
+  "description": "The Chrysler Town & Country is a minivan manufactured and marketed by Chrysler starting from the 1990 until the 2016 model year. It was the third Chrysler minivan model introduced in North America. The Town & Country adopted its nameplate from the flagship Chrysler station wagon line, adopting its exterior woodgrain trim as a design feature for several generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Town_%26_Country_(minivan)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Chrysler_Town_and_Country_SWB_--_07-09-2009.jpg/1280px-Chrysler_Town_and_Country_SWB_--_07-09-2009.jpg",
+  "sketchfab": null
+}

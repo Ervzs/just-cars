@@ -1,0 +1,46 @@
+{
+  "id": "toyota-hilux-eighth-generation",
+  "make": "Toyota",
+  "model": "Hilux",
+  "generation": "Eighth generation",
+  "aka": [
+    "Hilux platform",
+    "Pickup",
+    "pickup trucks",
+    "Truck",
+    "Truck Maintenance",
+    "Truck Maintainence",
+    "Highlux",
+    "Hiluxes"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/GCC_Toyota_Hilux_GL_D-4D_double_cab.png/960px-GCC_Toyota_Hilux_GL_D-4D_double_cab.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Hilux, stylised as HiLux and historically as Hi-Lux, is a series of pickup trucks produced and marketed by the Japanese automobile manufacturer Toyota. The majority of these vehicles are sold as a pickup truck or cab chassis, although they could be configured in a variety of body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Hilux",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/GCC_Toyota_Hilux_GL_D-4D_double_cab.png/1280px-GCC_Toyota_Hilux_GL_D-4D_double_cab.png",
+  "sketchfab": {
+    "uid": "82bd37c5065040098fb0b86e07fcb959",
+    "name": "2022 Toyota Hilux",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

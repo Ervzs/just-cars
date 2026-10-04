@@ -1,0 +1,50 @@
+{
+  "id": "toyota-c-hr-first-generation",
+  "make": "Toyota",
+  "model": "C-HR",
+  "generation": "First generation",
+  "aka": [
+    "IZOA",
+    "C-HR EV",
+    "Small SU EV"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Toyota_C-HR_Concept.jpg/960px-Toyota_C-HR_Concept.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 31,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C-HR"
+  ],
+  "description": "The Toyota C-HR  is a subcompact crossover SUV manufactured and marketed by Japanese automaker Toyota since 2016. Since 2020, it is positioned between the Yaris Cross and Corolla Cross in Toyota's crossover SUV range.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_C-HR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Toyota_C-HR_Concept.jpg/1920px-Toyota_C-HR_Concept.jpg",
+  "sketchfab": {
+    "uid": "bc9bf0f48e174e918a5187dd1de019f8",
+    "name": "Toyota C-HR 2020",
+    "author": "ItsDiyor",
+    "authorUrl": "https://sketchfab.com/ItsDiyor",
+    "license": "CC Attribution"
+  }
+}

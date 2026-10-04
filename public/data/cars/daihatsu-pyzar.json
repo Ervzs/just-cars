@@ -1,0 +1,31 @@
+{
+  "id": "daihatsu-pyzar",
+  "make": "Daihatsu",
+  "model": "Pyzar",
+  "generation": null,
+  "aka": [
+    "Gran Move",
+    "Grand Move"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Daihatsu_Pyzar_original_model_%2896-98%29_01.jpg/960px-Daihatsu_Pyzar_original_model_%2896-98%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Pyzar , sold in some export markets as the Daihatsu Gran Move, is a mini MPV which was manufactured by the Japanese automaker Daihatsu from 1996 to 2002. It is based on the chassis of the G200 series Charade. The name \"Pyzar\" is derived from the Mongolian-era Silk Road traffic permit, \"Paizah\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Pyzar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Daihatsu_Pyzar_original_model_%2896-98%29_01.jpg/960px-Daihatsu_Pyzar_original_model_%2896-98%29_01.jpg",
+  "sketchfab": null
+}

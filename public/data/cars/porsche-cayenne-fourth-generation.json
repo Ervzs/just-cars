@@ -1,0 +1,49 @@
+{
+  "id": "porsche-cayenne-fourth-generation",
+  "make": "Porsche",
+  "model": "Cayenne",
+  "generation": "Fourth generation",
+  "aka": [
+    "Porche cayenne",
+    "Cayenne S",
+    "Cayenne Turbo",
+    "Cayenne Turbo S",
+    "Roxster",
+    "Cayenne Hybrid",
+    "957",
+    "Cayenne S Hybrid"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Porsche_Cayenne_Electric_IMG_6136.jpg/960px-Porsche_Cayenne_Electric_IMG_6136.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cayenne"
+  ],
+  "description": "The Porsche Cayenne is a series of automobiles manufactured by the German company Porsche since 2002. It is an E-segment luxury crossover SUV, and has been described as both a full-size and a mid-size vehicle. The first generation was known within Porsche as the Type 9PA (955/957) or E1. It was the first V8-engined vehicle built by Porsche since 1995, when the Porsche 928 was discontinued. It is also Porsche's first off-road vehicle since its Super and Junior tractors of the 1950s, as well as the first production Porsche with four doors. Since 2014, the Cayenne has been sold alongside a smaller Porsche SUV, the Macan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Cayenne",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Porsche_Cayenne_Electric_IMG_6136.jpg/1920px-Porsche_Cayenne_Electric_IMG_6136.jpg",
+  "sketchfab": {
+    "uid": "d1fd357faf314607afc39a67d5b4f4f1",
+    "name": "Porsche Cayenne",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

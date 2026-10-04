@@ -1,0 +1,35 @@
+{
+  "id": "mahindra-xylo",
+  "make": "Mahindra",
+  "model": "Xylo",
+  "generation": null,
+  "aka": [
+    "Ingenio",
+    "ingeno"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mahindra_Xylo.png/330px-Mahindra_Xylo.png",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mahindra Xylo is a compact MPV designed and manufactured by the Indian automobile manufacturer Mahindra & Mahindra from 2009 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahindra_Xylo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mahindra_Xylo.png/330px-Mahindra_Xylo.png",
+  "sketchfab": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "toyota-corolla-ninth-generation",
+  "make": "Toyota",
+  "model": "Corolla",
+  "generation": "Ninth generation",
+  "aka": [
+    "Altis",
+    "Corolla Sprinter",
+    "Seca",
+    "Corolla Seca",
+    "Corolla AE70",
+    "corolla gts",
+    "Corolla 80",
+    "Axio"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2003-2004_Toyota_Corolla_%28ZZE122R%29_Conquest_sedan_01.jpg/960px-2003-2004_Toyota_Corolla_%28ZZE122R%29_Conquest_sedan_01.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 35,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corolla"
+  ],
+  "description": "The Toyota Corolla  is a series of compact cars manufactured and marketed globally by the Japanese automaker Toyota Motor Corporation since 1966. Since 1997, the Corolla has remained the best-selling automobile nameplate of all time, surpassing the Volkswagen Beetle. Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021, and has sold over 54 million units as of early 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2003-2004_Toyota_Corolla_%28ZZE122R%29_Conquest_sedan_01.jpg/1920px-2003-2004_Toyota_Corolla_%28ZZE122R%29_Conquest_sedan_01.jpg",
+  "sketchfab": {
+    "uid": "daeeb8dc46824f2ca5e4c29660000b0a",
+    "name": "2005 Toyota Corolla Luxel",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-suburban-eleventh-generation",
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "generation": "Eleventh generation",
+  "aka": [
+    "GMC Yukon XL",
+    "GMC Suburban",
+    "Chevy Suburban",
+    "Yukon XL",
+    "Veraneio",
+    "GMC Yukon Denali XL",
+    "Chevy Suburvan",
+    "Chevy subdivision"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "5.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Chevrolet_Suburban_LT_in_black%2C_front_left_side_view.jpg/960px-2015_Chevrolet_Suburban_LT_in_black%2C_front_left_side_view.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "5.3L 8-cyl",
+    "displacementL": 5.3,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Suburban"
+  ],
+  "description": "The Chevrolet Suburban is a series of SUVs built by Chevrolet since 1934. The longest-produced automobile nameplate in the world, the Suburban is currently in its twelfth generation, in production since the 2021 model year. Beginning life as one of the first metal-bodied station wagons, the Suburban is the progenitor of the modern full-size sport utility vehicle, combining a wagon-style body with the chassis and powertrain of a pickup truck. Alongside its Advance Design, Task Force, and C/K predecessors, the Chevrolet Silverado currently shares chassis and mechanical commonality with the Suburban and other trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Suburban",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Chevrolet_Suburban_LT_in_black%2C_front_left_side_view.jpg/1920px-2015_Chevrolet_Suburban_LT_in_black%2C_front_left_side_view.jpg",
+  "sketchfab": {
+    "uid": "49c2a07da71846bf88da0e4d13ff5e20",
+    "name": "Chevrolet Suburban 2015",
+    "author": "shady311",
+    "authorUrl": "https://sketchfab.com/shady311",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

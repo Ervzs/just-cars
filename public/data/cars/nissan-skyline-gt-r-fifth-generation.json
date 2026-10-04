@@ -1,0 +1,40 @@
+{
+  "id": "nissan-skyline-gt-r-fifth-generation",
+  "make": "Nissan",
+  "model": "Skyline GT-R",
+  "generation": "Fifth generation",
+  "aka": [
+    "Nismo GT-R",
+    "Skyline GT-R VSpec",
+    "Nismo GT-R Z-Tune",
+    "Skyline car",
+    "Nismo 400R",
+    "BNR34",
+    "Skyline R32 GT-R",
+    "Skyline GT-R Nismo"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nissan_Skyline_R34_GT-R_N%C3%BCr_001.jpg/960px-Nissan_Skyline_R34_GT-R_N%C3%BCr_001.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Skyline GT-R  is a Japanese grand tourer based on the Nissan Skyline range. The first cars named \"Skyline GT-R\" were produced between 1969 and 1972 under the model code KPGC10, and were successful in Japanese touring car racing events. This model was followed by a brief production run of second-generation cars, under model code KPGC110, in 1973.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nissan_Skyline_R34_GT-R_N%C3%BCr_001.jpg/1280px-Nissan_Skyline_R34_GT-R_N%C3%BCr_001.jpg",
+  "sketchfab": {
+    "uid": "80a1ff5313fb4a0bb4b19c4abacfaacc",
+    "name": "1999 Nissan Skyline GT-R NISMO GT500",
+    "author": "VTX",
+    "authorUrl": "https://sketchfab.com/VTX_car",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

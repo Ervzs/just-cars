@@ -1,0 +1,30 @@
+{
+  "id": "honda-stepwgn-fifth-generation",
+  "make": "Honda",
+  "model": "Stepwgn",
+  "generation": "Fifth generation",
+  "aka": [
+    "Stepwagon"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Honda_STEPWGN_SPADA%E3%83%BBCool_Spirit_%28RP3%29_front.JPG/960px-Honda_STEPWGN_SPADA%E3%83%BBCool_Spirit_%28RP3%29_front.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Stepwgn  is a minivan produced by Honda since 1996. In contrast to the Odyssey and also the Stream, it sports a taller, more upright greenhouse and can accommodate eight people instead of seven. For its first two generations, the car had one door on the driver's side and two doors on the passenger's side.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Stepwgn",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Honda_STEPWGN_SPADA%E3%83%BBCool_Spirit_%28RP3%29_front.JPG/1920px-Honda_STEPWGN_SPADA%E3%83%BBCool_Spirit_%28RP3%29_front.JPG",
+  "sketchfab": null
+}

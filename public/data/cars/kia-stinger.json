@@ -2,6 +2,11 @@
   "id": "kia-stinger",
   "make": "Kia",
   "model": "Stinger",
+  "generation": null,
+  "aka": [
+    "Stinger GT",
+    "GT4 Stinger"
+  ],
   "years": [
     2018,
     2019,
@@ -27,6 +32,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Stinger"
+  ],
   "description": "The Kia Stinger is a mid-size liftback/fastback manufactured by Kia between 2017 and 2023.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Stinger",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kia_Stinger_Facelift_IMG_4468.jpg/1920px-Kia_Stinger_Facelift_IMG_4468.jpg",

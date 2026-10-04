@@ -1,0 +1,27 @@
+{
+  "id": "honda-airwave",
+  "make": "Honda",
+  "model": "Airwave",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2005-2008_Honda_Airwave.jpg/960px-2005-2008_Honda_Airwave.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Airwave is a subcompact car produced by the Japanese automaker Honda from 2005 until 2010. It is a five-door station wagon version of the first-generation City/Fit Aria and Fit/Jazz, which was a sedan and a hatchback respectively. The Airwave was built on the Global Small Car platform; however, unlike the City and Fit, the Airwave was unique to the Japanese market. Honda announced the debut of the Airwave on April 7, 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Airwave",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2005-2008_Honda_Airwave.jpg/1920px-2005-2008_Honda_Airwave.jpg",
+  "sketchfab": null
+}

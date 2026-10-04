@@ -1,0 +1,42 @@
+{
+  "id": "isuzu-forward-fourth-generation",
+  "make": "Isuzu",
+  "model": "Forward",
+  "generation": "Fourth generation",
+  "aka": [
+    "F-Series",
+    "GMC T-series",
+    "いすゞ・フォワード",
+    "Heavy Duty",
+    "Chevrolet FRR",
+    "TY",
+    "Deca"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/54/CTASD_Isuzu_Forward_20081011.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Forward  is a line of medium-to-heavy-duty commercial vehicles manufactured by Isuzu since 1970, following the earlier TY model which occupied the same slot in the market. All F-series trucks are cab over designs and the cabin comes fully built from the factory. Most models come with a diesel engine; but, some markets get CNG derivatives as well. The F-series is available a variety of cab styles, engines, 4WD or 2WD depending on the market it is sold. While Isuzu's main plant is in Japan, these trucks are locally assembled from CKD kits in numerous countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Forward",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/CTASD_Isuzu_Forward_20081011.jpg",
+  "sketchfab": null
+}

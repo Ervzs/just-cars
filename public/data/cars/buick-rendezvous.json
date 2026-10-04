@@ -2,6 +2,8 @@
   "id": "buick-rendezvous",
   "make": "Buick",
   "model": "Rendezvous",
+  "generation": null,
+  "aka": [],
   "years": [
     2002,
     2003,
@@ -27,6 +29,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Rendezvous"
+  ],
   "description": "The Buick Rendezvous is a mid-size crossover SUV that was marketed by Buick for the 2002–2007 model years. It debuted at the Chicago Auto Show in February 2000, and sales commenced in spring 2001. The Buick Rendezvous and its corporate cousin, the Pontiac Aztek, were GM's first entries into the crossover SUV segment. The Rendezvous featured a four-speed automatic transmission with a V6 engine and optional all-wheel drive. The SUV used the same platform as GM's short-wheelbase minivans, the Chevrolet Venture and Pontiac Montana. The Rendezvous provided a passenger- and load-carrying capacity not seen in the Buick lineup since the discontinuation of the Buick Roadmaster Estate station wagon in 1996.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Rendezvous",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/02-03_Buick_Rendezvous.jpg/1920px-02-03_Buick_Rendezvous.jpg",

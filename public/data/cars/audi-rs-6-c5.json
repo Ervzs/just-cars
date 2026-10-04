@@ -1,0 +1,38 @@
+{
+  "id": "audi-rs-6-c5",
+  "make": "Audi",
+  "model": "RS 6",
+  "generation": "C5",
+  "aka": [
+    "RS6 Avant"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Audi_RS6_C5_sedan_fl.jpg/960px-Blue_Audi_RS6_C5_sedan_fl.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RS 6"
+  ],
+  "description": "The Audi RS 6 is a high-performance variant of the Audi A6 range, produced by the high-performance subsidiary company Audi Sport GmbH, for its parent company Audi AG, a subsidiary of the Volkswagen Group, from 2002 onwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Audi_RS6_C5_sedan_fl.jpg/1280px-Blue_Audi_RS6_C5_sedan_fl.jpg",
+  "sketchfab": null
+}

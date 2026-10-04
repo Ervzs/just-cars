@@ -1,0 +1,32 @@
+{
+  "id": "mitsubishi-savrin-second-generation",
+  "make": "Mitsubishi",
+  "model": "Savrin",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitsubishi_Savrin_second_generation_facelift_001.jpg/960px-Mitsubishi_Savrin_second_generation_facelift_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Savrin is a compact MPV produced and sold in Taiwan by China Motor Corporation and Japanese automaker Mitsubishi Motors. The first generation was a locally assembled rebadged Chariot Grandis, while the second generation, introduced in June 2004, is actually a heavily revised facelift of the same Chariot Grandis platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Savrin",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitsubishi_Savrin_second_generation_facelift_001.jpg/1280px-Mitsubishi_Savrin_second_generation_facelift_001.jpg",
+  "sketchfab": null
+}

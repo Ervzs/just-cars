@@ -1,0 +1,52 @@
+{
+  "id": "lexus-es-third-generation",
+  "make": "Lexus",
+  "model": "ES",
+  "generation": "Third generation",
+  "aka": [
+    "Toyota Windom",
+    "ES350",
+    "ES 250",
+    "ES330",
+    "ES300",
+    "ES Hybrid",
+    "ES 300h"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1996-1999_Lexus_ES_300_%28MCV20R%29_LXS_sedan_02.jpg/960px-1996-1999_Lexus_ES_300_%28MCV20R%29_LXS_sedan_02.jpg",
+  "has3d": true,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ES"
+  ],
+  "description": "The Lexus ES is a luxury sedan marketed since 1989 by Lexus, the luxury division of Toyota, across multiple generations, each offering V6 engines and a front-engine, front-wheel-drive layout. The first five generations of the ES used the Toyota Camry platform, while the latter generations are more closely related to both the Camry and the Avalon. Manual transmissions were offered until 1993, a lower-displacement inline-four engine became an option in Asian markets in 2010, and a gasoline-electric hybrid version was introduced in 2012. The battery electric version was later introduced in 2025. The ES was Lexus's only front-wheel drive vehicle until 1998, when the related RX was introduced, and the sedan occupied the entry-level luxury car segment of the Lexus lineup in North America and other regions until the debut of the IS in 1999. The ES name stands for \"Executive Sedan\". However, some Lexus importers use the name, \"Elegant Sedan\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_ES",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1996-1999_Lexus_ES_300_%28MCV20R%29_LXS_sedan_02.jpg/1920px-1996-1999_Lexus_ES_300_%28MCV20R%29_LXS_sedan_02.jpg",
+  "sketchfab": {
+    "uid": "78d488a405ac499eb7ee96d67dc6f6b2",
+    "name": "Lexus ES (Mk3) 1997",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "toyota-yaris-second-generation",
+  "make": "Toyota",
+  "model": "Yaris",
+  "generation": "Second generation",
+  "aka": [
+    "Echo",
+    "Yaris T Sport",
+    "Bouncing Yaris"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2008_Toyota_Yaris_TR_1.3_Front.jpg/960px-2008_Toyota_Yaris_TR_1.3_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 35,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Yaris",
+    "Echo"
+  ],
+  "description": "The Toyota Yaris  is a supermini/subcompact car sold by Toyota since 1999, replacing the Starlet and Tercel.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2008_Toyota_Yaris_TR_1.3_Front.jpg/1920px-2008_Toyota_Yaris_TR_1.3_Front.jpg",
+  "sketchfab": {
+    "uid": "8c66eb592afb4ea7872fc219a5c467e8",
+    "name": "2009 Toyota Yaris",
+    "author": "ImperialBlue3D",
+    "authorUrl": "https://sketchfab.com/ImperialBlue3D",
+    "license": "CC Attribution"
+  }
+}

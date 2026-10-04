@@ -2,6 +2,8 @@
   "id": "isuzu-i-370-crew-cab",
   "make": "Isuzu",
   "model": "i-370 Crew Cab",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008
@@ -9,7 +11,7 @@
   "vehicleClass": "Small Pickup Trucks 2WD",
   "fuelType": "Regular",
   "engine": "3.7L 5-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg/960px-Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2008,
   "specs": {
@@ -23,8 +25,11 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
-  "description": "The Isuzu Elf  is a medium duty truck produced by Isuzu since 1959. Outside Japan it is known as N series and Q Series. The range was originally mainly available in Japan and other Asian countries. Australia was another important market for the Elf and N series – to the extent that it was manufactured there from the 1970s using many local components. Since the early 1980s, it has also been sold and built in the United States, and also as the Isuzu N-Series. North America only receives the wide-cab version.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Elf",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg/1280px-Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg",
+  "variants": [
+    "i-370 Crew Cab"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

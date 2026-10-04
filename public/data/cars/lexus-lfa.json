@@ -2,6 +2,10 @@
   "id": "lexus-lfa",
   "make": "Lexus",
   "model": "LFA",
+  "generation": null,
+  "aka": [
+    "LF-AR"
+  ],
   "years": [
     2012
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "LFA"
+  ],
   "description": "The Lexus LFA  is a two-door sports car produced between 2010 and 2012 by the Japanese carmaker Toyota under its luxury marque, Lexus. Lexus built 500 units over its production span of two years.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LFA",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lexus_LFA_001.JPG/1280px-Lexus_LFA_001.JPG",

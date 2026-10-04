@@ -2,6 +2,17 @@
   "id": "land-rover-defender",
   "make": "Land Rover",
   "model": "Defender",
+  "generation": null,
+  "aka": [
+    "Series I 80",
+    "110",
+    "Defender-110",
+    "Range Rover Defender",
+    "LR Defender",
+    "90",
+    "127",
+    "Defender 90"
+  ],
   "years": [
     2020,
     2021,
@@ -29,6 +40,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Defender"
+  ],
   "description": "The Land Rover Defender is a series of British off-road cars and pickup trucks. They have four-wheel drive, and were developed in the 1980s from the Land Rover series which was launched at the Amsterdam Motor Show in April 1948. Following the 1989 introduction of the Land Rover Discovery, \"Land Rover\" became the name of a broader marque, no longer the name of a specific model; thus, in 1990, Land Rover renamed them Defender 90, Defender 110 and Defender 130 respectively.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Land_Rover_Defender",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg/1920px-2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg",

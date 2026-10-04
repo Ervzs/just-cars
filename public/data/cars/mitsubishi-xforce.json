@@ -1,0 +1,34 @@
+{
+  "id": "mitsubishi-xforce",
+  "make": "Mitsubishi",
+  "model": "Xforce",
+  "generation": null,
+  "aka": [
+    "XFC Concept",
+    "XFC"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2024_Mitsubishi_Xforce_Ultimate_%28front%29.jpg/960px-2024_Mitsubishi_Xforce_Ultimate_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Xforce is a subcompact SUV (B-segment) manufactured by Mitsubishi Motors since 2023. In some markets such as the Americas, Africa, and New Zealand, it is marketed as the Mitsubishi Outlander Sport.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Xforce",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2024_Mitsubishi_Xforce_Ultimate_%28front%29.jpg/1920px-2024_Mitsubishi_Xforce_Ultimate_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "537ef92068524f31b8e12c046be23908",
+    "name": "Mitsubishi Xforce",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

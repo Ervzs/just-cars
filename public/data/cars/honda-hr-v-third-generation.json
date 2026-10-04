@@ -1,0 +1,53 @@
+{
+  "id": "honda-hr-v-third-generation",
+  "make": "Honda",
+  "model": "HR-V",
+  "generation": "Third generation",
+  "aka": [
+    "Vezel",
+    "Vezel Hybrid",
+    "XR-V",
+    "HR-V Selfie Edition",
+    "Ciimo X-NV",
+    "Everus VE-1",
+    "Ciimo M-NV"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg/960px-Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "HR-V"
+  ],
+  "description": "The Honda HR-V is a subcompact crossover SUV (B-segment) manufactured and marketed by Honda over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_HR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg/1920px-Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg",
+  "sketchfab": {
+    "uid": "e9128a46adc34e5e995ab7e8ad36339c",
+    "name": "2022 Honda HR-V e:Hev",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

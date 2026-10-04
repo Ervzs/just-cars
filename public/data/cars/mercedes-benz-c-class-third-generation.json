@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-c-class-third-generation",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "generation": "Third generation",
+  "aka": [
+    "Mercedes Benz C-Class",
+    "Mercedes C-Class",
+    "C-klasse",
+    "C43 AMG",
+    "Mercedes c180",
+    "Mercedez-Benz C Class",
+    "CLR-Class",
+    "Mercedes C"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Mercedes-Benz_C_180_Kompressor_Avantgarde_%28W_204%29_%E2%80%93_Frontansicht%2C_14._April_2011%2C_Velbert.jpg/960px-Mercedes-Benz_C_180_Kompressor_Avantgarde_%28W_204%29_%E2%80%93_Frontansicht%2C_14._April_2011%2C_Velbert.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C-Class"
+  ],
+  "description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz Group AG. Introduced in 1993 as a replacement for the 190 (W201) range, the C-Class was the smallest model in the marque's line-up until the W168 A-Class arrived in 1997. The C-Class has been available with a \"4MATIC\" four-wheel drive option since 2002. The third generation (W204) was launched in 2007 while the current W206 generation was launched in 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Mercedes-Benz_C_180_Kompressor_Avantgarde_%28W_204%29_%E2%80%93_Frontansicht%2C_14._April_2011%2C_Velbert.jpg/1920px-Mercedes-Benz_C_180_Kompressor_Avantgarde_%28W_204%29_%E2%80%93_Frontansicht%2C_14._April_2011%2C_Velbert.jpg",
+  "sketchfab": null
+}

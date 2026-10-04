@@ -1,0 +1,30 @@
+{
+  "id": "nissan-serena-third-generation",
+  "make": "Nissan",
+  "model": "Serena",
+  "generation": "Third generation",
+  "aka": [
+    "LDV Cub",
+    "Largo",
+    "Dongfeng Yuxuan"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Nissan_Serena_C25_001_%28cropped%29.JPG/960px-Nissan_Serena_C25_001_%28cropped%29.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Serena  is a minivan manufactured by Nissan, joining the slightly larger Vanette. The car was engineered by Nissan's Aichi Manufacturing Division and launched in 1991 as a compact passenger van, and it grew larger with each generation over the years. Earlier versions were front-engine, rear-wheel-drive layout with a live axle mounted on leaf springs, while the following generations are front-wheel drive or 4WD.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Serena",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Nissan_Serena_C25_001_%28cropped%29.JPG/960px-Nissan_Serena_C25_001_%28cropped%29.JPG",
+  "sketchfab": null
+}

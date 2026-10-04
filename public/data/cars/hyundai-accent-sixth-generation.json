@@ -1,0 +1,40 @@
+{
+  "id": "hyundai-accent-sixth-generation",
+  "make": "Hyundai",
+  "model": "Accent",
+  "generation": "Sixth generation",
+  "aka": [
+    "Bimantara Cakra",
+    "Verna",
+    "Accent Hybrid",
+    "Solaris",
+    "Accent Evo 3",
+    "Accent GT",
+    "i25",
+    "Dodge Verna"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Hyundai_Accent_1.5_MPI_Smart%2B_%28VI%29_%E2%80%93_f_08032025.jpg/960px-Hyundai_Accent_1.5_MPI_Smart%2B_%28VI%29_%E2%80%93_f_08032025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Accent, or Hyundai Verna is a subcompact car produced by Hyundai. In Australia, the first generation models carried over the Hyundai Excel name used by the Accent's predecessor. The Accent was replaced in 2000 by the Hyundai Verna in South Korea, although most international markets, including the US, retained the \"Accent\" name. The \"Accent\" name is an acronym of Advanced Compact Car of Epoch-making New Technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Accent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Hyundai_Accent_1.5_MPI_Smart%2B_%28VI%29_%E2%80%93_f_08032025.jpg/1920px-Hyundai_Accent_1.5_MPI_Smart%2B_%28VI%29_%E2%80%93_f_08032025.jpg",
+  "sketchfab": {
+    "uid": "d6e5783fc1d748a0bc8ca0b56d30841a",
+    "name": "Hyundai Accent 2025",
+    "author": "قطوو",
+    "authorUrl": "https://sketchfab.com/ifa7b1",
+    "license": "CC Attribution"
+  }
+}

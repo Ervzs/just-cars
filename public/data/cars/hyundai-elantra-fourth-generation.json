@@ -1,0 +1,46 @@
+{
+  "id": "hyundai-elantra-fourth-generation",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "generation": "Fourth generation",
+  "aka": [
+    "Avante",
+    "Lantra",
+    "Bimantara Nenggala",
+    "Avante Touring",
+    "Elantra LPI",
+    "Avante XD",
+    "Elantra LPI Hybrid",
+    "Elantra LPI HEV"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2007_Hyundai_Elantra.jpg/960px-2007_Hyundai_Elantra.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Elantra"
+  ],
+  "description": "The Hyundai Elantra, also known as the Hyundai Avante, is a series of compact cars produced by the South Korean manufacturer Hyundai since 1990.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Elantra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2007_Hyundai_Elantra.jpg/1280px-2007_Hyundai_Elantra.jpg",
+  "sketchfab": null
+}

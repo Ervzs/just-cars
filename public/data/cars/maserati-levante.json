@@ -2,6 +2,8 @@
   "id": "maserati-levante",
   "make": "Maserati",
   "model": "Levante",
+  "generation": null,
+  "aka": [],
   "years": [
     2017,
     2018,
@@ -29,6 +31,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Levante"
+  ],
   "description": "The Maserati Levante is an executive crossover SUV produced by Italian manufacturer Maserati at the Mirafiori factory in Turin from 2016. The Levante went on sale in Europe in May 2016, and in North America in September 2016. Production of the Levante ended in 2024, commemorated with the release of a top-spec 424BHP special edition.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_Levante",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Maserati_Levante_S_%2801%29.jpg/1920px-Maserati_Levante_S_%2801%29.jpg",

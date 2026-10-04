@@ -1,0 +1,43 @@
+{
+  "id": "mercedes-benz-sl-class-r129",
+  "make": "Mercedes-Benz",
+  "model": "SL-Class",
+  "generation": "R129",
+  "aka": [
+    "SL",
+    "Mercedes SL",
+    "SL 500",
+    "Sl65amg",
+    "SL63 AMG",
+    "Mercedes Benz SL",
+    "MB SL-Class",
+    "Mercedes SL Class"
+  ],
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/1991_Mercedes_300SL-24_Automatic_3.0_Front.jpg/960px-1991_Mercedes_300SL-24_Automatic_3.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mercedes-Benz SL-Class is a grand touring sports car manufactured by Mercedes-Benz since 1954. The designation \"SL\" derives from the German term \"Super-Leicht\", which translates to \"Super Light\" in English.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/1991_Mercedes_300SL-24_Automatic_3.0_Front.jpg/1920px-1991_Mercedes_300SL-24_Automatic_3.0_Front.jpg",
+  "sketchfab": null
+}

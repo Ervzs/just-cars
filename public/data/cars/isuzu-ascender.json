@@ -2,6 +2,8 @@
   "id": "isuzu-ascender",
   "make": "Isuzu",
   "model": "Ascender",
+  "generation": null,
+  "aka": [],
   "years": [
     2003,
     2004,
@@ -28,6 +30,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ascender"
+  ],
   "description": "The Isuzu Ascender is a mid-size SUV built by General Motors for Isuzu. The 7-passenger Ascender was introduced for the 2003 model year as a replacement for the Isuzu Trooper. The 5-passenger Ascender was introduced for the 2004 model year as a replacement for the Isuzu Rodeo and the Isuzu Axiom.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Ascender",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2008_Isuzu_Ascender_5-Passenger_S_in_Arctic_White_%26_Gray_Metallic%2C_Front_Left%2C_06-17-2023.jpg/1920px-2008_Isuzu_Ascender_5-Passenger_S_in_Arctic_White_%26_Gray_Metallic%2C_Front_Left%2C_06-17-2023.jpg",

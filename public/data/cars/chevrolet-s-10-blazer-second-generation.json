@@ -1,0 +1,51 @@
+{
+  "id": "chevrolet-s-10-blazer-second-generation",
+  "make": "GMC",
+  "model": "Chevrolet S-10 Blazer",
+  "generation": "Second generation",
+  "aka": [
+    "Jimmy",
+    "S-15 Jimmy",
+    "S-10 Blazer",
+    "1995 chevy blazer",
+    "Opel Blazer",
+    "Chevy S-10 Blazer"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.3L 6-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mi_Blazer.JPG",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.3L 6-cyl",
+    "displacementL": 4.3,
+    "cylinders": 6,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Jimmy"
+  ],
+  "description": "The Chevrolet (S-10) Blazer and its rebadged GMC (S-15) Jimmy counterpart are compact/mid-size SUVs manufactured and marketed by Chevrolet and GMC from the 1983 through 2005 model years, over two generations – until the early 1990s alongside these brands' full-size SUVs with near identical nameplates, but lacking removable hardtops. From the 1992 model year, GMC's full-size Jimmy had become the \"Yukon\", and so, the S-15 prefix was dropped on the smaller GMC Jimmy. Starting with the 1995 second generation, the large Blazer was rebranded as the Chevrolet Tahoe, and these mid-size SUVs were simply launched as the \"all-new Chevrolet Blazer\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_S-10_Blazer",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mi_Blazer.JPG",
+  "sketchfab": null
+}

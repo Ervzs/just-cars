@@ -1,0 +1,46 @@
+{
+  "id": "audi-s3-fourth-generation",
+  "make": "Audi",
+  "model": "S3",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Audi_S3_8Y_IMG_5286.jpg/960px-Audi_S3_8Y_IMG_5286.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S3"
+  ],
+  "description": "The Audi S3 is a performance version of the Audi A3 small family car, produced by German automaker Audi since 1999. S3 variants of have been produced from the first generation through the fourth generation of Audi A3.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Audi_S3_8Y_IMG_5286.jpg/1920px-Audi_S3_8Y_IMG_5286.jpg",
+  "sketchfab": {
+    "uid": "974f50676c3448f9b46155c18978a26f",
+    "name": "2021 Audi S3 Sportback",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

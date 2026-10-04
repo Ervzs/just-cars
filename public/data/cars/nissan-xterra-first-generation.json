@@ -1,0 +1,43 @@
+{
+  "id": "nissan-xterra-first-generation",
+  "make": "Nissan",
+  "model": "Xterra",
+  "generation": "First generation",
+  "aka": [
+    "Paladin",
+    "Roniz",
+    "Dongfeng Oting"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2001Xterra.JPG/960px-2001Xterra.JPG",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Xterra"
+  ],
+  "description": "The Nissan Xterra is a truck-based compact SUV that was first manufactured and marketed by Nissan from 1999 to 2015 across two generations; the first (1999–2004) sharing a platform and many of its major exterior parts from the front doors forward with the Nissan (D22) Frontier pickup – and the second (2005–2015) sharing the Nissan F-Alpha platform with the Frontier and Pathfinder. It is planned to be reintroduced in 2028.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Xterra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2001Xterra.JPG/1920px-2001Xterra.JPG",
+  "sketchfab": null
+}

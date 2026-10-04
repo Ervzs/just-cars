@@ -1,0 +1,44 @@
+{
+  "id": "suzuki-ciaz",
+  "make": "Suzuki",
+  "model": "Ciaz",
+  "generation": null,
+  "aka": [
+    "Maruti suzuki ciaz",
+    "Alivio",
+    "Maruti Ciaz",
+    "Oshan Qiyue"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg/960px-Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Ciaz is a subcompact sedan produced by Suzuki from 2014 to 2025. It was developed to replace the Suzuki SX4 sedan in several Asian, African and Latin American markets. It went on sale for the first time in India, the largest market for Suzuki in September 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ciaz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg/1920px-Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg",
+  "sketchfab": {
+    "uid": "aa0d768ba98b4438b20b60267673df36",
+    "name": "2021 Suzuki Ciaz",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

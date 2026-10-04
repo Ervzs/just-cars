@@ -1,0 +1,25 @@
+{
+  "id": "hyundai-elexio",
+  "make": "Hyundai",
+  "model": "Elexio",
+  "generation": null,
+  "aka": [
+    "EO"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hyundai_Elexio_001.jpg/960px-Hyundai_Elexio_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Elexio, alternatively the Hyundai EO in China, is a battery electric compact crossover SUV manufactured by Hyundai through its Beijing Hyundai joint venture in China since 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Elexio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hyundai_Elexio_001.jpg/1920px-Hyundai_Elexio_001.jpg",
+  "sketchfab": null
+}

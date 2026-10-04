@@ -1,0 +1,40 @@
+{
+  "id": "renault-kangoo-first-generation-x76",
+  "make": "Nissan",
+  "model": "Renault Kangoo",
+  "generation": "First generation X76",
+  "aka": [
+    "Kubistar",
+    "Kangoo",
+    "Renault Kangoo Trekka",
+    "Renault Kangoo Express Z.E.",
+    "Renault Kangoo Break'Up",
+    "Renault Kangoo Z.E.",
+    "NV250",
+    "Townstar"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/2005_Renault_Kangoo_van.jpg/960px-2005_Renault_Kangoo_van.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Kangoo is a family of minivans built by Renault since 1997 across three generations. It is sold as a passenger multi-purpose vehicle or as a light commercial vehicle. For the European market, the Kangoo is manufactured at the MCA plant in Maubeuge, France.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Kangoo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/2005_Renault_Kangoo_van.jpg/1920px-2005_Renault_Kangoo_van.jpg",
+  "sketchfab": null
+}

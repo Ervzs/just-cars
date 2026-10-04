@@ -1,0 +1,49 @@
+{
+  "id": "subaru-outback-fifth-generation",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Fifth generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016_Subaru_Outback_%28BS9%29_2.5i_Premium_station_wagon_%282018-07-30%29.jpg/960px-2016_Subaru_Outback_%28BS9%29_2.5i_Premium_station_wagon_%282018-07-30%29.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 32,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outback"
+  ],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016_Subaru_Outback_%28BS9%29_2.5i_Premium_station_wagon_%282018-07-30%29.jpg/1920px-2016_Subaru_Outback_%28BS9%29_2.5i_Premium_station_wagon_%282018-07-30%29.jpg",
+  "sketchfab": {
+    "uid": "6d1badf2a3124ebabcfe08077474739e",
+    "name": "Subaru Outback MK5 2014-2019",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

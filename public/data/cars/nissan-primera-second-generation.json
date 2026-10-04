@@ -1,0 +1,32 @@
+{
+  "id": "nissan-primera-second-generation",
+  "make": "Nissan",
+  "model": "Primera",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Nissan_Primera_Traveller1.jpg/960px-Nissan_Primera_Traveller1.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Primera  is a large family car produced by the Japanese carmaker Nissan. It was first produced from 1990 to 2008, for the markets in Japan and Europe. In Japan, it replaced the Auster/Stanza, and was exclusive to Nissan Prince Store locations. In North America, it was the entry level luxury sports sedan for the Infiniti brand, named the G20. The nameplate was revived in 2026 as a battery electric model based on the N7.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Primera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Nissan_Primera_Traveller1.jpg/1920px-Nissan_Primera_Traveller1.jpg",
+  "sketchfab": {
+    "uid": "fd7a7c80e6d949e4bc616e0caaf61ab8",
+    "name": "Nissan Primera (Mk2)(P11) GT 1997",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

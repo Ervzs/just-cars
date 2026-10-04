@@ -1,0 +1,41 @@
+{
+  "id": "nissan-caravan-fourth-generation",
+  "make": "Nissan",
+  "model": "Caravan",
+  "generation": "Fourth generation",
+  "aka": [
+    "Datsun Urvan",
+    "Isuzu Como",
+    "Urvan",
+    "Urvan Escapade",
+    "AI-100",
+    "Homy",
+    "Prince Homy",
+    "King Van"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/NISSAN_CARAVAN.jpg/960px-NISSAN_CARAVAN.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Caravan is a light commercial van designed for use as a fleet vehicle or cargo van and manufactured by Nissan since 1973. Between 1976 and 1999, a rebadged version of the Caravan sold as the Nissan Homy, which was introduced as an independent model in 1965. Outside Japan, the Caravan was also sold as either the Nissan Urvan or Nissan King Van, or earlier with Datsun badging.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Caravan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/NISSAN_CARAVAN.jpg/1920px-NISSAN_CARAVAN.jpg",
+  "sketchfab": null
+}

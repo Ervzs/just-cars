@@ -1,0 +1,33 @@
+{
+  "id": "honda-elysion-second-generation",
+  "make": "Honda",
+  "model": "Elysion",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Honda_Elysion_and_Honda_Odyssey.jpg/960px-Honda_Elysion_and_Honda_Odyssey.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Elysion  is a seven- or eight-seat minivan originally sold in Japan as a competitor to the Toyota Alphard and the Nissan Elgrand. The Honda LaGreat, marketed in the United States as the Honda Odyssey, featured popular styling but was considered impractical in Japan due to its relatively large dimensions. The Elysion was designed with styling cues from the LaGreat but made smaller to be competitive in the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Elysion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Honda_Elysion_and_Honda_Odyssey.jpg/1920px-Honda_Elysion_and_Honda_Odyssey.jpg",
+  "sketchfab": null
+}

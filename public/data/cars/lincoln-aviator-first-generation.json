@@ -1,0 +1,52 @@
+{
+  "id": "lincoln-aviator-first-generation",
+  "make": "Lincoln",
+  "model": "Aviator",
+  "generation": "First generation",
+  "aka": [
+    "Aviator SUV"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/LincolnAviator.jpg/960px-LincolnAviator.jpg",
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 17,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Aviator"
+  ],
+  "description": "The Lincoln Aviator is a mid-size, three-row luxury SUV manufactured and marketed under the Lincoln brand of Ford Motor Company — and now in its second generation, with a hiatus from 2006 to 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Aviator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/LincolnAviator.jpg/1280px-LincolnAviator.jpg",
+  "sketchfab": null
+}

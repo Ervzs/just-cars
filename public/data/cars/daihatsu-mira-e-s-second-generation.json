@@ -1,0 +1,34 @@
+{
+  "id": "daihatsu-mira-e-s-second-generation",
+  "make": "Toyota",
+  "model": "Daihatsu Mira e:S",
+  "generation": "Second generation",
+  "aka": [
+    "Pixis Epoch",
+    "Subaru Pleo Plus"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_LA360A_Pixis_Epoch_X%E2%80%9DSA_lll%E2%80%9D_4WD_D.jpg/960px-Toyota_LA360A_Pixis_Epoch_X%E2%80%9DSA_lll%E2%80%9D_4WD_D.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Mira e:S  is a kei car manufactured by the Japanese automaker Daihatsu as the successor to the original Mira. It was previewed by the \"e:S\" concept car at the 2009 Tokyo Motor Show. The car was introduced to the Japanese market in September 2011. It was also sold by Toyota as the Toyota Pixis Epoch , which was released on 10 May 2012 and by Subaru as the Subaru Pleo Plus , which was released on 21 December 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Mira_e%3AS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_LA360A_Pixis_Epoch_X%E2%80%9DSA_lll%E2%80%9D_4WD_D.jpg/1920px-Toyota_LA360A_Pixis_Epoch_X%E2%80%9DSA_lll%E2%80%9D_4WD_D.jpg",
+  "sketchfab": null
+}

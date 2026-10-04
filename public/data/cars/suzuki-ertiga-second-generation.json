@@ -1,0 +1,45 @@
+{
+  "id": "suzuki-ertiga-second-generation",
+  "make": "Suzuki",
+  "model": "Ertiga",
+  "generation": "Second generation",
+  "aka": [
+    "Maruti Ertiga",
+    "Life Utility Vehicle",
+    "Mazda VX-1",
+    "XL7",
+    "Proton Ertiga",
+    "Proton Ertiga Xtra",
+    "Maruti Suzuki XL6",
+    "XL6"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Suzuki_Ertiga_GL_%28front%29%2C_Central_Surabaya_%28cropped%29.jpg/960px-2019_Suzuki_Ertiga_GL_%28front%29%2C_Central_Surabaya_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Ertiga is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Suzuki since 2012, designed primarily for emerging markets. The first generation was heavily based on the second-generation Swift while the second generation introduced in 2018 is made larger and based on the HEARTECT platform. A crossover-styled version was introduced in 2019 as a separate model called the Suzuki XL6 in India and Suzuki XL7 for worldwide markets. The largest markets for the Ertiga are India and Indonesia, where the model is mainly manufactured. The vehicle has also been exported to other South Asian and Southeast Asian markets, along with several markets in Africa, Middle East, Pacific Islands, Caribbean and Latin America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ertiga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Suzuki_Ertiga_GL_%28front%29%2C_Central_Surabaya_%28cropped%29.jpg/1920px-2019_Suzuki_Ertiga_GL_%28front%29%2C_Central_Surabaya_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "4f14afac3ac44ec4a2fb153e18452f8b",
+    "name": "2022 Suzuki Ertiga",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

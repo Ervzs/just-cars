@@ -2,6 +2,8 @@
   "id": "isuzu-axiom",
   "make": "Isuzu",
   "model": "Axiom",
+  "generation": null,
+  "aka": [],
   "years": [
     2002,
     2003,
@@ -24,6 +26,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Axiom"
+  ],
   "description": "The Isuzu Axiom is a mid-size SUV introduced by Isuzu in 2001 for the 2002 model year. The Axiom is derived from the Isuzu Rodeo and was intended to be Isuzu's response to the popularity of car-based SUVs, such as the Toyota Highlander, replacing the Trooper as Isuzu's flagship vehicle in the United States.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Axiom",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Isuzu--Axiom.jpg/1920px-Isuzu--Axiom.jpg",

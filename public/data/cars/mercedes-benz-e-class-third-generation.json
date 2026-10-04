@@ -1,0 +1,50 @@
+{
+  "id": "mercedes-benz-e-class-third-generation",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "generation": "Third generation",
+  "aka": [
+    "Mercedes E500",
+    "Mercedes Benz E-class",
+    "Mercedes E-class",
+    "Mercedes E55",
+    "E63 AMG",
+    "Mercedes E",
+    "MB E-Class",
+    "Mercedes Benz E"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Diesel",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2006_Mercedes-Benz_E_500_%28W_211_MY07%29_Avantgarde_sedan_%282015-07-09%29_01.jpg/960px-2006_Mercedes-Benz_E_500_%28W_211_MY07%29_Avantgarde_sedan_%282015-07-09%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "E-Class"
+  ],
+  "description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by German automaker Mercedes-Benz in various engine and body configurations. Produced since September 1953, the E-Class falls as a midrange in the Mercedes line-up, and has been marketed worldwide across five generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2006_Mercedes-Benz_E_500_%28W_211_MY07%29_Avantgarde_sedan_%282015-07-09%29_01.jpg/1920px-2006_Mercedes-Benz_E_500_%28W_211_MY07%29_Avantgarde_sedan_%282015-07-09%29_01.jpg",
+  "sketchfab": null
+}

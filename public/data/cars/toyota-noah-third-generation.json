@@ -1,0 +1,35 @@
+{
+  "id": "toyota-noah-third-generation",
+  "make": "Toyota",
+  "model": "Noah",
+  "generation": "Third generation",
+  "aka": [
+    "Voxy",
+    "Noah G Sports Concept",
+    "Voxy G Sports Concept",
+    "Esquire",
+    "NAV1"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TOYOTA_NOAH_R80_MACAU.jpg/960px-TOYOTA_NOAH_R80_MACAU.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Noah  is a minivan with two rear sliding doors built by Toyota and sold mainly in Asian countries. It is positioned below the Alphard, and above the Sienta. The Noah was also positioned below the Estima until the latter was discontinued in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Noah",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TOYOTA_NOAH_R80_MACAU.jpg/1920px-TOYOTA_NOAH_R80_MACAU.jpg",
+  "sketchfab": null
+}

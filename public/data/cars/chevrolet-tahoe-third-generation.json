@@ -1,0 +1,57 @@
+{
+  "id": "chevrolet-tahoe-third-generation",
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "generation": "Third generation",
+  "aka": [
+    "GMC Yukon",
+    "Chevy Tahoe",
+    "GMC Yukon Denali",
+    "Tahoe Hybrid",
+    "GMC Yukon Hybrid",
+    "Grand Blazer",
+    "Sonora",
+    "GMC Yukon Denali Hybrid"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "5.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/07-Chevrolet-Tahoe.jpg/960px-07-Chevrolet-Tahoe.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "5.3L 8-cyl",
+    "displacementL": 5.3,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tahoe",
+    "Yukon"
+  ],
+  "description": "The Chevrolet Tahoe is a line of full-size SUVs from Chevrolet, marketed since the 1995 model year. Marketed alongside the GMC Yukon for its entire production, the Tahoe is the successor to the Chevrolet K5 Blazer, while the Yukon replaced the full-sized GMC Jimmy. Both trucks derive their nameplates from western North America, with Tahoe referring to Lake Tahoe and Yukon referring to the Canadian Yukon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Tahoe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/07-Chevrolet-Tahoe.jpg/1920px-07-Chevrolet-Tahoe.jpg",
+  "sketchfab": {
+    "uid": "a11d407e141b4a88b2a424060075e357",
+    "name": "Chevrolet Tahoe 2007",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

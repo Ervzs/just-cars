@@ -1,0 +1,39 @@
+{
+  "id": "perodua-myvi-third-generation",
+  "make": "Perodua",
+  "model": "Myvi",
+  "generation": "Third generation",
+  "aka": [
+    "Myvi SE"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Perodua_Myvi_1.3_G_in_Malaysia_%281%29.jpg/960px-Perodua_Myvi_1.3_G_in_Malaysia_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Perodua Myvi is a subcompact car/supermini (B-segment) produced by the Malaysian manufacturer Perodua since 2005. Based on the Daihatsu Boon, the Myvi is the result of Perodua's collaboration with both Toyota and Daihatsu. However, the third generation Myvi was entirely designed and made in Malaysia, thus not being based on the third generation Boon. The Myvi was the best-selling car in Malaysia for nine consecutive years, between 2006 and 2014, and again between the years 2018 and 2022. The Myvi has been Malaysia's best-selling car for 14 years since its first full year of sales in 2006. By the end of 2024, the Myvi reached 1.487 million units sold since the launch of its first generation in 2005 as Perodua's best-selling nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perodua_Myvi",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Perodua_Myvi_1.3_G_in_Malaysia_%281%29.jpg/1920px-Perodua_Myvi_1.3_G_in_Malaysia_%281%29.jpg",
+  "sketchfab": {
+    "uid": "c70c938fdd2640449a79af07aec2e257",
+    "name": "Low Poly Purple Perodua Myvi Car",
+    "author": "terrancehah",
+    "authorUrl": "https://sketchfab.com/terrancehah",
+    "license": "CC Attribution"
+  }
+}

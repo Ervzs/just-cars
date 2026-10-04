@@ -1,0 +1,49 @@
+{
+  "id": "bmw-3-series-fifth-generation",
+  "make": "BMW",
+  "model": "3 Series",
+  "generation": "Fifth generation",
+  "aka": [
+    "330ci",
+    "3",
+    "300",
+    "300 Series",
+    "330i",
+    "325i",
+    "325ci",
+    "330xi"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg/960px-2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "3 Series"
+  ],
+  "description": "The BMW 3 series is a line of compact executive cars manufactured by the German automaker BMW since May 1975. It is the successor to the 02 series and has been produced in eight generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_3_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg/1920px-2005-2008_BMW_320i_%28E90%29_sedan_%282011-07-17%29_01.jpg",
+  "sketchfab": null
+}

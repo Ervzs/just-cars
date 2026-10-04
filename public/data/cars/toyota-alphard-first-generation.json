@@ -1,0 +1,39 @@
+{
+  "id": "toyota-alphard-first-generation",
+  "make": "Toyota",
+  "model": "Alphard",
+  "generation": "First generation",
+  "aka": [
+    "Vellfire",
+    "Alphard Hybrid",
+    "Hybrid Alphard",
+    "Crown Vellfire",
+    "Vellfire Spacious Lounge Concept"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Toyota_Alphard_%28first_generation%29_%28front%2C_white%29%2C_Serdang.jpg/960px-Toyota_Alphard_%28first_generation%29_%28front%2C_white%29%2C_Serdang.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Alphard  is a large MPV produced by the Japanese automaker Toyota since 2002. It is available as a seven or eight-seater with petrol and hybrid engine options. Hybrid variants have been available since 2003, which incorporates Toyota's Hybrid Synergy Drive technology. It is Toyota's flagship MPV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Alphard",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Toyota_Alphard_%28first_generation%29_%28front%2C_white%29%2C_Serdang.jpg/1920px-Toyota_Alphard_%28first_generation%29_%28front%2C_white%29%2C_Serdang.jpg",
+  "sketchfab": {
+    "uid": "e3bfc932fb7144f59b0838facab31365",
+    "name": "2003 Toyota Alphard G MZ",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

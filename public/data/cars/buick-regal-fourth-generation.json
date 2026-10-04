@@ -1,0 +1,52 @@
+{
+  "id": "buick-regal-fourth-generation",
+  "make": "Buick",
+  "model": "Regal",
+  "generation": "Fourth generation",
+  "aka": [
+    "Grand National",
+    "GNX",
+    "Regal GNX",
+    "Regal Grand National",
+    "Regal GN",
+    "Regal TourX",
+    "Grand National Experimental"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Buick_Regal.jpg/960px-Buick_Regal.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Regal"
+  ],
+  "description": "The Buick Regal is a line of mid-size cars marketed by Buick since 1973. Serving as the premium mid-size/intermediate car of the Buick product range for nearly its entire production, the Regal initially served as the divisional counterpart of the Pontiac Grand Prix and Oldsmobile Cutlass Supreme; since the late 2000s, the model line has been derived from the European Opel Insignia. The Regal also serves as the basis of the high-performance Grand National, Gran Sport (GS), and Buick GNX coupes.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Regal",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Buick_Regal.jpg/960px-Buick_Regal.jpg",
+  "sketchfab": null
+}

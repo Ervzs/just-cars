@@ -2,6 +2,10 @@
   "id": "bentley-arnage",
   "make": "Bentley",
   "model": "Arnage",
+  "generation": null,
+  "aka": [
+    "Arnage R"
+  ],
   "years": [
     2000,
     2001,
@@ -31,6 +35,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "Arnage"
+  ],
   "description": "The Bentley Arnage is a full-size luxury car manufactured by Bentley Motors in Crewe, England, and marketed from 1998 to 2009. The Arnage and its Rolls-Royce-branded sibling, the Silver Seraph, were introduced in the spring of 1998. They were the first entirely new designs for the two marques since 1980.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Arnage",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bentley_Arnage_R_%28Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bentley_Arnage_R_%28Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg",

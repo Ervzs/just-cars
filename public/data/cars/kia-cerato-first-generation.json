@@ -1,0 +1,26 @@
+{
+  "id": "kia-cerato-first-generation",
+  "make": "Kia",
+  "model": "Cerato",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2004-2006_Kia_Spectra5_--_09-12-2010.jpg/960px-2004-2006_Kia_Spectra5_--_09-12-2010.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Cerato is a compact car produced by the South Korean manufacturer Kia since 2003. In 2008, the Cerato nameplate was replaced by the Forte nameplate in the North American market and the K3 nameplate in South Korea. However, the \"Cerato\" name remains in use in markets such as Australasia, Middle East and Latin America. It is available in five-door hatchback, two-door coupe and four-door sedan variants. It is not available in Europe, where the similar sized Kia Ceed is offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cerato",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2004-2006_Kia_Spectra5_--_09-12-2010.jpg/1280px-2004-2006_Kia_Spectra5_--_09-12-2010.jpg",
+  "sketchfab": null
+}

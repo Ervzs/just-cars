@@ -1,0 +1,51 @@
+{
+  "id": "subaru-legacy-fourth-generation",
+  "make": "Subaru",
+  "model": "Legacy",
+  "generation": "Fourth generation",
+  "aka": [
+    "Liberty",
+    "Legacy RS",
+    "B4",
+    "Legacy WRX STi",
+    "Liberty GT"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Subaru_Legacy_%2839143648180%29.jpg/960px-Subaru_Legacy_%2839143648180%29.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Legacy/Outback"
+  ],
+  "description": "The Subaru Legacy  is a mid-size car built by Japanese automobile manufacturer Subaru from 1989 to 2025. The maker's flagship car, it is unique in its class for offering all-wheel drive as a standard feature, and Subaru's traditional boxer engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Legacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Subaru_Legacy_%2839143648180%29.jpg/1920px-Subaru_Legacy_%2839143648180%29.jpg",
+  "sketchfab": {
+    "uid": "9667a67a339c4664bcc899a30bc19fb9",
+    "name": "2005 Subaru Legacy B4",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

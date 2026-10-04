@@ -1,0 +1,34 @@
+{
+  "id": "toyota-crown-thirteenth-generation",
+  "make": "Toyota",
+  "model": "Crown",
+  "generation": "Thirteenth generation",
+  "aka": [
+    "Toyopet Crown",
+    "Master Line",
+    "Crown S180",
+    "Crown Athlete",
+    "Crown Hybrid",
+    "Crown Royal",
+    "RS",
+    "Crown Eight"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2008_Toyota_Crown-Royal_02.jpg/960px-2008_Toyota_Crown-Royal_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown  is an automobile which has been produced by Toyota in Japan since 1955. It is primarily a line of executive cars that is marketed as an upscale offering in the Toyota lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2008_Toyota_Crown-Royal_02.jpg/1280px-2008_Toyota_Crown-Royal_02.jpg",
+  "sketchfab": null
+}

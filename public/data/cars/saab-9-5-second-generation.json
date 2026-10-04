@@ -1,0 +1,47 @@
+{
+  "id": "saab-9-5-second-generation",
+  "make": "Saab",
+  "model": "9-5",
+  "generation": "Second generation",
+  "aka": [
+    "9-5 Aero BioPower",
+    "9-5 Wagon BioPower",
+    "9-5 E100",
+    "9-5 Aero"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Gasoline or E85",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Saab_9-5_2.0_Turbo4_%28cropped%29.jpg/960px-2011_Saab_9-5_2.0_Turbo4_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "9-5"
+  ],
+  "description": "The Saab 9-5 is an executive car, manufactured and marketed by Saab from 1997 to 2012, across two generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saab_9-5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Saab_9-5_2.0_Turbo4_%28cropped%29.jpg/1280px-2011_Saab_9-5_2.0_Turbo4_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "cbd20dc7ecd741408e33a129dea36231",
+    "name": "2010 Saab 9-5",
+    "author": "MercVision",
+    "authorUrl": "https://sketchfab.com/memegodlol40",
+    "license": "Free Standard"
+  }
+}

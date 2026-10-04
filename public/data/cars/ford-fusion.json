@@ -2,6 +2,8 @@
   "id": "ford-fusion",
   "make": "Ford",
   "model": "Fusion",
+  "generation": null,
+  "aka": [],
   "years": [
     2006,
     2007,
@@ -36,6 +38,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "Fusion"
+  ],
   "description": "The Ford Fusion is an automobile nameplate by Ford.Ford Fusion (Americas), mid-size car produced between the 2006 and 2020 model years\nFord Fusion Hybrid, gasoline-electric hybrid powered version\nFord Fusion Energi, plug-in hybrid version\nFord Fusion (Europe), mini MPV produced from 2002 to 2012 and sold in Europe",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Fusion",
   "image": null,

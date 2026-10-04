@@ -1,0 +1,45 @@
+{
+  "id": "volkswagen-touareg-third-generation",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "generation": "Third generation",
+  "aka": [
+    "VW Touareg",
+    "Touareg R50",
+    "Race Touareg",
+    "Touraeg",
+    "R50",
+    "Toaureg R50",
+    "Toaureg",
+    "VW Toaureg"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Volkswagen_Touareg_R_IMG_5649.jpg/960px-Volkswagen_Touareg_R_IMG_5649.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volkswagen Touareg is a mid-size luxury crossover SUV produced by Volkswagen from August 2002 until March 2026. The vehicle takes its name from the nomadic Tuareg people, inhabitants of the Saharan interior in North Africa. It served as Volkswagen's flagship SUV throughout its production life and was built exclusively at the Volkswagen Bratislava Plant in Slovakia, with CKD assembly in Malaysia commencing in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touareg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Volkswagen_Touareg_R_IMG_5649.jpg/1920px-Volkswagen_Touareg_R_IMG_5649.jpg",
+  "sketchfab": {
+    "uid": "b5a96219b5644c6994695a12007fb41e",
+    "name": "2024 Volkswagen Touareg R eHybrid",
+    "author": "BloxBloger",
+    "authorUrl": "https://sketchfab.com/BloxBloger",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

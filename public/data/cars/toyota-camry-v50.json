@@ -1,0 +1,48 @@
+{
+  "id": "toyota-camry-v50",
+  "make": "Toyota",
+  "model": "Camry",
+  "generation": "V50",
+  "aka": [
+    "Daihatsu Altis",
+    "Vista",
+    "Jiamei",
+    "Kaimeirui",
+    "Camry Hybrid",
+    "Camary",
+    "Vienta",
+    "Camry CSi"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Toyota_Vista_2000_%28cropped%29.jpg/960px-Toyota_Vista_2000_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camry"
+  ],
+  "description": "The Toyota Camry is an automobile sold internationally by the Japanese auto manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), the Camry has grown since the 1990s to fit the mid-size classification (wide-body)—although the two widths co-existed in that decade. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second \"world car\" after the Corolla. As of 2022, the Camry is positioned above the Corolla and below the Avalon or Crown in several markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Toyota_Vista_2000_%28cropped%29.jpg/1280px-Toyota_Vista_2000_%28cropped%29.jpg",
+  "sketchfab": null
+}

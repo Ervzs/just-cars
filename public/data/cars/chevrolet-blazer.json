@@ -2,6 +2,10 @@
   "id": "chevrolet-blazer",
   "make": "Chevrolet",
   "model": "Blazer",
+  "generation": null,
+  "aka": [
+    "Chevy Blazer"
+  ],
   "years": [
     2000,
     2001,
@@ -36,6 +40,9 @@
     "mpgCombined": 94,
     "evRangeMiles": 283
   },
+  "variants": [
+    "Blazer"
+  ],
   "description": "The Chevrolet Blazer is an automobile nameplate used by General Motors for its Chevrolet brand since 1969 for several SUV models:Full-size Chevrolet K5 Blazer, based on the C/K pickup chassis and built from 1969 to 1995 \nCompact and mid-size Chevrolet S-10 Blazer, based on the S-10 pickup and built from 1983 to 2012\nChevrolet Grand Blazer, sold in Argentina, Brazil and Ecuador from 1990 to 2000\nChevrolet Grand Blazer, full-size sold in Venezuela under the \"Grand Blazer\" name from 1993 to 1999 \nChevrolet Grand Blazer Z71, sold in Venezuela from 2000 to 2002 \nChevrolet Blazer (crossover), a mid-size crossover produced since 2019\nChevrolet Blazer EV, a battery electric mid-size crossover produced since 2023",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Blazer",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg/1920px-1979_Chevrolet_K5_Blazer_Cheyenne.jpg",

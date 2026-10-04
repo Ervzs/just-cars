@@ -1,0 +1,49 @@
+{
+  "id": "mitsubishi-outlander-fourth-generation",
+  "make": "Mitsubishi",
+  "model": "Outlander",
+  "generation": "Fourth generation",
+  "aka": [
+    "Evolander",
+    "Outlander Plug-in Hybrid",
+    "Outlander P-HEV"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mitsubishi_Engelberg_Tourer_Genf_2019_1Y7A5813.jpg/960px-Mitsubishi_Engelberg_Tourer_Genf_2019_1Y7A5813.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outlander"
+  ],
+  "description": "The Mitsubishi Outlander  is a compact crossover SUV manufactured by Japanese automaker Mitsubishi Motors since 2001. It was originally known as the Mitsubishi Airtrek  when it was introduced in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Outlander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mitsubishi_Engelberg_Tourer_Genf_2019_1Y7A5813.jpg/1920px-Mitsubishi_Engelberg_Tourer_Genf_2019_1Y7A5813.jpg",
+  "sketchfab": {
+    "uid": "bc2dabd5a1454c9f967bdf680102352c",
+    "name": "Mitsubishi Outlander 2022",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

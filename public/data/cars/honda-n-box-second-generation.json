@@ -1,0 +1,33 @@
+{
+  "id": "honda-n-box-second-generation",
+  "make": "Honda",
+  "model": "N-Box",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Honda_N-BOX_Custom_G%E3%83%BBL_Turbo_Honda_SENSING_%28DBA-JF3%29_front.jpg/960px-Honda_N-BOX_Custom_G%E3%83%BBL_Turbo_Honda_SENSING_%28DBA-JF3%29_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-Box  is a kei car produced by Honda since 2011 over three generations. A Japanese domestic market vehicle, the N-Box is a five-door minivan with a front-mounted engine and either front-wheel drive or four-wheel drive. Together with the N-WGN, N-One and N-Van, it is part of the renewed N lineup of kei class city cars from Honda. The \"N\" prefix was previously used for the late 1960s and 1970s N360; originally it stood for norimono which loosely translates to vehicle. For the new N lineup, the \"N\" represented New, Next, Nippon, and Norimono.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-Box",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Honda_N-BOX_Custom_G%E3%83%BBL_Turbo_Honda_SENSING_%28DBA-JF3%29_front.jpg/1920px-Honda_N-BOX_Custom_G%E3%83%BBL_Turbo_Honda_SENSING_%28DBA-JF3%29_front.jpg",
+  "sketchfab": {
+    "uid": "3621dada3eb040819b135be01439fb4f",
+    "name": "2017 Honda N-Box",
+    "author": "ActsOfDoge",
+    "authorUrl": "https://sketchfab.com/ActsOfDoge",
+    "license": "Free Standard"
+  }
+}

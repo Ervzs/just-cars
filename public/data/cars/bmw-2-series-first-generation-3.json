@@ -1,0 +1,50 @@
+{
+  "id": "bmw-2-series-first-generation-3",
+  "make": "BMW",
+  "model": "2 Series",
+  "generation": "First generation",
+  "aka": [
+    "2",
+    "M235i Racing",
+    "220i",
+    "216i",
+    "218i",
+    "225i",
+    "M235i",
+    "M240i Racing"
+  ],
+  "years": [
+    2019,
+    2020
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/BMW_F44_IMG_6269.jpg/960px-BMW_F44_IMG_6269.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "2 Series"
+  ],
+  "description": "The BMW 2 Series is a range of subcompact executive cars (C-segment) manufactured by BMW since the year 2014. The 2 Series was created when BMW spun-off the 2-door models of the BMW 1 Series into a separate series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_2_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/BMW_F44_IMG_6269.jpg/1920px-BMW_F44_IMG_6269.jpg",
+  "sketchfab": {
+    "uid": "ddd69ee58ab34a8fbbbfafc9ba6d6358",
+    "name": "2020 BMW 2-Series",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nissan-pulsar-c13",
+  "make": "Nissan",
+  "model": "Pulsar",
+  "generation": "C13",
+  "aka": [
+    "Langley",
+    "Datsun 310",
+    "Sunny GTI-R",
+    "liberta villa",
+    "Pulsar GTI-R",
+    "GTI-R",
+    "Sabre",
+    "Pulsar Milano"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2018_Nissan_Pulsar_Tekna_DIG-T_CVT_1.2_Front.jpg/960px-2018_Nissan_Pulsar_Tekna_DIG-T_CVT_1.2_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Pulsar  is a line of automobiles produced by the Japanese automaker Nissan from 1978 until 2000, when it was replaced by the Nissan Bluebird Sylphy in the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Pulsar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2018_Nissan_Pulsar_Tekna_DIG-T_CVT_1.2_Front.jpg/1920px-2018_Nissan_Pulsar_Tekna_DIG-T_CVT_1.2_Front.jpg",
+  "sketchfab": {
+    "uid": "bcc1e3520b7548b6bcbd84f9839f8c9e",
+    "name": "Nissan Pulsar/Sunny N13 (PS 1 Low-poly)",
+    "author": "aleko2144",
+    "authorUrl": "https://sketchfab.com/aleko2144",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "kia-rio-first-generation",
+  "make": "Kia",
+  "model": "Rio",
+  "generation": "First generation",
+  "aka": [
+    "Rio Cinco",
+    "New Pride",
+    "K2",
+    "KX Cross",
+    "Tonic"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2003-2005_Kia_Rio_sedan.jpg/960px-2003-2005_Kia_Rio_sedan.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rio"
+  ],
+  "description": "The Kia Rio is a subcompact car manufactured by Kia, produced from 1999 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Rio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2003-2005_Kia_Rio_sedan.jpg/1920px-2003-2005_Kia_Rio_sedan.jpg",
+  "sketchfab": {
+    "uid": "1d15d88e284b4a039cbd104ae5f5f285",
+    "name": "Kia Rio 1999 Hatch",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

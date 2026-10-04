@@ -2,27 +2,36 @@
   "id": "plymouth-prowler",
   "make": "Plymouth",
   "model": "Prowler",
+  "generation": null,
+  "aka": [
+    "Howler",
+    "Chrysler Prowler"
+  ],
   "years": [
     2000,
-    2001
+    2001,
+    2002
   ],
   "vehicleClass": "Two Seaters",
-  "fuelType": "Premium",
+  "fuelType": "Regular",
   "engine": "3.5L 6-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2000_Plymouth_Prowler_in_Prowler_Black_Clearcoat%2C_Front_Right%2C_06-10-2023.jpg/960px-2000_Plymouth_Prowler_in_Prowler_Black_Clearcoat%2C_Front_Right%2C_06-10-2023.jpg",
   "has3d": true,
-  "representativeYear": 2001,
+  "representativeYear": 2002,
   "specs": {
     "engine": "3.5L 6-cyl",
     "displacementL": 3.5,
     "cylinders": 6,
     "transmission": "Automatic (S4)",
     "drive": "Rear-Wheel Drive",
-    "mpgCity": 15,
+    "mpgCity": 16,
     "mpgHighway": 21,
-    "mpgCombined": 17,
+    "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Prowler"
+  ],
   "description": "The Plymouth Prowler, later the Chrysler Prowler, is a two-door, two-seat sports car, manufactured and marketed by DaimlerChrysler for model years 1997 through 2002. It is widely known for its hand-crafted aluminum bodywork and its retro-hot rod styling with open, Indy racer-style front wheels.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth_Prowler",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2000_Plymouth_Prowler_in_Prowler_Black_Clearcoat%2C_Front_Right%2C_06-10-2023.jpg/1920px-2000_Plymouth_Prowler_in_Prowler_Black_Clearcoat%2C_Front_Right%2C_06-10-2023.jpg",

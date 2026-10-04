@@ -1,0 +1,32 @@
+{
+  "id": "nissan-x-trail-first-generation",
+  "make": "Nissan",
+  "model": "X-Trail",
+  "generation": "First generation",
+  "aka": [
+    "X-Trail FCHV",
+    "Dongfeng Fengdu MX6",
+    "Fengdu MX6"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2001-2003_Nissan_X-Trail_%28T30%29_ST_wagon_%282018-08-31%29_02.jpg/960px-2001-2003_Nissan_X-Trail_%28T30%29_ST_wagon_%282018-08-31%29_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan X-Trail  is a compact crossover SUV produced by the Japanese automaker Nissan since 2000, replacing the Rasheen and Terrano II. Since 2018, it is positioned between the Qashqai and the larger Murano.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2001-2003_Nissan_X-Trail_%28T30%29_ST_wagon_%282018-08-31%29_02.jpg/1920px-2001-2003_Nissan_X-Trail_%28T30%29_ST_wagon_%282018-08-31%29_02.jpg",
+  "sketchfab": null
+}

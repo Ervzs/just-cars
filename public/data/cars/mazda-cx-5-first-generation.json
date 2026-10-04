@@ -1,0 +1,39 @@
+{
+  "id": "mazda-cx-5-first-generation",
+  "make": "Mazda",
+  "model": "CX-5",
+  "generation": "First generation",
+  "aka": [
+    "Minagi"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Mazda_CX-5_2.0_SKYACTIV-G_AWD_Sports-Line_%E2%80%93_Heckansicht%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg/960px-Mazda_CX-5_2.0_SKYACTIV-G_AWD_Sports-Line_%E2%80%93_Heckansicht%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 32,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CX-5"
+  ],
+  "description": "The Mazda CX-5 is a compact crossover SUV produced by Mazda since 2012, a successor to both the Tribute and the slightly larger CX-7. It is Mazda's first model to feature the \"Kodo\" design language and the first model to be fully developed with a range of technologies branded as Skyactiv, including a rigid, lightweight platform combined with a series of engines and transmissions to reduce emissions and fuel consumption. It debuted in 2011.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Mazda_CX-5_2.0_SKYACTIV-G_AWD_Sports-Line_%E2%80%93_Heckansicht%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg/1920px-Mazda_CX-5_2.0_SKYACTIV-G_AWD_Sports-Line_%E2%80%93_Heckansicht%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

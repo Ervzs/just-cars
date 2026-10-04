@@ -1,0 +1,37 @@
+{
+  "id": "subaru-outback-third-generation-2",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Third generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/3rd_Subaru_Impreza_Outback_Sport.jpg/960px-3rd_Subaru_Impreza_Outback_Sport.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/3rd_Subaru_Impreza_Outback_Sport.jpg/1920px-3rd_Subaru_Impreza_Outback_Sport.jpg",
+  "sketchfab": {
+    "uid": "eb8599f127af496ea415648f45e2249b",
+    "name": "2008 Subaru Outback",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

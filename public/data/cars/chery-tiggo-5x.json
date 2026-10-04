@@ -1,0 +1,46 @@
+{
+  "id": "chery-tiggo-5x",
+  "make": "Chery",
+  "model": "Tiggo 5x",
+  "generation": null,
+  "aka": [
+    "DR 5.0",
+    "Tiggo e",
+    "Tiggo 4",
+    "Tiggo 4 Pro",
+    "Tiggo Cross",
+    "DR 4.0",
+    "Sportequipe 5",
+    "Tenet 3XT"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2018_Chery_Tiggo_5x%2C_front_8.6.18.jpg/960px-2018_Chery_Tiggo_5x%2C_front_8.6.18.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Tiggo 5x, also known in most global markets as the Chery Tiggo 4, is a subcompact crossover SUV produced by the Chinese automaker Chery Automobile since 2017. It is the fifth model of the company's Tiggo crossover product series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Tiggo_5x",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2018_Chery_Tiggo_5x%2C_front_8.6.18.jpg/1920px-2018_Chery_Tiggo_5x%2C_front_8.6.18.jpg",
+  "sketchfab": {
+    "uid": "56d2057fc0a442db9a972fb61ed7ca70",
+    "name": "Chery Tiggo 5X",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

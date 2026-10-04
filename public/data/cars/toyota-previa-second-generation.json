@@ -1,0 +1,34 @@
+{
+  "id": "toyota-previa-second-generation",
+  "make": "Toyota",
+  "model": "Previa",
+  "generation": "Second generation",
+  "aka": [
+    "Estima",
+    "Emina",
+    "Lucida",
+    "Estima Hybrid",
+    "Estima Lucida",
+    "Zhonglian"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Toyota_Estima_Aeras_in_White_Pearl_Mica%2C_front_left.jpg/960px-Toyota_Estima_Aeras_in_White_Pearl_Mica%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Previa, also known as the Toyota Estima  in Japan, and Toyota Tarago in Australia, is a minivan that was produced by Toyota from 1990 until October 2019 across three generations. The Previa was the second largest minivan in Toyota's lineup in Japan after the bigger and more luxurious Alphard/Vellfire.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Previa",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Toyota_Estima_Aeras_in_White_Pearl_Mica%2C_front_left.jpg/1920px-Toyota_Estima_Aeras_in_White_Pearl_Mica%2C_front_left.jpg",
+  "sketchfab": null
+}

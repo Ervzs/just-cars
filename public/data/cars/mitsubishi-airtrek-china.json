@@ -1,0 +1,27 @@
+{
+  "id": "mitsubishi-airtrek-china",
+  "make": "Mitsubishi",
+  "model": "Airtrek (China)",
+  "generation": null,
+  "aka": [
+    "Airtrek EV",
+    "Airtrek"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MITSUBISHI_AIRTREK_%28CHINA%29_%282%29.jpg/960px-MITSUBISHI_AIRTREK_%28CHINA%29_%282%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Airtrek is a battery-electric compact crossover SUV produced by GAC Mitsubishi, a joint venture of Guangzhou Automobile Corporation and Mitsubishi Motors from 2021 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Airtrek_(China)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MITSUBISHI_AIRTREK_%28CHINA%29_%282%29.jpg/1920px-MITSUBISHI_AIRTREK_%28CHINA%29_%282%29.jpg",
+  "sketchfab": null
+}

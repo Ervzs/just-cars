@@ -1,0 +1,34 @@
+{
+  "id": "chevrolet-spark-second-generation",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "generation": "Second generation",
+  "aka": [
+    "M3X",
+    "Matiz",
+    "Pontiac Matiz",
+    "Pontiac G2",
+    "Pontiac Matiz G2",
+    "Chevy Spark",
+    "Chevy Joy",
+    "Chevy Matiz"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/20100812_daewoo_matiz_0001.jpg/960px-20100812_daewoo_matiz_0001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet Spark is a city car manufactured by General Motors's subsidiary GM Korea from 1998 to 2022. The vehicle was developed by Daewoo and introduced in 1998 as the Daewoo Matiz. In 2002, General Motors purchased Daewoo Motors, which was marketing the vehicle with several GM marques and nameplates.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Spark",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/20100812_daewoo_matiz_0001.jpg/1920px-20100812_daewoo_matiz_0001.jpg",
+  "sketchfab": null
+}

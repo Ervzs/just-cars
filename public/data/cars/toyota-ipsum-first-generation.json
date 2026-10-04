@@ -1,0 +1,32 @@
+{
+  "id": "toyota-ipsum-first-generation",
+  "make": "Toyota",
+  "model": "Ipsum",
+  "generation": "First generation",
+  "aka": [
+    "Picnic",
+    "Avensis Verso",
+    "Sportsvan",
+    "Avensis Picnic"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/ToyotaPicnicC.jpg/960px-ToyotaPicnicC.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Ipsum, Picnic, or Avensis Verso is a car produced by the Japanese carmaker Toyota from 1995 to 2010. It is a compact MPV with standard three-row seating. The Ipsum, like many Toyota products, was shared as a trio of the Toyota Gaia, and sold only at Japanese Toyota dealerships called Toyota Store, next to the Toyota Carina. The Gaia was unique to Toyopet Store locations, and the Toyota Nadia was sold at Toyota Corolla Store.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Ipsum",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/ToyotaPicnicC.jpg/1920px-ToyotaPicnicC.jpg",
+  "sketchfab": null
+}

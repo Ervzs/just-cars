@@ -1,0 +1,52 @@
+{
+  "id": "ford-thunderbird-eleventh-generation",
+  "make": "Ford",
+  "model": "Thunderbird",
+  "generation": "Eleventh generation",
+  "aka": [
+    "1980-1982 Ford Thunderbird",
+    "1967-1971 Ford Thunderbird",
+    "1977-1979 Ford Thunderbird",
+    "Thunderbird SC",
+    "Super Coupe",
+    "Aerobird",
+    "T-Bird",
+    "78 thunderbird"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2005_Ford_Thunderbird_Hardtop_front_4.28.18.jpg/960px-2005_Ford_Thunderbird_Hardtop_front_4.28.18.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Thunderbird"
+  ],
+  "description": "The Ford Thunderbird is a personal luxury car manufactured and marketed by Ford Motor Company for model years 1955 to 2005, with a hiatus from 1998 to 2001.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Thunderbird",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2005_Ford_Thunderbird_Hardtop_front_4.28.18.jpg/1920px-2005_Ford_Thunderbird_Hardtop_front_4.28.18.jpg",
+  "sketchfab": {
+    "uid": "b9670cfce2b54e65b93ab949290bfcfd",
+    "name": "Day 048: 7th Gen Ford Thunderbird",
+    "author": "uttamg911",
+    "authorUrl": "https://sketchfab.com/uttamg911",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

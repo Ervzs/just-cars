@@ -2,6 +2,13 @@
   "id": "mazda-millenia",
   "make": "Mazda",
   "model": "Millenia",
+  "generation": null,
+  "aka": [
+    "Xedos 9",
+    "Eunos 800",
+    "Millennia",
+    "Amati 500"
+  ],
   "years": [
     2000,
     2001,
@@ -24,6 +31,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Millenia"
+  ],
   "description": "The Mazda Millenia is an automobile manufactured by Mazda in Japan from 1993 to 2002. The Millenia was originally planned as one of the first models for Mazda's proposed luxury brand Amati.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Millenia",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/1998-2000_Mazda_Millenia.jpg/1920px-1998-2000_Mazda_Millenia.jpg",

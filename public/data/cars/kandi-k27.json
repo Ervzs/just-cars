@@ -2,6 +2,11 @@
   "id": "kandi-k27",
   "make": "Kandi",
   "model": "K27",
+  "generation": null,
+  "aka": [
+    "SiTech AEVS",
+    "Lingbao Box"
+  ],
   "years": [
     2021
   ],
@@ -22,6 +27,9 @@
     "mpgCombined": 114,
     "evRangeMiles": 59
   },
+  "variants": [
+    "K27"
+  ],
   "description": "The Kandi K27 is a city car produced by the Chinese manufacturer Kandi Technologies.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kandi_K27",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kandi_K27.jpg/1920px-Kandi_K27.jpg",

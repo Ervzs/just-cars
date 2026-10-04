@@ -1,0 +1,52 @@
+{
+  "id": "kia-carnival-first-generation",
+  "make": "Kia",
+  "model": "Carnival",
+  "generation": "First generation",
+  "aka": [
+    "Sedona",
+    "Hyundai Entourage",
+    "Naza Ria",
+    "Carnival & Sedona",
+    "Grand Carnival"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kia_Carnival_front_20091022.jpg/960px-Kia_Carnival_front_20091022.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sedona"
+  ],
+  "description": "The Kia Carnival is a minivan manufactured by the South Korean automaker Kia since 1998, formerly marketed as the Kia Sedona in North America and several other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carnival",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kia_Carnival_front_20091022.jpg/1920px-Kia_Carnival_front_20091022.jpg",
+  "sketchfab": {
+    "uid": "9d018169a2844af9b02ee0409edeff4c",
+    "name": "KIA Carnival 2002",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

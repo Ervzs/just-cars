@@ -1,0 +1,28 @@
+{
+  "id": "chrysler-voyager-third-generation",
+  "make": "Chrysler",
+  "model": "Voyager",
+  "generation": "Third generation",
+  "aka": [
+    "Lancia Voyager"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1998_Chrysler_Grand_Voyager_%28GH%29_LE_van_%282015-07-10%29_01.jpg/960px-1998_Chrysler_Grand_Voyager_%28GH%29_LE_van_%282015-07-10%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chrysler Voyager is a minivan produced by the Chrysler division of Stellantis. In the current lineup, it is positioned as the lower-end Chrysler minivan, having replaced the Dodge Grand Caravan in 2020, below the Chrysler Pacifica.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Voyager",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1998_Chrysler_Grand_Voyager_%28GH%29_LE_van_%282015-07-10%29_01.jpg/1920px-1998_Chrysler_Grand_Voyager_%28GH%29_LE_van_%282015-07-10%29_01.jpg",
+  "sketchfab": null
+}

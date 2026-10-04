@@ -2,6 +2,10 @@
   "id": "kia-ev3",
   "make": "Kia",
   "model": "EV3",
+  "generation": null,
+  "aka": [
+    "EV3 Concept"
+  ],
   "years": [
     2027
   ],
@@ -9,7 +13,7 @@
   "fuelType": "Electricity",
   "engine": null,
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/960px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2027,
   "specs": {
     "engine": null,
@@ -22,8 +26,17 @@
     "mpgCombined": 103,
     "evRangeMiles": 280
   },
+  "variants": [
+    "EV3"
+  ],
   "description": "The Kia EV3 is a battery electric (C-segment) compact crossover SUV manufactured and marketed by Kia since 2024.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/1920px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "5ce33177bdf34fcfaa0d01cd6ec3515c",
+    "name": "Kia Ev3",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution"
+  }
 }

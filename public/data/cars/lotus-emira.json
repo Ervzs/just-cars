@@ -2,6 +2,10 @@
   "id": "lotus-emira",
   "make": "Lotus",
   "model": "Emira",
+  "generation": null,
+  "aka": [
+    "Emira GT4"
+  ],
   "years": [
     2024,
     2025,
@@ -25,6 +29,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Emira"
+  ],
   "description": "The Lotus Emira is a sports car manufactured by the British company Lotus Cars. It was originally intended to be the firm's final vehicle powered by an internal combustion engine, however this plan has been canceled, and Lotus is now intending to manufacture plug-in hybrids.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Emira",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg/1920px-2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg",

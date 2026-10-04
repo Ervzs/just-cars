@@ -1,0 +1,41 @@
+{
+  "id": "mitsubishi-xpander",
+  "make": "Mitsubishi",
+  "model": "Xpander",
+  "generation": null,
+  "aka": [
+    "Expander",
+    "Xpander Cross",
+    "XM Concept"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2018_Mitsubishi_Xpander_Ultimate_1.5_NC1W_%2820190623%29.jpg/960px-2018_Mitsubishi_Xpander_Ultimate_1.5_NC1W_%2820190623%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Xpander is a compact multi-purpose vehicle (MPV) manufactured by Mitsubishi Motors since 2017. Prominently marketed as a \"crossover MPV\", the vehicle was introduced in July 2017 in Indonesia, where the vehicle was manufactured and sold as a high-volume model. Introductions in other markets started since 2018, and the vehicle is mainly sold in emerging countries in Southeast Asia along with several Latin American, African and Middle Eastern markets. It was the fourth best-selling Mitsubishi Motors model globally in 2018 and 2019, and became its third best-selling model in 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Xpander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2018_Mitsubishi_Xpander_Ultimate_1.5_NC1W_%2820190623%29.jpg/1920px-2018_Mitsubishi_Xpander_Ultimate_1.5_NC1W_%2820190623%29.jpg",
+  "sketchfab": {
+    "uid": "b74c5df4815b45afbf550330ba10ff5b",
+    "name": "Mitsubishi Xpander 2020",
+    "author": "ymp889",
+    "authorUrl": "https://sketchfab.com/ymp889",
+    "license": "CC Attribution"
+  }
+}

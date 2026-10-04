@@ -1,0 +1,28 @@
+{
+  "id": "byd-seal-07-second-generation",
+  "make": "BYD",
+  "model": "Seal 07",
+  "generation": "Second generation",
+  "aka": [
+    "Seal DM-i",
+    "Seal 07 EV",
+    "Seal 7",
+    "Seal 7 DM-i",
+    "Seal 07 DM-i"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_BYD_Seal_DM-i_%28front%29_02.jpg/960px-2023_BYD_Seal_DM-i_%28front%29_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Seal 07, previously the BYD Seal DM-i until 2024, is a full-size sedan manufactured by BYD Auto since 2023. It was only available as a plug-in hybrid known as the Seal 07 DM-i until the 2026 model year, when a battery-electric version known as the Seal 07 EV was introduced.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Seal_07",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_BYD_Seal_DM-i_%28front%29_02.jpg/1920px-2023_BYD_Seal_DM-i_%28front%29_02.jpg",
+  "sketchfab": null
+}

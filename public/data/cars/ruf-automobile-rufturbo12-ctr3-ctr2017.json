@@ -2,6 +2,8 @@
   "id": "ruf-automobile-rufturbo12-ctr3-ctr2017",
   "make": "RUF Automobile",
   "model": "RUFTURBO12/CTR3/CTR2017",
+  "generation": null,
+  "aka": [],
   "years": [
     2019
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "RUFTURBO12/CTR3/CTR2017"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

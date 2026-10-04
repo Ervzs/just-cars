@@ -1,0 +1,46 @@
+{
+  "id": "hyundai-nexo-first-generation",
+  "make": "Hyundai",
+  "model": "Nexo",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Hydrogen",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hyundai_Nexo_%E2%80%93_f_16032019.jpg/960px-Hyundai_Nexo_%E2%80%93_f_16032019.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 59,
+    "mpgHighway": 54,
+    "mpgCombined": 57,
+    "evRangeMiles": 354
+  },
+  "variants": [
+    "Nexo"
+  ],
+  "description": "The Hyundai Nexo is a hydrogen fuel cell powered crossover SUV that was revealed at the 2018 Consumer Electronics Show on 8 January 2018. Replacing the Hyundai Tucson FCEV, the Nexo is the flagship for Hyundai's \"eco car\" portfolio. The car is named after the Danish city Nexø.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Nexo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hyundai_Nexo_%E2%80%93_f_16032019.jpg/1920px-Hyundai_Nexo_%E2%80%93_f_16032019.jpg",
+  "sketchfab": {
+    "uid": "60fc6777280a46a19c7fa664ed7458bb",
+    "name": "Hyundai Nexo 2020",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

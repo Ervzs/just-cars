@@ -1,0 +1,36 @@
+{
+  "id": "cadillac-xt5-second-generation",
+  "make": "Cadillac",
+  "model": "XT5",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/CADILLAC_XT5_SECOND_GENERATION_China.jpg/960px-CADILLAC_XT5_SECOND_GENERATION_China.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XT5"
+  ],
+  "description": "The Cadillac XT5 is a compact luxury crossover SUV manufactured by General Motors. It was introduced at both the Dubai Motor Show and LA Auto Show in November 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XT5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/CADILLAC_XT5_SECOND_GENERATION_China.jpg/1920px-CADILLAC_XT5_SECOND_GENERATION_China.jpg",
+  "sketchfab": null
+}

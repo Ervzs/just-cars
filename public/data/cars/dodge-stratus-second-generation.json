@@ -1,0 +1,49 @@
+{
+  "id": "dodge-stratus-second-generation",
+  "make": "Dodge",
+  "model": "Stratus",
+  "generation": "Second generation",
+  "aka": [
+    "Cloud Cars",
+    "Chrysler Stratus",
+    "Stratus coupe"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/01-03_Dodge_Stratus_sedan.jpg/960px-01-03_Dodge_Stratus_sedan.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Stratus"
+  ],
+  "description": "The Dodge Stratus is a mid-size car introduced by Dodge and Chrysler in December 1994, built on the four-door sedan Chrysler JA platform. Immediately recognized for its design and performance, the Stratus, alongside its platform mates, the Plymouth Breeze and Chrysler Cirrus, gained Car and Driver magazine's \"Ten Best list\" for 1996 and 1997. While initial critical acclaim was high, its ratings eventually declined.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Stratus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/01-03_Dodge_Stratus_sedan.jpg/1280px-01-03_Dodge_Stratus_sedan.jpg",
+  "sketchfab": {
+    "uid": "0b7aaa2618384c35b79d0b9883593a9e",
+    "name": "2004 Dodge Stratus Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

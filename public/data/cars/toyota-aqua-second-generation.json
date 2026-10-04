@@ -1,0 +1,33 @@
+{
+  "id": "toyota-aqua-second-generation",
+  "make": "Toyota",
+  "model": "Aqua",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2024_Toyota_Aqua_X.jpg/960px-2024_Toyota_Aqua_X.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aqua  is a full hybrid electric subcompact/supermini hatchback (B-segment) manufactured and marketed by Toyota since 2011. The nameplate is exclusive to the Japanese domestic market, as the vehicle was exported to overseas markets as the Prius c, leveraging the popularity of the Prius hybrid car nameplate and marketed as the smaller alternative to the Prius liftback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aqua",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2024_Toyota_Aqua_X.jpg/1920px-2024_Toyota_Aqua_X.jpg",
+  "sketchfab": {
+    "uid": "35717c0a1c6e411e93f5b81fb7de0ce7",
+    "name": "Toyota Aqua 2022",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "subaru-legacy-fifth-generation",
+  "make": "Subaru",
+  "model": "Legacy",
+  "generation": "Fifth generation",
+  "aka": [
+    "Liberty",
+    "Legacy RS",
+    "B4",
+    "Legacy WRX STi",
+    "Liberty GT"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2013_Subaru_Liberty_%28MY13%29_2.5i_sedan_%282015-07-16%29_01_%282%29.jpg/960px-2013_Subaru_Liberty_%28MY13%29_2.5i_sedan_%282015-07-16%29_01_%282%29.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Legacy/Outback"
+  ],
+  "description": "The Subaru Legacy  is a mid-size car built by Japanese automobile manufacturer Subaru from 1989 to 2025. The maker's flagship car, it is unique in its class for offering all-wheel drive as a standard feature, and Subaru's traditional boxer engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Legacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2013_Subaru_Liberty_%28MY13%29_2.5i_sedan_%282015-07-16%29_01_%282%29.jpg/1920px-2013_Subaru_Liberty_%28MY13%29_2.5i_sedan_%282015-07-16%29_01_%282%29.jpg",
+  "sketchfab": {
+    "uid": "ac37399c27e64c7c940dad5aca0a567c",
+    "name": "2010 Subaru Legacy 2.5GT tS (BM9)",
+    "author": "ilvskf",
+    "authorUrl": "https://sketchfab.com/ilvskf",
+    "license": "CC Attribution"
+  }
+}

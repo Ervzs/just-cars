@@ -1,0 +1,49 @@
+{
+  "id": "nissan-murano-third-generation",
+  "make": "Nissan",
+  "model": "Murano",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2015_Nissan_Murano_SL_in_Pacific_Sunset%2C_front_left_%28Sands_Point%29.jpg/960px-2015_Nissan_Murano_SL_in_Pacific_Sunset%2C_front_left_%28Sands_Point%29.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Murano"
+  ],
+  "description": "The Nissan Murano  is a mid-size crossover SUV manufactured and marketed by Nissan since May 2002 for the 2003 model year. The fourth generation was revealed in October 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Murano",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2015_Nissan_Murano_SL_in_Pacific_Sunset%2C_front_left_%28Sands_Point%29.jpg/1920px-2015_Nissan_Murano_SL_in_Pacific_Sunset%2C_front_left_%28Sands_Point%29.jpg",
+  "sketchfab": {
+    "uid": "51b6f9e6f6194645be446e5e14dfddc4",
+    "name": "2015 Nissan Murano Hybrid",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

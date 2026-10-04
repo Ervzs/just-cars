@@ -1,0 +1,50 @@
+{
+  "id": "mini-countryman-third-generation",
+  "make": "MINI",
+  "model": "Countryman",
+  "generation": "Third generation",
+  "aka": [
+    "ALL4",
+    "Countryman Plug-in Hybrid",
+    "Cooper Countryman",
+    "Cooper S E Countryman ALL4 plug-in hybrid",
+    "Crossover",
+    "Countryman Electric"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mini_Countryman_%28U25%29_IMG_9539.jpg/960px-Mini_Countryman_%28U25%29_IMG_9539.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Countryman"
+  ],
+  "description": "The Mini Countryman, also called Mini Crossover in Japan until 2024, is a compact crossover SUV, the first vehicle of this type to be launched by BMW under the Mini marque. It was launched in 2010 and received a facelift in 2014. The second generation vehicle was released in 2017 and received a facelift in 2020. The third generation of the Countryman was released in 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Countryman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mini_Countryman_%28U25%29_IMG_9539.jpg/1920px-Mini_Countryman_%28U25%29_IMG_9539.jpg",
+  "sketchfab": {
+    "uid": "454c3524c39641ac9d55dc91e3b6dfd3",
+    "name": "mini countryman vuiton",
+    "author": "Configcars : maxipano360@gmail.com",
+    "authorUrl": "https://sketchfab.com/maxipub",
+    "license": "CC Attribution"
+  }
+}

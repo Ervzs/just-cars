@@ -2,6 +2,8 @@
   "id": "jaguar-f-pace",
   "make": "Jaguar",
   "model": "F-Pace",
+  "generation": null,
+  "aka": [],
   "years": [
     2017,
     2018,
@@ -31,6 +33,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "F-Pace"
+  ],
   "description": "The Jaguar F-Pace (X761) is a compact luxury crossover SUV that was manufactured by Jaguar Land Rover, a British car manufacturer, under their Jaguar marque. It was the first Jaguar SUV. It was formally announced at the 2015 North American International Auto Show in Detroit, with sales commencing in 2016 following an unveiling at the 2015 International Motor Show Germany in Frankfurt.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_F-Pace",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jaguar_F-Pace_AWD_20d_registered_March_2019_1999cc_01_%28cropped%29.jpg/1920px-Jaguar_F-Pace_AWD_20d_registered_March_2019_1999cc_01_%28cropped%29.jpg",

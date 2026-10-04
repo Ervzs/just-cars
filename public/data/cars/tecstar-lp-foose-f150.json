@@ -2,6 +2,8 @@
   "id": "tecstar-lp-foose-f150",
   "make": "Tecstar, LP",
   "model": "Foose F150",
+  "generation": null,
+  "aka": [],
   "years": [
     2008
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Foose F150"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

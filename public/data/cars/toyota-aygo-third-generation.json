@@ -1,0 +1,28 @@
+{
+  "id": "toyota-aygo-third-generation",
+  "make": "Toyota",
+  "model": "Aygo",
+  "generation": "Third generation",
+  "aka": [
+    "Aygo Crazy"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2024_Toyota_Aygo_X_Pure_VVTi_-_998cc_1.0_%2872PS%29_Petrol_-_Pure_White_-_07-2024%2C_Front.jpg/960px-2024_Toyota_Aygo_X_Pure_VVTi_-_998cc_1.0_%2872PS%29_Petrol_-_Pure_White_-_07-2024%2C_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aygo is a city car (A-segment) marketed by Toyota mainly in the European market between 2005 and 2022 across two generations. The Aygo was first displayed at the 2005 Geneva International Motor Show. It was built alongside the related Citroën C1 and Peugeot 107/108 at the Toyota Peugeot Citroën Automobile Czech (TPCA) joint venture in Kolín, Czech Republic. The Aygo's production ended in 2021 and the model was replaced by the crossover-styled Aygo X.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aygo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2024_Toyota_Aygo_X_Pure_VVTi_-_998cc_1.0_%2872PS%29_Petrol_-_Pure_White_-_07-2024%2C_Front.jpg/1920px-2024_Toyota_Aygo_X_Pure_VVTi_-_998cc_1.0_%2872PS%29_Petrol_-_Pure_White_-_07-2024%2C_Front.jpg",
+  "sketchfab": null
+}

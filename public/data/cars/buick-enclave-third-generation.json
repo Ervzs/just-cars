@@ -1,0 +1,41 @@
+{
+  "id": "buick-enclave-third-generation",
+  "make": "Buick",
+  "model": "Enclave",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2025_Buick_Enclave_front_view_%28cropped%29.jpg/960px-2025_Buick_Enclave_front_view_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Enclave"
+  ],
+  "description": "The Buick Enclave is a three-row full-size crossover SUV produced by General Motors since 2007. It was previewed at the 2006 North American International Auto Show, officially as a concept car, making it the first Lambda vehicle to be displayed. The Enclave is partially based on the Buick Centieme concept shown at the 2003 Detroit Auto Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Enclave",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2025_Buick_Enclave_front_view_%28cropped%29.jpg/1920px-2025_Buick_Enclave_front_view_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "f808133fbb304072bfa176406d65a68c",
+    "name": "3D Scanned Buick Enclave (2025) [Free]",
+    "author": "agent",
+    "authorUrl": "https://sketchfab.com/agentmooshroom5",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nissan-murano-first-generation",
+  "make": "Nissan",
+  "model": "Murano",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Nissan--Murano.jpg/960px-Nissan--Murano.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 23,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Murano"
+  ],
+  "description": "The Nissan Murano  is a mid-size crossover SUV manufactured and marketed by Nissan since May 2002 for the 2003 model year. The fourth generation was revealed in October 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Murano",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Nissan--Murano.jpg/1280px-Nissan--Murano.jpg",
+  "sketchfab": {
+    "uid": "d59ab6027dd84c07a041c09f5bbb4f8e",
+    "name": "2002 Nissan Murano",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

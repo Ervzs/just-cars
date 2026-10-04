@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-camaro-fifth-generation",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Fifth generation",
+  "aka": [
+    "Chevy Camaro",
+    "Camaro Z28",
+    "Camaro B4C",
+    "Camaro Convertible",
+    "Panther",
+    "Chevy Panther",
+    "The Chevrolet Camaro",
+    "Camaro GT"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg/960px-Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 29,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camaro"
+  ],
+  "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet, classified as a pony car. It first went on sale on September 29, 1966, for the 1967 model year, and was designed to compete with the Ford Mustang. The Camaro shared its platform and major components with the Firebird, produced by General Motors' Pontiac division that was also introduced for the 1967 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Camaro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg/1920px-Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "cf2c1a032fa14828b94176ad526821f3",
+    "name": "2012 Chevrolet Camaro ZL1",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

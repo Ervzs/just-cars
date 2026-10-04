@@ -1,0 +1,42 @@
+{
+  "id": "lincoln-navigator-first-generation",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "generation": "First generation",
+  "aka": [
+    "Navigator L",
+    "Navi",
+    "Navigator electric"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2001%E2%80%9302_Lincoln_Navigator_in_College_Park%2C_Maryland_%28December_15%2C_2007%29.jpg/960px-2001%E2%80%9302_Lincoln_Navigator_in_College_Park%2C_Maryland_%28December_15%2C_2007%29.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Navigator"
+  ],
+  "description": "The Lincoln Navigator is a full-size luxury SUV marketed by the Lincoln brand of Ford since the 1998 model year. Sold in North America, it is based on the Ford Expedition. It is the heaviest production Lincoln, the Lincoln with the greatest cargo capacity, and the first non-limousine Lincoln to offer seating for more than six people.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Navigator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2001%E2%80%9302_Lincoln_Navigator_in_College_Park%2C_Maryland_%28December_15%2C_2007%29.jpg/1920px-2001%E2%80%9302_Lincoln_Navigator_in_College_Park%2C_Maryland_%28December_15%2C_2007%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "spyker-c8-second-generation",
+  "make": "Spyker",
+  "model": "C8",
+  "generation": "Second generation",
+  "aka": [
+    "C8 Spyder GT2-R",
+    "C8 Double-12R",
+    "C8 Laviolette GT2-R",
+    "C8 Preliator",
+    "C8 Preliator Spyder"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Spyker_C8_Aileron_%28edit%29.jpg/960px-Spyker_C8_Aileron_%28edit%29.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C8"
+  ],
+  "description": "The Spyker C8 is a sports car produced by the Dutch automaker Spyker Cars since 2000. The design takes visual cues from the 1999 Spyker Silvestris V8 prototype but with changes to the proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spyker_C8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Spyker_C8_Aileron_%28edit%29.jpg/1920px-Spyker_C8_Aileron_%28edit%29.jpg",
+  "sketchfab": null
+}

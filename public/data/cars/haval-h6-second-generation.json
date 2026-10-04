@@ -1,0 +1,36 @@
+{
+  "id": "haval-h6-second-generation",
+  "make": "Haval",
+  "model": "H6",
+  "generation": "Second generation",
+  "aka": [
+    "Havel H6",
+    "Great Wall Haval H6",
+    "H6S",
+    "Great Wall H6",
+    "H6 HEV"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Haval_H6_II_Blue_Label_003.jpg/960px-Haval_H6_II_Blue_Label_003.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H6 is a compact crossover SUV produced by the Chinese manufacturer Great Wall Motor under the Haval marque since 2011. It was introduced at the 2011 Shanghai Auto Show. It produced with both front-wheel-drive and four-wheel-drive drivetrain.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Haval_H6_II_Blue_Label_003.jpg/1920px-Haval_H6_II_Blue_Label_003.jpg",
+  "sketchfab": {
+    "uid": "02cba81d14e441d69c1ed3dc398084ac",
+    "name": "Haval H6 2018",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

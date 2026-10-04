@@ -1,0 +1,31 @@
+{
+  "id": "geely-panda-mini-ev",
+  "make": "Geely",
+  "model": "Panda Mini EV",
+  "generation": null,
+  "aka": [
+    "Geometry M2",
+    "Geometry Panda",
+    "Livan Blue Balloon",
+    "Livan Smurf"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2022_Geely_Panda_Mini_EV_%28front%29.jpg/960px-2022_Geely_Panda_Mini_EV_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Panda Mini EV is a battery electric city car that has been manufactured by Geely Auto since 2022. It was sold under the Geometry marque, but badged as \"Geome\" instead. It made its official debut at a shopping mall in the city of Hangzhou in December 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Panda_Mini_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2022_Geely_Panda_Mini_EV_%28front%29.jpg/1920px-2022_Geely_Panda_Mini_EV_%28front%29.jpg",
+  "sketchfab": null
+}

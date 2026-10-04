@@ -1,0 +1,44 @@
+{
+  "id": "infiniti-qx80-first-generation",
+  "make": "Infiniti",
+  "model": "QX80",
+  "generation": "First generation",
+  "aka": [
+    "QX56",
+    "QX4",
+    "QX4 SUV"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "5.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Infiniti_QX56.jpg/960px-Infiniti_QX56.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "5.6L 8-cyl",
+    "displacementL": 5.6,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "QX56"
+  ],
+  "description": "The Infiniti QX80 is a full-size luxury SUV marketed by Nissan's luxury division Infiniti since the 2004 model year. The first-generation QX56 was built in the United States and is based on the first-generation Armada. The second-generation model was released in 2010 as a model produced in Japan, which used the sixth-generation Patrol as the base vehicle instead. Since the 2014 model year in 2013, the vehicle was renamed to the QX80 as Infiniti renamed their entire product line under a new nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Infiniti_QX56.jpg/1920px-Infiniti_QX56.jpg",
+  "sketchfab": null
+}

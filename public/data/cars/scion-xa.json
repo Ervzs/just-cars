@@ -2,6 +2,8 @@
   "id": "scion-xa",
   "make": "Scion",
   "model": "xA",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005,
@@ -24,6 +26,9 @@
     "mpgCombined": 30,
     "evRangeMiles": null
   },
+  "variants": [
+    "xA"
+  ],
   "description": "The Scion xA is a five-door subcompact hatchback marketed in the US from 2004 to 2006 — as an export model of the Japanese domestic market Toyota Ist. Based on the first generation Toyota Vitz hatchback, the xA shared a platform with the Toyota Platz sedan.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_xA",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/06-Scion-xA.jpg/1920px-06-Scion-xA.jpg",

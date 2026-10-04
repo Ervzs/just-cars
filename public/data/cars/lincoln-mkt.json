@@ -2,6 +2,10 @@
   "id": "lincoln-mkt",
   "make": "Lincoln",
   "model": "MKT",
+  "generation": null,
+  "aka": [
+    "MKF"
+  ],
   "years": [
     2010,
     2011,
@@ -31,6 +35,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "MKT"
+  ],
   "description": "The Lincoln MKT is a full-size luxury crossover SUV with 3-row seating marketed by the Lincoln division of Ford Motor Company over a single generation from 2010-2019. Marketed between the Lincoln MKX and the Lincoln Navigator, the MKT shared its Ford D4 chassis with the Ford Flex CUV and the 2011-2019 Ford Explorer.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKT",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2010_Lincoln_MKT_--_NHTSA_1.jpg/1280px-2010_Lincoln_MKT_--_NHTSA_1.jpg",

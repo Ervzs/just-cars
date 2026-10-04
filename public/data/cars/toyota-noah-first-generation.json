@@ -1,0 +1,33 @@
+{
+  "id": "toyota-noah-first-generation",
+  "make": "Toyota",
+  "model": "Noah",
+  "generation": "First generation",
+  "aka": [
+    "Voxy",
+    "Noah G Sports Concept",
+    "Voxy G Sports Concept",
+    "Esquire",
+    "NAV1"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Toyota_noah_azr60_s_1_f_%28cropped%29.jpg/960px-Toyota_noah_azr60_s_1_f_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Noah  is a minivan with two rear sliding doors built by Toyota and sold mainly in Asian countries. It is positioned below the Alphard, and above the Sienta. The Noah was also positioned below the Estima until the latter was discontinued in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Noah",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Toyota_noah_azr60_s_1_f_%28cropped%29.jpg/960px-Toyota_noah_azr60_s_1_f_%28cropped%29.jpg",
+  "sketchfab": null
+}

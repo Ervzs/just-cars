@@ -1,0 +1,31 @@
+{
+  "id": "nissan-sylphy-fifth-generation",
+  "make": "Nissan",
+  "model": "Sylphy",
+  "generation": "Fifth generation",
+  "aka": [
+    "Bluebird Sylphy",
+    "Dongfeng E11K"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg/960px-Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sylphy  is a compact car produced by the Japanese car maker Nissan since 2000 as the successor to the Nissan Pulsar. The Sylphy has also been marketed in export markets under several other nameplates, including Pulsar, Almera, Sunny and Sentra. For the third-generation model (B17) introduced in 2012, the Sylphy model was merged with the B17 Sentra, meaning it is no longer a standalone model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sylphy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg/1280px-Nissan_Sylphy_%28%E8%BD%A9%E9%80%B8%29_B19_China_2026-03-14.jpg",
+  "sketchfab": {
+    "uid": "74d274c8ad8e49c1b882dca3a199383d",
+    "name": "2020_nissan_sentra_sylphy_remix",
+    "author": "HiQ3D",
+    "authorUrl": "https://sketchfab.com/HiQ3D",
+    "license": "CC Attribution"
+  }
+}

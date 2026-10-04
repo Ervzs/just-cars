@@ -2,6 +2,8 @@
   "id": "pontiac-g6",
   "make": "Pontiac",
   "model": "G6",
+  "generation": null,
+  "aka": [],
   "years": [
     2005,
     2006,
@@ -27,6 +29,9 @@
     "mpgCombined": 25,
     "evRangeMiles": null
   },
+  "variants": [
+    "G6"
+  ],
   "description": "The Pontiac G6 is a mid-size car that was produced by General Motors under the Pontiac brand. It was introduced in 2004 for the 2005 model year to replace the Grand Am.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_G6",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pontiac_G6.jpg/1920px-Pontiac_G6.jpg",

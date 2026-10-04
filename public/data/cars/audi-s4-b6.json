@@ -1,0 +1,45 @@
+{
+  "id": "audi-s4-b6",
+  "make": "Audi",
+  "model": "S4",
+  "generation": "B6",
+  "aka": [
+    "\"S4 25quattro\"",
+    "100 S4"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Audi_S4_Cabriolet_-_Flickr_-_The_Car_Spy_%2823%29.jpg/960px-Audi_S4_Cabriolet_-_Flickr_-_The_Car_Spy_%2823%29.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S4"
+  ],
+  "description": "The Audi S4 is the high performance variant of Audi's compact executive car A4. The original Audi S4, built from 1991 until 1994, was a performance-oriented version of Audi's 100 saloon/sedan. All subsequent S4s, beginning with the \"B5\" platform car in 1997, have been based on the Audi A4; and as the A4 has evolved from one generation to the next, so has the S4. Audi's platform generation names, beginning with \"B5\" in 1997, are used throughout to distinguish between generations/evolutions of these products.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Audi_S4_Cabriolet_-_Flickr_-_The_Car_Spy_%2823%29.jpg/1280px-Audi_S4_Cabriolet_-_Flickr_-_The_Car_Spy_%2823%29.jpg",
+  "sketchfab": {
+    "uid": "2f9cc4c3b9c94d48bcd3cfdb9a27eac8",
+    "name": "Audi S4 B6 2003-2006",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

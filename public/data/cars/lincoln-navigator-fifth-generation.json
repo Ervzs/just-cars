@@ -1,0 +1,45 @@
+{
+  "id": "lincoln-navigator-fifth-generation",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "generation": "Fifth generation",
+  "aka": [
+    "Navigator L",
+    "Navi",
+    "Navigator electric"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2025_Lincoln_Navigator%2C_front_5.16.25.jpg/960px-2025_Lincoln_Navigator%2C_front_5.16.25.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Navigator"
+  ],
+  "description": "The Lincoln Navigator is a full-size luxury SUV marketed by the Lincoln brand of Ford since the 1998 model year. Sold in North America, it is based on the Ford Expedition. It is the heaviest production Lincoln, the Lincoln with the greatest cargo capacity, and the first non-limousine Lincoln to offer seating for more than six people.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Navigator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2025_Lincoln_Navigator%2C_front_5.16.25.jpg/1920px-2025_Lincoln_Navigator%2C_front_5.16.25.jpg",
+  "sketchfab": {
+    "uid": "2a8a0606f0b7454296014ed73333fcee",
+    "name": "Lincoln Navigator",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

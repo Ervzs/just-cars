@@ -1,0 +1,56 @@
+{
+  "id": "volvo-xc90-second-generation",
+  "make": "Volvo",
+  "model": "XC90",
+  "generation": "Second generation",
+  "aka": [
+    "XC90 Plug-in Hybrid",
+    "XC90 PHEV",
+    "XC Classic",
+    "XC90 T8"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_Bright_%28II%2C_Facelift%29_%E2%80%93_f_12102025.jpg/960px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_Bright_%28II%2C_Facelift%29_%E2%80%93_f_12102025.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "XC90"
+  ],
+  "description": "The Volvo XC90 is a mid-size luxury SUV manufactured and marketed by Volvo Cars since 2002 and in its second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_XC90",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_Bright_%28II%2C_Facelift%29_%E2%80%93_f_12102025.jpg/1920px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_Bright_%28II%2C_Facelift%29_%E2%80%93_f_12102025.jpg",
+  "sketchfab": {
+    "uid": "e91e35e356ea456ca2c682efe36360b2",
+    "name": "Volvo XC90 Inscription",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

@@ -2,6 +2,8 @@
   "id": "lucid-gravity",
   "make": "Lucid",
   "model": "Gravity",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2026,
@@ -24,6 +26,9 @@
     "mpgCombined": 108,
     "evRangeMiles": 450
   },
+  "variants": [
+    "Gravity"
+  ],
   "description": "The Lucid Gravity is a battery electric mid-size luxury crossover SUV produced by the American company Lucid Motors since late 2024. It is the brand's first SUV and second vehicle overall, and has a multitude of different features and amentities.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucid_Gravity",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg/1920px-Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg",

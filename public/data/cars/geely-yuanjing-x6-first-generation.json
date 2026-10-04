@@ -1,0 +1,34 @@
+{
+  "id": "geely-yuanjing-x6-first-generation",
+  "make": "Geely",
+  "model": "Yuanjing X6",
+  "generation": "First generation",
+  "aka": [
+    "Vision SUV",
+    "Emgrand EX7",
+    "Englon SX7",
+    "Yuanjing SUV",
+    "Vision X6",
+    "Emgrand X7",
+    "GX7",
+    "Livan X6 Pro"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gleagle_GX7_01_China_2012-06-02.JPG/960px-Gleagle_GX7_01_China_2012-06-02.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Haoyue Pro or the Geely Vision X6, or the Gleagle GX7 is a compact crossover SUV produced by Chinese auto maker Geely Auto. Since its launch in 2012, this model series has undergone multiple renamings and rebrandings.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Yuanjing_X6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gleagle_GX7_01_China_2012-06-02.JPG/1280px-Gleagle_GX7_01_China_2012-06-02.JPG",
+  "sketchfab": null
+}

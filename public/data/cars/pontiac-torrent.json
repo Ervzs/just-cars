@@ -2,6 +2,10 @@
   "id": "pontiac-torrent",
   "make": "Pontiac",
   "model": "Torrent",
+  "generation": null,
+  "aka": [
+    "Torrent GXP"
+  ],
   "years": [
     2006,
     2007,
@@ -25,6 +29,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Torrent"
+  ],
   "description": "The Pontiac Torrent is a mid-size crossover SUV produced by General Motors for the 2006 to 2009 model years. A replacement for the Aztek, it was a mildly restyled version of the first-generation Chevrolet Equinox. The Torrent shared its basic body structure and mechanicals with the Equinox. However, the Torrent had a different front and rear end to distinguish it visually from the Equinox. The suspension was also modified to be firmer and sportier, and the electronic power steering was recalibrated to deliver a firmer, less artificial feel.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Torrent",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pontiac_Torrent_--_08-28-2009.jpg/1280px-Pontiac_Torrent_--_08-28-2009.jpg",

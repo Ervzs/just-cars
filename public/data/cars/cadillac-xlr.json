@@ -2,6 +2,12 @@
   "id": "cadillac-xlr",
   "make": "Cadillac",
   "model": "XLR",
+  "generation": null,
+  "aka": [
+    "XLR-V",
+    "Caddy xlr-v",
+    "XLR V-Series"
+  ],
   "years": [
     2004,
     2005,
@@ -12,21 +18,25 @@
   ],
   "vehicleClass": "Two Seaters",
   "fuelType": "Premium",
-  "engine": "4.6L 8-cyl",
+  "engine": "4.4L 8-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg/960px-Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg",
   "has3d": true,
   "representativeYear": 2009,
   "specs": {
-    "engine": "4.6L 8-cyl",
-    "displacementL": 4.6,
+    "engine": "4.4L 8-cyl",
+    "displacementL": 4.4,
     "cylinders": 8,
     "transmission": "Automatic (S6)",
     "drive": "Rear-Wheel Drive",
-    "mpgCity": 15,
-    "mpgHighway": 24,
-    "mpgCombined": 18,
+    "mpgCity": 14,
+    "mpgHighway": 23,
+    "mpgCombined": 17,
     "evRangeMiles": null
   },
+  "variants": [
+    "XLR",
+    "XLR-V"
+  ],
   "description": "The Cadillac XLR is a convertible car manufactured and marketed by Cadillac from 2003 to 2009 across a single generation. It is a two-seat roadster and has a power retractable hardtop. The XLR was introduced at the 2003 North American International Auto Show as a halo model for Cadillac, and began production for the 2004 model year. The design was inspired by the 1999 Evoq concept.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XLR",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg/1920px-Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg",

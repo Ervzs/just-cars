@@ -1,0 +1,32 @@
+{
+  "id": "toyota-caldina-second-generation",
+  "make": "Toyota",
+  "model": "Caldina",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Toyota_CALDINA_GT-T_%28G-ST215W%29_front.jpg/960px-Toyota_CALDINA_GT-T_%28G-ST215W%29_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Caldina  is an automobile manufactured by Toyota for the Japanese market from 1992 to 2007. It replaced the Corona and Carina wagons, and was sold at Toyota Store and Toyopet Store locations in Japan. While cars bearing the Caldina nameplate have never been officially exported by Toyota, its available 4WD capability and large capacity have made it a popular grey import in Australia, New Zealand, Russia and many South American countries. When it was discontinued in 2007, the T270 series Avensis wagon/estate assumed its market position.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Caldina",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Toyota_CALDINA_GT-T_%28G-ST215W%29_front.jpg/1920px-Toyota_CALDINA_GT-T_%28G-ST215W%29_front.jpg",
+  "sketchfab": {
+    "uid": "7c6be2000c124103a8d95699655d8fec",
+    "name": "Toyota Caldina MK2 1997-2002",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

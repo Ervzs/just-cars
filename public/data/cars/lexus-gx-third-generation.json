@@ -1,0 +1,46 @@
+{
+  "id": "lexus-gx-third-generation",
+  "make": "Lexus",
+  "model": "GX",
+  "generation": "Third generation",
+  "aka": [
+    "GX 470",
+    "GX 460"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg/960px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GX"
+  ],
+  "description": "The Lexus GX  is a mid/full-size luxury SUV sold in North American and Eurasian markets by Lexus, a luxury division of Toyota. The GX is based on the Toyota Land Cruiser Prado, from which it derives its off-road capability.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg",
+  "sketchfab": {
+    "uid": "2c8aadc8d0ea4ec180f758cd1361254b",
+    "name": "2023 Lexus GX 550 h Overtrail",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

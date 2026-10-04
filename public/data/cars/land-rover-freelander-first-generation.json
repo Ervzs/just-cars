@@ -1,0 +1,56 @@
+{
+  "id": "land-rover-freelander-first-generation",
+  "make": "Land Rover",
+  "model": "Freelander",
+  "generation": "First generation",
+  "aka": [
+    "Landrover Freelander",
+    "LR2",
+    "LR Freelander",
+    "Freelnader",
+    "Freelander 2"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2007_Land_Rover_Freelander_TD_2.0_facelift_Front.jpg/960px-2007_Land_Rover_Freelander_TD_2.0_facelift_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LR2",
+    "Freelander"
+  ],
+  "description": "The Land Rover Freelander is a series of four-wheel-drive vehicles that was manufactured and marketed by Land Rover from 1997 to 2015. The second generation was sold from 2007 to 2015 in North America and the Middle East as the LR2 and in Europe as the Freelander 2. The Freelander was sold in both two-wheel and four-wheel drive versions. The name 'Freelander' is derived from the combination of 'Freedom' and 'Lander'.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Land_Rover_Freelander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2007_Land_Rover_Freelander_TD_2.0_facelift_Front.jpg/1920px-2007_Land_Rover_Freelander_TD_2.0_facelift_Front.jpg",
+  "sketchfab": {
+    "uid": "5b90538391b641d48205cc2bae1205db",
+    "name": "Land Rover Freelander MK1 (L314) 1997-2006",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

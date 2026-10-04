@@ -1,0 +1,52 @@
+{
+  "id": "chevrolet-monte-carlo-sixth-generation",
+  "make": "Chevrolet",
+  "model": "Monte Carlo",
+  "generation": "Sixth generation",
+  "aka": [
+    "Monte Carlo SS",
+    "Chevy Monte Carlo",
+    "Monte Carlo Aerocoupe",
+    "1971 Monte Carlo"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2000-2005_Chevrolet_Monte_Carlo_--_10-19-2011.jpg/960px-2000-2005_Chevrolet_Monte_Carlo_--_10-19-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Monte Carlo"
+  ],
+  "description": "The Chevrolet Monte Carlo is a two-door coupe that was manufactured and marketed by the Chevrolet division of General Motors. Deriving its name from the city in Monaco, the Monte Carlo was marketed as the first personal luxury car of the Chevrolet brand. Introduced for the 1970 model year, the model line was produced across six generations through the 2007 model year, with a hiatus from 1989 until 1994. The Monte Carlo was a variant of the Pontiac Grand Prix throughout its production.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Monte_Carlo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2000-2005_Chevrolet_Monte_Carlo_--_10-19-2011.jpg/1280px-2000-2005_Chevrolet_Monte_Carlo_--_10-19-2011.jpg",
+  "sketchfab": {
+    "uid": "a0120e2e1f5d4a97b563565579c07bd4",
+    "name": "2001 Chevrolet Monte Carlo SS Pace Car",
+    "author": "LEON elenaisakova248",
+    "authorUrl": "https://sketchfab.com/elenaisakova248",
+    "license": "CC Attribution"
+  }
+}

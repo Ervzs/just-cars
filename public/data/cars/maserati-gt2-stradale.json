@@ -2,6 +2,8 @@
   "id": "maserati-gt2-stradale",
   "make": "Maserati",
   "model": "GT2 Stradale",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2026
@@ -9,7 +11,7 @@
   "vehicleClass": "Two Seaters",
   "fuelType": "Premium",
   "engine": "3.0L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Maserati_MC20_IAA_2021_1X7A0087.jpg/960px-Maserati_MC20_IAA_2021_1X7A0087.jpg",
+  "thumbnail": null,
   "has3d": true,
   "representativeYear": 2026,
   "specs": {
@@ -23,9 +25,12 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
-  "description": "The Maserati MC20 is a two-seater, rear-mid-engine sports car produced by Italian car manufacturer Maserati.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_MC20",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Maserati_MC20_IAA_2021_1X7A0087.jpg/1920px-Maserati_MC20_IAA_2021_1X7A0087.jpg",
+  "variants": [
+    "GT2 Stradale"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": {
     "uid": "bda1c8e6c61043dab867ab1fa93009a4",
     "name": "2025 Maserati GT2 Stradale",

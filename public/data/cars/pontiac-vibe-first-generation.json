@@ -1,0 +1,42 @@
+{
+  "id": "pontiac-vibe-first-generation",
+  "make": "Pontiac",
+  "model": "Vibe",
+  "generation": "First generation",
+  "aka": [
+    "Toyota Voltz",
+    "Vibe GT"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Int%C3%A9rieur_Pontiac_Vibe_2007_Base.jpg/960px-Int%C3%A9rieur_Pontiac_Vibe_2007_Base.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 31,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Vibe"
+  ],
+  "description": "The Pontiac Vibe is a compact car that was marketed by Pontiac from the 2003 to 2010 model years. The first Pontiac sold only as a station wagon since the Pontiac Safari, the Vibe was the fourth and final GM-branded vehicle to come from the General Motors-Toyota NUMMI joint venture.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Vibe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Int%C3%A9rieur_Pontiac_Vibe_2007_Base.jpg/1920px-Int%C3%A9rieur_Pontiac_Vibe_2007_Base.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "suzuki-dzire-third-generation",
+  "make": "Suzuki",
+  "model": "Dzire",
+  "generation": "Third generation",
+  "aka": [
+    "Maruti Suzuki Swift DZire",
+    "Maruti DZiRE",
+    "Maruti Swift Dzire",
+    "Maruti Suzuki Dzire",
+    "Swift Dzire"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Maruti_Suzuki_Dzire_VXi_VVT_%28front%29.JPG/960px-Maruti_Suzuki_Dzire_VXi_VVT_%28front%29.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Dzire is a subcompact notchback sedan manufactured and marketed by Suzuki since 2008, primarily for India — as a sedan variant of the Swift hatchback over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Dzire",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Maruti_Suzuki_Dzire_VXi_VVT_%28front%29.JPG/1920px-Maruti_Suzuki_Dzire_VXi_VVT_%28front%29.JPG",
+  "sketchfab": {
+    "uid": "95451c00cb2d48778f67d798167e7237",
+    "name": "2022 Maruti Suzuki Swift Dzire",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mercury-mariner-first-generation",
+  "make": "Mercury",
+  "model": "Mariner",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2005-07_Mercury_Mariner.jpg/960px-2005-07_Mercury_Mariner.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mariner"
+  ],
+  "description": "The Mercury Mariner is a compact crossover SUV that was introduced for the 2005 model year. It is a sibling of the Mazda Tribute and Ford Escape, although it is more upmarket than the other two. The Mariner is Mercury's first car-based SUV, and is slotted below the Mountaineer in the lineup. When Ford eliminated the Mercury brand, the Mariner ended production in October 2010.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Mariner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2005-07_Mercury_Mariner.jpg/1280px-2005-07_Mercury_Mariner.jpg",
+  "sketchfab": null
+}

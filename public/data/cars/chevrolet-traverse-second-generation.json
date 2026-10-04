@@ -1,0 +1,47 @@
+{
+  "id": "chevrolet-traverse-second-generation",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "generation": "Second generation",
+  "aka": [
+    "Chevy traverse"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2022_Chevrolet_Traverse_%28facelift%29%2C_front.jpg/960px-2022_Chevrolet_Traverse_%28facelift%29%2C_front.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 9-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Traverse"
+  ],
+  "description": "The Chevrolet Traverse is a full-size crossover SUV with three-row seating built by General Motors produced since the 2009 model year. It is built on the same platform as the GMC Acadia and Buick Enclave, known as the Lambda platform for the first generation, and the C1XX for the second generation. It also shares the C1XX platform with the Cadillac XT6. It is the successor to the TrailBlazer body-on-frame SUV and the Uplander minivan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Traverse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2022_Chevrolet_Traverse_%28facelift%29%2C_front.jpg/1920px-2022_Chevrolet_Traverse_%28facelift%29%2C_front.jpg",
+  "sketchfab": {
+    "uid": "38fcef192b1342449314c5e968542b44",
+    "name": "2023 Chevrolet Traverse RS",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

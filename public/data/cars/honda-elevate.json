@@ -1,0 +1,31 @@
+{
+  "id": "honda-elevate",
+  "make": "Honda",
+  "model": "Elevate",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2026_Honda_WR-V_Prestige_%28Colombia%29_front_view.jpg/960px-2026_Honda_WR-V_Prestige_%28Colombia%29_front_view.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Elevate is a subcompact crossover SUV (B-segment) produced by Honda since 2023. It was introduced in June 2023 in India. It is also marketed in Japan as the Honda WR-V which went on sale in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Elevate",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2026_Honda_WR-V_Prestige_%28Colombia%29_front_view.jpg/1920px-2026_Honda_WR-V_Prestige_%28Colombia%29_front_view.jpg",
+  "sketchfab": {
+    "uid": "0e4eb2c531a647c597f745717c8db68b",
+    "name": "2024 Honda Elevate ZX CVT",
+    "author": "Palma123 JAAT",
+    "authorUrl": "https://sketchfab.com/palma123.jaat",
+    "license": "CC Attribution"
+  }
+}

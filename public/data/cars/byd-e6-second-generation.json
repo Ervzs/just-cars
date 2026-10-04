@@ -1,0 +1,38 @@
+{
+  "id": "byd-e6-second-generation",
+  "make": "BYD",
+  "model": "e6",
+  "generation": "Second generation",
+  "aka": [
+    "E6 electric car",
+    "EV6",
+    "electric car",
+    "e6 fire incidents"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%28SGP-Singapore%29_BYD_e6_SNHxxxxS_2024-03-24.jpg/960px-%28SGP-Singapore%29_BYD_e6_SNHxxxxS_2024-03-24.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD e6 is a battery electric vehicle manufactured by BYD Auto from 2009. Field testing for the first generation model began in China in May 2010 with 40 units operating as taxis in the city of Shenzhen. Sales to the general public began in Shenzhen in October 2011, over two years behind schedule of the originally planned release date of 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_e6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%28SGP-Singapore%29_BYD_e6_SNHxxxxS_2024-03-24.jpg/1920px-%28SGP-Singapore%29_BYD_e6_SNHxxxxS_2024-03-24.jpg",
+  "sketchfab": {
+    "uid": "a30c5e6432a9452fa476c65f43d5e058",
+    "name": "Byd E6",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "honda-pilot-third-generation",
+  "make": "Honda",
+  "model": "Pilot",
+  "generation": "Third generation",
+  "aka": [
+    "MR-V"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2019_Honda_Pilot_EX-L_3.5L_front_1.5.19.jpg/960px-2019_Honda_Pilot_EX-L_3.5L_front_1.5.19.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pilot"
+  ],
+  "description": "The Honda Pilot is a mid-size crossover SUV with three-row seating manufactured by Honda since 2002 for the 2003 model year. Primarily aimed at the North American market, the Pilot is the largest SUV produced by Honda. As of 2025, the Pilot is manufactured in Lincoln, Alabama, and the Pilot was produced in Alliston, Ontario, until April 2007. The first generation Pilot was released in April 2002 as a 2003 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Pilot",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2019_Honda_Pilot_EX-L_3.5L_front_1.5.19.jpg/1920px-2019_Honda_Pilot_EX-L_3.5L_front_1.5.19.jpg",
+  "sketchfab": {
+    "uid": "5c3cceebabf84b89b5d526d4cc4c33dc",
+    "name": "2016 Honda Pilot",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

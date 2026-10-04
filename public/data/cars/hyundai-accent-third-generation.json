@@ -1,0 +1,48 @@
+{
+  "id": "hyundai-accent-third-generation",
+  "make": "Hyundai",
+  "model": "Accent",
+  "generation": "Third generation",
+  "aka": [
+    "Bimantara Cakra",
+    "Verna",
+    "Accent Hybrid",
+    "Solaris",
+    "Accent Evo 3",
+    "Accent GT",
+    "i25",
+    "Dodge Verna"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hyundai_Accent_SR.jpg/960px-Hyundai_Accent_SR.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accent",
+    "Accent/Brio"
+  ],
+  "description": "The Hyundai Accent, or Hyundai Verna is a subcompact car produced by Hyundai. In Australia, the first generation models carried over the Hyundai Excel name used by the Accent's predecessor. The Accent was replaced in 2000 by the Hyundai Verna in South Korea, although most international markets, including the US, retained the \"Accent\" name. The \"Accent\" name is an acronym of Advanced Compact Car of Epoch-making New Technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Accent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hyundai_Accent_SR.jpg/960px-Hyundai_Accent_SR.jpg",
+  "sketchfab": null
+}

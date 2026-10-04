@@ -1,0 +1,31 @@
+{
+  "id": "toyota-porte-first-generation",
+  "make": "Toyota",
+  "model": "Porte",
+  "generation": "First generation",
+  "aka": [
+    "Spade"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2004_Toyota_Porte_%28front%29.jpg/960px-2004_Toyota_Porte_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Porte , the plural Italian word for \"door\", is a mini MPV produced by the Japanese automaker Toyota from 2004 to 2020 that features an electric-powered sliding door on the passenger side, similar in approach to the Isis. The driver's door is of the conventional swing-open type.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Porte",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2004_Toyota_Porte_%28front%29.jpg/1920px-2004_Toyota_Porte_%28front%29.jpg",
+  "sketchfab": null
+}

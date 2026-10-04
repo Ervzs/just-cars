@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-volt-first-generation",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "generation": "First generation",
+  "aka": [
+    "Chevy Volt",
+    "E-Flex System",
+    "GM Volt",
+    "GM´s battery testing lab",
+    "Volt family",
+    "Volt fire incidents",
+    "2016 Chevrolet Volt",
+    "Chevy Volts"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium Gas or Electricity",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2011_Chevrolet_Volt_2_--_04-21-2010.jpg/960px-2011_Chevrolet_Volt_2_--_04-21-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 35,
+    "mpgHighway": 40,
+    "mpgCombined": 37,
+    "evRangeMiles": 380
+  },
+  "variants": [
+    "Volt"
+  ],
+  "description": "The Chevrolet Volt is a plug-in hybrid electric vehicle car that was manufactured across two generations by General Motors, and also marketed in rebadged variants as the Holden Volt in Australia and New Zealand and the Buick Velite 5 in China, and with a different fascia as the Vauxhall Ampera in the United Kingdom and as the Opel Ampera in the remainder of Europe. Volt production ended in February 2019. While similar in some ways to hybrid vehicles, the Chevy Volt is an electric car with an onboard gasoline generator.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Volt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2011_Chevrolet_Volt_2_--_04-21-2010.jpg/1280px-2011_Chevrolet_Volt_2_--_04-21-2010.jpg",
+  "sketchfab": {
+    "uid": "de2b8cea336f4973a86f6fe3d72f25d8",
+    "name": "2011 Chevrolet Volt",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

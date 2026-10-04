@@ -1,0 +1,31 @@
+{
+  "id": "suzuki-baleno-2015-first-generation",
+  "make": "Toyota",
+  "model": "Suzuki Baleno (2015)",
+  "generation": "First generation",
+  "aka": [
+    "Suzuki Baleno and Baleno RS",
+    "Glanza"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2019_Suzuki_Baleno_1.4_%28Indonesia%29_front_view.jpg/960px-2019_Suzuki_Baleno_1.4_%28Indonesia%29_front_view.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Baleno  is a subcompact car produced by the Japanese manufacturer Suzuki in India and some other countries since September 2015 with a hatchback body style.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Baleno_(2015)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2019_Suzuki_Baleno_1.4_%28Indonesia%29_front_view.jpg/1920px-2019_Suzuki_Baleno_1.4_%28Indonesia%29_front_view.jpg",
+  "sketchfab": null
+}

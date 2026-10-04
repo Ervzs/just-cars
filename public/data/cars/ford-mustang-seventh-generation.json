@@ -1,0 +1,51 @@
+{
+  "id": "ford-mustang-seventh-generation",
+  "make": "Ford",
+  "model": "Mustang",
+  "generation": "Seventh generation",
+  "aka": [
+    "Mustang GT",
+    "S-197",
+    "Mustang GT Coupe",
+    "Mustang GT Convertible",
+    "1972 Ford Mustang",
+    "Ronaele Mustang",
+    "Ronaele",
+    "Mustang SVT Cobra R"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ford_Mustang_VII_Sindelfingen_2024_IMG_9164.jpg/960px-Ford_Mustang_VII_Sindelfingen_2024_IMG_9164.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 10-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 33,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mustang"
+  ],
+  "description": "The Ford Mustang is an American automobile manufactured and marketed by Ford since 1964, as Ford's longest nameplate in continuous production. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate. The namesake of the \"pony car\" automobile segment, the Mustang was developed as a highly styled line of sporty coupes and convertibles derived from existing model lines, initially distinguished by its pronounced \"long hood, short deck\" proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Mustang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ford_Mustang_VII_Sindelfingen_2024_IMG_9164.jpg/1920px-Ford_Mustang_VII_Sindelfingen_2024_IMG_9164.jpg",
+  "sketchfab": {
+    "uid": "754d0865531a4ce6a5872afa9bac74ec",
+    "name": "2025 Ford Mustang GTD",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

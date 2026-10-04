@@ -1,0 +1,59 @@
+{
+  "id": "cadillac-cts-third-generation",
+  "make": "Cadillac",
+  "model": "CTS",
+  "generation": "Third generation",
+  "aka": [
+    "CTS-V",
+    "CTC-V",
+    "CTC",
+    "CTW",
+    "CTS V-Series"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Cadillac_CTS_2.0_Turbo_Luxury_%28III%29_%E2%80%93_Frontansicht%2C_5._September_2015%2C_D%C3%BCsseldorf.jpg/960px-Cadillac_CTS_2.0_Turbo_Luxury_%28III%29_%E2%80%93_Frontansicht%2C_5._September_2015%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CTS",
+    "CTS-V"
+  ],
+  "description": "The Cadillac CTS is a luxury car manufactured and marketed by General Motors under the Cadillac brand from 2002 until 2019 across three generations. Initially available as a 4-door sedan using the GM Sigma platform, GM offered the second-generation CTS as a 4-door sedan, 2-door coupe, and 5-door sport wagon, and the third generation as a sedan, using a stretched version of the GM Alpha platform. High performance sedan variants were offered for each generation as the CTS-V, with wagon and coupe variants offered for the second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CTS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Cadillac_CTS_2.0_Turbo_Luxury_%28III%29_%E2%80%93_Frontansicht%2C_5._September_2015%2C_D%C3%BCsseldorf.jpg/1920px-Cadillac_CTS_2.0_Turbo_Luxury_%28III%29_%E2%80%93_Frontansicht%2C_5._September_2015%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "6fdcb0b902474bebaf428eb616df3e30",
+    "name": "2016 Cadillac CTS-V",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nissan-quest-second-generation",
+  "make": "Nissan",
+  "model": "Quest",
+  "generation": "Second generation",
+  "aka": [
+    "Forum"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/99-02_Nissan_Quest.jpg/960px-99-02_Nissan_Quest.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Quest"
+  ],
+  "description": "The Nissan Quest is a minivan that was marketed by Nissan from the 1993 to 2017 model years. The successor for the Japanese-designed Nissan Van and Nissan Axxess, the Quest was the first Japanese-brand minivan developed specifically for the North American market. In a joint venture with Ford Motor Company, the Quest was manufactured alongside the Mercury Villager",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Quest",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/99-02_Nissan_Quest.jpg/960px-99-02_Nissan_Quest.jpg",
+  "sketchfab": null
+}

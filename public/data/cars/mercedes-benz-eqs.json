@@ -2,6 +2,10 @@
   "id": "mercedes-benz-eqs",
   "make": "Mercedes-Benz",
   "model": "EQS",
+  "generation": null,
+  "aka": [
+    "Mercedes EQS"
+  ],
   "years": [
     2022,
     2023,
@@ -27,6 +31,9 @@
     "mpgCombined": 79,
     "evRangeMiles": 312
   },
+  "variants": [
+    "EQS"
+  ],
   "description": "The Mercedes-Benz EQS (V297) is a battery electric full-size luxury liftback produced by German automobile manufacturer Mercedes-Benz Group. Part of the Mercedes-EQ family, it was released in September 2021 in Germany and the fourth quarter of 2021 in the United States.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg/1920px-Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg",

@@ -1,0 +1,36 @@
+{
+  "id": "honda-n-van",
+  "make": "Honda",
+  "model": "N-Van",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2019_Honda_N-Van_G_Honda_Sensing_in_Taffeta_White_II%2C_front_right.jpg/960px-2019_Honda_N-Van_G_Honda_Sensing_in_Taffeta_White_II%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-Van is a microvan produced by Honda for the Japanese market since 2018. Initially only available with a petrol-powered internal combustion engine, a battery electric variant was introduced in 2024. The origin for the vehicle's name expresses \"next generation light van\" proposed by N series as see in the N-One, N-Box, and N-WGN: it is part of a renewed line-up of Kei class city cars. The \"N\" prefix was previously used for the late 1960s and 1970s N360; originally it stood for norimono which loosely translates to vehicle. For the new N lineup, the \"N\" represented New, Next, Nippon, and Norimono.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-Van",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2019_Honda_N-Van_G_Honda_Sensing_in_Taffeta_White_II%2C_front_right.jpg/1920px-2019_Honda_N-Van_G_Honda_Sensing_in_Taffeta_White_II%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "188d5c83968b4ecf87a6914d3b8788f3",
+    "name": "HONDA N-VAN",
+    "author": "toku365",
+    "authorUrl": "https://sketchfab.com/toku365",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

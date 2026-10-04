@@ -1,0 +1,53 @@
+{
+  "id": "porsche-panamera-second-generation",
+  "make": "Porsche",
+  "model": "Panamera",
+  "generation": "Second generation",
+  "aka": [
+    "Panamera Gran Turismo",
+    "Panamera S E-Hybrid",
+    "Panamera S Hybrid",
+    "970",
+    "971"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Porsche_Panamera_Turbo_grey.jpg/960px-Porsche_Panamera_Turbo_grey.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.9L 6-cyl",
+    "displacementL": 2.9,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Panamera"
+  ],
+  "description": "The Porsche Panamera is a mid- to full-sized luxury car manufactured and marketed by German automobile manufacturer Porsche. It currently spans across three generations, using a front-engine and rear- or all-wheel drive configuration.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Panamera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Porsche_Panamera_Turbo_grey.jpg/1920px-Porsche_Panamera_Turbo_grey.jpg",
+  "sketchfab": {
+    "uid": "f472abb10e07442b80f46ade49a24d64",
+    "name": "2017 Porsche Panamera Turbo",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

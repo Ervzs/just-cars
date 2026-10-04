@@ -2,6 +2,8 @@
   "id": "vinfast-vf-7",
   "make": "Vinfast",
   "model": "VF 7",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2027
@@ -23,6 +25,9 @@
     "mpgCombined": 76,
     "evRangeMiles": 209
   },
+  "variants": [
+    "VF 7"
+  ],
   "description": "The VinFast VF 7 is an electric compact SUV (C-segment) manufactured and marketed by VinFast of Vingroup.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_7",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/VinFast_VF7%2C_front_NYIAS_2022.jpg/1920px-VinFast_VF7%2C_front_NYIAS_2022.jpg",

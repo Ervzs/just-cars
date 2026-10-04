@@ -2,6 +2,8 @@
   "id": "jaguar-super-v8",
   "make": "Jaguar",
   "model": "Super V8",
+  "generation": null,
+  "aka": [],
   "years": [
     2002,
     2003,
@@ -14,7 +16,7 @@
   "vehicleClass": "Large Cars",
   "fuelType": "Premium",
   "engine": "4.2L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Jaguar_XJ_.jpg/960px-Jaguar_XJ_.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2009,
   "specs": {
@@ -28,8 +30,11 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
-  "description": "The Jaguar XJ (X308) is a full-size luxury saloon car made by Jaguar Cars from 1997 until 2002. It has a Jaguar AJ-V8 engine and Jaguar independent rear suspension. It was the third and final evolution of the Jaguar XJ40 platform that had been in production since 1986. It was preceded by the Jaguar XJ (X300).",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XJ_(X308)",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Jaguar_XJ_.jpg/1280px-Jaguar_XJ_.jpg",
+  "variants": [
+    "Super V8"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

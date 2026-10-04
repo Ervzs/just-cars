@@ -2,6 +2,12 @@
   "id": "bmw-z8",
   "make": "BMW",
   "model": "Z8",
+  "generation": null,
+  "aka": [
+    "E52",
+    "Z07",
+    "Alpina V8 Roadster"
+  ],
   "years": [
     2000,
     2001,
@@ -25,6 +31,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "Z8"
+  ],
   "description": "The BMW Z8 is a roadster produced by German automotive manufacturer BMW from 1998 to 2003. The Z8 was developed under the codename \"E52\" between 1993 and 1999, through the efforts of a design team led by Chris Bangle from 1993 to 1995. The exterior was designed by Henrik Fisker and the interior by Scott Lempert.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_Z8",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2002_BMW_Z8_4.jpg/1920px-2002_BMW_Z8_4.jpg",

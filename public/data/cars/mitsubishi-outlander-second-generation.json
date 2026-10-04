@@ -1,0 +1,49 @@
+{
+  "id": "mitsubishi-outlander-second-generation",
+  "make": "Mitsubishi",
+  "model": "Outlander",
+  "generation": "Second generation",
+  "aka": [
+    "Evolander",
+    "Outlander Plug-in Hybrid",
+    "Outlander P-HEV"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mitsubishi_Outlander_2008_11.jpg/960px-Mitsubishi_Outlander_2008_11.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Outlander"
+  ],
+  "description": "The Mitsubishi Outlander  is a compact crossover SUV manufactured by Japanese automaker Mitsubishi Motors since 2001. It was originally known as the Mitsubishi Airtrek  when it was introduced in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Outlander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mitsubishi_Outlander_2008_11.jpg/1920px-Mitsubishi_Outlander_2008_11.jpg",
+  "sketchfab": {
+    "uid": "06c6e42e5c804f7ca7d25ad4f5bf2b2b",
+    "name": "Mitsubishi outlander 2006",
+    "author": "jerrmerr31",
+    "authorUrl": "https://sketchfab.com/jerrmerr31",
+    "license": "CC Attribution"
+  }
+}

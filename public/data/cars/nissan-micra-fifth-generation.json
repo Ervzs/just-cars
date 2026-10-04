@@ -1,0 +1,39 @@
+{
+  "id": "nissan-micra-fifth-generation",
+  "make": "Nissan",
+  "model": "Micra",
+  "generation": "Fifth generation",
+  "aka": [
+    "March Cup",
+    "Micra Challenge",
+    "March Superturbo R",
+    "March Superturbo",
+    "March Turbo",
+    "Micra C+C",
+    "March R",
+    "Datsun March"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nissan-micra-kiiro-1.jpg/960px-Nissan-micra-kiiro-1.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Micra, also known as the Nissan March , is a supermini car (B-segment) that has been produced by the Japanese automobile manufacturer Nissan from 1982. The March name has always been used in the Japanese markets but also in many export markets across Asia and Latin America and others.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Micra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nissan-micra-kiiro-1.jpg/960px-Nissan-micra-kiiro-1.jpg",
+  "sketchfab": null
+}

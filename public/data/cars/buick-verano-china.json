@@ -1,0 +1,41 @@
+{
+  "id": "buick-verano-china",
+  "make": "Buick",
+  "model": "Verano (China)",
+  "generation": null,
+  "aka": [
+    "Verano Pro"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2022_SAIC-GM_Buick_Verano_Pro%2C_front_8.4.23.jpg/960px-2022_SAIC-GM_Buick_Verano_Pro%2C_front_8.4.23.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Verano"
+  ],
+  "description": "The Buick Verano is a compact car manufactured by SAIC-GM for the GM's Buick brand since 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Verano_(China)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2022_SAIC-GM_Buick_Verano_Pro%2C_front_8.4.23.jpg/1920px-2022_SAIC-GM_Buick_Verano_Pro%2C_front_8.4.23.jpg",
+  "sketchfab": null
+}

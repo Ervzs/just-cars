@@ -2,6 +2,8 @@
   "id": "jeep-renegade",
   "make": "Jeep",
   "model": "Renegade",
+  "generation": null,
+  "aka": [],
   "years": [
     2015,
     2016,
@@ -30,6 +32,9 @@
     "mpgCombined": 26,
     "evRangeMiles": null
   },
+  "variants": [
+    "Renegade"
+  ],
   "description": "The Jeep Renegade is a subcompact crossover SUV produced by Stellantis under their Jeep marque. It was first shown to the public in March 2014 at the Geneva Motor Show and production started in late August of that year. The Renegade is the smallest vehicle currently marketed by Jeep, until the arrival of the Avenger. It slots between the Avenger and the Compass. It is based on the FCA Small Wide 4×4 platform, which is also shared with other FCA models, including those from Fiat and Alfa Romeo brands.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Renegade",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg/1920px-Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg",

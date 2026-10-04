@@ -1,0 +1,47 @@
+{
+  "id": "lexus-es-sixth-generation",
+  "make": "Lexus",
+  "model": "ES",
+  "generation": "Sixth generation",
+  "aka": [
+    "Toyota Windom",
+    "ES350",
+    "ES 250",
+    "ES330",
+    "ES300",
+    "ES Hybrid",
+    "ES 300h"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2013_Lexus_ES_300h_%28AVV60R%29_Sports_Luxury_sedan_%282015-12-07%29_01.jpg/960px-2013_Lexus_ES_300h_%28AVV60R%29_Sports_Luxury_sedan_%282015-12-07%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 40,
+    "mpgHighway": 39,
+    "mpgCombined": 40,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ES"
+  ],
+  "description": "The Lexus ES is a luxury sedan marketed since 1989 by Lexus, the luxury division of Toyota, across multiple generations, each offering V6 engines and a front-engine, front-wheel-drive layout. The first five generations of the ES used the Toyota Camry platform, while the latter generations are more closely related to both the Camry and the Avalon. Manual transmissions were offered until 1993, a lower-displacement inline-four engine became an option in Asian markets in 2010, and a gasoline-electric hybrid version was introduced in 2012. The battery electric version was later introduced in 2025. The ES was Lexus's only front-wheel drive vehicle until 1998, when the related RX was introduced, and the sedan occupied the entry-level luxury car segment of the Lexus lineup in North America and other regions until the debut of the IS in 1999. The ES name stands for \"Executive Sedan\". However, some Lexus importers use the name, \"Elegant Sedan\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_ES",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2013_Lexus_ES_300h_%28AVV60R%29_Sports_Luxury_sedan_%282015-12-07%29_01.jpg/1920px-2013_Lexus_ES_300h_%28AVV60R%29_Sports_Luxury_sedan_%282015-12-07%29_01.jpg",
+  "sketchfab": null
+}

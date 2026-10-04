@@ -2,6 +2,8 @@
   "id": "mazda-cx-3",
   "make": "Mazda",
   "model": "CX-3",
+  "generation": null,
+  "aka": [],
   "years": [
     2016,
     2017,
@@ -27,6 +29,9 @@
     "mpgCombined": 31,
     "evRangeMiles": null
   },
+  "variants": [
+    "CX-3"
+  ],
   "description": "The Mazda CX-3 is a subcompact crossover SUV (B-segment) manufactured by Mazda. Based on the same platform as the third-generation Mazda2, it was revealed on 19 November 2014 ahead of the 2014 Los Angeles Auto Show as a production vehicle for the 2016 model year.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg/1920px-2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg",

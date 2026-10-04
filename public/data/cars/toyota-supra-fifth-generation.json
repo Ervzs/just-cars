@@ -1,0 +1,44 @@
+{
+  "id": "toyota-supra-fifth-generation",
+  "make": "Toyota",
+  "model": "Supra",
+  "generation": "Fifth generation",
+  "aka": [
+    "SupraTurboA",
+    "Celica Supra",
+    "Celica XX",
+    "1992 Toyota Supra",
+    "JZA80",
+    "Supra RZ Turbo",
+    "Supra A80",
+    "Supra RZ"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2025_Toyota_GR_Supra_3.0_front.jpg/960px-2025_Toyota_GR_Supra_3.0_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Supra  is a sports car and grand tourer manufactured and developed by the Toyota Motor Corporation beginning in 1978. The name \"supra\" is taken from the Latin prefix meaning \"above\", \"to surpass\" or \"go beyond\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Supra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2025_Toyota_GR_Supra_3.0_front.jpg/1920px-2025_Toyota_GR_Supra_3.0_front.jpg",
+  "sketchfab": {
+    "uid": "16ab211659114ad1bf45095a67c0d325",
+    "name": "Toyota Supra",
+    "author": "SpatialNeglect",
+    "authorUrl": "https://sketchfab.com/jeandiz",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

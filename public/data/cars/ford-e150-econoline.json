@@ -2,6 +2,8 @@
   "id": "ford-e150-econoline",
   "make": "Ford",
   "model": "E150 Econoline",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -28,6 +30,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "E150 Econoline"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

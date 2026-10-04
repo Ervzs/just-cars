@@ -1,0 +1,35 @@
+{
+  "id": "haval-jolion",
+  "make": "Haval",
+  "model": "Jolion",
+  "generation": null,
+  "aka": [
+    "Chulian"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/960px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval Jolion is a compact crossover SUV produced by Great Wall Motor under the Haval marque since 2021. The Haval Jolion was first shown at the 2020 Beijing Auto Show in October as a successor of the H2. It was sold in China for a brief year, and since then the Jolion is an export-only model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_Jolion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/1920px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "7f04456182144ca8b5d419b16e8d4820",
+    "name": "Haval Jolion",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "byd-tang-second-generation",
+  "make": "BYD",
+  "model": "Tang",
+  "generation": "Second generation",
+  "aka": [
+    "Tang II",
+    "Tang DM",
+    "Tan",
+    "Dynasty Concept",
+    "Sealion 8"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/BYD_Tang_DM_004.jpg/960px-BYD_Tang_DM_004.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Tang is a series of mid-size SUV manufactured by BYD Auto, available as a battery electric, a plug-in hybrid or formerly a conventional ICE vehicle. The vehicle is the second model of BYD's \"Dynasty\" series passenger vehicles after the Qin, and gets its name from the Tang dynasty, the most prosperous of all the great Chinese dynasties.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Tang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/BYD_Tang_DM_004.jpg/1920px-BYD_Tang_DM_004.jpg",
+  "sketchfab": {
+    "uid": "0af7ffe7b3b64d7fb9e31d4f1bac10c1",
+    "name": "2024 BYD Tang",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

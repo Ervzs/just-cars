@@ -1,0 +1,41 @@
+{
+  "id": "audi-s6-c5",
+  "make": "Audi",
+  "model": "S6",
+  "generation": "C5",
+  "aka": [
+    "S6 Plus",
+    "S6 Avant"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2003_Audi_S6_C5_%28Typ_4B%29_%284383585474%29.jpg/960px-2003_Audi_S6_C5_%28Typ_4B%29_%284383585474%29.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 19,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S6"
+  ],
+  "description": "The Audi S6 is a high-performance variant of the Audi A6, an executive car produced by German automaker Audi. It went on sale in 1994, shortly after the \"A6\" designation was introduced, replacing the \"100\" nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2003_Audi_S6_C5_%28Typ_4B%29_%284383585474%29.jpg/1920px-2003_Audi_S6_C5_%28Typ_4B%29_%284383585474%29.jpg",
+  "sketchfab": null
+}

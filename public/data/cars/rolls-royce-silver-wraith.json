@@ -1,0 +1,41 @@
+{
+  "id": "rolls-royce-silver-wraith",
+  "make": "Rolls-Royce",
+  "model": "Silver Wraith",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "6.6L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Rolls-Royce_Silver_Wraith_1955.jpg/960px-Rolls-Royce_Silver_Wraith_1955.jpg",
+  "has3d": false,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "6.6L 12-cyl",
+    "displacementL": 6.6,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Wraith"
+  ],
+  "description": "The Rolls-Royce Silver Wraith was the first post-war Rolls-Royce. It was made from 1946 to 1958 as only a chassis at the company's Crewe factory, its former Merlin engine plant, alongside the shorter Bentley Mark VI. The Bentley was also available as a chassis for coachbuilders, but for the first time could be bought with a Rolls-Royce built Standard Steel body. The use of the name \"wraith\" coincided with the established tradition of naming models after \"ghosts\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Silver_Wraith",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Rolls-Royce_Silver_Wraith_1955.jpg/1920px-Rolls-Royce_Silver_Wraith_1955.jpg",
+  "sketchfab": null
+}

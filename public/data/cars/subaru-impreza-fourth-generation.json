@@ -1,0 +1,35 @@
+{
+  "id": "subaru-impreza-fourth-generation",
+  "make": "Subaru",
+  "model": "Impreza",
+  "generation": "Fourth generation",
+  "aka": [
+    "Impreza Turbo",
+    "Grand Leone",
+    "WRX STi",
+    "Impreza WRX STi",
+    "Gc8",
+    "Impreza RS",
+    "Impreza RB5",
+    "Impreza RB320"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2015_Subaru_WRX_%28VAG_MY15%29_Premium_sedan_%282015-07-15%29_01_%28cropped%29.jpg/960px-2015_Subaru_WRX_%28VAG_MY15%29_Premium_sedan_%282015-07-15%29_01_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Impreza  is a compact car that has been manufactured by the Japanese automaker Subaru since 1992. It was introduced as a replacement for the Leone, with the predecessor's EA series engines replaced by the new EJ series. It is now in its sixth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Impreza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2015_Subaru_WRX_%28VAG_MY15%29_Premium_sedan_%282015-07-15%29_01_%28cropped%29.jpg/1920px-2015_Subaru_WRX_%28VAG_MY15%29_Premium_sedan_%282015-07-15%29_01_%28cropped%29.jpg",
+  "sketchfab": null
+}

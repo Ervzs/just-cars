@@ -2,6 +2,10 @@
   "id": "hyundai-veracruz",
   "make": "Hyundai",
   "model": "Veracruz",
+  "generation": null,
+  "aka": [
+    "ix55"
+  ],
   "years": [
     2007,
     2008,
@@ -27,6 +31,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Veracruz"
+  ],
   "description": "The Hyundai Veracruz, also known as the Hyundai ix55 in the European Union and Russia, is a mid-size crossover that was manufactured by the South Korean manufacturer Hyundai from 2006 to 2015. The Veracruz was sold in the United States, Canada, South Korea, China, Morocco, South America and the Middle East.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Veracruz",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg/1920px-2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg",

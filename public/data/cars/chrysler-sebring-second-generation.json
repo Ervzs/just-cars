@@ -1,0 +1,39 @@
+{
+  "id": "chrysler-sebring-second-generation",
+  "make": "Chrysler",
+  "model": "Sebring",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/01-03_Chrysler_Sebring_sedan_2.jpg/960px-01-03_Chrysler_Sebring_sedan_2.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sebring"
+  ],
+  "description": "The Chrysler Sebring is a mid-size automobile manufactured and marketed by Chrysler from 1995 to 2010 in convertible, sedan, and coupe body styles. Both coupe generations were a Chrysler design with engineering input from Mitsubishi and were built at Mitsubishi’s Normal, Illinois facility. The range was introduced in 1995, with the Coupe replacing the Chrysler LeBaron coupe. In 1996 Chrysler introduced the convertible, replacing its LeBaron counterpart.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Sebring",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/01-03_Chrysler_Sebring_sedan_2.jpg/960px-01-03_Chrysler_Sebring_sedan_2.jpg",
+  "sketchfab": null
+}

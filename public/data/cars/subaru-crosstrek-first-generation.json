@@ -1,0 +1,46 @@
+{
+  "id": "subaru-crosstrek-first-generation",
+  "make": "Subaru",
+  "model": "Crosstrek",
+  "generation": "First generation",
+  "aka": [
+    "XV",
+    "XV Crosstrek",
+    "XV Crosstek",
+    "Crosstek",
+    "XV Crosstrek Hybrid",
+    "Crosstrek Hybrid",
+    "Crosstrek Plug-in Hybrid"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Subaru_XV_1.6i_Comfort_%E2%80%93_Frontansicht%2C_1._M%C3%A4rz_2014%2C_Wuppertal.jpg/960px-Subaru_XV_1.6i_Comfort_%E2%80%93_Frontansicht%2C_1._M%C3%A4rz_2014%2C_Wuppertal.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Crosstrek"
+  ],
+  "description": "The Subaru Crosstrek  is a compact crossover SUV produced by Subaru since 2012. It is a successor to the Outback Sport in North America, and the Impreza XV globally. Like the Outback Sport, the Crosstrek is a lifted Impreza hatchback with minor differences, though with a more substantial lift than the Outback Sport.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Crosstrek",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Subaru_XV_1.6i_Comfort_%E2%80%93_Frontansicht%2C_1._M%C3%A4rz_2014%2C_Wuppertal.jpg/1920px-Subaru_XV_1.6i_Comfort_%E2%80%93_Frontansicht%2C_1._M%C3%A4rz_2014%2C_Wuppertal.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hyundai-custo",
+  "make": "Hyundai",
+  "model": "Custo",
+  "generation": null,
+  "aka": [
+    "Custin"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/HYUNDAI_CUSTO_China_%2810%29.jpg/960px-HYUNDAI_CUSTO_China_%2810%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Custo is a minivan or MPV manufactured by Hyundai through its Beijing Hyundai joint venture in China since 2021. It is named after the French explorer and inventor, Jacques Cousteau. In markets outside China, it is marketed as the Hyundai Custin.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Custo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/HYUNDAI_CUSTO_China_%2810%29.jpg/1920px-HYUNDAI_CUSTO_China_%2810%29.jpg",
+  "sketchfab": {
+    "uid": "ec1c96946a4041b2810566760ed5d8e3",
+    "name": "2022 Hyundai Custo 380T",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

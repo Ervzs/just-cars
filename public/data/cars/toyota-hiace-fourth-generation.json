@@ -1,0 +1,51 @@
+{
+  "id": "toyota-hiace-fourth-generation",
+  "make": "Toyota",
+  "model": "HiAce",
+  "generation": "Fourth generation",
+  "aka": [
+    "Grandia",
+    "RegiusAce",
+    "Regius",
+    "Hiace Commercial Camper",
+    "Grand HiAce",
+    "Quantum",
+    "Ses'fikile",
+    "Gonow GA6530"
+  ],
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2001_Toyota_HiAce_Powervan_GS_SWB_2.4_Front.jpg/960px-2001_Toyota_HiAce_Powervan_GS_SWB_2.4_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota HiAce  is a light commercial vehicle produced by the Japanese automobile manufacturer Toyota. First launched in October 1967, the HiAce has since been available in a wide range of body configurations, including a minivan/MPV, minibus, panel van, crew van, pickup truck, taxi and an ambulance.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_HiAce",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2001_Toyota_HiAce_Powervan_GS_SWB_2.4_Front.jpg/1920px-2001_Toyota_HiAce_Powervan_GS_SWB_2.4_Front.jpg",
+  "sketchfab": {
+    "uid": "1764351001194f66b85c495dd8ce2d71",
+    "name": "1990 Toyota Hiace (H100)",
+    "author": "ImperialBlue3D",
+    "authorUrl": "https://sketchfab.com/ImperialBlue3D",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "toyota-avalon-fourth-generation",
+  "make": "Toyota",
+  "model": "Avalon",
+  "generation": "Fourth generation",
+  "aka": [
+    "Pronard",
+    "Avalon Hybrid"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2014_Toyota_Avalon_XLE_Touring_in_Blizzard_Pearl%2C_Front_Right%2C_08-02-2022.jpg/960px-2014_Toyota_Avalon_XLE_Touring_in_Blizzard_Pearl%2C_Front_Right%2C_08-02-2022.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 40,
+    "mpgHighway": 39,
+    "mpgCombined": 40,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Avalon"
+  ],
+  "description": "The Toyota Avalon  is a full-size sedan manufactured by Toyota, as its largest front-wheel drive sedan; also its flagship in the United States, Canada, China and the Middle East. The Avalon was also manufactured in Australia from April 2000 until June 2005, when it was replaced in November 2006 by the Aurion. The first production Avalon was manufactured in September 1994 at the TMMK assembly line in Georgetown, Kentucky, where subsequent generations have been manufactured.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avalon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2014_Toyota_Avalon_XLE_Touring_in_Blizzard_Pearl%2C_Front_Right%2C_08-02-2022.jpg/1920px-2014_Toyota_Avalon_XLE_Touring_in_Blizzard_Pearl%2C_Front_Right%2C_08-02-2022.jpg",
+  "sketchfab": null
+}

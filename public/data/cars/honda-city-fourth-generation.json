@@ -1,0 +1,35 @@
+{
+  "id": "honda-city-fourth-generation",
+  "make": "Honda",
+  "model": "City",
+  "generation": "Fourth generation",
+  "aka": [
+    "Fit Aria",
+    "City ZX",
+    "Fit Sedan",
+    "Grace",
+    "Greiz",
+    "Gienia",
+    "City Hatchback"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Everus_S1_01_China_2012-05-12.JPG/960px-Everus_S1_01_China_2012-05-12.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda City  is a subcompact car which has been produced by the Japanese manufacturer Honda since 1981.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_City",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Everus_S1_01_China_2012-05-12.JPG/1280px-Everus_S1_01_China_2012-05-12.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "honda-city-sixth-generation",
+  "make": "Honda",
+  "model": "City",
+  "generation": "Sixth generation",
+  "aka": [
+    "Fit Aria",
+    "City ZX",
+    "Fit Sedan",
+    "Grace",
+    "Greiz",
+    "Gienia",
+    "City Hatchback"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Honda_City_1.5_i-VTEC_%28VII%2C_Facelift%29_%E2%80%93_f_21032025.jpg/960px-Honda_City_1.5_i-VTEC_%28VII%2C_Facelift%29_%E2%80%93_f_21032025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda City  is a subcompact car which has been produced by the Japanese manufacturer Honda since 1981.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_City",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Honda_City_1.5_i-VTEC_%28VII%2C_Facelift%29_%E2%80%93_f_21032025.jpg/1920px-Honda_City_1.5_i-VTEC_%28VII%2C_Facelift%29_%E2%80%93_f_21032025.jpg",
+  "sketchfab": {
+    "uid": "75671276d4da476294202a5dc050a99e",
+    "name": "Honda City 2017",
+    "author": "dewa",
+    "authorUrl": "https://sketchfab.com/dewa",
+    "license": "CC Attribution"
+  }
+}

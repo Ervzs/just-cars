@@ -2,6 +2,8 @@
   "id": "saleen-performance-s281-family",
   "make": "Saleen Performance",
   "model": "S281 Family",
+  "generation": null,
+  "aka": [],
   "years": [
     2008,
     2009
@@ -23,6 +25,9 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
+  "variants": [
+    "S281 Family"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

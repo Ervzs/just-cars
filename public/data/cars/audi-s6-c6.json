@@ -1,0 +1,48 @@
+{
+  "id": "audi-s6-c6",
+  "make": "Audi",
+  "model": "S6",
+  "generation": "C6",
+  "aka": [
+    "S6 Plus",
+    "S6 Avant"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "5.2L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AudiS6av_%28cropped%29.JPG/960px-AudiS6av_%28cropped%29.JPG",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "5.2L 10-cyl",
+    "displacementL": 5.2,
+    "cylinders": 10,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S6"
+  ],
+  "description": "The Audi S6 is a high-performance variant of the Audi A6, an executive car produced by German automaker Audi. It went on sale in 1994, shortly after the \"A6\" designation was introduced, replacing the \"100\" nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AudiS6av_%28cropped%29.JPG/1280px-AudiS6av_%28cropped%29.JPG",
+  "sketchfab": {
+    "uid": "622928b520c94fb2a4c70d0ddfffa128",
+    "name": "2010 Audi S6 5.2 FSI Quattro (C6)",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

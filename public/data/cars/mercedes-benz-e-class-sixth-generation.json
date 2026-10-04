@@ -1,0 +1,52 @@
+{
+  "id": "mercedes-benz-e-class-sixth-generation",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "generation": "Sixth generation",
+  "aka": [
+    "Mercedes E500",
+    "Mercedes Benz E-class",
+    "Mercedes E-class",
+    "Mercedes E55",
+    "E63 AMG",
+    "Mercedes E",
+    "MB E-Class",
+    "Mercedes Benz E"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mercedes-Benz_E_200_d_AMG_Line_%28W_214%29_%E2%80%93_f_05072025.jpg/960px-Mercedes-Benz_E_200_d_AMG_Line_%28W_214%29_%E2%80%93_f_05072025.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "E-Class"
+  ],
+  "description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by German automaker Mercedes-Benz in various engine and body configurations. Produced since September 1953, the E-Class falls as a midrange in the Mercedes line-up, and has been marketed worldwide across five generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mercedes-Benz_E_200_d_AMG_Line_%28W_214%29_%E2%80%93_f_05072025.jpg/1920px-Mercedes-Benz_E_200_d_AMG_Line_%28W_214%29_%E2%80%93_f_05072025.jpg",
+  "sketchfab": {
+    "uid": "9b70707fd2304f578175158564719c5d",
+    "name": "Mercedes-Benz E-Class (W212)",
+    "author": "Savelliy 07",
+    "authorUrl": "https://sketchfab.com/savelliy07",
+    "license": "CC Attribution"
+  }
+}

@@ -2,6 +2,10 @@
   "id": "bentley-bentayga",
   "make": "Bentley",
   "model": "Bentayga",
+  "generation": null,
+  "aka": [
+    "Falcon"
+  ],
   "years": [
     2017,
     2018,
@@ -32,6 +36,9 @@
     "mpgCombined": 21,
     "evRangeMiles": 440
   },
+  "variants": [
+    "Bentayga"
+  ],
   "description": "The Bentley Bentayga is a luxury SUV produced by British marque Bentley Motors. Introduced in late 2015, it is the brand's first luxury crossover SUV. Its unibody is manufactured at the Volkswagen Zwickau-Mosel Plant in Germany, then painted and assembled at Bentley's factory in Crewe, United Kingdom.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Bentayga",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/1920px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg",

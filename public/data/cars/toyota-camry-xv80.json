@@ -1,0 +1,52 @@
+{
+  "id": "toyota-camry-xv80",
+  "make": "Toyota",
+  "model": "Camry",
+  "generation": "XV80",
+  "aka": [
+    "Daihatsu Altis",
+    "Vista",
+    "Jiamei",
+    "Kaimeirui",
+    "Camry Hybrid",
+    "Camary",
+    "Vienta",
+    "Camry CSi"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Toyota_Camry_2.5_Hybrid_Ascent_Sport_%28IX%29_%E2%80%93_f_02012026.jpg/960px-Toyota_Camry_2.5_Hybrid_Ascent_Sport_%28IX%29_%E2%80%93_f_02012026.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 46,
+    "mpgHighway": 46,
+    "mpgCombined": 46,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Camry"
+  ],
+  "description": "The Toyota Camry is an automobile sold internationally by the Japanese auto manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), the Camry has grown since the 1990s to fit the mid-size classification (wide-body)—although the two widths co-existed in that decade. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second \"world car\" after the Corolla. As of 2022, the Camry is positioned above the Corolla and below the Avalon or Crown in several markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Toyota_Camry_2.5_Hybrid_Ascent_Sport_%28IX%29_%E2%80%93_f_02012026.jpg/1920px-Toyota_Camry_2.5_Hybrid_Ascent_Sport_%28IX%29_%E2%80%93_f_02012026.jpg",
+  "sketchfab": {
+    "uid": "53f8cbf2483940fba956f4e740a3a4ae",
+    "name": "2025 Toyota Camry (XV80) Hybrid",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

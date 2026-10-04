@@ -1,0 +1,34 @@
+{
+  "id": "toyota-alphard-second-generation",
+  "make": "Toyota",
+  "model": "Alphard",
+  "generation": "Second generation",
+  "aka": [
+    "Vellfire",
+    "Alphard Hybrid",
+    "Hybrid Alphard",
+    "Crown Vellfire",
+    "Vellfire Spacious Lounge Concept"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2008_Toyota_H20_Alphard_01.JPG/960px-2008_Toyota_H20_Alphard_01.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Alphard  is a large MPV produced by the Japanese automaker Toyota since 2002. It is available as a seven or eight-seater with petrol and hybrid engine options. Hybrid variants have been available since 2003, which incorporates Toyota's Hybrid Synergy Drive technology. It is Toyota's flagship MPV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Alphard",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2008_Toyota_H20_Alphard_01.JPG/1920px-2008_Toyota_H20_Alphard_01.JPG",
+  "sketchfab": null
+}

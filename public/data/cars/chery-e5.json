@@ -1,0 +1,35 @@
+{
+  "id": "chery-e5",
+  "make": "Chery",
+  "model": "E5",
+  "generation": null,
+  "aka": [
+    "Riich G3"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Chery_E5_China_2012-04-28.JPG/960px-Chery_E5_China_2012-04-28.JPG",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery E5 is a compact car produced by the Chinese manufacturer Chery from 2011 to 2016. It is based on the same platform as the Chery A5.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_E5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Chery_E5_China_2012-04-28.JPG/1280px-Chery_E5_China_2012-04-28.JPG",
+  "sketchfab": {
+    "uid": "853a3d11349446959c624caeb23ec0a4",
+    "name": "Chery E5 EV",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

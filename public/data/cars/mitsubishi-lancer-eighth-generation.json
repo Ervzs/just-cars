@@ -1,0 +1,49 @@
+{
+  "id": "mitsubishi-lancer-eighth-generation",
+  "make": "Mitsubishi",
+  "model": "Lancer",
+  "generation": "Eighth generation",
+  "aka": [
+    "Chrysler Lancer",
+    "Colt Lancer",
+    "Lancer 2000 Turbo",
+    "Concept-Sportback",
+    "Galant Fortis",
+    "Chrysler Valiant Lancer",
+    "Cedia",
+    "Lancer GSR"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2002-2003_Mitsubishi_Lancer_%28CG%29_Exceed_sedan_01.jpg/960px-2002-2003_Mitsubishi_Lancer_%28CG%29_Exceed_sedan_01.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Lancer"
+  ],
+  "description": "The Mitsubishi Lancer is an automobile that was produced by the Japanese manufacturer Mitsubishi Motors from 1973 until 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Lancer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2002-2003_Mitsubishi_Lancer_%28CG%29_Exceed_sedan_01.jpg/1920px-2002-2003_Mitsubishi_Lancer_%28CG%29_Exceed_sedan_01.jpg",
+  "sketchfab": null
+}

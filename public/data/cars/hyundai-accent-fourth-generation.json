@@ -1,0 +1,55 @@
+{
+  "id": "hyundai-accent-fourth-generation",
+  "make": "Hyundai",
+  "model": "Accent",
+  "generation": "Fourth generation",
+  "aka": [
+    "Bimantara Cakra",
+    "Verna",
+    "Accent Hybrid",
+    "Solaris",
+    "Accent Evo 3",
+    "Accent GT",
+    "i25",
+    "Dodge Verna"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2012_Hyundai_Accent_%28RB%29_Premium_sedan_%282018-10-01%29_02.jpg/960px-2012_Hyundai_Accent_%28RB%29_Premium_sedan_%282018-10-01%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accent"
+  ],
+  "description": "The Hyundai Accent, or Hyundai Verna is a subcompact car produced by Hyundai. In Australia, the first generation models carried over the Hyundai Excel name used by the Accent's predecessor. The Accent was replaced in 2000 by the Hyundai Verna in South Korea, although most international markets, including the US, retained the \"Accent\" name. The \"Accent\" name is an acronym of Advanced Compact Car of Epoch-making New Technology.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Accent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2012_Hyundai_Accent_%28RB%29_Premium_sedan_%282018-10-01%29_02.jpg/1920px-2012_Hyundai_Accent_%28RB%29_Premium_sedan_%282018-10-01%29_02.jpg",
+  "sketchfab": {
+    "uid": "cec6b04b06724f1088129c1054ccb1ec",
+    "name": "hyundai accent 2013",
+    "author": "L95XP",
+    "authorUrl": "https://sketchfab.com/I95XP",
+    "license": "CC Attribution"
+  }
+}

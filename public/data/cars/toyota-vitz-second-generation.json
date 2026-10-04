@@ -1,0 +1,41 @@
+{
+  "id": "toyota-vitz-second-generation",
+  "make": "Toyota",
+  "model": "Vitz",
+  "generation": "Second generation",
+  "aka": [
+    "Bigsmall",
+    "Yaris ONYX",
+    "Yaris Hybrid",
+    "Yaris HSD",
+    "Yaris Cabrio Concept",
+    "Xiali Vizi",
+    "Vitz AP4",
+    "Tianjin Vizi"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Toyota_Yaris_%28II%29_%E2%80%93_Heckansicht%2C_13._Juni_2011%2C_Wuppertal.jpg/960px-Toyota_Yaris_%28II%29_%E2%80%93_Heckansicht%2C_13._Juni_2011%2C_Wuppertal.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vitz  is a subcompact car produced by the Japanese automobile manufacturer Toyota from 1999 to 2019 in a three- or five-door hatchback body styles. The \"Vitz\" nameplate was used consistently in Japan, while most international markets received the same vehicle as the Toyota Yaris, or as the Toyota Echo in some markets for the first generation. The Vitz was available in Japan from Toyota's Netz Store dealerships. Toyota began production in Japan and later assembled the vehicle in other Asian countries and in France.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vitz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Toyota_Yaris_%28II%29_%E2%80%93_Heckansicht%2C_13._Juni_2011%2C_Wuppertal.jpg/1920px-Toyota_Yaris_%28II%29_%E2%80%93_Heckansicht%2C_13._Juni_2011%2C_Wuppertal.jpg",
+  "sketchfab": {
+    "uid": "089990b5c9934a45940be32bb5c1cb40",
+    "name": "2008 Toyota Vitz RS CVT [NPC91]",
+    "author": "Raysh",
+    "authorUrl": "https://sketchfab.com/Raysh_.",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-c-class-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "generation": "Second generation",
+  "aka": [
+    "Mercedes Benz C-Class",
+    "Mercedes C-Class",
+    "C-klasse",
+    "C43 AMG",
+    "Mercedes c180",
+    "Mercedez-Benz C Class",
+    "CLR-Class",
+    "Mercedes C"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_C_230_Elegance_%28W_203%2C_Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_29._August_2011%2C_Mettmann.jpg/960px-Mercedes-Benz_C_230_Elegance_%28W_203%2C_Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_29._August_2011%2C_Mettmann.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.5L 6-cyl",
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C-Class"
+  ],
+  "description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz Group AG. Introduced in 1993 as a replacement for the 190 (W201) range, the C-Class was the smallest model in the marque's line-up until the W168 A-Class arrived in 1997. The C-Class has been available with a \"4MATIC\" four-wheel drive option since 2002. The third generation (W204) was launched in 2007 while the current W206 generation was launched in 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_C_230_Elegance_%28W_203%2C_Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_29._August_2011%2C_Mettmann.jpg/1920px-Mercedes-Benz_C_230_Elegance_%28W_203%2C_Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_29._August_2011%2C_Mettmann.jpg",
+  "sketchfab": null
+}

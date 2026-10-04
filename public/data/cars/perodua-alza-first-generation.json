@@ -1,0 +1,36 @@
+{
+  "id": "perodua-alza-first-generation",
+  "make": "Perodua",
+  "model": "Alza",
+  "generation": "First generation",
+  "aka": [
+    "MPV"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Perodua_Alza_in_Penang.JPG/960px-Perodua_Alza_in_Penang.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Perodua Alza is a B-segment multi-purpose vehicle (MPV) produced by Malaysian car manufacturer Perodua. The first-generation model, based on the Daihatsu Boon Luminas, was launched in November 2009 as the company's first purpose-built MPV. The second-generation model that was introduced in 2022 is based on the W100 series Daihatsu Xenia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perodua_Alza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Perodua_Alza_in_Penang.JPG/1280px-Perodua_Alza_in_Penang.JPG",
+  "sketchfab": null
+}

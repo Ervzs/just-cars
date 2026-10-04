@@ -1,0 +1,58 @@
+{
+  "id": "volvo-s40-second-generation",
+  "make": "Volvo",
+  "model": "S40",
+  "generation": "Second generation",
+  "aka": [
+    "The Mystery of Dalarö",
+    "Mystery of dalaroe",
+    "Mystery of Dalarö",
+    "Mystery of Dalaro",
+    "The Mystery of Dalaro",
+    "The Mystery of Dalaroe",
+    "S40 T16 4x4",
+    "S40 EVO"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2nd-Volvo-S40-T5.jpg/960px-2nd-Volvo-S40-T5.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S40"
+  ],
+  "description": "The Volvo S40 is a series of subcompact executive cars marketed and produced by the Swedish manufacturer Volvo Cars from 1995 to 2012, offered as a more mainstream alternative to the compact executive Volvo 850 and later the Volvo S60 to compete in a lower pricing bracket. The S40 was more or less positioned against premium-leaning small family cars like the Volkswagen Jetta, as well as some mass-market large family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S40",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2nd-Volvo-S40-T5.jpg/1920px-2nd-Volvo-S40-T5.jpg",
+  "sketchfab": {
+    "uid": "5133d3c0909748599aee086aa7ee122d",
+    "name": "Volvo S40",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

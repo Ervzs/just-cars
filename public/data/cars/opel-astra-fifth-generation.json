@@ -1,0 +1,36 @@
+{
+  "id": "opel-astra-fifth-generation",
+  "make": "Saturn",
+  "model": "Opel Astra",
+  "generation": "Fifth generation",
+  "aka": [
+    "Astravan",
+    "GM-AvtoVAZ Chevrolet Viva",
+    "Opel Astra Cabrio",
+    "Chevrolet Astra",
+    "Opel Astra TwinTop",
+    "General Motors Astra",
+    "Astra",
+    "Astra GSi"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Opel_Astra_K_IMG_2474.jpg/960px-Opel_Astra_K_IMG_2474.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Opel Astra is a compact car/small family car (C-segment) developed and produced by the German automaker Opel since 1991, currently at its sixth generation. It was first launched in September 1991 as a direct replacement to the Opel Kadett. As of 2025, the car slots between the smaller Corsa supermini and the larger Frontera subcompact crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel_Astra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Opel_Astra_K_IMG_2474.jpg/1920px-Opel_Astra_K_IMG_2474.jpg",
+  "sketchfab": null
+}

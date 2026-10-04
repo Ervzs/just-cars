@@ -1,0 +1,34 @@
+{
+  "id": "proton-persona-third-generation",
+  "make": "Proton",
+  "model": "Persona",
+  "generation": "Third generation",
+  "aka": [
+    "Gen-2 Persona"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Proton-Persona-Red.jpg/960px-Proton-Persona-Red.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Proton Persona is a series of compact and subcompact cars produced by Malaysian automobile manufacturer Proton from 1993 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Persona",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Proton-Persona-Red.jpg/1920px-Proton-Persona-Red.jpg",
+  "sketchfab": null
+}

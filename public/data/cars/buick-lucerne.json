@@ -2,6 +2,10 @@
   "id": "buick-lucerne",
   "make": "Buick",
   "model": "Lucerne",
+  "generation": null,
+  "aka": [
+    "Lucerne Super"
+  ],
   "years": [
     2006,
     2007,
@@ -27,6 +31,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Lucerne"
+  ],
   "description": "The Buick Lucerne is a full-size car manufactured by General Motors from 2005 to 2011. Named for the city of Lucerne, Switzerland, it served as Buick's top-of-the-line sedan until it was replaced by the second generation Buick LaCrosse.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Lucerne",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Buick_Lucerne_CXL_.jpg/1920px-Buick_Lucerne_CXL_.jpg",

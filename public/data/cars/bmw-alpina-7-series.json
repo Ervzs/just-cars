@@ -2,6 +2,8 @@
   "id": "bmw-alpina-7-series",
   "make": "BMW Alpina",
   "model": "7 Series",
+  "generation": null,
+  "aka": [],
   "years": [
     2007,
     2008
@@ -23,6 +25,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "7 Series"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

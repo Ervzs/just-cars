@@ -1,0 +1,36 @@
+{
+  "id": "dodge-caravan-fourth-generation",
+  "make": "Dodge",
+  "model": "Caravan",
+  "generation": "Fourth generation",
+  "aka": [
+    "Grand Caravan"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2007_Dodge_Caravan_Base_in_Inferno_Red_Crystal_Pearl%2C_Front_Right%2C_11-12-2022.jpg/960px-2007_Dodge_Caravan_Base_in_Inferno_Red_Crystal_Pearl%2C_Front_Right%2C_11-12-2022.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Dodge Caravan is a series of minivans manufactured by Chrysler from the 1984 through 2020 model years. The Dodge version of the Chrysler minivans was marketed as both a passenger van and a cargo van. For 1987, the model line was joined by the long-wheelbase Dodge Grand Caravan. Produced in five generations across 36 model years, the Dodge Caravan is the second longest-lived Dodge nameplate. Initially marketed as the Dodge counterpart of the Plymouth Voyager, the Caravan was later slotted between the Voyager and the Chrysler Town & Country. Following the demise of Plymouth, the model line became the lowest-price Chrysler minivan, ultimately slotted below the Chrysler Pacifica.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Caravan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2007_Dodge_Caravan_Base_in_Inferno_Red_Crystal_Pearl%2C_Front_Right%2C_11-12-2022.jpg/1920px-2007_Dodge_Caravan_Base_in_Inferno_Red_Crystal_Pearl%2C_Front_Right%2C_11-12-2022.jpg",
+  "sketchfab": {
+    "uid": "2c53fd5981934a17b19c883c34f5dad1",
+    "name": "2004 Dodge Grand Caravan",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

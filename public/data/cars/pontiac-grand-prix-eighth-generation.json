@@ -1,0 +1,47 @@
+{
+  "id": "pontiac-grand-prix-eighth-generation",
+  "make": "Pontiac",
+  "model": "Grand Prix",
+  "generation": "Eighth generation",
+  "aka": [
+    "1973 Pontiac Grand Prix",
+    "Grand Prix 2+2"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2004_Pontiac_Grand_Prix_--_NHTSA.jpg/960px-2004_Pontiac_Grand_Prix_--_NHTSA.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Prix"
+  ],
+  "description": "The Grand Prix is a line of automobiles produced by the Pontiac Division of General Motors from 1962 until 2002 as coupes and from 1989 through 2008 model years as four-door sedans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Grand_Prix",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2004_Pontiac_Grand_Prix_--_NHTSA.jpg/1280px-2004_Pontiac_Grand_Prix_--_NHTSA.jpg",
+  "sketchfab": {
+    "uid": "95195998e31044eea89edfc765daf61d",
+    "name": "2005 Pontiac Grand Prix Scan 1",
+    "author": "tech4ever363",
+    "authorUrl": "https://sketchfab.com/tech4ever363",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

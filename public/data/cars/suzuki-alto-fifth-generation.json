@@ -1,0 +1,36 @@
+{
+  "id": "suzuki-alto-fifth-generation",
+  "make": "Nissan",
+  "model": "Suzuki Alto",
+  "generation": "Fifth generation",
+  "aka": [
+    "Maruti Suzuki A-STAR",
+    "Pino",
+    "Maruti Alto 800",
+    "Maruti A-Star",
+    "Chevrolet Alto",
+    "Suzuki HB21s",
+    "Jiangnan TT",
+    "Jiangnan Alto"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Suzuki_Alto_511.JPG/960px-Suzuki_Alto_511.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Alto  is a kei car produced by Suzuki since 1979. The model, currently in its ninth generation, was first introduced in 1979 and has been built in many countries worldwide. The Alto originated as a commercial vehicle derivative of the Fronte, but over time the Alto nameplate gained in popularity and by 1988 it replaced the Fronte name completely. The Alto badge has often been used on different cars in Japan and in export markets, where it is considered a city car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Alto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Suzuki_Alto_511.JPG/1280px-Suzuki_Alto_511.JPG",
+  "sketchfab": null
+}

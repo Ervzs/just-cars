@@ -2,13 +2,15 @@
   "id": "maserati-coupe-and-gransport",
   "make": "Maserati",
   "model": "Coupe and Gransport",
+  "generation": null,
+  "aka": [],
   "years": [
     2005
   ],
   "vehicleClass": "Subcompact Cars",
   "fuelType": "Premium",
   "engine": "4.2L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2004MaseratiSpyder.jpg/500px-2004MaseratiSpyder.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2005,
   "specs": {
@@ -22,8 +24,11 @@
     "mpgCombined": 12,
     "evRangeMiles": null
   },
-  "description": "The Maserati Coupé and Spyder are a series of grand tourers produced by Italian automaker Maserati from 2001 to 2008. The two nameplates refer to the four-seater coupé and two-seater convertible models, respectively. The design of both models was based on the preceding 3200 GT, which was not sold in the US. Due to the confusing nature of the names \"Maserati Coupé\" and \"Maserati Spyder\" the Coupé and Spyder are both commonly referred to as the 4200 GT, which is an evolution of the prior model name and a reference to the increase in engine displacement from 3.2 L (3,217 cc) to 4.2 L (4,244 cc).",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_Coup%C3%A9",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2004MaseratiSpyder.jpg/500px-2004MaseratiSpyder.jpg",
+  "variants": [
+    "Coupe and Gransport"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

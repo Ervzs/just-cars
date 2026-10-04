@@ -1,0 +1,56 @@
+{
+  "id": "subaru-impreza-second-generation",
+  "make": "Subaru",
+  "model": "Impreza (second generation)",
+  "generation": null,
+  "aka": [
+    "Saab 9-2X",
+    "Saabaru",
+    "Impreza WRX WRP10",
+    "Chevrolet Impreza"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2001-2002_Subaru_Impreza_%28GDE_MY02%29_RS_sedan_%282011-06-15%29_01.jpg/960px-2001-2002_Subaru_Impreza_%28GDE_MY02%29_RS_sedan_%282011-06-15%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 38,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Impreza/Outback Sport"
+  ],
+  "description": "The second generation of the Subaru Impreza compact car was introduced in 2000 and manufactured up to 2007 by Subaru in Ōta, Gunma, Japan, in both sedan and five-door Hatchback bodystyles, as well as two intermediate facelifts throughout its lifespan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Impreza_(second_generation)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2001-2002_Subaru_Impreza_%28GDE_MY02%29_RS_sedan_%282011-06-15%29_01.jpg/1920px-2001-2002_Subaru_Impreza_%28GDE_MY02%29_RS_sedan_%282011-06-15%29_01.jpg",
+  "sketchfab": null
+}

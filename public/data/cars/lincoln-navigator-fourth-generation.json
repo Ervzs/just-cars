@@ -1,0 +1,50 @@
+{
+  "id": "lincoln-navigator-fourth-generation",
+  "make": "Lincoln",
+  "model": "Navigator",
+  "generation": "Fourth generation",
+  "aka": [
+    "Navigator L",
+    "Navi",
+    "Navigator electric"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bsda.jpg/960px-Bsda.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Part-time 4-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Navigator"
+  ],
+  "description": "The Lincoln Navigator is a full-size luxury SUV marketed by the Lincoln brand of Ford since the 1998 model year. Sold in North America, it is based on the Ford Expedition. It is the heaviest production Lincoln, the Lincoln with the greatest cargo capacity, and the first non-limousine Lincoln to offer seating for more than six people.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Navigator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bsda.jpg/1280px-Bsda.jpg",
+  "sketchfab": {
+    "uid": "1da79a33e49d4d2eabc5b5cbac578adf",
+    "name": "2019 Lincoln Navigator",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

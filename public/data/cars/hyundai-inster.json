@@ -1,0 +1,26 @@
+{
+  "id": "hyundai-inster",
+  "make": "Hyundai",
+  "model": "Inster",
+  "generation": null,
+  "aka": [
+    "Casper Electric"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyundai_Inster_Prime_%E2%80%93_f_14022026.jpg/960px-Hyundai_Inster_Prime_%E2%80%93_f_14022026.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Inster is a battery electric (A-segment) crossover city car produced by Hyundai since 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Inster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyundai_Inster_Prime_%E2%80%93_f_14022026.jpg/1920px-Hyundai_Inster_Prime_%E2%80%93_f_14022026.jpg",
+  "sketchfab": null
+}

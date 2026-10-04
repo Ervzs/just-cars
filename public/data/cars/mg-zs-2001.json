@@ -1,0 +1,28 @@
+{
+  "id": "mg-zs-2001",
+  "make": "MG",
+  "model": "ZS (2001)",
+  "generation": null,
+  "aka": [
+    "ZS 180"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2005_MG_ZS%2B_1.6_Front.jpg/960px-2005_MG_ZS%2B_1.6_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG ZS is a sports family car that was built by MG Rover from 2001 until 2005. The ZS is essentially a tuned version of the Rover 45. The 45 in turn is a facelifted version of the Rover 400 which was launched in hatchback form in 1995 and saloon form in 1996, which in turn was derived from the Honda Domani.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_ZS_(2001)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2005_MG_ZS%2B_1.6_Front.jpg/1920px-2005_MG_ZS%2B_1.6_Front.jpg",
+  "sketchfab": null
+}

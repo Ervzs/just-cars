@@ -1,0 +1,51 @@
+{
+  "id": "chevrolet-s-10-third-generation",
+  "make": "Chevrolet",
+  "model": "S-10",
+  "generation": "Third generation",
+  "aka": [
+    "Isuzu Hombre",
+    "Chevy S10",
+    "GMC S-15",
+    "GMC Sonoma GT",
+    "GMC Sonoma",
+    "Sonoma GT",
+    "S-10 SS",
+    "S-10 xtreme"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Chevrolet_S-10_LT_2.8_TD_Crew_Cab_2013_%2812725976734%29.jpg/960px-Chevrolet_S-10_LT_2.8_TD_Crew_Cab_2013_%2812725976734%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chevrolet S-10 is a compact pickup truck produced by Chevrolet. It was the first domestically-built compact pickup of the big three American automakers. When it was first introduced as a \"quarter-ton pickup\" in 1981 for the 1982 model year, the GMC version was known as the S-15 and later renamed the GMC Sonoma. A high-performance version of the latter was released in 1991, called \"Syclone\". The pickup was also sold by Isuzu as the Hombre from 1996 through 2000, but only in North America. There was also an SUV version, the Chevrolet S-10 Blazer/GMC S-15 Jimmy. An electric version was leased as a fleet vehicle in 1997 and 1998. These models are sometimes internally referred to as the S/T series to denote two- and four-wheel-drive models respectively despite all versions being badged with \"S\" nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_S-10",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Chevrolet_S-10_LT_2.8_TD_Crew_Cab_2013_%2812725976734%29.jpg/1920px-Chevrolet_S-10_LT_2.8_TD_Crew_Cab_2013_%2812725976734%29.jpg",
+  "sketchfab": {
+    "uid": "8f3b079fc68d41f3870b40032caa6d41",
+    "name": "Car-12 Chevrolet S-10",
+    "author": "zairiq zairiq",
+    "authorUrl": "https://sketchfab.com/zairiqzairiq",
+    "license": "CC Attribution"
+  }
+}

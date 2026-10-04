@@ -1,0 +1,45 @@
+{
+  "id": "mercury-cougar-eighth-generation",
+  "make": "Mercury",
+  "model": "Cougar",
+  "generation": "Eighth generation",
+  "aka": [
+    "Cougar XR-7"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2001-2002_Mercury_Cougar_--_03-30-2011.jpg/960px-2001-2002_Mercury_Cougar_--_03-30-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cougar"
+  ],
+  "description": "The Mercury Cougar is a series of automobiles that was sold by Mercury from 1967 to 2002. The model line is a diverse series of vehicles; though the Cougar nameplate is most commonly associated with two-door coupes, at various stages in its production, the model also was offered as a convertible and a hatchback. During its production as the mid-size Mercury line, the Cougar was also offered as a four-door sedan and five-door station wagon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Cougar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2001-2002_Mercury_Cougar_--_03-30-2011.jpg/1920px-2001-2002_Mercury_Cougar_--_03-30-2011.jpg",
+  "sketchfab": {
+    "uid": "cbaface981fb4a559b4385eb31e609ac",
+    "name": "Mercury Cougar XR-7",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

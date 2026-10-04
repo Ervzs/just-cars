@@ -2,6 +2,13 @@
   "id": "ford-f-150-lightning",
   "make": "Ford",
   "model": "F-150 Lightning",
+  "generation": null,
+  "aka": [
+    "Lightning",
+    "F-150 Electric Pickup",
+    "electric pickup",
+    "F-150 Lightning electric pickup"
+  ],
   "years": [
     2022,
     2023,
@@ -25,6 +32,9 @@
     "mpgCombined": 70,
     "evRangeMiles": 320
   },
+  "variants": [
+    "F-150 Lightning"
+  ],
   "description": "The Ford F-150 Lightning is a battery electric light duty full-size pickup truck unveiled by the Ford Motor Company in May 2021 as part of the fourteenth generation Ford F-Series. Four models have been announced, and all models initially will be dual-motor, four-wheel-drive, with EPA range estimates of 240–320 mi (390–510 km). A commercial-grade version of the all-wheel drive (AWD) truck is sold in the United States, with higher-power/trim/range models also sold. The F-150 Lightning began production on April 26, 2022. In December 2025, Ford announced that they would stop manufacturing the F-150 Lightning.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_F-150_Lightning",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2022_Ford_F-150_Lightning_Lariat_in_Atlas_Blue_Metallic%2C_Front_Right%2C_08-06-2022.jpg/1920px-2022_Ford_F-150_Lightning_Lariat_in_Atlas_Blue_Metallic%2C_Front_Right%2C_08-06-2022.jpg",

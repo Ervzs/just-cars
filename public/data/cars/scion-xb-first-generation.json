@@ -1,0 +1,46 @@
+{
+  "id": "scion-xb-first-generation",
+  "make": "Scion",
+  "model": "xB",
+  "generation": "First generation",
+  "aka": [
+    "t2B",
+    "bbX"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2006_Scion_xB_.jpg/960px-2006_Scion_xB_.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 31,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "xB"
+  ],
+  "description": "The Scion xB is a five-door compact hatchback that was produced by Scion, a former marque of Toyota. Produced from the 2004 to 2015 model years, it was one of the two launch models of the Scion marque, alongside the Scion xA.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_xB",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2006_Scion_xB_.jpg/1280px-2006_Scion_xB_.jpg",
+  "sketchfab": {
+    "uid": "c5da54698b624de29d6a30b8fd9b860e",
+    "name": "Scion xB (Mk1) 2003",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

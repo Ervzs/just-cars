@@ -2,6 +2,14 @@
   "id": "volkswagen-id-buzz",
   "make": "Volkswagen",
   "model": "ID. Buzz",
+  "generation": null,
+  "aka": [
+    "VW microbus electric",
+    "ID. Buzz Cargo",
+    "VW ID. Buzz",
+    "VW ID. Buzz Cargo",
+    "Buzz Cargo"
+  ],
   "years": [
     2025
   ],
@@ -22,6 +30,9 @@
     "mpgCombined": 83,
     "evRangeMiles": 234
   },
+  "variants": [
+    "ID. Buzz"
+  ],
   "description": "The Volkswagen ID. Buzz is a battery electric minivan produced by German manufacturer Volkswagen. Based on the dedicated battery electric MEB platform, it is the first production electric minivan from Volkswagen and part of the Volkswagen ID. series. A retro styled minivan, the design of the ID. Buzz is inspired by the Volkswagen Type 2 (T1) Microbus.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/1920px-Volkswagen_ID._Buzz_1X7A6263.jpg",

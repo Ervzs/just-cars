@@ -1,0 +1,35 @@
+{
+  "id": "suzuki-every-sixth-generation",
+  "make": "Suzuki",
+  "model": "Every",
+  "generation": "Sixth generation",
+  "aka": [
+    "e Every"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Suzuki_EVERY_WAGON_PZ_TURBO_%28DA17%29_front.JPG/960px-Suzuki_EVERY_WAGON_PZ_TURBO_%28DA17%29_front.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Every , is a microvan produced by the Japanese automaker Suzuki. In Japan, the Every is kei cars but the Suzuki Every Plus, the bigger version of Every, had a longer hood for safety purposes and a larger engine; export market versions and derivatives.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Every",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Suzuki_EVERY_WAGON_PZ_TURBO_%28DA17%29_front.JPG/1920px-Suzuki_EVERY_WAGON_PZ_TURBO_%28DA17%29_front.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mazda-capella-sixth-generation",
+  "make": "Mazda",
+  "model": "Capella",
+  "generation": "Sixth generation",
+  "aka": [
+    "RX-2",
+    "626",
+    "616",
+    "618",
+    "Efini MS-6",
+    "Cronos",
+    "Montrose",
+    "Capella RX-2"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/1997-1999_Mazda_626_%28GF%29_Classic_sedan_03.jpg/960px-1997-1999_Mazda_626_%28GF%29_Classic_sedan_03.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "626"
+  ],
+  "description": "The Mazda Capella, also known as the Mazda 626 in Europe, North America and Southeast Asia, is a mid-size car that was manufactured by Mazda from 1970 until 2002. Ford, Mazda's partner at the time, also used the Capella platform to create the Ford Telstar and Ford Probe. 4,345,279 of the 626 and Telstar models were sold worldwide.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Capella",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/1997-1999_Mazda_626_%28GF%29_Classic_sedan_03.jpg/1920px-1997-1999_Mazda_626_%28GF%29_Classic_sedan_03.jpg",
+  "sketchfab": null
+}

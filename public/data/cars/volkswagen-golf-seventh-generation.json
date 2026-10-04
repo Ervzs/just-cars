@@ -1,0 +1,43 @@
+{
+  "id": "volkswagen-golf-seventh-generation",
+  "make": "Volkswagen",
+  "model": "Golf",
+  "generation": "Seventh generation",
+  "aka": [
+    "VW Rabbit",
+    "Golf GTi",
+    "Rabbit",
+    "VW GTI",
+    "Volkswagon Cabrio",
+    "VW Cabrioley",
+    "VW Cabriolet",
+    "VW Golf"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2018_Volkswagen_Golf_SE_Navigation_TSi_BlueMotion_1.0_Front.jpg/960px-2018_Volkswagen_Golf_SE_Navigation_TSi_BlueMotion_1.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Volkswagen Golf is a compact car/small family car (C-segment) produced by the German automotive manufacturer Volkswagen since 1974, marketed worldwide across eight generations, in various body configurations and under various nameplates – including as the Volkswagen Rabbit in the United States and Canada, and as the Volkswagen Caribe in Mexico (Mk1). The Golf is Volkswagen's bestseller and the third best-selling automobile of all time, with over 37 million units sold worldwide.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2018_Volkswagen_Golf_SE_Navigation_TSi_BlueMotion_1.0_Front.jpg/1920px-2018_Volkswagen_Golf_SE_Navigation_TSi_BlueMotion_1.0_Front.jpg",
+  "sketchfab": {
+    "uid": "492301d401ea4fb7bb1cb63e980051d0",
+    "name": "2016 Volkswagen Golf GTI Clubsport Mk7",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

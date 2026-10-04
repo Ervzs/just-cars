@@ -2,6 +2,12 @@
   "id": "cadillac-elr",
   "make": "Cadillac",
   "model": "ELR",
+  "generation": null,
+  "aka": [
+    "Converj",
+    "Converj concept",
+    "Poolside advert"
+  ],
   "years": [
     2014,
     2015,
@@ -24,6 +30,9 @@
     "mpgCombined": 32,
     "evRangeMiles": 340
   },
+  "variants": [
+    "ELR"
+  ],
   "description": "The Cadillac ELR is a two-door, four-passenger luxury plug-in hybrid compact coupé manufactured and marketed by Cadillac for model years (MY) 2014 and 2016 – with a hiatus for MY 2015. Using a retuned version of the Chevrolet Volt's Voltec EREV drivetrain, the ELR's lithium-ion battery pack delivered an all-electric range of 37–39 miles (60–63 km) and a top speed of 106 mph (171 km/h).",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_ELR",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2014_Cadillac_ELR_trimmed.jpg/1920px-2014_Cadillac_ELR_trimmed.jpg",

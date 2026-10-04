@@ -1,0 +1,55 @@
+{
+  "id": "subaru-impreza-fifth-generation",
+  "make": "Subaru",
+  "model": "Impreza",
+  "generation": "Fifth generation",
+  "aka": [
+    "Impreza Turbo",
+    "Grand Leone",
+    "WRX STi",
+    "Impreza WRX STi",
+    "Gc8",
+    "Impreza RS",
+    "Impreza RB5",
+    "Impreza RB320"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2017_Subaru_Impreza_%28GT7%29_2.0i-S_hatchback_%282018-07-30%29_01.jpg/960px-2017_Subaru_Impreza_%28GT7%29_2.0i-S_hatchback_%282018-07-30%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Impreza"
+  ],
+  "description": "The Subaru Impreza  is a compact car that has been manufactured by the Japanese automaker Subaru since 1992. It was introduced as a replacement for the Leone, with the predecessor's EA series engines replaced by the new EJ series. It is now in its sixth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Impreza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2017_Subaru_Impreza_%28GT7%29_2.0i-S_hatchback_%282018-07-30%29_01.jpg/1920px-2017_Subaru_Impreza_%28GT7%29_2.0i-S_hatchback_%282018-07-30%29_01.jpg",
+  "sketchfab": {
+    "uid": "065804733fa245c6b1b10ca2de44099d",
+    "name": "2022 Subaru Impreza WRX",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

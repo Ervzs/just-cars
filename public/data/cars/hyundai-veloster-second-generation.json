@@ -1,0 +1,53 @@
+{
+  "id": "hyundai-veloster-second-generation",
+  "make": "Hyundai",
+  "model": "Veloster",
+  "generation": "Second generation",
+  "aka": [
+    "Veloster Turbo",
+    "Veloster N",
+    "Veloster N TCR",
+    "Veloster N ETCR"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hyundai_Veloster_1.4T_JS_Ignite_Flame_%281%29_%28cropped%29.jpg/960px-Hyundai_Veloster_1.4T_JS_Ignite_Flame_%281%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Veloster"
+  ],
+  "description": "The Hyundai Veloster is a compact car which was produced by Hyundai from 2011 until 2022. The car differs from most other hatchbacks with its asymmetrical door configuration, featuring one large door on the driver side and two smaller doors on the passenger side. This configuration is more common on commercial vehicles and minivans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Veloster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hyundai_Veloster_1.4T_JS_Ignite_Flame_%281%29_%28cropped%29.jpg/1920px-Hyundai_Veloster_1.4T_JS_Ignite_Flame_%281%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "d85ea2322d814899ad5905210f2c0e5a",
+    "name": "2022 Hyundai Veloster N",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

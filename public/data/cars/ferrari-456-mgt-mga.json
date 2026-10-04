@@ -2,6 +2,8 @@
   "id": "ferrari-456-mgt-mga",
   "make": "Ferrari",
   "model": "456 MGT/MGA",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -25,6 +27,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "456 MGT/MGA"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

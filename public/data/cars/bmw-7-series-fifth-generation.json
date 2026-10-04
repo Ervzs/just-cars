@@ -1,0 +1,49 @@
+{
+  "id": "bmw-7-series-fifth-generation",
+  "make": "BMW",
+  "model": "7 Series",
+  "generation": "Fifth generation",
+  "aka": [
+    "700 Series",
+    "7",
+    "745",
+    "745i",
+    "750i",
+    "750",
+    "760i",
+    "7 Series Sedan"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/BMW_730d_xDrive_%28F01%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/960px-BMW_730d_xDrive_%28F01%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "7 Series"
+  ],
+  "description": "The BMW 7 Series is a full-size luxury sedan manufactured and marketed by the German automaker BMW since 1977. It is the successor to the BMW E3 \"New Six\" sedan and is now in its seventh generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_7_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/BMW_730d_xDrive_%28F01%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/1920px-BMW_730d_xDrive_%28F01%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

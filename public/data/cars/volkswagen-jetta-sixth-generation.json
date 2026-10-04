@@ -1,0 +1,48 @@
+{
+  "id": "volkswagen-jetta-sixth-generation",
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "generation": "Sixth generation",
+  "aka": [
+    "VW Jetta",
+    "Volkswagon Jetta",
+    "GLI",
+    "EJetta",
+    "VW Sagitar",
+    "sagitar"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Volkswagen_Jetta_sedan_--_03-16-2012_2.JPG/960px-Volkswagen_Jetta_sedan_--_03-16-2012_2.JPG",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 38,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Jetta"
+  ],
+  "description": "The Volkswagen Jetta is a compact car/small family car manufactured and marketed by Volkswagen since 1979. Positioned to fill a sedan niche slightly above the Golf hatchback, it has been marketed over seven generations, variously as the Atlantic, Vento, Bora, City Jetta, Jetta City, GLI, Jetta, Clasico, and Sagitar.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Jetta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Volkswagen_Jetta_sedan_--_03-16-2012_2.JPG/1280px-Volkswagen_Jetta_sedan_--_03-16-2012_2.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "renault-symbol-second-generation",
+  "make": "Nissan",
+  "model": "Renault Symbol",
+  "generation": "Second generation",
+  "aka": [
+    "Platina",
+    "Renault Thalia",
+    "Renault Clio Symbol",
+    "Renault Clio Classic"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/RenaultSymbolfrontright.jpg/960px-RenaultSymbolfrontright.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Symbol, Clio or Thalia in some markets, is a subcompact sedan produced by the French automobile manufacturer Renault. It was introduced in late 1999, under the Clio Symbol name, as the derivative version of the second generation Renault Clio, and unlike the hatchback it was marketed only in those countries where saloons were traditionally preferred over hatchbacks, while it was not sold in Western Europe. It was actually sold in France, but only in overseas departments/regions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Symbol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/RenaultSymbolfrontright.jpg/1920px-RenaultSymbolfrontright.jpg",
+  "sketchfab": null
+}

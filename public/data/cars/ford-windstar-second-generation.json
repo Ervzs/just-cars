@@ -1,0 +1,46 @@
+{
+  "id": "ford-windstar-second-generation",
+  "make": "Ford",
+  "model": "Windstar",
+  "generation": "Second generation",
+  "aka": [
+    "Freestar"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/99-00_Ford_Windstar_LX.jpg/960px-99-00_Ford_Windstar_LX.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Windstar"
+  ],
+  "description": "The Ford Windstar is a minivan that was produced and sold by Ford from the 1995 to 2007 model years. The second minivan line designed by Ford, the Windstar moved closer in line to the design of the Chrysler minivans. The successor of the Ford Aerostar, the model line adopted front-wheel drive and a \"two-box\" body design. Three generations of the model line were produced, with the final generation taking on the Ford Freestar nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Windstar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/99-00_Ford_Windstar_LX.jpg/1280px-99-00_Ford_Windstar_LX.jpg",
+  "sketchfab": {
+    "uid": "6297951ad6644f648d72a7674a7d93c6",
+    "name": "Ford Windstar II 2000",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

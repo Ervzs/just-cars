@@ -1,0 +1,28 @@
+{
+  "id": "isuzu-aska-fourth-generation",
+  "make": "Isuzu",
+  "model": "Aska",
+  "generation": "Fourth generation",
+  "aka": [
+    "Chevrolet Aska"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Isuzu_aska_cj3_lj_1_f.jpg/960px-Isuzu_aska_cj3_lj_1_f.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Aska was a nameplate used by Isuzu of Japan to denote its mid-size sedans from 1983 to 2002. Originally the Aska was a version of General Motors' J-car produced by Isuzu, but after Isuzu pulled out of manufacturing passenger cars the nameplate was applied to rebadged versions of the Subaru Legacy and Honda Accord sold through Isuzu's Japanese distribution network.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Aska",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Isuzu_aska_cj3_lj_1_f.jpg/1280px-Isuzu_aska_cj3_lj_1_f.jpg",
+  "sketchfab": null
+}

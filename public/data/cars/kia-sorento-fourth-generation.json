@@ -1,0 +1,50 @@
+{
+  "id": "kia-sorento-fourth-generation",
+  "make": "Kia",
+  "model": "Sorento",
+  "generation": "Fourth generation",
+  "aka": [
+    "Naza Sorento",
+    "Sorentos",
+    "Sorrento"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kia_Sorento_Hybrid_MQ4_HEV_Saddle_Brown_%282%29.jpg/960px-Kia_Sorento_Hybrid_MQ4_HEV_Saddle_Brown_%282%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 37,
+    "mpgHighway": 36,
+    "mpgCombined": 37,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sorento"
+  ],
+  "description": "The Kia Sorento is a series of two-wheel drive and four-wheel drive family SUVs manufactured by the South Korean manufacturer Kia since 2002 through four generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sorento transitioned to a larger car-based platform which placed it into the mid-size crossover SUV class, and has been developed alongside the Hyundai Santa Fe. It is presumed to be named after the Italian city of Sorrento, though Kia did not confirm this. However, Kia released the cryptic post teasing the launch of Sorento in India featuring the image of Piazza Tasso located in Sorrento, Italy.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sorento",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kia_Sorento_Hybrid_MQ4_HEV_Saddle_Brown_%282%29.jpg/1920px-Kia_Sorento_Hybrid_MQ4_HEV_Saddle_Brown_%282%29.jpg",
+  "sketchfab": {
+    "uid": "340ded1d34c149a095b3281a1232494a",
+    "name": "2022 Kia Sorento PHEV Executive Line",
+    "author": "twr422",
+    "authorUrl": "https://sketchfab.com/twr422",
+    "license": "CC Attribution"
+  }
+}

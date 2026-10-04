@@ -1,0 +1,48 @@
+{
+  "id": "jeep-compass-second-generation",
+  "make": "Jeep",
+  "model": "Compass",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jeep-compass-2018-petrol-at-limited-india-front.jpg/960px-Jeep-compass-2018-petrol-at-limited-india-front.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Compass"
+  ],
+  "description": "The Jeep Compass is a compact crossover SUV, introduced in 2006 for the 2007 model year. The first generation Compass and Patriot, its rebadged variant, were among Jeep's first crossover SUVs.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Compass",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jeep-compass-2018-petrol-at-limited-india-front.jpg/1920px-Jeep-compass-2018-petrol-at-limited-india-front.jpg",
+  "sketchfab": {
+    "uid": "e4087350c4d84d8391de09b405c96488",
+    "name": "Jeep Compass 2022 Lowpoly",
+    "author": "Davidson",
+    "authorUrl": "https://sketchfab.com/Davidson741",
+    "license": "CC Attribution"
+  }
+}

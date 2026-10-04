@@ -1,0 +1,58 @@
+{
+  "id": "lexus-ls-fifth-generation",
+  "make": "Lexus",
+  "model": "LS",
+  "generation": "Fifth generation",
+  "aka": [
+    "LS 400",
+    "LS430",
+    "Toyota Celsior",
+    "LS 460 L",
+    "LS 460",
+    "Celsior",
+    "LS awards",
+    "List of awards won by the Lexus LS"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2020_Lexus_LS500_F_Sport_4WD_in_White_Nova_Glass_Flakes%2C_front_right.jpg/960px-2020_Lexus_LS500_F_Sport_4WD_in_White_Nova_Glass_Flakes%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LS"
+  ],
+  "description": "The Lexus LS  is a series of full-size luxury sedans that have served as the flagship model of Lexus, the luxury division of Toyota, since 1989. For the first four generations, all LS models featured V8 engines and were predominantly rear-wheel-drive. In the fourth generation, Lexus offered all-wheel-drive, hybrid, and long-wheelbase variants. The fifth generation changed to using a V6 engine with no V8 option, and only one length was offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2020_Lexus_LS500_F_Sport_4WD_in_White_Nova_Glass_Flakes%2C_front_right.jpg/1920px-2020_Lexus_LS500_F_Sport_4WD_in_White_Nova_Glass_Flakes%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "4efd92813e7a428abf85d23e994905df",
+    "name": "Lexus LS (Mk5)(XF50) F-Sport HQ interior 2018",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

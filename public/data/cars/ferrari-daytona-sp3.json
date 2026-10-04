@@ -2,6 +2,8 @@
   "id": "ferrari-daytona-sp3",
   "make": "Ferrari",
   "model": "Daytona SP3",
+  "generation": null,
+  "aka": [],
   "years": [
     2023,
     2024,
@@ -24,6 +26,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Daytona SP3"
+  ],
   "description": "The Ferrari Daytona SP3 is a limited production mid-engine sports car produced by the Italian automobile manufacturer Ferrari, unveiled on 20 November 2021 for the 2023 model year. The Daytona SP3 is the latest in the \"Icona\" series of high-performance cars being produced by Ferrari after the Ferrari Monza SP series. 599 examples were to be built from 2022 and sold for $2.25 million each. The Daytona SP3 is powered by a naturally aspirated 6.5-liter V12 that is shared with the 812 Superfast. The SP3 marks the first return of Ferrari to naturally-aspirated V12, mid-mounted engines for limited edition cars without hybrid electric systems since the Ferrari Enzo, introduced in 2002.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Daytona_SP3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg/1920px-Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg",

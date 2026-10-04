@@ -1,0 +1,53 @@
+{
+  "id": "toyota-highlander-third-generation",
+  "make": "Toyota",
+  "model": "Highlander",
+  "generation": "Third generation",
+  "aka": [
+    "Highlander Hybrid",
+    "2003 toyota highlander",
+    "Kluger Hybrid",
+    "Kluger",
+    "Crown Kluger",
+    "bZ Large SUV",
+    "Subaru Getaway"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.7L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2015_Toyota_Kluger_%28GSU55R%29_GX_wagon_%282015-11-11%29_02.jpg/960px-2015_Toyota_Kluger_%28GSU55R%29_GX_wagon_%282015-11-11%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.7L 4-cyl",
+    "displacementL": 2.7,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 24,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Highlander"
+  ],
+  "description": "The Toyota Highlander , also known as the Toyota Kluger  in some markets, is a mid-size crossover SUV with three-row seating produced by Toyota since 2000.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Highlander",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2015_Toyota_Kluger_%28GSU55R%29_GX_wagon_%282015-11-11%29_02.jpg/1920px-2015_Toyota_Kluger_%28GSU55R%29_GX_wagon_%282015-11-11%29_02.jpg",
+  "sketchfab": {
+    "uid": "8f5f1e64dc004868a49cf05b0d3441cc",
+    "name": "2015 Toyota Highlander",
+    "author": "jdurden",
+    "authorUrl": "https://sketchfab.com/jdurden",
+    "license": "CC Attribution"
+  }
+}

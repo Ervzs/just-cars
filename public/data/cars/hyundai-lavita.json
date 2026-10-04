@@ -1,0 +1,41 @@
+{
+  "id": "hyundai-lavita",
+  "make": "Hyundai",
+  "model": "Lavita",
+  "generation": null,
+  "aka": [
+    "Matrix",
+    "Elantra LaVita",
+    "Inokom Matrix"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2001-2004_Hyundai_Elantra_LaVita_%28FC%29_GLS_hatchback_%282011-11-18%29_01.jpg/960px-2001-2004_Hyundai_Elantra_LaVita_%28FC%29_GLS_hatchback_%282011-11-18%29_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Lavita is a multi purpose vehicle (MPV) produced by the South Korean manufacturer Hyundai, from 2001 to 2010. It was also marketed as the Hyundai Matrix in Europe and Southeast Asia, and as the Hyundai Elantra LaVita in Australia. It was mechanically related to the Hyundai Elantra (XD) and was designed by the Italian company Pininfarina.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Lavita",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2001-2004_Hyundai_Elantra_LaVita_%28FC%29_GLS_hatchback_%282011-11-18%29_01.jpg/1920px-2001-2004_Hyundai_Elantra_LaVita_%28FC%29_GLS_hatchback_%282011-11-18%29_01.jpg",
+  "sketchfab": {
+    "uid": "ee75302e5d3e4f2ca9c80e0068aee2d9",
+    "name": "Hyundai Lavita",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

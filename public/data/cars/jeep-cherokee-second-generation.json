@@ -1,0 +1,57 @@
+{
+  "id": "jeep-cherokee-second-generation",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jeep_Cherokee_2-door.jpg/960px-Jeep_Cherokee_2-door.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cherokee"
+  ],
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jeep_Cherokee_2-door.jpg/1920px-Jeep_Cherokee_2-door.jpg",
+  "sketchfab": {
+    "uid": "a7c17d7156084940bc980fe61be4c356",
+    "name": "1992 Jeep Cherokee XJ",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

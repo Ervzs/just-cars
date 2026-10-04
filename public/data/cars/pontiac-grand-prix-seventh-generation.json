@@ -1,0 +1,49 @@
+{
+  "id": "pontiac-grand-prix-seventh-generation",
+  "make": "Pontiac",
+  "model": "Grand Prix",
+  "generation": "Seventh generation",
+  "aka": [
+    "1973 Pontiac Grand Prix",
+    "Grand Prix 2+2"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.1L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/1997_Pontiac_Grand_Prix_GT_coupe%2C_front_left%2C_09-09-2023.jpg/960px-1997_Pontiac_Grand_Prix_GT_coupe%2C_front_left%2C_09-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.1L 6-cyl",
+    "displacementL": 3.1,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Prix"
+  ],
+  "description": "The Grand Prix is a line of automobiles produced by the Pontiac Division of General Motors from 1962 until 2002 as coupes and from 1989 through 2008 model years as four-door sedans.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Grand_Prix",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/1997_Pontiac_Grand_Prix_GT_coupe%2C_front_left%2C_09-09-2023.jpg/1920px-1997_Pontiac_Grand_Prix_GT_coupe%2C_front_left%2C_09-09-2023.jpg",
+  "sketchfab": {
+    "uid": "1fe0c0b7174346d7a420106a766f7e3b",
+    "name": "Pontiac Grand Prix NASCAR Gen 4 (2003)",
+    "author": "YourLocalCarUploader",
+    "authorUrl": "https://sketchfab.com/CarUploader",
+    "license": "CC Attribution"
+  }
+}

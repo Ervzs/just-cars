@@ -1,0 +1,37 @@
+{
+  "id": "ford-fiesta-fourth-generation",
+  "make": "Ford",
+  "model": "Fiesta",
+  "generation": "Fourth generation",
+  "aka": [
+    "XR2",
+    "V2CII",
+    "Verve",
+    "Fiesta ST N3",
+    "Icon",
+    "Fiesta XR4",
+    "Dogbot",
+    "Fiesta ST"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ford_Fiesta_MK4_%281995-1999%29_front.jpg/960px-Ford_Fiesta_MK4_%281995-1999%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Ford Fiesta is a supermini car that was marketed by Ford from 1976 to 2023 over seven generations. Over the years, the Fiesta has mainly been developed and manufactured by Ford's European operations, and had been positioned below the Escort.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Fiesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ford_Fiesta_MK4_%281995-1999%29_front.jpg/1920px-Ford_Fiesta_MK4_%281995-1999%29_front.jpg",
+  "sketchfab": null
+}

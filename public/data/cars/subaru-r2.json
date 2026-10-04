@@ -1,0 +1,29 @@
+{
+  "id": "subaru-r2",
+  "make": "Subaru",
+  "model": "R2",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Subaru_R2_203.JPG/960px-Subaru_R2_203.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru R2 is a kei car produced and sold in Japan by Fuji Heavy Industries from 2003 to 2010. Its name was inspired by the Subaru R-2, produced from 1969 to 1972. The R2 was discontinued in 2010.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_R2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Subaru_R2_203.JPG/1280px-Subaru_R2_203.JPG",
+  "sketchfab": null
+}

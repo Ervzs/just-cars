@@ -1,0 +1,29 @@
+{
+  "id": "suzuki-baleno-2015-second-generation",
+  "make": "Toyota",
+  "model": "Suzuki Baleno (2015)",
+  "generation": "Second generation",
+  "aka": [
+    "Suzuki Baleno and Baleno RS",
+    "Glanza"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view_02.jpg/960px-2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Baleno  is a subcompact car produced by the Japanese manufacturer Suzuki in India and some other countries since September 2015 with a hatchback body style.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Baleno_(2015)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view_02.jpg/1280px-2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view_02.jpg",
+  "sketchfab": null
+}

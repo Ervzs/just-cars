@@ -1,0 +1,38 @@
+{
+  "id": "hyundai-i10-first-generation",
+  "make": "Hyundai",
+  "model": "i10",
+  "generation": "First generation",
+  "aka": [
+    "Dodge i10",
+    "Grand i10",
+    "i10 electric",
+    "Grand i10 Nios"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hyundai_i10_front_20100328.jpg/960px-Hyundai_i10_front_20100328.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai i10 is a city car produced by the South Korean manufacturer Hyundai since 2007. It replaced the Hyundai Atos in the model line-up, and was initially available only as a five-door hatchback body style. The third generation i10 was unveiled in India on 7 August 2019 and launched on 20 August 2019, offered in 10 variants across petrol and diesel engines as well as manual and automatic transmissions. There are also sedan derivatives, the Hyundai Xcent and the Hyundai Aura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_i10",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hyundai_i10_front_20100328.jpg/1920px-Hyundai_i10_front_20100328.jpg",
+  "sketchfab": {
+    "uid": "b64ea1230b124a83be6eb7f006126d1f",
+    "name": "Hyundai I10 2012",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

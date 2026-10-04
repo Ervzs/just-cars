@@ -1,0 +1,43 @@
+{
+  "id": "isuzu-fargo-second-generation",
+  "make": "Isuzu",
+  "model": "Fargo",
+  "generation": "Second generation",
+  "aka": [
+    "Bedford Midi",
+    "Holden Shuttle",
+    "WFR",
+    "Opel Midi",
+    "Midi",
+    "Vauxhall Midi",
+    "GME Midi",
+    "Vauxhall Albany"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ISUZU_FARGO_White_Van.jpg/960px-ISUZU_FARGO_White_Van.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Fargo is a light commercial van manufactured between 1980 and 2001 by Japanese automaker Isuzu in Japan. The Fargo spanned two generations, the first of which was sold between 1980 and 1995 as both van and pickup body styles, with the second generation, introduced in 1995, confined to a single van body style. This second generation was a badge-engineered version of the Nissan Caravan (E24), as opposed to an Isuzu design.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Fargo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/ISUZU_FARGO_White_Van.jpg/1920px-ISUZU_FARGO_White_Van.jpg",
+  "sketchfab": {
+    "uid": "4aa50e3ad47b4fdb84ee8f9e1e00c8cc",
+    "name": "Isuzu Fargo ‘80 Time Travel",
+    "author": "N01516",
+    "authorUrl": "https://sketchfab.com/N01506",
+    "license": "CC Attribution"
+  }
+}

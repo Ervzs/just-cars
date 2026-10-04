@@ -1,0 +1,47 @@
+{
+  "id": "toyota-innova-first-generation",
+  "make": "Toyota",
+  "model": "Innova",
+  "generation": "First generation",
+  "aka": [
+    "Kijang Innova",
+    "Venturer",
+    "Innova Crysta",
+    "Zenix",
+    "Innova Zenix",
+    "Kijang Innova Zenix",
+    "Innova Hycross",
+    "Suzuki Invicto"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2007_Toyota_Kijang_Innova_2.5_G_%28front%29%2C_West_Surabaya_%28cropped%29.jpg/960px-2007_Toyota_Kijang_Innova_2.5_G_%28front%29%2C_West_Surabaya_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Innova is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Toyota since 2004, mainly sold with three-row seating.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Innova",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2007_Toyota_Kijang_Innova_2.5_G_%28front%29%2C_West_Surabaya_%28cropped%29.jpg/1920px-2007_Toyota_Kijang_Innova_2.5_G_%28front%29%2C_West_Surabaya_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "43a8142b29d542de817e9f64f5ec1846",
+    "name": "2013 - 2015 Toyota Kijang Innova 2.5 V [KUN40R]",
+    "author": "boiledfish.vvti",
+    "authorUrl": "https://sketchfab.com/iwak.rebus",
+    "license": "CC Attribution"
+  }
+}

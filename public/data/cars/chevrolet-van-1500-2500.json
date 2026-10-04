@@ -2,6 +2,8 @@
   "id": "chevrolet-van-1500-2500",
   "make": "Chevrolet",
   "model": "Van 1500/2500",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -16,7 +18,7 @@
   "vehicleClass": "Vans, Cargo Type",
   "fuelType": "Regular",
   "engine": "4.3L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg/960px-2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2008,
   "specs": {
@@ -30,8 +32,11 @@
     "mpgCombined": 17,
     "evRangeMiles": null
   },
-  "description": "The Chevrolet Silverado is a range of trucks manufactured by General Motors under the Chevrolet brand. Introduced for the 1999 model year, the Silverado is the successor to the long-running Chevrolet C/K model line. Taking its name from the top trim level from the Chevrolet C/K series, the Silverado is offered as a series of full-size pickup trucks, chassis cab trucks, and medium-duty trucks. The fourth generation of the model line was introduced for the 2019 model year.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Silverado",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg/1920px-2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg",
+  "variants": [
+    "Van 1500/2500"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

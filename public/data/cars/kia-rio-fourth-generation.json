@@ -1,0 +1,56 @@
+{
+  "id": "kia-rio-fourth-generation",
+  "make": "Kia",
+  "model": "Rio",
+  "generation": "Fourth generation",
+  "aka": [
+    "Rio Cinco",
+    "New Pride",
+    "K2",
+    "KX Cross",
+    "Tonic"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2018_Kia_Rio_%28YB%29_S_5-door_hatchback_%282018-08-06%29_02.jpg/960px-2018_Kia_Rio_%28YB%29_S_5-door_hatchback_%282018-08-06%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 32,
+    "mpgHighway": 41,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rio"
+  ],
+  "description": "The Kia Rio is a subcompact car manufactured by Kia, produced from 1999 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Rio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2018_Kia_Rio_%28YB%29_S_5-door_hatchback_%282018-08-06%29_02.jpg/1920px-2018_Kia_Rio_%28YB%29_S_5-door_hatchback_%282018-08-06%29_02.jpg",
+  "sketchfab": {
+    "uid": "82803d9c4afb4cf2867ef364d31e6528",
+    "name": "2021 Kia Rio",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

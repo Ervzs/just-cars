@@ -1,0 +1,34 @@
+{
+  "id": "kia-sonet",
+  "make": "Kia",
+  "model": "Sonet",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kia_Sonet_QY_FL_1.5_EX_Imperial_Blue_-_front.jpg/960px-Kia_Sonet_QY_FL_1.5_EX_Imperial_Blue_-_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Sonet is a subcompact crossover SUV manufactured by Kia since 2020. Positioned below the Seltos and closely related to the similarly sized sibling Hyundai Venue, it is sold in emerging markets, including Asia, Africa, the Middle East, and Latin America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sonet",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kia_Sonet_QY_FL_1.5_EX_Imperial_Blue_-_front.jpg/1920px-Kia_Sonet_QY_FL_1.5_EX_Imperial_Blue_-_front.jpg",
+  "sketchfab": {
+    "uid": "8c89dba49fed4457839a434480f57c03",
+    "name": "Kia Sonet",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

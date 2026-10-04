@@ -1,0 +1,37 @@
+{
+  "id": "renault-kangoo-third-generation-xfk",
+  "make": "Nissan",
+  "model": "Renault Kangoo",
+  "generation": "Third generation XFK",
+  "aka": [
+    "Kubistar",
+    "Kangoo",
+    "Renault Kangoo Trekka",
+    "Renault Kangoo Express Z.E.",
+    "Renault Kangoo Break'Up",
+    "Renault Kangoo Z.E.",
+    "NV250",
+    "Townstar"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Renault_Kangoo_III_1X7A1518.jpg/960px-Renault_Kangoo_III_1X7A1518.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Kangoo is a family of minivans built by Renault since 1997 across three generations. It is sold as a passenger multi-purpose vehicle or as a light commercial vehicle. For the European market, the Kangoo is manufactured at the MCA plant in Maubeuge, France.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Kangoo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Renault_Kangoo_III_1X7A1518.jpg/1920px-Renault_Kangoo_III_1X7A1518.jpg",
+  "sketchfab": null
+}

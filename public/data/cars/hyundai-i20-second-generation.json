@@ -1,0 +1,32 @@
+{
+  "id": "hyundai-i20-second-generation",
+  "make": "Hyundai",
+  "model": "i20",
+  "generation": "Second generation",
+  "aka": [
+    "Elite i20",
+    "i20 AP4",
+    "GB",
+    "i20n"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2017_Hyundai_I20_Sport_NAV_MPi_Coupe_1.25_Front.jpg/960px-2017_Hyundai_I20_Sport_NAV_MPi_Coupe_1.25_Front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai i20 is a supermini car produced by Hyundai since 2008. The i20 made its debut at the Paris Motor Show in October 2008, and sits between the i10 and i30. The i20 replaces the Getz in nearly all of its markets, while several markets received the slightly larger Accent/Verna hatchback to replace it instead.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_i20",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2017_Hyundai_I20_Sport_NAV_MPi_Coupe_1.25_Front.jpg/1920px-2017_Hyundai_I20_Sport_NAV_MPi_Coupe_1.25_Front.jpg",
+  "sketchfab": null
+}

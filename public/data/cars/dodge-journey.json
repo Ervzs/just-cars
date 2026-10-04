@@ -2,6 +2,14 @@
   "id": "dodge-journey",
   "make": "Dodge",
   "model": "Journey",
+  "generation": null,
+  "aka": [
+    "NCC",
+    "Fiat Freemont",
+    "JC",
+    "The Fiat Freemont",
+    "The Dodge Journey"
+  ],
   "years": [
     2009,
     2010,
@@ -33,6 +41,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Journey"
+  ],
   "description": "The Dodge Journey is a mid-size crossover SUV manufactured and marketed by Fiat Chrysler Automobiles' Dodge brand for model years 2009 to 2020 over a single generation, with a facelift for the 2011 model year. The Journey was styled by Ryan Nagode, and was marketed globally in both left- and right-hand drive, including as the Fiat Freemont.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Journey",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg/1920px-2012_Dodge_Journey_--_NHTSA_3.jpg",

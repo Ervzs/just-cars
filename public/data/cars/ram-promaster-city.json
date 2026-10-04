@@ -1,7 +1,9 @@
 {
   "id": "ram-promaster-city",
   "make": "Ram",
-  "model": "Promaster City",
+  "model": "ProMaster City",
+  "generation": null,
+  "aka": [],
   "years": [
     2015,
     2016,
@@ -29,6 +31,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Promaster City"
+  ],
   "description": "The Ram ProMaster City is an automobile nameplate used by Stellantis for its RAM brand since 2015 for two different van models:A rebadged version of the Fiat Doblò produced between 2015 and 2022\nA rebadged version of the Citroën Jumpy / Fiat Scudo to be produced starting in 2027",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_ProMaster_City",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ram_ProMaster_City_Montr%C3%A9al.jpg/1280px-Ram_ProMaster_City_Montr%C3%A9al.jpg",

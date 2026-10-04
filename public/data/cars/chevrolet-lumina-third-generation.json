@@ -1,0 +1,47 @@
+{
+  "id": "chevrolet-lumina-third-generation",
+  "make": "Chevrolet",
+  "model": "Lumina",
+  "generation": "Third generation",
+  "aka": [
+    "Lumina LTZ",
+    "Chevy Lumina",
+    "Lumina Z34",
+    "Lumina Ute"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.1L 6-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2000-2001_Chevrolet_Lumina_SS_01.jpg",
+  "has3d": false,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.1L 6-cyl",
+    "displacementL": 3.1,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Lumina/Monte Carlo",
+    "Lumina"
+  ],
+  "description": "The Chevrolet Lumina is a mid-size car that was produced and marketed by Chevrolet from the 1990 to 2001 model years. Serving as the combined successor for both the Chevrolet Celebrity and Chevrolet Monte Carlo, the Lumina was sold as both a two-door coupe and a four-door sedan. Serving as the largest front-wheel drive Chevrolet, the model line was slotted below the Caprice Classic in the Chevrolet line.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Lumina",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2000-2001_Chevrolet_Lumina_SS_01.jpg",
+  "sketchfab": null
+}

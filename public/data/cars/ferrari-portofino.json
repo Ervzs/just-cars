@@ -2,6 +2,10 @@
   "id": "ferrari-portofino",
   "make": "Ferrari",
   "model": "Portofino",
+  "generation": null,
+  "aka": [
+    "Portofino M"
+  ],
   "years": [
     2019,
     2020,
@@ -26,6 +30,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Portofino"
+  ],
   "description": "The Ferrari Portofino is a grand touring sports car produced by the Italian automotive manufacturer Ferrari. It is a two-door 2+2 hard top convertible, with a 3.9 L twin-turbo V8 gasoline engine and a 0–60 mph (0–97 km/h) time of 3.5 seconds. The car is named after the village of Portofino on the Italian Riviera and succeeds the company's previous V8 grand tourer, the California T. The car was unveiled at the 2017 Frankfurt Motor Show.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Portofino",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ferrari_Portofino_M_IMG_4351.jpg/1920px-Ferrari_Portofino_M_IMG_4351.jpg",

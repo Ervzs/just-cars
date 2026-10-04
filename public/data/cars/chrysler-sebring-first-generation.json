@@ -1,0 +1,39 @@
+{
+  "id": "chrysler-sebring-first-generation",
+  "make": "Chrysler",
+  "model": "Sebring",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2000_Chrysler_Sebring_JXi_convertible%2C_front_left%2C_09-09-2023.jpg/960px-2000_Chrysler_Sebring_JXi_convertible%2C_front_left%2C_09-09-2023.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.5L 6-cyl",
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sebring"
+  ],
+  "description": "The Chrysler Sebring is a mid-size automobile manufactured and marketed by Chrysler from 1995 to 2010 in convertible, sedan, and coupe body styles. Both coupe generations were a Chrysler design with engineering input from Mitsubishi and were built at Mitsubishi’s Normal, Illinois facility. The range was introduced in 1995, with the Coupe replacing the Chrysler LeBaron coupe. In 1996 Chrysler introduced the convertible, replacing its LeBaron counterpart.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Sebring",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2000_Chrysler_Sebring_JXi_convertible%2C_front_left%2C_09-09-2023.jpg/1920px-2000_Chrysler_Sebring_JXi_convertible%2C_front_left%2C_09-09-2023.jpg",
+  "sketchfab": null
+}

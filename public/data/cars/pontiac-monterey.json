@@ -2,13 +2,15 @@
   "id": "pontiac-monterey",
   "make": "Pontiac",
   "model": "Monterey",
+  "generation": null,
+  "aka": [],
   "years": [
     2005
   ],
   "vehicleClass": "Minivan - 2WD",
   "fuelType": "Regular",
   "engine": "3.4L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1973_Pontiac_Ventura_Sprint_Coupe_350_in_orange%2C_front_right.jpg/960px-1973_Pontiac_Ventura_Sprint_Coupe_350_in_orange%2C_front_right.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2005,
   "specs": {
@@ -22,8 +24,11 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
-  "description": "The Pontiac Ventura is an automobile model which was produced by Pontiac between 1960 and 1977.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Ventura",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1973_Pontiac_Ventura_Sprint_Coupe_350_in_orange%2C_front_right.jpg/1920px-1973_Pontiac_Ventura_Sprint_Coupe_350_in_orange%2C_front_right.jpg",
+  "variants": [
+    "Monterey"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

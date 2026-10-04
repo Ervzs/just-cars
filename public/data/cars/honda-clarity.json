@@ -2,6 +2,17 @@
   "id": "honda-clarity",
   "make": "Honda",
   "model": "Clarity",
+  "generation": null,
+  "aka": [
+    "FCX Clarity",
+    "CFX Clarity",
+    "The Honda FCX Clarity",
+    "Clarity Electric",
+    "Clarity Plug-in Hybrid",
+    "Clarity PHEV",
+    "Clarity Fuel Cell",
+    "Clarity FCV"
+  ],
   "years": [
     2014,
     2017,
@@ -27,6 +38,9 @@
     "mpgCombined": 42,
     "evRangeMiles": 340
   },
+  "variants": [
+    "Clarity"
+  ],
   "description": "The Honda Clarity is a nameplate used by Honda on alternative fuel vehicles. It was initially used only on hydrogen fuel-cell electric vehicles such as the 2008 Honda FCX Clarity, but in 2017 the nameplate was expanded to include the battery-electric Honda Clarity Electric and the plug-in hybrid electric Honda Clarity Plug-in Hybrid, in addition to the next generation Honda Clarity Fuel Cell. Clarity production ended in August 2021 with US leases for the fuel cell variant continuing through to 2022. As of 2025, the Honda Clarity (2016-2021) is the last known production car to feature fixed rear wheel skirts.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Clarity",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Osaka_Motor_Show_2015_%28202%29_-_Honda_CLARITY_FUEL_CELL.JPG/1920px-Osaka_Motor_Show_2015_%28202%29_-_Honda_CLARITY_FUEL_CELL.JPG",

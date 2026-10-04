@@ -1,0 +1,46 @@
+{
+  "id": "infiniti-qx80-third-generation",
+  "make": "Infiniti",
+  "model": "QX80",
+  "generation": "Third generation",
+  "aka": [
+    "QX56",
+    "QX4",
+    "QX4 SUV"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Infiniti_QX80_Autograph.jpg/960px-Infiniti_QX80_Autograph.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S9)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "QX80"
+  ],
+  "description": "The Infiniti QX80 is a full-size luxury SUV marketed by Nissan's luxury division Infiniti since the 2004 model year. The first-generation QX56 was built in the United States and is based on the first-generation Armada. The second-generation model was released in 2010 as a model produced in Japan, which used the sixth-generation Patrol as the base vehicle instead. Since the 2014 model year in 2013, the vehicle was renamed to the QX80 as Infiniti renamed their entire product line under a new nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Infiniti_QX80_Autograph.jpg/1920px-Infiniti_QX80_Autograph.jpg",
+  "sketchfab": {
+    "uid": "ba6290c51b264675ba27a624d2350c27",
+    "name": "Infiniti Qx80 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

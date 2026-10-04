@@ -2,6 +2,8 @@
   "id": "gmc-savana-passenger",
   "make": "GMC",
   "model": "Savana Passenger",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -25,7 +27,7 @@
   "vehicleClass": "Vans, Passenger Type",
   "fuelType": "Regular",
   "engine": "6.0L 8-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/960px-2024_GMC_Acadia_Denali_front_view.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2017,
   "specs": {
@@ -39,8 +41,11 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
-  "description": "The GMC Acadia is a crossover SUV manufactured by General Motors for its GMC division. The first-generation GMC Acadia shared the GM Lambda platform with the Saturn Outlook, the Chevrolet Traverse, and the Buick Enclave. The Acadia went on sale in 2006 as a 2007 model in the United States, Canada and Mexico. The Acadia replaces three of the 7- or 8-seater vehicles on the Buick-Pontiac–GMC dealership network, the midsize GMC Safari van, the GMC Envoy, and the Pontiac Montana SV6 minivan for the domestic market. As of 2009, the Lambda vehicles had replaced the Buick Rainier, Buick Rendezvous, Buick Terraza, and the GMC Envoy XL and then subsequently the GMC Envoy, Chevrolet TrailBlazer and the Isuzu Ascender. A Denali version of the Acadia debuted for 2011. In 2017, the second generation Acadia was repositioned as a mid-size crossover utility vehicle in order to compete in the growing midsize SUV market against the likes of the Ford Explorer, Edge, and the Jeep Grand Cherokee.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Acadia",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/1920px-2024_GMC_Acadia_Denali_front_view.jpg",
+  "variants": [
+    "Savana Passenger"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

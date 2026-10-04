@@ -1,0 +1,41 @@
+{
+  "id": "toyota-innova-third-generation",
+  "make": "Toyota",
+  "model": "Innova",
+  "generation": "Third generation",
+  "aka": [
+    "Kijang Innova",
+    "Venturer",
+    "Innova Crysta",
+    "Zenix",
+    "Innova Zenix",
+    "Kijang Innova Zenix",
+    "Innova Hycross",
+    "Suzuki Invicto"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Toyota_Innova_Zenix_2.0_V_%28III%29_%E2%80%93_h_22032025.jpg/960px-Toyota_Innova_Zenix_2.0_V_%28III%29_%E2%80%93_h_22032025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Innova is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Toyota since 2004, mainly sold with three-row seating.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Innova",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Toyota_Innova_Zenix_2.0_V_%28III%29_%E2%80%93_h_22032025.jpg/1920px-Toyota_Innova_Zenix_2.0_V_%28III%29_%E2%80%93_h_22032025.jpg",
+  "sketchfab": {
+    "uid": "c8e1bbc9292b4e198dba839c32f02fa9",
+    "name": "Toyota Kijang Innova Zenix 2023 (highpoly)",
+    "author": "3DShowroom",
+    "authorUrl": "https://sketchfab.com/3dshowroom",
+    "license": "CC Attribution"
+  }
+}

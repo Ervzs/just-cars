@@ -1,0 +1,48 @@
+{
+  "id": "mercedes-benz-gls-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLS",
+  "generation": "First generation",
+  "aka": [
+    "GL4U2",
+    "GL-Class",
+    "Mercedes GL",
+    "Mercedes Benz GL",
+    "MB GL-Class",
+    "Mercedes Benz GLS-Class",
+    "GL",
+    "Mercedes GLS"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "4.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mercedes_GL_450_CDI_4MATIC_%28X164%29_Facelift_front_20100926.jpg/960px-Mercedes_GL_450_CDI_4MATIC_%28X164%29_Facelift_front_20100926.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.7L 8-cyl",
+    "displacementL": 4.7,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GL-Class"
+  ],
+  "description": "The Mercedes-Benz GLS, formerly Mercedes-Benz GL-Class, is a full-size luxury crossover SUV produced by Mercedes-Benz since 2006. In each of its generations it is a three-row, seven-passenger vehicle positioned above the GLE. The GLS is considered the flagship of the marque's SUV lineup, although the body-on-frame G-Class is more expensive and has been in production longer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mercedes_GL_450_CDI_4MATIC_%28X164%29_Facelift_front_20100926.jpg/1920px-Mercedes_GL_450_CDI_4MATIC_%28X164%29_Facelift_front_20100926.jpg",
+  "sketchfab": null
+}

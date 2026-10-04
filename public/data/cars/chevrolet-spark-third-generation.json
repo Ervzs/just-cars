@@ -1,0 +1,54 @@
+{
+  "id": "chevrolet-spark-third-generation",
+  "make": "Chevrolet",
+  "model": "Spark",
+  "generation": "Third generation",
+  "aka": [
+    "M3X",
+    "Matiz",
+    "Pontiac Matiz",
+    "Pontiac G2",
+    "Pontiac Matiz G2",
+    "Chevy Spark",
+    "Chevy Joy",
+    "Chevy Matiz"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Chevrolet_Spark_LS%2B_1.2_%E2%80%93_Heckansicht%2C_26._Juni_2011%2C_Mettmann.jpg/960px-Chevrolet_Spark_LS%2B_1.2_%E2%80%93_Heckansicht%2C_26._Juni_2011%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "1.2L 4-cyl",
+    "displacementL": 1.2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 37,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Spark"
+  ],
+  "description": "The Chevrolet Spark is a city car manufactured by General Motors's subsidiary GM Korea from 1998 to 2022. The vehicle was developed by Daewoo and introduced in 1998 as the Daewoo Matiz. In 2002, General Motors purchased Daewoo Motors, which was marketing the vehicle with several GM marques and nameplates.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Spark",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Chevrolet_Spark_LS%2B_1.2_%E2%80%93_Heckansicht%2C_26._Juni_2011%2C_Mettmann.jpg/1920px-Chevrolet_Spark_LS%2B_1.2_%E2%80%93_Heckansicht%2C_26._Juni_2011%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "50773494a52741e5978dd06ae7f6a82e",
+    "name": "2011 Chevrolet Spark 1.2 LT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

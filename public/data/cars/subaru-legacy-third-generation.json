@@ -1,0 +1,44 @@
+{
+  "id": "subaru-legacy-third-generation",
+  "make": "Subaru",
+  "model": "Legacy",
+  "generation": "Third generation",
+  "aka": [
+    "Liberty",
+    "Legacy RS",
+    "B4",
+    "Legacy WRX STi",
+    "Liberty GT"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/1999_Subaru_Liberty_%28BH5_MY99%29_GX_station_wagon_%282015-07-03%29_01.jpg/960px-1999_Subaru_Liberty_%28BH5_MY99%29_GX_station_wagon_%282015-07-03%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Legacy/Outback"
+  ],
+  "description": "The Subaru Legacy  is a mid-size car built by Japanese automobile manufacturer Subaru from 1989 to 2025. The maker's flagship car, it is unique in its class for offering all-wheel drive as a standard feature, and Subaru's traditional boxer engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Legacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/1999_Subaru_Liberty_%28BH5_MY99%29_GX_station_wagon_%282015-07-03%29_01.jpg/1920px-1999_Subaru_Liberty_%28BH5_MY99%29_GX_station_wagon_%282015-07-03%29_01.jpg",
+  "sketchfab": null
+}

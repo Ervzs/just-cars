@@ -2,6 +2,8 @@
   "id": "dodge-avenger",
   "make": "Dodge",
   "model": "Avenger",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2008,
@@ -29,6 +31,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Avenger"
+  ],
   "description": "The Dodge Avenger is a front-wheel drive, mid-sized sedan that was marketed by Dodge. The Avenger made its North American debut in 1994 for the 1995 model year as a coupe that was produced until 2000. The model name was reintroduced to the market as a four-door sedan in 2007 for the 2008 model year. The Dodge Avenger name was used on the South African market Hillman Avengers in 1975 and 1976.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Avenger",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg/1920px-2012_Dodge_Avenger_--_NHTSA.jpg",

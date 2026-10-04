@@ -2,6 +2,10 @@
   "id": "jeep-patriot",
   "make": "Jeep",
   "model": "Patriot",
+  "generation": null,
+  "aka": [
+    "Patriot Sport"
+  ],
   "years": [
     2007,
     2008,
@@ -32,6 +36,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "Patriot"
+  ],
   "description": "The Jeep Patriot (MK74) is a front-engine five-door compact crossover SUV manufactured and marketed by Jeep, having debuted with the Jeep Compass in April 2006 at the New York Auto Show for the 2007 model year. Both cars, as well as the Dodge Caliber, shared the GS platform, differentiated by their styling and marketing, with the Patriot exclusively offering a four-wheel drive system, marketed as Freedom Drive II.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Patriot",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jeep_Patriot.jpg/1280px-Jeep_Patriot.jpg",

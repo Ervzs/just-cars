@@ -1,0 +1,41 @@
+{
+  "id": "toyota-crown-twelfth-generation",
+  "make": "Toyota",
+  "model": "Crown",
+  "generation": "Twelfth generation",
+  "aka": [
+    "Toyopet Crown",
+    "Master Line",
+    "Crown S180",
+    "Crown Athlete",
+    "Crown Hybrid",
+    "Crown Royal",
+    "RS",
+    "Crown Eight"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/TOYOTA_CROWN_%28S180%29_China_%2818%29_%28cropped%29.jpg/960px-TOYOTA_CROWN_%28S180%29_China_%2818%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Crown  is an automobile which has been produced by Toyota in Japan since 1955. It is primarily a line of executive cars that is marketed as an upscale offering in the Toyota lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Crown",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/TOYOTA_CROWN_%28S180%29_China_%2818%29_%28cropped%29.jpg/1920px-TOYOTA_CROWN_%28S180%29_China_%2818%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "5a6e5e5f17c4400ca60e73b9772159ee",
+    "name": "2005 Toyota Crown Royal Saloon GRS180",
+    "author": "SIU Car Garage",
+    "authorUrl": "https://sketchfab.com/Game_mode",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

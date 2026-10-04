@@ -1,0 +1,53 @@
+{
+  "id": "subaru-wrx-first-generation",
+  "make": "Subaru",
+  "model": "WRX",
+  "generation": "First generation",
+  "aka": [
+    "Impreza WRX",
+    "Impreza WRX STI",
+    "Impreza 555",
+    "Impreza WRC",
+    "Impreza WRC 2007",
+    "Impreza WRC P2000",
+    "Impreza WRC S12b"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Subaru_WRX_STi_Type_UK_Symetrica_2.5_Front.jpg/960px-2015_Subaru_WRX_STi_Type_UK_Symetrica_2.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "WRX"
+  ],
+  "description": "The Subaru WRX is an all-wheel drive sport compact car manufactured by the Japanese automaker Subaru, originally based on the Impreza created for the World Rally Championship in 1992. Subaru claimed the name WRX stands for \"World Rally eXperimental\". Starting with the 2015 models, the WRX lineup has been split from the Impreza, with a different body style that is not offered as an optional hatchback/wagon, being introduced as the separate Levorg model. The car is known for its striking blue shade, with gold alloy wheels, because of a sponsorship with a Singaporean cigarette manufacturer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_WRX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Subaru_WRX_STi_Type_UK_Symetrica_2.5_Front.jpg/1920px-2015_Subaru_WRX_STi_Type_UK_Symetrica_2.5_Front.jpg",
+  "sketchfab": {
+    "uid": "96a423cba0ff4a7f82aee9d885abb9af",
+    "name": "2018 Subaru WRX STI",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

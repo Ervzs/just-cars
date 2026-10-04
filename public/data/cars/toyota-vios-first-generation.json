@@ -1,0 +1,39 @@
+{
+  "id": "toyota-vios-first-generation",
+  "make": "Toyota",
+  "model": "Vios",
+  "generation": "First generation",
+  "aka": [
+    "Vios turbo",
+    "Soluna Vios",
+    "Yaris Ativ",
+    "Yars Ativ",
+    "Vios Ativ",
+    "Ativ"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Toyota_Vios_%28XP40%29_in_Taiwan_2023.jpg/960px-Toyota_Vios_%28XP40%29_in_Taiwan_2023.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vios is a nameplate used for subcompact cars produced by the Japanese manufacturer Toyota, primarily for markets in Southeast Asia, China and Taiwan since 2002. Slotted below the compact Corolla, the Vios serves as the replacement to the Tercel, which filled the subcompact or B-segment sedan class in the region. It is also successor to the entry-level variants of the E110 series Corolla in some markets such as the Philippines and Vietnam.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vios",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Toyota_Vios_%28XP40%29_in_Taiwan_2023.jpg/1920px-Toyota_Vios_%28XP40%29_in_Taiwan_2023.jpg",
+  "sketchfab": {
+    "uid": "528b6bf74373448cb8abc3c7081f331a",
+    "name": "2006 Toyota Yaris Sedan (Vios)",
+    "author": "Maroi Mister Let Me Think Official 3D Studio",
+    "authorUrl": "https://sketchfab.com/homicivan53",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mazda-cx-9-first-generation",
+  "make": "Mazda",
+  "model": "CX-9",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2008_Mazda_CX-9_%28TB_Series_1%29_Classic_AWD_wagon_%282010-10-10%29.jpg/960px-2008_Mazda_CX-9_%28TB_Series_1%29_Classic_AWD_wagon_%282010-10-10%29.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CX-9"
+  ],
+  "description": "The Mazda CX-9 is a mid-size crossover SUV manufactured by Mazda from 2006 to 2023 through two generations with three-row seating. It was Mazda's largest passenger vehicle until the arrival of the Mazda CX-90.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2008_Mazda_CX-9_%28TB_Series_1%29_Classic_AWD_wagon_%282010-10-10%29.jpg/1920px-2008_Mazda_CX-9_%28TB_Series_1%29_Classic_AWD_wagon_%282010-10-10%29.jpg",
+  "sketchfab": {
+    "uid": "314cf4e76e0c4989b6182bebae9a3b42",
+    "name": "2009 Mazda CX-9",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

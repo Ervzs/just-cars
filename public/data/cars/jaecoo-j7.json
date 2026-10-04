@@ -1,0 +1,37 @@
+{
+  "id": "jaecoo-j7",
+  "make": "Chery",
+  "model": "Jaecoo J7",
+  "generation": null,
+  "aka": [
+    "TJ-1",
+    "Explore 06",
+    "Jaecoo 7",
+    "Fulwin T6",
+    "Tiggo 7 High Energy"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jaecoo_J7_1.6T_4WD_%E2%80%93_f_21032025.jpg/960px-Jaecoo_J7_1.6T_4WD_%E2%80%93_f_21032025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Jaecoo J7 is a compact crossover SUV (C-segment) produced by Chery since 2023. Outside China, the vehicle is marketed under the Jaecoo brand as its first product. It is available in both a petrol variant and a plug-in hybrid.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaecoo_J7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jaecoo_J7_1.6T_4WD_%E2%80%93_f_21032025.jpg/1920px-Jaecoo_J7_1.6T_4WD_%E2%80%93_f_21032025.jpg",
+  "sketchfab": {
+    "uid": "02e3ca1e9a8f4c7aad40617bd0693615",
+    "name": "2025 Chery Jaecoo J7",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

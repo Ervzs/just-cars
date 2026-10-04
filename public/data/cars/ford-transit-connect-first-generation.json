@@ -1,0 +1,47 @@
+{
+  "id": "ford-transit-connect-first-generation",
+  "make": "Ford",
+  "model": "Transit Connect",
+  "generation": "First generation",
+  "aka": [
+    "Tourneo Connect",
+    "Connect",
+    "Transit Tourneo Connect"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2013_Ford_Transit_Connect_90_T230_1.8_Front.jpg/960px-2013_Ford_Transit_Connect_90_T230_1.8_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Transit Connect"
+  ],
+  "description": "The Ford Transit Connect is a compact panel van manufactured and marketed by Ford since 2002. Developed by Ford of Europe, the model line replaced sedan-based vans with a dedicated commercial vehicle platform. The model line is the second-smallest vehicle of the Ford Transit range, positioned between the Ford Transit Courier LAV and the Ford Transit Custom LCV/MPV. In line with other Ford Transit variants, passenger-oriented models are marketed as the Ford Tourneo Connect with side windows and rear seats.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2013_Ford_Transit_Connect_90_T230_1.8_Front.jpg/1920px-2013_Ford_Transit_Connect_90_T230_1.8_Front.jpg",
+  "sketchfab": null
+}

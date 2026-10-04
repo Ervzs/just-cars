@@ -1,0 +1,52 @@
+{
+  "id": "volvo-v70-second-generation",
+  "make": "Volvo",
+  "model": "V70",
+  "generation": "Second generation",
+  "aka": [
+    "V70 Plug-in Hybrid",
+    "V70 XC",
+    "V70 R"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.4L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Volvo_V70_--_01-07-2012_front.jpg/960px-Volvo_V70_--_01-07-2012_front.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.4L 5-cyl",
+    "displacementL": 2.4,
+    "cylinders": 5,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "V70",
+    "V70 XC"
+  ],
+  "description": "The Volvo V70 is an executive car manufactured and marketed by Volvo Cars from 1996 to 2016 across three generations.\nThe name V70 combines the letter V, standing for versatility, and 70, denoting relative platform size.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Volvo_V70_--_01-07-2012_front.jpg/1920px-Volvo_V70_--_01-07-2012_front.jpg",
+  "sketchfab": {
+    "uid": "9a29f1d07f314514bf0f38bd47d6c4cb",
+    "name": "Volvo V70 MK2 2000-2007",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

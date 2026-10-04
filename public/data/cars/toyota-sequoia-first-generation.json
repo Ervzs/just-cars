@@ -1,0 +1,24 @@
+{
+  "id": "toyota-sequoia-first-generation",
+  "make": "Toyota",
+  "model": "Sequoia",
+  "generation": "First generation",
+  "aka": [
+    "Sequoia SUV"
+  ],
+  "years": [
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Toyota_Sequoia_V8_Limited_2007.jpg/960px-Toyota_Sequoia_V8_Limited_2007.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Sequoia is a full-size SUV manufactured by Toyota mainly for the North American market since 2000 for the 2001 model year, being derived from the Tundra pickup truck. It is the second largest SUV ever produced under the Toyota brand, after the Japan-exclusive, military-focused Mega Cruiser.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sequoia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Toyota_Sequoia_V8_Limited_2007.jpg/1920px-Toyota_Sequoia_V8_Limited_2007.jpg",
+  "sketchfab": null
+}

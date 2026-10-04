@@ -2,6 +2,10 @@
   "id": "ferrari-sf90",
   "make": "Ferrari",
   "model": "SF90",
+  "generation": null,
+  "aka": [
+    "SF90 power unity controversy"
+  ],
   "years": [
     2025
   ],
@@ -22,6 +26,9 @@
     "mpgCombined": 17,
     "evRangeMiles": 330
   },
+  "variants": [
+    "SF90"
+  ],
   "description": "The Ferrari SF90, also known by its internal name Project 670, is a Formula One racing car designed and constructed by Scuderia Ferrari to compete during the 2019 Formula One World Championship. The chassis was designed by Mattia Binotto, Enrico Cardile, Fabio Montecchi, and David Sanchez with Corrado Iotti leading the powertrain design. It was driven by Sebastian Vettel and Charles Leclerc, who was making his debut for Ferrari. The car made its competitive debut at the 2019 Australian Grand Prix.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_SF90",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg/1920px-FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg",

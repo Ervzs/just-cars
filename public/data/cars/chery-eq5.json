@@ -1,0 +1,27 @@
+{
+  "id": "chery-eq5",
+  "make": "Chery",
+  "model": "eQ5",
+  "generation": null,
+  "aka": [
+    "Ant e-SUV"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chery_eQ5_026.jpg/960px-Chery_eQ5_026.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery eQ5 is a battery electric compact crossover SUV produced by Chery from 2020 to 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_eQ5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chery_eQ5_026.jpg/1920px-Chery_eQ5_026.jpg",
+  "sketchfab": null
+}

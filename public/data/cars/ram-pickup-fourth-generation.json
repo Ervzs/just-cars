@@ -1,0 +1,52 @@
+{
+  "id": "ram-pickup-fourth-generation",
+  "make": "Ram",
+  "model": "pickup",
+  "generation": "Fourth generation",
+  "aka": [
+    "Dodge Ram 100",
+    "Dodge Ram 150",
+    "Chrysler BR platform",
+    "Chrysler BE platform",
+    "Chrysler DR platform",
+    "Dodge Ram Rumble Bee",
+    "Dodge Ram Daytona",
+    "Dodge Ram HEMI"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Diesel",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016_Ram_1500_SLT_Crew_Cab_in_white%2C_front_right.jpg/960px-2016_Ram_1500_SLT_Crew_Cab_in_white%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "1500"
+  ],
+  "description": "The Ram pickup is a full-size pickup truck manufactured by Stellantis North America and marketed from 2010 onwards under the Ram Trucks brand. The current fifth-generation Ram debuted at the 2018 North American International Auto Show in Detroit, Michigan, in January of that year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_pickup",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016_Ram_1500_SLT_Crew_Cab_in_white%2C_front_right.jpg/1920px-2016_Ram_1500_SLT_Crew_Cab_in_white%2C_front_right.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-creta-second-generation",
+  "make": "Hyundai",
+  "model": "Creta",
+  "generation": "Second generation",
+  "aka": [
+    "ix25",
+    "Cantus",
+    "Creta Electric"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hyundai_Creta_Electric_SU2_EV_PE_%281%29.jpg/960px-Hyundai_Creta_Electric_SU2_EV_PE_%281%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Creta is a subcompact crossover SUV produced by Hyundai since 2014 mainly for emerging markets, particularly BRICS. It is positioned above the Venue and below the Alcazar in Hyundai's SUV line-up.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Creta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hyundai_Creta_Electric_SU2_EV_PE_%281%29.jpg/1280px-Hyundai_Creta_Electric_SU2_EV_PE_%281%29.jpg",
+  "sketchfab": {
+    "uid": "3cc28d4cf5574383b7dc030638ee6199",
+    "name": "2023 Hyundai Creta",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

@@ -2,6 +2,13 @@
   "id": "chevrolet-venture",
   "make": "Chevrolet",
   "model": "Venture",
+  "generation": null,
+  "aka": [
+    "Chevy Venture",
+    "Chevy trans sport",
+    "Chevy transport",
+    "transport"
+  ],
   "years": [
     2000,
     2001,
@@ -27,6 +34,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Venture"
+  ],
   "description": "The Chevrolet Venture is a minivan produced by General Motors for the 1997 to 2005 model years. The Chevrolet Venture, along with most of its General Motors minivan siblings, was built at GM's Doraville, Georgia, assembly plant.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Venture",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/01-05_Chevrolet_Venture.jpg/1280px-01-05_Chevrolet_Venture.jpg",

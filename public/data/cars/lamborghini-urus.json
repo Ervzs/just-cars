@@ -2,6 +2,13 @@
   "id": "lamborghini-urus",
   "make": "Lamborghini",
   "model": "Urus",
+  "generation": null,
+  "aka": [
+    "Urus SUV Concept",
+    "SUV",
+    "Lambo Urus",
+    "Urus Lamborghini"
+  ],
   "years": [
     2019,
     2020,
@@ -29,6 +36,9 @@
     "mpgCombined": 20,
     "evRangeMiles": 450
   },
+  "variants": [
+    "Urus"
+  ],
   "description": "The Lamborghini Urus is a high performance luxury SUV manufactured by the Italian automobile manufacturer Lamborghini. It was introduced in December 2017 as a 2018 model year production vehicle. The Urus is the first Lamborghini SUV and five-door vehicle under Volkswagen's ownership, and the second SUV in its history after the LM002, produced between 1986 and 1993.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Urus",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/1920px-Lamborghini_Urus_SE_DSC_8524.jpg",

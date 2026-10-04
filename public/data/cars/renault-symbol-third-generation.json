@@ -1,0 +1,40 @@
+{
+  "id": "renault-symbol-third-generation",
+  "make": "Nissan",
+  "model": "Renault Symbol",
+  "generation": "Third generation",
+  "aka": [
+    "Platina",
+    "Renault Thalia",
+    "Renault Clio Symbol",
+    "Renault Clio Classic"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Renault_Symbol_1.6_Dynamique_2015_%2836337325512%29.jpg/960px-Renault_Symbol_1.6_Dynamique_2015_%2836337325512%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Renault Symbol, Clio or Thalia in some markets, is a subcompact sedan produced by the French automobile manufacturer Renault. It was introduced in late 1999, under the Clio Symbol name, as the derivative version of the second generation Renault Clio, and unlike the hatchback it was marketed only in those countries where saloons were traditionally preferred over hatchbacks, while it was not sold in Western Europe. It was actually sold in France, but only in overseas departments/regions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Renault_Symbol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Renault_Symbol_1.6_Dynamique_2015_%2836337325512%29.jpg/1920px-Renault_Symbol_1.6_Dynamique_2015_%2836337325512%29.jpg",
+  "sketchfab": null
+}

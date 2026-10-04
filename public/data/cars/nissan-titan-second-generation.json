@@ -1,0 +1,50 @@
+{
+  "id": "nissan-titan-second-generation",
+  "make": "Nissan",
+  "model": "Titan",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Premium",
+  "engine": "5.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2017_Nissan_Titan_XD_SV_4x4_Single_Cab_5.0L%2C_Hagerty_6.1.19.jpg/960px-2017_Nissan_Titan_XD_SV_4x4_Single_Cab_5.0L%2C_Hagerty_6.1.19.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "5.6L 8-cyl",
+    "displacementL": 5.6,
+    "cylinders": 8,
+    "transmission": "Automatic (S9)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Titan"
+  ],
+  "description": "The Nissan Titan is a full-size pickup truck manufactured by Nissan USA in Canton, Mississippi for the North American market from September 2003 to November 2024 over two generations. The first generation was produced for the 2004-2015 model years (MY), with an intermediate refresh for MY 2008. The second generation was made for MY 2016-2024, with production beginning in November 2015 and an intermediate refresh for MY 2020. Both generations have an extended cab or crew cab design, with the second-generation also having a two-door regular cab variant. The Titan has a V8 engine which is mounted in the front and either rear-wheel drive or four-wheel drive, with the second generation adding a diesel engine alongside a revised version of the gasoline engine used in the first generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Titan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2017_Nissan_Titan_XD_SV_4x4_Single_Cab_5.0L%2C_Hagerty_6.1.19.jpg/1920px-2017_Nissan_Titan_XD_SV_4x4_Single_Cab_5.0L%2C_Hagerty_6.1.19.jpg",
+  "sketchfab": {
+    "uid": "cb1fae290e5646d38e97e0abc6ea04b8",
+    "name": "2016 Nissan Titan XD Crew Cab PRO-4X",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

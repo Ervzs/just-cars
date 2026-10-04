@@ -2,6 +2,11 @@
   "id": "pontiac-aztek",
   "make": "Pontiac",
   "model": "Aztek",
+  "generation": null,
+  "aka": [
+    "Azrek",
+    "Aztec"
+  ],
   "years": [
     2001,
     2002,
@@ -26,6 +31,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Aztek"
+  ],
   "description": "The Pontiac Aztek is a mid-size crossover SUV marketed by General Motors introduced in 2000 for the 2001 to 2005 model years. As a four-door crossover with front-wheel drive and optional all-wheel drive, the Aztek featured a four-speed automatic transmission with a V6 engine. Marketed by Pontiac as a \"sport recreational vehicle,\" the Aztek used a shortened platform shared with GM's minivans featuring 94 cubic feet of cargo room with its rear seats removed. The design employed conventional rear outswing doors rather than sliding doors, and a split rear tailgate, the lower section formed with seat indentations and cupholders. Other features included a front center console that doubled as a removable cooler, optional rear stereo controls in the cargo area, optional sliding cargo floor with grocery compartments, and optional camping package with an attachable tent and air mattress.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Aztek",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2002-05_Pontiac_Aztek.jpg/1280px-2002-05_Pontiac_Aztek.jpg",

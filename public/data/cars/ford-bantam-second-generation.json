@@ -1,0 +1,35 @@
+{
+  "id": "ford-bantam-second-generation",
+  "make": "Mazda",
+  "model": "Ford Bantam",
+  "generation": "Second generation",
+  "aka": [
+    "Rustler"
+  ],
+  "years": [
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ford_Bantam_Leisure_ZA.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Ford Bantam is a coupé utility/pickup produced in South Africa. Production of the Bantam spanned three generations, with the vehicle produced in South Africa for sale within the South African market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Bantam",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ford_Bantam_Leisure_ZA.jpg",
+  "sketchfab": null
+}

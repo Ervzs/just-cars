@@ -1,0 +1,53 @@
+{
+  "id": "chevrolet-impala-tenth-generation",
+  "make": "Chevrolet",
+  "model": "Impala",
+  "generation": "Tenth generation",
+  "aka": [
+    "Chevy Impala",
+    "Impala SS",
+    "Chev Impala",
+    "Impala Super Sport",
+    "Impala Limited",
+    "Impala eAssist"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2018_Chevrolet_Impala_Premier_front_4.7.19.jpg/960px-2018_Chevrolet_Impala_Premier_front_4.7.19.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Impala"
+  ],
+  "description": "The Chevrolet Impala is a full-size car that was built by Chevrolet for model years 1958 to 1985, 1994 to 1996, and 2000 to 2020. The Impala was Chevrolet's popular flagship passenger car and was among the better-selling American-made automobiles in the United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Impala",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2018_Chevrolet_Impala_Premier_front_4.7.19.jpg/1920px-2018_Chevrolet_Impala_Premier_front_4.7.19.jpg",
+  "sketchfab": {
+    "uid": "6ef0344d844d4b5fa88d96aaa7771dce",
+    "name": "2014 Chevrolet Impala",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

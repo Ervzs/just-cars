@@ -1,0 +1,25 @@
+{
+  "id": "hyundai-aslan",
+  "make": "Hyundai",
+  "model": "Aslan",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyundai_Aslan_G380_AG_Phantom_Black_%2841%29.jpg/960px-Hyundai_Aslan_G380_AG_Phantom_Black_%2841%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Aslan is an executive car manufactured and marketed by Hyundai from 2014–2017. Its exterior and interior design are similar to those of the rear-wheel-drive Genesis but it shares the front-wheel-drive Y6 platform with the Grandeur. In terms of size, it is situated between the Grandeur and Genesis replacing the market segment previously held by the Dynasty. The name \"aslan\" is Turkish for lion.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Aslan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyundai_Aslan_G380_AG_Phantom_Black_%2841%29.jpg/1920px-Hyundai_Aslan_G380_AG_Phantom_Black_%2841%29.jpg",
+  "sketchfab": null
+}

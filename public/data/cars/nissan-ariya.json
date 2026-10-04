@@ -1,7 +1,9 @@
 {
   "id": "nissan-ariya",
   "make": "Nissan",
-  "model": "ARIYA",
+  "model": "Ariya",
+  "generation": null,
+  "aka": [],
   "years": [
     2023,
     2024,
@@ -25,6 +27,9 @@
     "mpgCombined": 95,
     "evRangeMiles": 205
   },
+  "variants": [
+    "ARIYA"
+  ],
   "description": "The Nissan Ariya is a battery electric car produced by the Japanese company Nissan since January 2022. It is a compact crossover SUV and is produced at Nissan's factory in Tochigi prefecture. The Ariya is the brand's first zero-emissions SUV. It was first revealed in July 2020, with the US launch of the Ariya initially planned for the second half of 2021, before being delayed to 2022.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Ariya",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2023_Nissan_Ariya_Advance_Front.jpg/1920px-2023_Nissan_Ariya_Advance_Front.jpg",

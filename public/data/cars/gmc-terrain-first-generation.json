@@ -1,0 +1,49 @@
+{
+  "id": "gmc-terrain-first-generation",
+  "make": "GMC",
+  "model": "Terrain",
+  "generation": "First generation",
+  "aka": [
+    "Terrain Denali"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2013_GMC_Terrain_Denali_--_2012_NYIAS.JPG/960px-2013_GMC_Terrain_Denali_--_2012_NYIAS.JPG",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Terrain"
+  ],
+  "description": "The GMC Terrain is a crossover SUV by American manufacturer General Motors under its GMC marque. Sharing its platform with the Chevrolet Equinox, the first-generation Terrain was built on GM's Theta platform, while subsequent generations are built on the Delta platform. The Terrain is the smallest GMC vehicle, slotted below the Acadia. It also indirectly replaced the Pontiac Torrent which was typically sold via the same dealers prior to General Motors dropping the Pontiac brand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Terrain",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2013_GMC_Terrain_Denali_--_2012_NYIAS.JPG/1920px-2013_GMC_Terrain_Denali_--_2012_NYIAS.JPG",
+  "sketchfab": {
+    "uid": "e4b3c2060b0a48f6804a4ab6ec546d80",
+    "name": "2014 GMC Terrain Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

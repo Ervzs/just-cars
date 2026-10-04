@@ -1,0 +1,48 @@
+{
+  "id": "lexus-gs-third-generation",
+  "make": "Lexus",
+  "model": "GS",
+  "generation": "Third generation",
+  "aka": [
+    "Toyota Aristo",
+    "GS 450h",
+    "GS430",
+    "The Lexus GS 430h",
+    "GS 350",
+    "GS Hybrid",
+    "GS 300h",
+    "GS 200t"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2006-2009_Lexus_GS_450h_%28GWS191R%29_sedan_02.jpg/960px-2006-2009_Lexus_GS_450h_%28GWS191R%29_sedan_02.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 25,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GS"
+  ],
+  "description": "The Lexus GS  is an executive car manufactured by Toyota and marketed by Lexus across four generations — launched in 1991 as the Toyota Aristo  in Japan and as the Lexus GS for markets outside the Japanese market beginning in February 1993. It continued with the Toyota Aristo name for the Japanese market until January 2005, following the introduction of the Lexus marque in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2006-2009_Lexus_GS_450h_%28GWS191R%29_sedan_02.jpg/1920px-2006-2009_Lexus_GS_450h_%28GWS191R%29_sedan_02.jpg",
+  "sketchfab": null
+}

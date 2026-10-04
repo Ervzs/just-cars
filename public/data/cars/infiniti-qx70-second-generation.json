@@ -1,0 +1,48 @@
+{
+  "id": "infiniti-qx70-second-generation",
+  "make": "Infiniti",
+  "model": "QX70",
+  "generation": "Second generation",
+  "aka": [
+    "FX45",
+    "FX35",
+    "Infinity fx",
+    "FX",
+    "FX30",
+    "FX37",
+    "FX50"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Infiniti_FX30d_S_%28S51%29_%E2%80%93_Frontansicht%2C_12._M%C3%A4rz_2011%2C_D%C3%BCsseldorf.jpg/960px-Infiniti_FX30d_S_%28S51%29_%E2%80%93_Frontansicht%2C_12._M%C3%A4rz_2011%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "FX35",
+    "FX45",
+    "FX50"
+  ],
+  "description": "The Infiniti QX70, formerly the Infiniti FX until 2013, is a mid-size luxury crossover SUV marketed by Infiniti, Nissan's luxury division between 2002 and 2019 over two generations. The model replaced the QX4 as Infiniti's mid-size SUV. The model does not have a Nissan-branded equivalent, and was never sold in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Infiniti_FX30d_S_%28S51%29_%E2%80%93_Frontansicht%2C_12._M%C3%A4rz_2011%2C_D%C3%BCsseldorf.jpg/1920px-Infiniti_FX30d_S_%28S51%29_%E2%80%93_Frontansicht%2C_12._M%C3%A4rz_2011%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

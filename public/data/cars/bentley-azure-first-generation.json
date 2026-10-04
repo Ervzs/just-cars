@@ -1,0 +1,42 @@
+{
+  "id": "bentley-azure-first-generation",
+  "make": "Bentley",
+  "model": "Azure",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "6.8L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bentley_Continental_R_Azure_1995-2003_frontleft.jpg/960px-Bentley_Continental_R_Azure_1995-2003_frontleft.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "6.8L 8-cyl",
+    "displacementL": 6.8,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 10,
+    "mpgHighway": 15,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Azure"
+  ],
+  "description": "The Bentley Azure is a four-seater convertible grand tourer produced by British automobile manufacturer Bentley Motors. The first version debuted in 1995 on the Bentley Continental R platform and was made until 2003. After a three-year break, a completely new version debuted in 2006 and was produced until 2010. It was powered by a significantly updated engine and based on the newer Arnage platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Azure",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bentley_Continental_R_Azure_1995-2003_frontleft.jpg/1920px-Bentley_Continental_R_Azure_1995-2003_frontleft.jpg",
+  "sketchfab": null
+}

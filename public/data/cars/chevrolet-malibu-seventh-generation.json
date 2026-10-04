@@ -1,0 +1,47 @@
+{
+  "id": "chevrolet-malibu-seventh-generation",
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "generation": "Seventh generation",
+  "aka": [
+    "Malibu Maxx",
+    "Chevy mailbu",
+    "Chevy Malibu",
+    "Chevy Malibu Classic",
+    "Malibu Classic",
+    "Malibu Hybrid",
+    "GM Malibu",
+    "Holden Malibu"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chevrolet_Malibu_%282008-2011%29_1X7A7375.jpg/960px-Chevrolet_Malibu_%282008-2011%29_1X7A7375.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Malibu"
+  ],
+  "description": "The Chevrolet Malibu is a mid-size car manufactured and marketed by Chevrolet from 1964 to 1983 and from 1997 to 2025. The Malibu began as a trim-level of the Chevrolet Chevelle before becoming its own model line in 1978. Originally a rear-wheel-drive intermediate, General Motors revived the Malibu nameplate as a front-wheel-drive car in 1997.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Malibu",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Chevrolet_Malibu_%282008-2011%29_1X7A7375.jpg/1920px-Chevrolet_Malibu_%282008-2011%29_1X7A7375.jpg",
+  "sketchfab": null
+}

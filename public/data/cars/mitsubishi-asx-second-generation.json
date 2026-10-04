@@ -1,0 +1,35 @@
+{
+  "id": "mitsubishi-asx-second-generation",
+  "make": "Mitsubishi",
+  "model": "ASX",
+  "generation": "Second generation",
+  "aka": [
+    "Concept-cX",
+    "ASX Plug-in Hybrid",
+    "Outlander Sport"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mitsubishi_ASX_HEV_Top_%28II%29_%E2%80%93_f_01062025.jpg/960px-Mitsubishi_ASX_HEV_Top_%28II%29_%E2%80%93_f_01062025.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi ASX is a subcompact crossover SUV manufactured by the Japanese automaker Mitsubishi Motors. On introduction, it was positioned below the Outlander in Mitsubishi's crossover SUV line-up, until the Eclipse Cross filled the gap between the ASX and Outlander in 2017. It was built on the GS platform closely shared with the Lancer and Outlander.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mitsubishi_ASX_HEV_Top_%28II%29_%E2%80%93_f_01062025.jpg/1920px-Mitsubishi_ASX_HEV_Top_%28II%29_%E2%80%93_f_01062025.jpg",
+  "sketchfab": {
+    "uid": "d750320c556e4ec0b95a0628efbd24b9",
+    "name": "Mitsubishi Asx 2024",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

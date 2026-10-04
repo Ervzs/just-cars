@@ -1,0 +1,36 @@
+{
+  "id": "honda-brio-first-generation",
+  "make": "Honda",
+  "model": "Brio",
+  "generation": "First generation",
+  "aka": [
+    "New Small Concept"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Honda_Brio_Satya_1.2_E_hatchback_%28DD1%3B_01-31-2019%29%2C_South_Tangerang.jpg/960px-2018_Honda_Brio_Satya_1.2_E_hatchback_%28DD1%3B_01-31-2019%29%2C_South_Tangerang.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Brio is a city car produced by Honda since 2011. It is mainly sold in Southeast Asia and also in other regions, positioned as an entry-level hatchback model slotted below the Fit/Jazz and the City. Along with the complementary Amaze sedan, it is the second smallest car in Honda's global line-up as of 2026, after the Super-One electric car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Brio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Honda_Brio_Satya_1.2_E_hatchback_%28DD1%3B_01-31-2019%29%2C_South_Tangerang.jpg/1920px-2018_Honda_Brio_Satya_1.2_E_hatchback_%28DD1%3B_01-31-2019%29%2C_South_Tangerang.jpg",
+  "sketchfab": {
+    "uid": "922c636df4b34c539e6b8cefabc38cbb",
+    "name": "2013 Honda Brio Amaze",
+    "author": "Raysh",
+    "authorUrl": "https://sketchfab.com/Raysh_.",
+    "license": "CC Attribution"
+  }
+}

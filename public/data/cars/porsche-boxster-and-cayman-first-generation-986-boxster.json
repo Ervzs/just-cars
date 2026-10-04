@@ -1,0 +1,51 @@
+{
+  "id": "porsche-boxster-and-cayman-first-generation-986-boxster",
+  "make": "Porsche",
+  "model": "Boxster and Cayman",
+  "generation": "First generation: 986 Boxster",
+  "aka": [
+    "Boxster",
+    "Cayman",
+    "Cayman S",
+    "Boxer",
+    "Boxter",
+    "Cayman R",
+    "988",
+    "cayman 981 GTS"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG/960px-Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Boxster"
+  ],
+  "description": "The Porsche Boxster and Cayman are mid-engine two-seater sports cars manufactured and marketed by German automobile manufacturer Porsche across four generations—as a two-door, two-seater roadster (Boxster) and a three-door, two-seater fastback coupé (Cayman).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Boxster_and_Cayman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG/1920px-Porsche_Boxster_Concept_Prototype_1992_frontleft_2010-03-12_A.JPG",
+  "sketchfab": null
+}

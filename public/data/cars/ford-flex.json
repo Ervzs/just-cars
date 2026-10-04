@@ -2,6 +2,8 @@
   "id": "ford-flex",
   "make": "Ford",
   "model": "Flex",
+  "generation": null,
+  "aka": [],
   "years": [
     2009,
     2010,
@@ -32,6 +34,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Flex"
+  ],
   "description": "The Ford Flex is a full-size crossover SUV manufactured and marketed by Ford over a single generation for the 2009–2019 model years, having entered production in 2008. It is the successor to the Ford Taurus X.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Flex",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2010_Ford_Flex_Limited_1_--_11-25-2009.jpg/1920px-2010_Ford_Flex_Limited_1_--_11-25-2009.jpg",

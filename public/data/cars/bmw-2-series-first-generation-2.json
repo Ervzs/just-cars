@@ -1,0 +1,47 @@
+{
+  "id": "bmw-2-series-first-generation-2",
+  "make": "BMW",
+  "model": "2 Series",
+  "generation": "First generation",
+  "aka": [
+    "2",
+    "M235i Racing",
+    "220i",
+    "216i",
+    "218i",
+    "225i",
+    "M235i",
+    "M240i Racing"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_220i_Active_Tourer_%28F45%29_%E2%80%93_Frontansicht%2C_26._Juli_2015%2C_D%C3%BCsseldorf.jpg/960px-BMW_220i_Active_Tourer_%28F45%29_%E2%80%93_Frontansicht%2C_26._Juli_2015%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 35,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "2 Series"
+  ],
+  "description": "The BMW 2 Series is a range of subcompact executive cars (C-segment) manufactured by BMW since the year 2014. The 2 Series was created when BMW spun-off the 2-door models of the BMW 1 Series into a separate series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_2_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_220i_Active_Tourer_%28F45%29_%E2%80%93_Frontansicht%2C_26._Juli_2015%2C_D%C3%BCsseldorf.jpg/1920px-BMW_220i_Active_Tourer_%28F45%29_%E2%80%93_Frontansicht%2C_26._Juli_2015%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

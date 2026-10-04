@@ -1,0 +1,43 @@
+{
+  "id": "chrysler-minivans-rt",
+  "make": "Ram",
+  "model": "Chrysler minivans (RT)",
+  "generation": null,
+  "aka": [
+    "Chrysler RT platform",
+    "Volkswagen DCX",
+    "Volkswagen Project M",
+    "Volkswagen Concept M",
+    "Lancia Grand Voyager"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg/960px-2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "C/V"
+  ],
+  "description": "The RT-platform Chrysler minivans are a series of passenger minivans marketed by Chrysler starting in model year 2008, the fifth in six generations of Chrysler minivans. Depending on the market, these vans were known as the Dodge Grand Caravan, Chrysler Town & Country, Chrysler Grand Voyager, Lancia Voyager, Ram Cargo Van, and the Volkswagen Routan, a modified version sold by Volkswagen in North America. Only long wheelbase models were offered with the Dodge Journey replacing the short wheelbase model. While most versions were discontinued in 2016 with the launch of the Chrysler Pacifica minivan, the Grand Caravan remained in production until 2020. It was replaced by the sixth generation Chrysler Voyager, a new entry-level model based on the existing Chrysler Pacifica minivan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_minivans_(RT)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg/1920px-2011_Chrysler_Town_%26_Country_Touring_-_L_--_04-22-2011.jpg",
+  "sketchfab": null
+}

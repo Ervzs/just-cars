@@ -1,0 +1,61 @@
+{
+  "id": "chevrolet-colorado-second-generation",
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "generation": "Second generation",
+  "aka": [
+    "GMC Canyon",
+    "Isuzu i-Series",
+    "Chevy Colorado",
+    "GMT 355",
+    "The Chevrolet Colorado",
+    "Isuzu i-370",
+    "Isuzu i-350",
+    "Isuzu i-290"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2014_Holden_Colorado_%28RG_MY15%29_LTZ_4-door_utility_%282015-10-24%29_01.jpg/960px-2014_Holden_Colorado_%28RG_MY15%29_LTZ_4-door_utility_%282015-10-24%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Colorado",
+    "Canyon"
+  ],
+  "description": "The Chevrolet Colorado is a series of compact pickup trucks and mid-size pickup trucks marketed by American automaker General Motors. They were introduced in 2004 to replace the Chevrolet S-10 and GMC S-15/Sonoma compact pickups. The Colorado is named after the U.S. state of Colorado, while the Canyon took its name from the deep chasm between cliffs.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Colorado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2014_Holden_Colorado_%28RG_MY15%29_LTZ_4-door_utility_%282015-10-24%29_01.jpg/1280px-2014_Holden_Colorado_%28RG_MY15%29_LTZ_4-door_utility_%282015-10-24%29_01.jpg",
+  "sketchfab": {
+    "uid": "2f6af8ad25ad462c8abf815ae273352b",
+    "name": "2017 Chevrolet Colorado ZR2",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bmw-x5-fourth-generation",
+  "make": "BMW",
+  "model": "X5",
+  "generation": "Fourth generation",
+  "aka": [
+    "X5 M",
+    "BMX X5"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2019_BMW_X5_xDrive30d_M_Sport_Automatic_3.0_Front.jpg/960px-2019_BMW_X5_xDrive30d_M_Sport_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 27,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X5"
+  ],
+  "description": "The BMW X5 is a mid-size luxury crossover SUV produced by BMW. The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV. At launch, it featured all-wheel drive and was available with either a manual or automatic gearbox. The second generation was launched in 2006, and was known internally as the E70. The E70 featured the torque-split capable xDrive all-wheel drive system mated to an automatic gearbox. In 2009, the X5 M performance variant was released as a 2010 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2019_BMW_X5_xDrive30d_M_Sport_Automatic_3.0_Front.jpg/1920px-2019_BMW_X5_xDrive30d_M_Sport_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "9b211d525797457e988c903f67d0b753",
+    "name": "2020 BMW X5 M Competition",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

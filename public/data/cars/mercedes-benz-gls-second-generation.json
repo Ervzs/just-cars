@@ -1,0 +1,50 @@
+{
+  "id": "mercedes-benz-gls-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLS",
+  "generation": "Second generation",
+  "aka": [
+    "GL4U2",
+    "GL-Class",
+    "Mercedes GL",
+    "Mercedes Benz GL",
+    "MB GL-Class",
+    "Mercedes Benz GLS-Class",
+    "GL",
+    "Mercedes GLS"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mercedes-Benz_GL_350_BlueTEC_4MATIC_Sport-Paket_AMG_%28X_166%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/960px-Mercedes-Benz_GL_350_BlueTEC_4MATIC_Sport-Paket_AMG_%28X_166%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 9-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GLS-Class",
+    "GL-Class"
+  ],
+  "description": "The Mercedes-Benz GLS, formerly Mercedes-Benz GL-Class, is a full-size luxury crossover SUV produced by Mercedes-Benz since 2006. In each of its generations it is a three-row, seven-passenger vehicle positioned above the GLE. The GLS is considered the flagship of the marque's SUV lineup, although the body-on-frame G-Class is more expensive and has been in production longer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mercedes-Benz_GL_350_BlueTEC_4MATIC_Sport-Paket_AMG_%28X_166%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_GL_350_BlueTEC_4MATIC_Sport-Paket_AMG_%28X_166%29_%E2%80%93_Frontansicht%2C_31._Dezember_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

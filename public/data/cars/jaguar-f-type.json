@@ -2,6 +2,11 @@
   "id": "jaguar-f-type",
   "make": "Jaguar",
   "model": "F-Type",
+  "generation": null,
+  "aka": [
+    "F-Type R-Dynamic",
+    "Project 7"
+  ],
   "years": [
     2014,
     2015,
@@ -32,6 +37,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "F-Type"
+  ],
   "description": "The Jaguar F-Type (X152) is a series of two-door, two-seater sports cars manufactured by British car manufacturer Jaguar Land Rover under their Jaguar Cars marque from December 2012 to June 2024 at Jaguar's Castle Bromwich assembly plant in the UK. The car's JLR D6a platform is based on a shortened version of the XK's platform. It is the so-called \"spiritual successor\" to the E-Type.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_F-Type",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/1920px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg",

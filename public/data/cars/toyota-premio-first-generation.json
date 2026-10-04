@@ -1,0 +1,29 @@
+{
+  "id": "toyota-premio-first-generation",
+  "make": "Toyota",
+  "model": "Premio",
+  "generation": "First generation",
+  "aka": [
+    "Allion"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jamaica-Toyota_Premio.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Premio  and its twin the Toyota Allion  are sedans sold in Japan from 2001 to 2021 by Toyota. The sedans are designated as a compact car by Japanese dimension regulations and the exterior dimensions do not change with periodic updates. Unlike Toyota's other vehicles, the Premio and Allion were not exported, and were exclusively sold in Japan only. Size and pricing-wise, the E210 Corolla, introduced to the Japanese market in 2018 succeeds the Premio and Allion.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Premio",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jamaica-Toyota_Premio.jpg",
+  "sketchfab": null
+}

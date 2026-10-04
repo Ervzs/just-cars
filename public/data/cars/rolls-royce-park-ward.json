@@ -2,6 +2,8 @@
   "id": "rolls-royce-park-ward",
   "make": "Rolls-Royce",
   "model": "Park Ward",
+  "generation": null,
+  "aka": [],
   "years": [
     2001,
     2002
@@ -9,7 +11,7 @@
   "vehicleClass": "Large Cars",
   "fuelType": "Premium",
   "engine": "5.4L 12-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Rolls-Royce_Silver_Seraph_1999.jpg/960px-Rolls-Royce_Silver_Seraph_1999.jpg",
+  "thumbnail": null,
   "has3d": true,
   "representativeYear": 2002,
   "specs": {
@@ -23,9 +25,12 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
-  "description": "The Rolls-Royce Silver Seraph and its extended wheelbase version, the Rolls-Royce Park Ward, are full-size luxury automobiles manufactured and marketed by Rolls-Royce Motors from 1998 to 2002. The Silver Seraph were launched in March 1998, at the Geneva Motor Show. They replaced the Rolls-Royce Silver Spirit and the slightly longer Silver Spur, made from 1980 through 1997.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Silver_Seraph",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Rolls-Royce_Silver_Seraph_1999.jpg/1280px-Rolls-Royce_Silver_Seraph_1999.jpg",
+  "variants": [
+    "Park Ward"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": {
     "uid": "6450ca6444354483ad67fe7a6e311927",
     "name": "Rolls Royce Phantom Park Ward Limo HQ Interior",

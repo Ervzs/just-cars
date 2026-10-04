@@ -1,0 +1,47 @@
+{
+  "id": "opel-astra-third-generation",
+  "make": "Saturn",
+  "model": "Opel Astra",
+  "generation": "Third generation",
+  "aka": [
+    "Astravan",
+    "GM-AvtoVAZ Chevrolet Viva",
+    "Opel Astra Cabrio",
+    "Chevrolet Astra",
+    "Opel Astra TwinTop",
+    "General Motors Astra",
+    "Astra",
+    "Astra GSi"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Astra2.JPG/960px-Astra2.JPG",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Astra"
+  ],
+  "description": "The Opel Astra is a compact car/small family car (C-segment) developed and produced by the German automaker Opel since 1991, currently at its sixth generation. It was first launched in September 1991 as a direct replacement to the Opel Kadett. As of 2025, the car slots between the smaller Corsa supermini and the larger Frontera subcompact crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel_Astra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Astra2.JPG/1280px-Astra2.JPG",
+  "sketchfab": null
+}

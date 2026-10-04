@@ -1,0 +1,28 @@
+{
+  "id": "toyota-ist-first-generation",
+  "make": "Toyota",
+  "model": "Ist",
+  "generation": "First generation",
+  "aka": [
+    "xA"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Toyota_Ist_1st_generation.JPG/960px-Toyota_Ist_1st_generation.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Ist  is a subcompact car manufactured by the Japanese automaker Toyota. It is exported to the United States as the Scion xA and Scion xD, the Middle East as the Toyota xA and to Europe and Latin America as the Toyota Urban Cruiser for the second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Ist",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Toyota_Ist_1st_generation.JPG/1920px-Toyota_Ist_1st_generation.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "suzuki-wagon-r-third-generation",
+  "make": "Mazda",
+  "model": "Suzuki Wagon R",
+  "generation": "Third generation",
+  "aka": [
+    "AZ-Wagon",
+    "Wagon r",
+    "Suzuki wagon r wide",
+    "Wagon r wide",
+    "Flair",
+    "Chevrolet Wagon R",
+    "Suzuki Wagon R Stingray"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/3rd_generation_Suzuki_Wagon_R_RR.jpg/960px-3rd_generation_Suzuki_Wagon_R_RR.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Wagon R  is a kei car manufactured and marketed by Suzuki since 1993. The R in the name stands for Revolution and Relaxation. The Wagon R uses a \"tall wagon\" configuration to maximize cabin space within kei car dimensional restrictions. The Wagon R is also sold by Mazda as the AZ-Wagon from 1994 to 2012 and as the Flair from 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Wagon_R",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/3rd_generation_Suzuki_Wagon_R_RR.jpg/1920px-3rd_generation_Suzuki_Wagon_R_RR.jpg",
+  "sketchfab": null
+}

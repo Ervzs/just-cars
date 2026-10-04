@@ -1,0 +1,38 @@
+{
+  "id": "mercedes-benz-a-class-second-generation",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "generation": "Second generation",
+  "aka": [
+    "W168",
+    "W169",
+    "A Classe",
+    "Mercedes A Classe",
+    "Mercedes a160",
+    "Mercedes a class",
+    "Mercedes Benz A class",
+    "Baby Benz"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mercedes-Benz_A_160_BlueEFFICIENCY_Serienausstattung_%28W_169%2C_Facelift%29_%E2%80%93_Frontansicht%2C_13._November_2011%2C_Heiligenhaus.jpg/960px-Mercedes-Benz_A_160_BlueEFFICIENCY_Serienausstattung_%28W_169%2C_Facelift%29_%E2%80%93_Frontansicht%2C_13._November_2011%2C_Heiligenhaus.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mercedes-Benz A-Class is a car manufactured by German luxury automaker Mercedes-Benz. It has been marketed across four generations as a front-engine, front-wheel drive, five-passenger, five-door hatchback, with a three-door hatchback offered for the second generation, as well as a saloon version for the fourth.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mercedes-Benz_A_160_BlueEFFICIENCY_Serienausstattung_%28W_169%2C_Facelift%29_%E2%80%93_Frontansicht%2C_13._November_2011%2C_Heiligenhaus.jpg/1920px-Mercedes-Benz_A_160_BlueEFFICIENCY_Serienausstattung_%28W_169%2C_Facelift%29_%E2%80%93_Frontansicht%2C_13._November_2011%2C_Heiligenhaus.jpg",
+  "sketchfab": null
+}

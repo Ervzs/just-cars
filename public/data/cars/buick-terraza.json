@@ -2,6 +2,8 @@
   "id": "buick-terraza",
   "make": "Buick",
   "model": "Terraza",
+  "generation": null,
+  "aka": [],
   "years": [
     2005,
     2006,
@@ -25,6 +27,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Terraza"
+  ],
   "description": "The Buick Terraza is a four-door minivan marketed by Buick from the 2005 to 2007 model years as a luxury crossover sport van. As Buick's first minivan for the North American market, it was a badge-engineered variant of the Chevrolet, Pontiac, and Saturn minivans sharing the U platform, all manufactured in Doraville, Georgia.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Terraza",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2006_Buick_Terraza_CXL.JPG/1920px-2006_Buick_Terraza_CXL.JPG",

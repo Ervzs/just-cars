@@ -1,0 +1,48 @@
+{
+  "id": "chery-tiggo-3",
+  "make": "Chery",
+  "model": "Tiggo 3",
+  "generation": null,
+  "aka": [
+    "J11"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chery_Tiggo_3_facelift_Shishi_01_2022-05-22.jpg/960px-Chery_Tiggo_3_facelift_Shishi_01_2022-05-22.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Tiggo 3, or originally the Chery Tiggo, is a compact crossover produced by the Chinese manufacturer Chery from 2005 to 2023. The original Tiggo debuted at the 2005 Shanghai Motor Show and was called the NCV, meaning New Concept Vehicle. It is the first product of the Chery Tiggo series. The original vehicle was facelifted in September 2010, and received the name change to Tiggo 3 and another facelift in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Tiggo_3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chery_Tiggo_3_facelift_Shishi_01_2022-05-22.jpg/1920px-Chery_Tiggo_3_facelift_Shishi_01_2022-05-22.jpg",
+  "sketchfab": {
+    "uid": "a98a418051ef4935aba4bda0b63206f9",
+    "name": "Chery Tiggo 3",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

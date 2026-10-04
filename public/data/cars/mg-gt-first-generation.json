@@ -1,0 +1,28 @@
+{
+  "id": "mg-gt-first-generation",
+  "make": "MG",
+  "model": "GT",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/MG_GT_02_China_2016-04-09.jpg/960px-MG_GT_02_China_2016-04-09.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG GT is a compact car produced by SAIC Motor under the MG marque from 2014 to 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/MG_GT_02_China_2016-04-09.jpg/1280px-MG_GT_02_China_2016-04-09.jpg",
+  "sketchfab": null
+}

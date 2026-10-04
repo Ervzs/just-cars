@@ -1,0 +1,27 @@
+{
+  "id": "honda-n-box-first-generation",
+  "make": "Honda",
+  "model": "N-Box",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2011-2012_Honda_N_BOX_Custom_G-L_Package.jpg/960px-2011-2012_Honda_N_BOX_Custom_G-L_Package.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-Box  is a kei car produced by Honda since 2011 over three generations. A Japanese domestic market vehicle, the N-Box is a five-door minivan with a front-mounted engine and either front-wheel drive or four-wheel drive. Together with the N-WGN, N-One and N-Van, it is part of the renewed N lineup of kei class city cars from Honda. The \"N\" prefix was previously used for the late 1960s and 1970s N360; originally it stood for norimono which loosely translates to vehicle. For the new N lineup, the \"N\" represented New, Next, Nippon, and Norimono.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-Box",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2011-2012_Honda_N_BOX_Custom_G-L_Package.jpg/1920px-2011-2012_Honda_N_BOX_Custom_G-L_Package.jpg",
+  "sketchfab": null
+}

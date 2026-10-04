@@ -1,0 +1,53 @@
+{
+  "id": "ford-escape-first-generation",
+  "make": "Ford",
+  "model": "Escape",
+  "generation": "First generation",
+  "aka": [
+    "Escape Hybrid",
+    "Mercury Mariner Hybrid",
+    "Mazda Tribute Hybrid",
+    "hybrid escape",
+    "Escape Plug-in Hybrid",
+    "Escape PHEV"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2001-04_Ford_Escape.jpg/960px-2001-04_Ford_Escape.jpg",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escape"
+  ],
+  "description": "The Ford Escape is a compact crossover SUV manufactured and marketed by the Ford Motor Company from the 2001 to the 2026 model years across four generations, as Ford's first SUV derived from a car platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Escape",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2001-04_Ford_Escape.jpg/1280px-2001-04_Ford_Escape.jpg",
+  "sketchfab": {
+    "uid": "14f58eb6fc694483bdebcd52cf8f7f71",
+    "name": "2005 Ford Escape Hybird",
+    "author": "maregajavier",
+    "authorUrl": "https://sketchfab.com/maregajavier",
+    "license": "CC Attribution"
+  }
+}

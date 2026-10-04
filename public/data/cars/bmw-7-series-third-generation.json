@@ -1,0 +1,55 @@
+{
+  "id": "bmw-7-series-third-generation",
+  "make": "BMW",
+  "model": "7 Series",
+  "generation": "Third generation",
+  "aka": [
+    "700 Series",
+    "7",
+    "745",
+    "745i",
+    "750i",
+    "750",
+    "760i",
+    "7 Series Sedan"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BMW_750iL.jpg/960px-BMW_750iL.jpg",
+  "has3d": true,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "4.4L 8-cyl",
+    "displacementL": 4.4,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "7 Series"
+  ],
+  "description": "The BMW 7 Series is a full-size luxury sedan manufactured and marketed by the German automaker BMW since 1977. It is the successor to the BMW E3 \"New Six\" sedan and is now in its seventh generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_7_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BMW_750iL.jpg/1920px-BMW_750iL.jpg",
+  "sketchfab": {
+    "uid": "06700592052746d08a73b6e96486e9a3",
+    "name": "BMW 7 Series 750iL 1994-2001",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

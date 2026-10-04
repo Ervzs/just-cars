@@ -1,0 +1,54 @@
+{
+  "id": "toyota-matrix-second-generation",
+  "make": "Toyota",
+  "model": "Matrix",
+  "generation": "Second generation",
+  "aka": [
+    "Corolla Matrix"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2014_Toyota_Matrix_Touring_Value_Package_in_Classic_Silver_Metallic%2C_Front_Right%2C_06-04-2023.jpg/960px-2014_Toyota_Matrix_Touring_Value_Package_in_Classic_Silver_Metallic%2C_Front_Right%2C_06-04-2023.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 31,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Matrix"
+  ],
+  "description": "The Toyota Matrix, officially named Toyota Corolla Matrix, is a compact hatchback manufactured by Toyota Motor Manufacturing Canada in Cambridge, Ontario and derived from the Corolla. Introduced in 2002 as a 2003 model, the Matrix was the result of a joint venture between Toyota and General Motors, with the GM version being the Pontiac Vibe, which was assembled by New United Motor Manufacturing, Inc. (NUMMI) in Fremont, California, United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Matrix",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2014_Toyota_Matrix_Touring_Value_Package_in_Classic_Silver_Metallic%2C_Front_Right%2C_06-04-2023.jpg/1920px-2014_Toyota_Matrix_Touring_Value_Package_in_Classic_Silver_Metallic%2C_Front_Right%2C_06-04-2023.jpg",
+  "sketchfab": null
+}

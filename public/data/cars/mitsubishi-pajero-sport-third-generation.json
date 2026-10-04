@@ -1,0 +1,46 @@
+{
+  "id": "mitsubishi-pajero-sport-third-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero Sport",
+  "generation": "Third generation",
+  "aka": [
+    "Montero Sport",
+    "Shogun Sport",
+    "Nativa",
+    "G-Wagon",
+    "Challenger",
+    "Strada G-Wagon"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0326.jpg/960px-Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0326.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Pajero Sport is a body-on-frame mid-size SUV produced by the Japanese manufacturer Mitsubishi Motors using the Pajero nameplate since 1996. It has spanned over three generations, based on the Triton pickup truck.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero_Sport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0326.jpg/1920px-Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0326.jpg",
+  "sketchfab": {
+    "uid": "3bd6df48cc0c4e63875678b9fce57b20",
+    "name": "2017 Mitsubishi Pajero Sport MRX tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

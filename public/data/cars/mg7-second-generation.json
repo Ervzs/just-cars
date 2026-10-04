@@ -1,0 +1,34 @@
+{
+  "id": "mg7-second-generation",
+  "make": "MG",
+  "model": "MG7",
+  "generation": "Second generation",
+  "aka": [
+    "7"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/MG_7_%282nd_generation%29_GIMS_2024_1X7A2360.jpg/960px-MG_7_%282nd_generation%29_GIMS_2024_1X7A2360.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG7 is a large family car built by MG Motor in two generations, the first between 2007 and 2013 and the second from 2022 to present. The first generation is derived from its British predecessors, Rover 75 and MG ZT to suit Chinese manufacturing and sales",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/MG_7_%282nd_generation%29_GIMS_2024_1X7A2360.jpg/1920px-MG_7_%282nd_generation%29_GIMS_2024_1X7A2360.jpg",
+  "sketchfab": {
+    "uid": "fd5acc725c2a4e6fada8da1e12930227",
+    "name": "2025 MG MG7 (GLB)(mgmotor.com.mx)",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mercedes-benz-sl-class-r232",
+  "make": "Mercedes-Benz",
+  "model": "SL-Class",
+  "generation": "R232",
+  "aka": [
+    "SL",
+    "Mercedes SL",
+    "SL 500",
+    "Sl65amg",
+    "SL63 AMG",
+    "Mercedes Benz SL",
+    "MB SL-Class",
+    "Mercedes SL Class"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2022_Mercedes-AMG_SL_55.jpg/960px-2022_Mercedes-AMG_SL_55.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "SL-Class"
+  ],
+  "description": "The Mercedes-Benz SL-Class is a grand touring sports car manufactured by Mercedes-Benz since 1954. The designation \"SL\" derives from the German term \"Super-Leicht\", which translates to \"Super Light\" in English.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2022_Mercedes-AMG_SL_55.jpg/1920px-2022_Mercedes-AMG_SL_55.jpg",
+  "sketchfab": {
+    "uid": "e30eabda1f8140b28a8cc9965e08e4cc",
+    "name": "Mercedes- Benz SL-class (W194)",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

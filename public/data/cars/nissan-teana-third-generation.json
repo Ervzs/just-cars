@@ -1,0 +1,45 @@
+{
+  "id": "nissan-teana-third-generation",
+  "make": "Nissan",
+  "model": "Teana",
+  "generation": "Third generation",
+  "aka": [
+    "Cefiro J35",
+    "Teana J31",
+    "Teana J32",
+    "Cefiro A34",
+    "Teana Plus"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2014_Nissan_Teana_%28L33%29_2.5XV_sedan_%282016-01-03%29.jpg/960px-2014_Nissan_Teana_%28L33%29_2.5XV_sedan_%282016-01-03%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Teana  is a mid-size sedan produced by Japanese automobile manufacturer Nissan. It was exported as the Nissan Maxima and Nissan Cefiro to certain markets. It replaces the Nissan Bluebird, Laurel and Cefiro. It shares a platform with the Nissan Maxima and Nissan Altima which are sold in North America, as well as the Japanese market Presage minivan. The Teana has been available in East Asia, Russia, Ukraine, South Asia, Southeast Asia, Australia, New Zealand, Latin America and the Caribbean.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Teana",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2014_Nissan_Teana_%28L33%29_2.5XV_sedan_%282016-01-03%29.jpg/1920px-2014_Nissan_Teana_%28L33%29_2.5XV_sedan_%282016-01-03%29.jpg",
+  "sketchfab": {
+    "uid": "5370d8f6b81a41a89eabfa1b91fc7160",
+    "name": "2023 Nissan Altima / Teana",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

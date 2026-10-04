@@ -1,0 +1,48 @@
+{
+  "id": "audi-s4-b5",
+  "make": "Audi",
+  "model": "S4",
+  "generation": "B5",
+  "aka": [
+    "\"S4 25quattro\"",
+    "100 S4"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Audis4avant_b5.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S4"
+  ],
+  "description": "The Audi S4 is the high performance variant of Audi's compact executive car A4. The original Audi S4, built from 1991 until 1994, was a performance-oriented version of Audi's 100 saloon/sedan. All subsequent S4s, beginning with the \"B5\" platform car in 1997, have been based on the Audi A4; and as the A4 has evolved from one generation to the next, so has the S4. Audi's platform generation names, beginning with \"B5\" in 1997, are used throughout to distinguish between generations/evolutions of these products.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S4",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Audis4avant_b5.jpg",
+  "sketchfab": {
+    "uid": "8bdf52403bef4129a4ce4f5bd1341379",
+    "name": "1997 Audi S4 B5",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

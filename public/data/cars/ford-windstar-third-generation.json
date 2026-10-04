@@ -1,0 +1,45 @@
+{
+  "id": "ford-windstar-third-generation",
+  "make": "Ford",
+  "model": "Windstar",
+  "generation": "Third generation",
+  "aka": [
+    "Freestar"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2004_Ford_Freestar_SE%2C_front_3.11.20.jpg/960px-2004_Ford_Freestar_SE%2C_front_3.11.20.jpg",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.9L 6-cyl",
+    "displacementL": 3.9,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Freestar"
+  ],
+  "description": "The Ford Windstar is a minivan that was produced and sold by Ford from the 1995 to 2007 model years. The second minivan line designed by Ford, the Windstar moved closer in line to the design of the Chrysler minivans. The successor of the Ford Aerostar, the model line adopted front-wheel drive and a \"two-box\" body design. Three generations of the model line were produced, with the final generation taking on the Ford Freestar nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Windstar",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2004_Ford_Freestar_SE%2C_front_3.11.20.jpg/1920px-2004_Ford_Freestar_SE%2C_front_3.11.20.jpg",
+  "sketchfab": {
+    "uid": "2e30889162444b78b067058aa849c7c8",
+    "name": "Ford Windstar",
+    "author": "zairiq zairiq",
+    "authorUrl": "https://sketchfab.com/zairiqzairiq",
+    "license": "CC Attribution"
+  }
+}

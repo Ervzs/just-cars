@@ -1,0 +1,30 @@
+{
+  "id": "daihatsu-mira-e-s-first-generation",
+  "make": "Toyota",
+  "model": "Daihatsu Mira e:S",
+  "generation": "First generation",
+  "aka": [
+    "Pixis Epoch",
+    "Subaru Pleo Plus"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2016_Daihatsu_Mira_e%E2%88%B6S_D_in_White%2C_front_right.jpg/960px-2016_Daihatsu_Mira_e%E2%88%B6S_D_in_White%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Mira e:S  is a kei car manufactured by the Japanese automaker Daihatsu as the successor to the original Mira. It was previewed by the \"e:S\" concept car at the 2009 Tokyo Motor Show. The car was introduced to the Japanese market in September 2011. It was also sold by Toyota as the Toyota Pixis Epoch , which was released on 10 May 2012 and by Subaru as the Subaru Pleo Plus , which was released on 21 December 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Mira_e%3AS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2016_Daihatsu_Mira_e%E2%88%B6S_D_in_White%2C_front_right.jpg/1920px-2016_Daihatsu_Mira_e%E2%88%B6S_D_in_White%2C_front_right.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bmw-x3-third-generation",
+  "make": "BMW",
+  "model": "X3",
+  "generation": "Third generation",
+  "aka": [
+    "E83",
+    "F25",
+    "iX3.",
+    "Alpina XD3",
+    "X3 xDrive30e",
+    "X3M"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2018_BMW_X3_xDrive_20d_M_Sport_%28Cockpit%29.jpg/960px-2018_BMW_X3_xDrive_20d_M_Sport_%28Cockpit%29.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X3"
+  ],
+  "description": "The BMW X3 is a compact luxury crossover SUV manufactured by BMW since 2003, based on the BMW 3 Series platform. BMW markets the car as a Sports Activity Vehicle, the company's proprietary descriptor for its X-line luxury vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2018_BMW_X3_xDrive_20d_M_Sport_%28Cockpit%29.jpg/1920px-2018_BMW_X3_xDrive_20d_M_Sport_%28Cockpit%29.jpg",
+  "sketchfab": {
+    "uid": "5142078aebec406688e19401985050ec",
+    "name": "2020 BMW X3",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cadillac-seville-fifth-generation",
+  "make": "Cadillac",
+  "model": "Seville",
+  "generation": "Fifth generation",
+  "aka": [
+    "Seville Luxury Sedan"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1999_Cadillac_Seville_STS_V8_Auto.jpg/960px-1999_Cadillac_Seville_STS_V8_Auto.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Seville"
+  ],
+  "description": "The Cadillac Seville is a mid-size luxury car manufactured and marketed by General Motors under the Cadillac brand from the 1976 to 2004 model years as a smaller-sized, premium model. It was replaced by the STS in 2004 for the 2005 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Seville",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1999_Cadillac_Seville_STS_V8_Auto.jpg/1920px-1999_Cadillac_Seville_STS_V8_Auto.jpg",
+  "sketchfab": {
+    "uid": "84b1409cbc6b4c08bb1191d5c75633d4",
+    "name": "Cadillac Seville STS",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

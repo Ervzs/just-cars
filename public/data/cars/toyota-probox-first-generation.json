@@ -1,0 +1,33 @@
+{
+  "id": "toyota-probox-first-generation",
+  "make": "Toyota",
+  "model": "Probox",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2002_Toyota_Probox_02.jpg/960px-2002_Toyota_Probox_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Probox  is a 5-door, 2- or 4-seater passenger car and light commercial van produced by the Japanese automaker Toyota since July 2002. It replaced the Corolla/Sprinter van and served as a slightly shorter version of the now-discontinued Toyota Succeed.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Probox",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2002_Toyota_Probox_02.jpg/1280px-2002_Toyota_Probox_02.jpg",
+  "sketchfab": null
+}

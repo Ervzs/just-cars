@@ -1,0 +1,35 @@
+{
+  "id": "nissan-president-fourth-generation",
+  "make": "Nissan",
+  "model": "President",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nissan_President.png/960px-Nissan_President.png",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan President  is a Japanese luxury sedan that was manufactured and marketed by Nissan from 1965 until 2010 as the flagship of Nissan's range, available only at its Nissan Store dealerships then at Nissan Blue Stage dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_President",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nissan_President.png/1920px-Nissan_President.png",
+  "sketchfab": {
+    "uid": "6249d07fdfe8439aa13470adb129bea4",
+    "name": "Nissan President (PGF50) 2003",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

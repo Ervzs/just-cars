@@ -2,6 +2,8 @@
   "id": "volkswagen-r32",
   "make": "Volkswagen",
   "model": "R32",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2008
@@ -9,7 +11,7 @@
   "vehicleClass": "Compact Cars",
   "fuelType": "Premium",
   "engine": "3.2L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg/960px-2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg",
+  "thumbnail": null,
   "has3d": true,
   "representativeYear": 2008,
   "specs": {
@@ -23,9 +25,12 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
-  "description": "The Volkswagen Golf Mk4 is a compact car, the fourth generation of the Volkswagen Golf and the successor to the Volkswagen Golf Mk3. Launched in October 1997 for the 1998 model year, it was the best-selling car in Europe in 2001.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk4",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg/1920px-2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg",
+  "variants": [
+    "R32"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": {
     "uid": "57fa4f06ba3e4eb09572796a4d76f546",
     "name": "2002 Volkswagen Golf R32 Mk4",

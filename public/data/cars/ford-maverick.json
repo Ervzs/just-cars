@@ -2,6 +2,8 @@
   "id": "ford-maverick",
   "make": "Ford",
   "model": "Maverick",
+  "generation": null,
+  "aka": [],
   "years": [
     2022,
     2023,
@@ -26,6 +28,9 @@
     "mpgCombined": 26,
     "evRangeMiles": null
   },
+  "variants": [
+    "Maverick"
+  ],
   "description": "Ford has marketed the following automobiles models using the Ford Maverick nameplate:The Ford Maverick (1970–1977), a compact car sold in North America and Brazil during the 1970s\nThe rebadged Nissan Patrol Y60 sold by Ford Australia under the Button car plan from 1988 to 1994\nThe rebadged Spanish-built Nissan Terrano II, sold by Ford of Europe from 1993 to 1999\nThe European and Chinese version of the Ford Escape, sold from 2001 to 2005\nThe Ford Maverick (2022), a compact pickup truck sold in the Americas",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Maverick",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1973_Ford_Maverick_01_%28cropped%29.jpg/960px-1973_Ford_Maverick_01_%28cropped%29.jpg",

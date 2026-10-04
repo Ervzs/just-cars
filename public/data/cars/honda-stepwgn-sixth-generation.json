@@ -1,0 +1,34 @@
+{
+  "id": "honda-stepwgn-sixth-generation",
+  "make": "Honda",
+  "model": "Stepwgn",
+  "generation": "Sixth generation",
+  "aka": [
+    "Stepwagon"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Honda_STEP_WGN_e-HEV_SPADA_%286AA-RP8%29.jpg/960px-Honda_STEP_WGN_e-HEV_SPADA_%286AA-RP8%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Stepwgn  is a minivan produced by Honda since 1996. In contrast to the Odyssey and also the Stream, it sports a taller, more upright greenhouse and can accommodate eight people instead of seven. For its first two generations, the car had one door on the driver's side and two doors on the passenger's side.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Stepwgn",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Honda_STEP_WGN_e-HEV_SPADA_%286AA-RP8%29.jpg/1920px-Honda_STEP_WGN_e-HEV_SPADA_%286AA-RP8%29.jpg",
+  "sketchfab": {
+    "uid": "bbd283aee50d49dba74bf2d198523e97",
+    "name": "2022 Honda StepWGN",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

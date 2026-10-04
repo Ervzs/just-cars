@@ -1,0 +1,33 @@
+{
+  "id": "hyundai-staria",
+  "make": "Hyundai",
+  "model": "Staria",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hyundai_Staria_1X7A0321.jpg/960px-Hyundai_Staria_1X7A0321.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Staria is a van and minivan manufactured by Hyundai since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Staria",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hyundai_Staria_1X7A0321.jpg/1920px-Hyundai_Staria_1X7A0321.jpg",
+  "sketchfab": {
+    "uid": "d499b10731194ae0b122a76e099eb2b5",
+    "name": "Hyundai Staria",
+    "author": "Sloftm_Carz",
+    "authorUrl": "https://sketchfab.com/SLBofficial",
+    "license": "CC Attribution"
+  }
+}

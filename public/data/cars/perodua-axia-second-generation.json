@@ -1,0 +1,25 @@
+{
+  "id": "perodua-axia-second-generation",
+  "make": "Perodua",
+  "model": "Axia",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Perodua_Axia_1.0_VVT-i_AV_%28II%29_%E2%80%93_f_21032025.jpg/960px-Perodua_Axia_1.0_VVT-i_AV_%28II%29_%E2%80%93_f_21032025.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Perodua Axia is a city car produced by Malaysian automobile manufacturer Perodua. It was launched on 15 September 2014 as the successor to the Viva. The car takes over the title of being the most affordable car in Malaysia from the Viva, and the best-selling car in Malaysia for three consecutive years, between 2015 until 2017. The Axia is the first model to debut from Perodua's all-new second factory in Rawang, Selangor. As of mid-2023, the Axia reached 600,000 units sold since the launch of its first generation in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Perodua_Axia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Perodua_Axia_1.0_VVT-i_AV_%28II%29_%E2%80%93_f_21032025.jpg/1920px-Perodua_Axia_1.0_VVT-i_AV_%28II%29_%E2%80%93_f_21032025.jpg",
+  "sketchfab": null
+}

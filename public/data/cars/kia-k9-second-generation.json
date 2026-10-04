@@ -1,0 +1,51 @@
+{
+  "id": "kia-k9-second-generation",
+  "make": "Kia",
+  "model": "K9",
+  "generation": "Second generation",
+  "aka": [
+    "K900",
+    "Quoris"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/00_Kia_K9_%28RJ%29_2.jpg/960px-00_Kia_K9_%28RJ%29_2.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "K900"
+  ],
+  "description": "The Kia K9, also known as the Kia K900 in the United States and Canada and the Kia Quoris in other export markets, is a full-size luxury car manufactured and marketed by Kia, since 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/00_Kia_K9_%28RJ%29_2.jpg/1920px-00_Kia_K9_%28RJ%29_2.jpg",
+  "sketchfab": {
+    "uid": "7b5cf2b5f8524091900b132f5a9b63d5",
+    "name": "Kia K9 2018",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

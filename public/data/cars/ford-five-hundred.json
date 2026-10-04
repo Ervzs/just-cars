@@ -2,6 +2,8 @@
   "id": "ford-five-hundred",
   "make": "Ford",
   "model": "Five Hundred",
+  "generation": null,
+  "aka": [],
   "years": [
     2005,
     2006,
@@ -24,6 +26,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Five Hundred"
+  ],
   "description": "The Ford Five Hundred is a full-size four-door, five-passenger, front-engine front- or all-wheel drive, high-roof sedan manufactured in Chicago and marketed in North America and Mexico by Ford in a single generation for the 2005 to 2007 model years.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Five_Hundred",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ford_Five_Hundred_--_09-07-2009.jpg/1280px-Ford_Five_Hundred_--_09-07-2009.jpg",

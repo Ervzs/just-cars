@@ -1,0 +1,29 @@
+{
+  "id": "suzuki-every-fourth-generation",
+  "make": "Suzuki",
+  "model": "Every",
+  "generation": "Fourth generation",
+  "aka": [
+    "e Every"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Suzuki_Every_Join_4WD.JPG/960px-Suzuki_Every_Join_4WD.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Suzuki Every , is a microvan produced by the Japanese automaker Suzuki. In Japan, the Every is kei cars but the Suzuki Every Plus, the bigger version of Every, had a longer hood for safety purposes and a larger engine; export market versions and derivatives.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Every",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Suzuki_Every_Join_4WD.JPG/1920px-Suzuki_Every_Join_4WD.JPG",
+  "sketchfab": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "lexus-es-eighth-generation",
+  "make": "Lexus",
+  "model": "ES",
+  "generation": "Eighth generation",
+  "aka": [
+    "Toyota Windom",
+    "ES350",
+    "ES 250",
+    "ES330",
+    "ES300",
+    "ES Hybrid",
+    "ES 300h"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lexus_ES_350h_%28XZ20%29_Auto_Zuerich_2025_DSC_3451.jpg/960px-Lexus_ES_350h_%28XZ20%29_Auto_Zuerich_2025_DSC_3451.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 48,
+    "mpgHighway": 44,
+    "mpgCombined": 46,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ES"
+  ],
+  "description": "The Lexus ES is a luxury sedan marketed since 1989 by Lexus, the luxury division of Toyota, across multiple generations, each offering V6 engines and a front-engine, front-wheel-drive layout. The first five generations of the ES used the Toyota Camry platform, while the latter generations are more closely related to both the Camry and the Avalon. Manual transmissions were offered until 1993, a lower-displacement inline-four engine became an option in Asian markets in 2010, and a gasoline-electric hybrid version was introduced in 2012. The battery electric version was later introduced in 2025. The ES was Lexus's only front-wheel drive vehicle until 1998, when the related RX was introduced, and the sedan occupied the entry-level luxury car segment of the Lexus lineup in North America and other regions until the debut of the IS in 1999. The ES name stands for \"Executive Sedan\". However, some Lexus importers use the name, \"Elegant Sedan\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_ES",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lexus_ES_350h_%28XZ20%29_Auto_Zuerich_2025_DSC_3451.jpg/1920px-Lexus_ES_350h_%28XZ20%29_Auto_Zuerich_2025_DSC_3451.jpg",
+  "sketchfab": {
+    "uid": "b4edfa2fd5cc48ada679352215e0105e",
+    "name": "Lexus ES Hybrid",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

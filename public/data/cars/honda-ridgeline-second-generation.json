@@ -1,0 +1,49 @@
+{
+  "id": "honda-ridgeline-second-generation",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2017_Honda_Ridgeline_RTL-FWD.jpg/960px-2017_Honda_Ridgeline_RTL-FWD.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Ridgeline"
+  ],
+  "description": "The Honda Ridgeline is a mid-size pickup truck manufactured and marketed by Honda since the 2006 model year, over two generations in a unibody, crew–cab, short-box configuration with a transverse-mounted engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Ridgeline",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2017_Honda_Ridgeline_RTL-FWD.jpg/1920px-2017_Honda_Ridgeline_RTL-FWD.jpg",
+  "sketchfab": {
+    "uid": "8a0ecc6a0af9477dbc484693a3868472",
+    "name": "Honda Ridgeline 2021",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

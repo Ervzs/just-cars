@@ -2,6 +2,17 @@
   "id": "toyota-bz",
   "make": "Toyota",
   "model": "bZ",
+  "generation": null,
+  "aka": [
+    "bZ1",
+    "bZ2",
+    "bZ2X",
+    "bZ4",
+    "bZ5X",
+    "Beyond Zero",
+    "BZ5",
+    "bZ1X"
+  ],
   "years": [
     2026,
     2027
@@ -23,6 +34,9 @@
     "mpgCombined": 130,
     "evRangeMiles": 236
   },
+  "variants": [
+    "bZ"
+  ],
   "description": "The Toyota bZ series is a family of battery electric vehicles (BEV) manufactured by Toyota. It was introduced in April 2021 alongside the bZ4X Concept. The bZ series is a part of Toyota's plan to introduce 15 battery electric vehicle models by 2025, seven of which are from the bZ series. Vehicles from the bZ series make use of the e-TNGA platform co-developed with Subaru.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_bZ",
   "image": null,

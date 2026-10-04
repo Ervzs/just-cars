@@ -1,0 +1,55 @@
+{
+  "id": "lincoln-mkz-second-generation",
+  "make": "Lincoln",
+  "model": "MKZ",
+  "generation": "Second generation",
+  "aka": [
+    "MKZ Hybrid"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2016_Lincoln_MKZ_2.0L_AWD_front_4.22.19.jpg/960px-2016_Lincoln_MKZ_2.0L_AWD_front_4.22.19.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MKZ"
+  ],
+  "description": "\n\nThe Lincoln MKZ is a mid-size, four-door, five-passenger, front- or all-wheel drive luxury sedan manufactured by Ford and marketed by its Lincoln brand across two generations in North America and China (2015–2020). Co-developed with the Ford Fusion and Mercury Milan, the MKZ was available with either gasoline or gasoline-electric hybrid powertrains.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKZ",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2016_Lincoln_MKZ_2.0L_AWD_front_4.22.19.jpg/1920px-2016_Lincoln_MKZ_2.0L_AWD_front_4.22.19.jpg",
+  "sketchfab": {
+    "uid": "60feb102ab124520a9f4a25c26e759e8",
+    "name": "Lincoln_MKZ_3",
+    "author": "Recon-3D",
+    "authorUrl": "https://sketchfab.com/recon-3d",
+    "license": "CC Attribution"
+  }
+}

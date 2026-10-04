@@ -1,0 +1,51 @@
+{
+  "id": "hyundai-tucson-fourth-generation",
+  "make": "Hyundai",
+  "model": "Tucson",
+  "generation": "Fourth generation",
+  "aka": [
+    "ix35",
+    "Tucson iX",
+    "Tucson Plug-in Hybrid",
+    "Tucson L",
+    "Tuscon"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Hyundai_Tucscon_1.6_T-GDI_Hybrid_Prime_%28IV%29_%E2%80%93_h_25042024.jpg/960px-Hyundai_Tucscon_1.6_T-GDI_Hybrid_Prime_%28IV%29_%E2%80%93_h_25042024.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 35,
+    "mpgHighway": 35,
+    "mpgCombined": 35,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tucson"
+  ],
+  "description": "The Hyundai Tucson is a compact crossover SUV produced by the South Korean manufacturer Hyundai. It is named after the city of Tucson, Arizona, U.S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Tucson",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Hyundai_Tucscon_1.6_T-GDI_Hybrid_Prime_%28IV%29_%E2%80%93_h_25042024.jpg/1920px-Hyundai_Tucscon_1.6_T-GDI_Hybrid_Prime_%28IV%29_%E2%80%93_h_25042024.jpg",
+  "sketchfab": {
+    "uid": "48b4df148c3a4ec2875ab082c197b42f",
+    "name": "2025 Hyundai Tucson Plug-In Hybrid",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

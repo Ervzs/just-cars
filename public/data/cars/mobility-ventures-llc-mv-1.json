@@ -2,6 +2,8 @@
   "id": "mobility-ventures-llc-mv-1",
   "make": "Mobility Ventures LLC",
   "model": "MV-1",
+  "generation": null,
+  "aka": [],
   "years": [
     2014,
     2015,
@@ -24,6 +26,9 @@
     "mpgCombined": 16,
     "evRangeMiles": null
   },
+  "variants": [
+    "MV-1"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

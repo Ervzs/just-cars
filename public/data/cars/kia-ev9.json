@@ -2,6 +2,10 @@
   "id": "kia-ev9",
   "make": "Kia",
   "model": "EV9",
+  "generation": null,
+  "aka": [
+    "Concept EV9"
+  ],
   "years": [
     2024,
     2025,
@@ -24,6 +28,9 @@
     "mpgCombined": 88,
     "evRangeMiles": 230
   },
+  "variants": [
+    "EV9"
+  ],
   "description": "The Kia EV9 is a battery electric mid-size crossover SUV with three-row seating produced by Kia since 2023.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV9",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kia_EV9_1X7A2472.jpg/1920px-Kia_EV9_1X7A2472.jpg",

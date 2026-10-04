@@ -1,0 +1,36 @@
+{
+  "id": "mazda-bt-50-third-generation",
+  "make": "Mazda",
+  "model": "BT-50",
+  "generation": "Third generation",
+  "aka": [
+    "Ford Ranger UK"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2021_Mazda_BT-50_Hi-Racer_Double-Cab_1.9_SP_%28Cockpit%29.jpg/960px-2021_Mazda_BT-50_Hi-Racer_Double-Cab_1.9_SP_%28Cockpit%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mazda BT-50 is a compact pickup truck / mid-size pickup truck marketed by the Japanese manufacturer Mazda since 2006. It is a larger version of the predecessor B-Series pickup and is not sold in the Japanese and North American markets. The second-generation Ranger has been designed by Ford Australia, with a Mazda derivative sold as the BT-50. The third-generation BT-50 was revealed in 2020, based on the Isuzu D-Max.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_BT-50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2021_Mazda_BT-50_Hi-Racer_Double-Cab_1.9_SP_%28Cockpit%29.jpg/1920px-2021_Mazda_BT-50_Hi-Racer_Double-Cab_1.9_SP_%28Cockpit%29.jpg",
+  "sketchfab": {
+    "uid": "3d2656829c44499285aa89dc3bd25095",
+    "name": "Mazda BT-50 (2020)",
+    "author": "AzzyLino",
+    "authorUrl": "https://sketchfab.com/azzylino",
+    "license": "CC Attribution"
+  }
+}

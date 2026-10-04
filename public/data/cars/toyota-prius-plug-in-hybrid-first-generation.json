@@ -1,0 +1,33 @@
+{
+  "id": "toyota-prius-plug-in-hybrid-first-generation",
+  "make": "Toyota",
+  "model": "Prius Plug-in Hybrid",
+  "generation": "First generation",
+  "aka": [
+    "Plug-in HV",
+    "Prius PHEV",
+    "Plug-in Prius",
+    "Prius PHV",
+    "Prius Prime",
+    "Prius Prime Plug-in Hybrid",
+    "Prius plug-in"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2012_Toyota_Prius_plug-in_hyrid_--_07-14-2012.JPG/960px-2012_Toyota_Prius_plug-in_hyrid_--_07-14-2012.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Prius Plug-in Hybrid is a plug-in hybrid liftback manufactured by Toyota. The first-generation model was produced from 2012 to 2016. The second-generation model has been produced since 2016. Production of the third-generation model began in 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius_Plug-in_Hybrid",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2012_Toyota_Prius_plug-in_hyrid_--_07-14-2012.JPG/1280px-2012_Toyota_Prius_plug-in_hyrid_--_07-14-2012.JPG",
+  "sketchfab": null
+}

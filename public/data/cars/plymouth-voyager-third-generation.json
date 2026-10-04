@@ -1,0 +1,47 @@
+{
+  "id": "plymouth-voyager-third-generation",
+  "make": "Plymouth",
+  "model": "Voyager",
+  "generation": "Third generation",
+  "aka": [
+    "Voyageur",
+    "Grand Voyager"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f5/2000_Plymouth_Voyager_base_3-doorD.png",
+  "has3d": true,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 3-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Voyager/Grand Voyager"
+  ],
+  "description": "Plymouth Voyager is a nameplate for a range of vans that were marketed by Plymouth from 1974 to 2000. One of the few light trucks marketed by the division, the Voyager was initially a full-size van, later becoming one of the first minivans successfully marketed in North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth_Voyager",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/2000_Plymouth_Voyager_base_3-doorD.png",
+  "sketchfab": {
+    "uid": "d149710ecfa644f8a2a1fe430a65e4a6",
+    "name": "plymouth voyager 1998",
+    "author": "zairiq-123",
+    "authorUrl": "https://sketchfab.com/zairiq-123",
+    "license": "CC Attribution"
+  }
+}

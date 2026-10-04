@@ -1,0 +1,32 @@
+{
+  "id": "honda-amaze-first-generation",
+  "make": "Honda",
+  "model": "Amaze",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/After_Wikimania_2018%2C_Cape_Town_%28P1060076%29_%28cropped%29.jpg/960px-After_Wikimania_2018%2C_Cape_Town_%28P1060076%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Amaze is a sedan produced by Honda since 2013. Slotted below the City sedan, it is the smallest Honda sedan model as of 2022, with all generations measured less than 4 m (157.5 in) in length. It is mainly marketed in India, where sub-4-metre cars are given a lower excise duty compared to longer vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Amaze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/After_Wikimania_2018%2C_Cape_Town_%28P1060076%29_%28cropped%29.jpg/1920px-After_Wikimania_2018%2C_Cape_Town_%28P1060076%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "922c636df4b34c539e6b8cefabc38cbb",
+    "name": "2013 Honda Brio Amaze",
+    "author": "Raysh",
+    "authorUrl": "https://sketchfab.com/Raysh_.",
+    "license": "CC Attribution"
+  }
+}

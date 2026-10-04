@@ -1,0 +1,30 @@
+{
+  "id": "honda-br-v-second-generation",
+  "make": "Honda",
+  "model": "BR-V",
+  "generation": "Second generation",
+  "aka": [
+    "N7X Concept",
+    "N7X"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Honda_N7X_Concept_front_view.jpg/960px-Honda_N7X_Concept_front_view.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda BR-V is a subcompact crossover SUV manufactured by Honda since 2016 and mainly sold for emerging markets. While being dimensionally bigger, the BR-V is positioned below the more advanced international market HR-V. The first-generation model shares its platform with the second-generation Mobilio, which itself based on the lengthened Brio platform. The second-generation model is built on a separate platform from the Mobilio.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_BR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Honda_N7X_Concept_front_view.jpg/1920px-Honda_N7X_Concept_front_view.jpg",
+  "sketchfab": null
+}

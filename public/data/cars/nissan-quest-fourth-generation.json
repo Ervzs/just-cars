@@ -1,0 +1,57 @@
+{
+  "id": "nissan-quest-fourth-generation",
+  "make": "Nissan",
+  "model": "Quest",
+  "generation": "Fourth generation",
+  "aka": [
+    "Forum"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2011_Nissan_Quest_SL_--_04-22-2011.jpg/960px-2011_Nissan_Quest_SL_--_04-22-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Quest"
+  ],
+  "description": "The Nissan Quest is a minivan that was marketed by Nissan from the 1993 to 2017 model years. The successor for the Japanese-designed Nissan Van and Nissan Axxess, the Quest was the first Japanese-brand minivan developed specifically for the North American market. In a joint venture with Ford Motor Company, the Quest was manufactured alongside the Mercury Villager",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Quest",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2011_Nissan_Quest_SL_--_04-22-2011.jpg/1920px-2011_Nissan_Quest_SL_--_04-22-2011.jpg",
+  "sketchfab": {
+    "uid": "d06ad0168d9c429a8e6374f254d997cb",
+    "name": "2011 Nissan Quest",
+    "author": "beanz_ncheese",
+    "authorUrl": "https://sketchfab.com/beanzncheese",
+    "license": "CC Attribution"
+  }
+}

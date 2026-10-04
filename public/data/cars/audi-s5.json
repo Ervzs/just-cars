@@ -2,6 +2,8 @@
   "id": "audi-s5",
   "make": "Audi",
   "model": "S5",
+  "generation": null,
+  "aka": [],
   "years": [
     2008,
     2009,
@@ -41,6 +43,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "S5"
+  ],
   "description": "The Audi S5 is one of two high-performance variants of Audi's A5. The B8 and B9 generations were marketed as the coupé, cabriolet, and five-door fastback sedan versions of the B8 and B9 Audi S4 saloon and estate models, while the B10 S5 is the direct replacement of the B9 S4 models.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S5",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2018_Audi_S5_sedan_front_4.11.18.jpg/1920px-2018_Audi_S5_sedan_front_4.11.18.jpg",

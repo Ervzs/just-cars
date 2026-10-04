@@ -1,0 +1,50 @@
+{
+  "id": "toyota-yaris-fourth-generation",
+  "make": "Toyota",
+  "model": "Yaris",
+  "generation": "Fourth generation",
+  "aka": [
+    "Echo",
+    "Yaris T Sport",
+    "Bouncing Yaris"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toyota_Yaris_Hybrid_%28XP210%29_1X7A0353.jpg/960px-Toyota_Yaris_Hybrid_%28XP210%29_1X7A0353.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 39,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Yaris"
+  ],
+  "description": "The Toyota Yaris  is a supermini/subcompact car sold by Toyota since 1999, replacing the Starlet and Tercel.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toyota_Yaris_Hybrid_%28XP210%29_1X7A0353.jpg/1920px-Toyota_Yaris_Hybrid_%28XP210%29_1X7A0353.jpg",
+  "sketchfab": {
+    "uid": "98e6611ad034451982b6a9908c63fc47",
+    "name": "2021 Toyota GR Yaris",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

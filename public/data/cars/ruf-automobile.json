@@ -1,0 +1,38 @@
+{
+  "id": "ruf-automobile",
+  "make": "RUF Automobile",
+  "model": "Ruf Automobile",
+  "generation": null,
+  "aka": [
+    "Alois Ruf",
+    "GmbH",
+    "Ruf 3400K"
+  ],
+  "years": [
+    2018
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/RUF_AUTO_RUF_40er_Jahre.jpg/960px-RUF_AUTO_RUF_40er_Jahre.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Manual 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RUF TURBO 12/CTR3"
+  ],
+  "description": "Ruf Automobile GmbH is a German car manufacturer. Formerly using Porsche bodies in white to build cars, today they build vehicles on their own bodies and chassis. They also manufacture performance parts for various Porsche models, including the 911, Boxster, and Cayman.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/RUF_AUTO_RUF_40er_Jahre.jpg/1280px-RUF_AUTO_RUF_40er_Jahre.jpg",
+  "sketchfab": null
+}

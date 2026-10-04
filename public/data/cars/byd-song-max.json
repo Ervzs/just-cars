@@ -1,0 +1,33 @@
+{
+  "id": "byd-song-max",
+  "make": "BYD",
+  "model": "Song Max",
+  "generation": null,
+  "aka": [
+    "M6"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2018_BYD_Song_Max%2C_front_8.4.18.jpg/960px-2018_BYD_Song_Max%2C_front_8.4.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Song Max is a compact multi purpose vehicle (MPV) developed by BYD since 2017. Initially available solely as an internal combustion engine (ICE) vehicle with a 1.5-litre turbocharged petrol engine, BYD introduced the plug-in hybrid and battery electric versions since 2019. In 2022, BYD discontinued the petrol-powered Song Max and replaced it with the plug-in hybrid Song Max DM-i after it ended production of ICE vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Song_Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2018_BYD_Song_Max%2C_front_8.4.18.jpg/1920px-2018_BYD_Song_Max%2C_front_8.4.18.jpg",
+  "sketchfab": null
+}

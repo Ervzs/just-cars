@@ -1,0 +1,25 @@
+{
+  "id": "byd-seal-06-second-generation",
+  "make": "BYD",
+  "model": "Seal 06",
+  "generation": "Second generation",
+  "aka": [
+    "Seal 06 EV"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/BYD_Seal_06_EV_003.jpg/960px-BYD_Seal_06_EV_003.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Seal 06 is a series of mid-size car manufactured by BYD Auto since 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Seal_06",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/BYD_Seal_06_EV_003.jpg/1920px-BYD_Seal_06_EV_003.jpg",
+  "sketchfab": null
+}

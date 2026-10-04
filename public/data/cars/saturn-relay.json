@@ -2,6 +2,8 @@
   "id": "saturn-relay",
   "make": "Saturn",
   "model": "Relay",
+  "generation": null,
+  "aka": [],
   "years": [
     2005,
     2006,
@@ -24,6 +26,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Relay"
+  ],
   "description": "The Saturn Relay is a minivan that was manufactured by the Saturn division of General Motors from 2005-2007 model years. It was a rebadged variant of the Buick Terraza, the Chevrolet Uplander, and the Pontiac Montana SV6, all manufactured in Doraville, Georgia.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Relay",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Saturn_Relay.jpg/1920px-Saturn_Relay.jpg",

@@ -1,0 +1,54 @@
+{
+  "id": "suzuki-swift-first-generation",
+  "make": "Suzuki",
+  "model": "Swift",
+  "generation": "First generation",
+  "aka": [
+    "DZiRE",
+    "Maruti Suzuki Swift",
+    "Maruti Swift",
+    "Swift S1600",
+    "Swift Super 1600",
+    "Swift Range Extender",
+    "Swift Plug-in Hybrid",
+    "Swift G13 GTI"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Concept_S.jpg/960px-Concept_S.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Swift"
+  ],
+  "description": "The Suzuki Swift  is a supermini car (B-segment) produced by Suzuki. The vehicle is classified as a B-segment marque in the European single market, a segment referred to as a supermini in the British Isles. Prior to this, the \"Swift\" nameplate had been applied to the rebadged Suzuki Cultus in numerous export markets since 1984. The Swift became its own model in 2004. Currently, the Swift is positioned between Ignis and Baleno in Suzuki's global hatchback lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Swift",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Concept_S.jpg/1920px-Concept_S.jpg",
+  "sketchfab": {
+    "uid": "69fb5558b67c4bdb9b945bc338f02b11",
+    "name": "2004 Suzuki Swift",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "chery-arrizo-5",
+  "make": "Chery",
+  "model": "Arrizo 5",
+  "generation": null,
+  "aka": [
+    "Arrizo 5e",
+    "Cowin E5",
+    "Sinogold Junxing",
+    "Arrizo e"
+  ],
+  "years": [
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2017_Chery_Arrizo_5.jpg/960px-2017_Chery_Arrizo_5.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery Arrizo 5 is a compact sedan produced by Chery. The Chery Arrizo 5 received a name change to Chery Arrizo EX from 2019 to 2020 and the name was changed back to Chery Arrizo 5. The Arrizo 5 also spawned a more upmarket model based on the same platform called the Arrizo 6 or Arrizo GX that debuted during the 2018 Beijing Auto Show, with the model name being changed again to Arrizo 5 Plus after the facelift in 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_Arrizo_5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2017_Chery_Arrizo_5.jpg/1920px-2017_Chery_Arrizo_5.jpg",
+  "sketchfab": {
+    "uid": "b538ea28bd094a2aaac9fbca21f4b3b0",
+    "name": "Chery ARRIZO 5",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

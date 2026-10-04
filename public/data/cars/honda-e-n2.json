@@ -1,0 +1,27 @@
+{
+  "id": "honda-e-n2",
+  "make": "Honda",
+  "model": "e:N2",
+  "generation": null,
+  "aka": [
+    "e:NS2",
+    "e:np2"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2024_Dongfeng-Honda_e%D7%83NS2_%28front%29.jpg/960px-2024_Dongfeng-Honda_e%D7%83NS2_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda e:N2, also called the Honda Insight in Japan and Honda e:NP2 /  e:NS2 in China, are battery electric compact crossover SUVs produced since 2024 by GAC Honda and Dongfeng Honda, which are joint ventures of Honda in China. The e:NP2 went on sale in April 2024, while the e:NS2 followed in June 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_e%3AN2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2024_Dongfeng-Honda_e%D7%83NS2_%28front%29.jpg/1920px-2024_Dongfeng-Honda_e%D7%83NS2_%28front%29.jpg",
+  "sketchfab": null
+}

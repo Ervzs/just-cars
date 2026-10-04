@@ -2,17 +2,27 @@
   "id": "karma-revero",
   "make": "Karma",
   "model": "Revero",
+  "generation": null,
+  "aka": [
+    "Revero Aliso",
+    "Aliso",
+    "Revero GT",
+    "Fisker Revero",
+    "Fisker Karma Revero",
+    "GS-6"
+  ],
   "years": [
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
   "vehicleClass": "Subcompact Cars",
   "fuelType": "Premium Gas or Electricity",
   "engine": "1.5L 3-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2018_Karma_Revero%2C_front_right.jpg/960px-2018_Karma_Revero%2C_front_right.jpg",
   "has3d": true,
-  "representativeYear": 2020,
+  "representativeYear": 2021,
   "specs": {
     "engine": "1.5L 3-cyl",
     "displacementL": 1.5,
@@ -24,6 +34,10 @@
     "mpgCombined": 26,
     "evRangeMiles": 330
   },
+  "variants": [
+    "Revero",
+    "GS-6"
+  ],
   "description": "The Karma Revero is a luxury plug-in hybrid sports sedan manufactured in the United States by Chinese-owned Karma Automotive. It is a revamped version of the Fisker Karma. The first of the new production, for model year 2017, was released in September 2016.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Karma_Revero",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2018_Karma_Revero%2C_front_right.jpg/1920px-2018_Karma_Revero%2C_front_right.jpg",

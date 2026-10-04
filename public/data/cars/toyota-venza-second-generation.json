@@ -1,0 +1,42 @@
+{
+  "id": "toyota-venza-second-generation",
+  "make": "Toyota",
+  "model": "Venza",
+  "generation": "Second generation",
+  "aka": [
+    "FT-SX"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Toyota_Venza_II_%28front%29.jpg/960px-Toyota_Venza_II_%28front%29.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 40,
+    "mpgHighway": 37,
+    "mpgCombined": 39,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Venza"
+  ],
+  "description": "The Toyota Venza is a five-passenger mid-size crossover SUV manufactured and marketed by Toyota primarily for the North American market, with two generations separated by a hiatus from model years 2018–2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Venza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Toyota_Venza_II_%28front%29.jpg/1920px-Toyota_Venza_II_%28front%29.jpg",
+  "sketchfab": null
+}

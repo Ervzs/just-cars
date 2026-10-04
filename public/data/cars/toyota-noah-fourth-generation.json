@@ -1,0 +1,38 @@
+{
+  "id": "toyota-noah-fourth-generation",
+  "make": "Toyota",
+  "model": "Noah",
+  "generation": "Fourth generation",
+  "aka": [
+    "Voxy",
+    "Noah G Sports Concept",
+    "Voxy G Sports Concept",
+    "Esquire",
+    "NAV1"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Toyota_NOAH_S-Z_2WD%E3%83%BB7-Seater_%286BA-MZRA90W-APXRH%29.jpg/960px-Toyota_NOAH_S-Z_2WD%E3%83%BB7-Seater_%286BA-MZRA90W-APXRH%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Noah  is a minivan with two rear sliding doors built by Toyota and sold mainly in Asian countries. It is positioned below the Alphard, and above the Sienta. The Noah was also positioned below the Estima until the latter was discontinued in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Noah",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Toyota_NOAH_S-Z_2WD%E3%83%BB7-Seater_%286BA-MZRA90W-APXRH%29.jpg/1920px-Toyota_NOAH_S-Z_2WD%E3%83%BB7-Seater_%286BA-MZRA90W-APXRH%29.jpg",
+  "sketchfab": {
+    "uid": "db6cc42de8e84c30a74cf03b19684118",
+    "name": "Toyota Noah",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

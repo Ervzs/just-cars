@@ -2,6 +2,8 @@
   "id": "cadillac-xt4",
   "make": "Cadillac",
   "model": "XT4",
+  "generation": null,
+  "aka": [],
   "years": [
     2019,
     2020,
@@ -28,6 +30,9 @@
     "mpgCombined": 26,
     "evRangeMiles": null
   },
+  "variants": [
+    "XT4"
+  ],
   "description": "The Cadillac XT4 is a subcompact luxury crossover SUV manufactured since the 2019 model year by the luxury Cadillac division of General Motors.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XT4",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg/960px-Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg",

@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-s-class-sixth-generation",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "generation": "Sixth generation",
+  "aka": [
+    "SEL",
+    "Mercedes S-Class",
+    "Mercedes s",
+    "Mercedes S500",
+    "S500",
+    "Mercedes S600",
+    "S600",
+    "Mercedes S430"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2014_Mercedes-Benz_S_350_BlueTEC_%28W_222%29_sedan_%282016-01-04%29_01.jpg/960px-2014_Mercedes-Benz_S_350_BlueTEC_%28W_222%29_sedan_%282016-01-04%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S-Class"
+  ],
+  "description": "The Mercedes-Benz S-Class, formerly known as \"special class\", is a series of full-sized luxury sedans and coupés produced by the German automaker Mercedes-Benz. The S-Class is the designation for top-of-the-line Mercedes-Benz models and was officially introduced in 1972 with the W116, and has remained in use ever since. The S-Class is the flagship vehicle for Mercedes-Benz, being positioned above the other Mercedes-Benz models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_S-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2014_Mercedes-Benz_S_350_BlueTEC_%28W_222%29_sedan_%282016-01-04%29_01.jpg/1920px-2014_Mercedes-Benz_S_350_BlueTEC_%28W_222%29_sedan_%282016-01-04%29_01.jpg",
+  "sketchfab": null
+}

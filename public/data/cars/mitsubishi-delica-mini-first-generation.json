@@ -1,0 +1,23 @@
+{
+  "id": "mitsubishi-delica-mini-first-generation",
+  "make": "Mitsubishi",
+  "model": "Delica Mini",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mitsubishi_DELICA_MINI_G_Premium_4WD_%285AA-B37A-HXTSGZ%29_front.jpg/960px-Mitsubishi_DELICA_MINI_G_Premium_4WD_%285AA-B37A-HXTSGZ%29_front.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Delica Mini  is a kei car manufactured by NMKV, a joint venture between Nissan and Mitsubishi Motors. Using the Delica nameplate and replacing the eK X Space on which it was also based, it went on sale in May 2023 as the kei variation of the Delica lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Delica_Mini",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mitsubishi_DELICA_MINI_G_Premium_4WD_%285AA-B37A-HXTSGZ%29_front.jpg/1920px-Mitsubishi_DELICA_MINI_G_Premium_4WD_%285AA-B37A-HXTSGZ%29_front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "byd-han-l",
+  "make": "BYD",
+  "model": "Han L",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/BYD_Han_L_EV_005.jpg/960px-BYD_Han_L_EV_005.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Han L is a full-size sedan manufactured by BYD Auto since 2025. It is available with battery electric (EV) and plug-in hybrid (DM-i) powertrains. It is part of the BYD Han series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Han_L",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/BYD_Han_L_EV_005.jpg/1920px-BYD_Han_L_EV_005.jpg",
+  "sketchfab": null
+}

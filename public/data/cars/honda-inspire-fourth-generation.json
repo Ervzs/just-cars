@@ -1,0 +1,27 @@
+{
+  "id": "honda-inspire-fourth-generation",
+  "make": "Honda",
+  "model": "Inspire",
+  "generation": "Fourth generation",
+  "aka": [
+    "Saber"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Honda_Inspire_2003_2.jpg/960px-Honda_Inspire_2003_2.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Inspire  is a mid-size sedan derived from the Honda Accord chassis. The first Inspire debuted in late 1989 as the Accord Inspire, a sister nameplate to the Honda Vigor. It was sold at different retail channels in Japan, known as Honda Verno for the Vigor/Saber, and as the Inspire at Honda Clio stores.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Inspire",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Honda_Inspire_2003_2.jpg/1280px-Honda_Inspire_2003_2.jpg",
+  "sketchfab": null
+}

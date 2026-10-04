@@ -1,0 +1,31 @@
+{
+  "id": "honda-freed-first-generation",
+  "make": "Honda",
+  "model": "Freed",
+  "generation": "First generation",
+  "aka": [
+    "Freed Hybrid"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2008_Honda_Freed_01.jpg/960px-2008_Honda_Freed_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Freed   is a mini MPV produced by the Japanese automaker Honda since 2008. The vehicle is designed mainly for the need of Japanese consumers. It is based on the Fit/Jazz platform and acts as a replacement for the first generation Mobilio in Japan. Three different versions of the Freed are available: a six-seater version which features captain's seats in the second row, a seven-seater version and a five-seater version. Honda also stated that a wheelchair-accessible model is offered in addition to versions with a side lift-up seat and passenger lift-up seat.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Freed",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2008_Honda_Freed_01.jpg/1280px-2008_Honda_Freed_01.jpg",
+  "sketchfab": null
+}

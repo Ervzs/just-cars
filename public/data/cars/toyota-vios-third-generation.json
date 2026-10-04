@@ -1,0 +1,43 @@
+{
+  "id": "toyota-vios-third-generation",
+  "make": "Toyota",
+  "model": "Vios",
+  "generation": "Third generation",
+  "aka": [
+    "Vios turbo",
+    "Soluna Vios",
+    "Yaris Ativ",
+    "Yars Ativ",
+    "Vios Ativ",
+    "Ativ"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/ViosNCP150J040MovenpickRL.jpg/960px-ViosNCP150J040MovenpickRL.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Vios is a nameplate used for subcompact cars produced by the Japanese manufacturer Toyota, primarily for markets in Southeast Asia, China and Taiwan since 2002. Slotted below the compact Corolla, the Vios serves as the replacement to the Tercel, which filled the subcompact or B-segment sedan class in the region. It is also successor to the entry-level variants of the E110 series Corolla in some markets such as the Philippines and Vietnam.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Vios",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/ViosNCP150J040MovenpickRL.jpg/1280px-ViosNCP150J040MovenpickRL.jpg",
+  "sketchfab": {
+    "uid": "cce68a50ad874a0bb77e0e84fc39b966",
+    "name": "2018 Toyota Vios/Yaris G",
+    "author": "ICantModel123",
+    "authorUrl": "https://sketchfab.com/ICantModel123",
+    "license": "CC Attribution"
+  }
+}

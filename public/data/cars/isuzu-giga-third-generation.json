@@ -1,0 +1,36 @@
+{
+  "id": "isuzu-giga-third-generation",
+  "make": "Isuzu",
+  "model": "Giga",
+  "generation": "Third generation",
+  "aka": [
+    "CXZ",
+    "GMC t-Series",
+    "C-Series",
+    "Chevrolet CYZ"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Isuzu_Plaza_Isuzu_Giga_EK5DAB.jpg/960px-Isuzu_Plaza_Isuzu_Giga_EK5DAB.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Isuzu Giga is a line of heavy-duty commercial vehicles produced by Isuzu since 1994. Outside of Japan, the line is known as the Isuzu C/E series and Isuzu S&E series and was formerly known as the Isuzu Heavy-Duty Truck'. Between 1994 and 2016, it was also sold in South America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Giga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Isuzu_Plaza_Isuzu_Giga_EK5DAB.jpg/1280px-Isuzu_Plaza_Isuzu_Giga_EK5DAB.jpg",
+  "sketchfab": {
+    "uid": "ba7f39cf53714ad58ce3e13fc42807ea",
+    "name": "ISUZU GIGA MAX",
+    "author": "TAA36598SansD",
+    "authorUrl": "https://sketchfab.com/gau.01juichi8",
+    "license": "CC Attribution"
+  }
+}

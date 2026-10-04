@@ -2,6 +2,8 @@
   "id": "volvo-ex90",
   "make": "Volvo",
   "model": "EX90",
+  "generation": null,
+  "aka": [],
   "years": [
     2025,
     2026,
@@ -24,6 +26,9 @@
     "mpgCombined": 92,
     "evRangeMiles": 276
   },
+  "variants": [
+    "EX90"
+  ],
   "description": "The Volvo EX90 is a battery electric full-size luxury crossover SUV produced by Volvo since May 2024. A seven-seater luxury car, it is Volvo's flagship full-size SUV. It was revealed in November 2022 as the first bespoke electric vehicle marketed under the Volvo brand.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_EX90",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg/1920px-Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg",

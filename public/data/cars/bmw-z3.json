@@ -2,6 +2,10 @@
   "id": "bmw-z3",
   "make": "BMW",
   "model": "Z3",
+  "generation": null,
+  "aka": [
+    "Z3 GT"
+  ],
   "years": [
     2000,
     2001,
@@ -24,6 +28,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Z3"
+  ],
   "description": "The BMW Z3 is a range of two-seater sports cars which was produced from 1995 to 2002. The body styles of the range are:2-door roadster \n2-door coupé ",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_Z3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/1999_BMW_Z3_2.3_roadster%2C_front_right%2C_08-24-2024.jpg/1920px-1999_BMW_Z3_2.3_roadster%2C_front_right%2C_08-24-2024.jpg",

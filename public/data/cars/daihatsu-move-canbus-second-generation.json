@@ -1,0 +1,28 @@
+{
+  "id": "daihatsu-move-canbus-second-generation",
+  "make": "Daihatsu",
+  "model": "Move Canbus",
+  "generation": "Second generation",
+  "aka": [
+    "Hinata"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2023_Daihatsu_Move_Canbus_Stripe_X_in_White_x_Lake_Blue%2C_front_left.jpg/960px-2023_Daihatsu_Move_Canbus_Stripe_X_in_White_x_Lake_Blue%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Move Canbus  is a retro-styled semi-tall kei car with rear sliding doors manufactured by the Japanese carmaker Daihatsu since 2016. Despite adopting the \"Move\" nameplate, the car shared its underpinnings with the Tanto instead.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Move_Canbus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2023_Daihatsu_Move_Canbus_Stripe_X_in_White_x_Lake_Blue%2C_front_left.jpg/1920px-2023_Daihatsu_Move_Canbus_Stripe_X_in_White_x_Lake_Blue%2C_front_left.jpg",
+  "sketchfab": null
+}

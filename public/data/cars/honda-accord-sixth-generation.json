@@ -1,0 +1,52 @@
+{
+  "id": "honda-accord-sixth-generation",
+  "make": "Honda",
+  "model": "Accord",
+  "generation": "Sixth generation",
+  "aka": [
+    "Accord Hybrid",
+    "Accord Tourer",
+    "EuroR",
+    "Accord Euro",
+    "Accord Euro-R",
+    "accod",
+    "ccord",
+    "Accord V6"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1997-2001_Honda_Accord_V6_sedan_%282011-04-02%29_01.jpg/960px-1997-2001_Honda_Accord_V6_sedan_%282011-04-02%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Accord"
+  ],
+  "description": "The Honda Accord , also known as the Honda Inspire  in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. Worldwide, over 19 million units of the car have been sold, making it one of the best-selling automobiles of all time. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks, and a Honda Crosstour crossover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Accord",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/1997-2001_Honda_Accord_V6_sedan_%282011-04-02%29_01.jpg/1920px-1997-2001_Honda_Accord_V6_sedan_%282011-04-02%29_01.jpg",
+  "sketchfab": {
+    "uid": "a21e8e23269749cda72de46b0c87daa7",
+    "name": "1998 Honda Accord EX",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

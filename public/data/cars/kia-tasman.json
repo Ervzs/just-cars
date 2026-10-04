@@ -1,0 +1,31 @@
+{
+  "id": "kia-tasman",
+  "make": "Kia",
+  "model": "Tasman",
+  "generation": null,
+  "aka": [
+    "TK"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2025_Kia_Tasman_front.jpg/960px-2025_Kia_Tasman_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Tasman is a mid-size pickup truck manufactured and marketed by Kia since 2025. It is built on a body-on-frame chassis, and powered by turbocharged four-cylinder petrol and diesel engines.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Tasman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2025_Kia_Tasman_front.jpg/1920px-2025_Kia_Tasman_front.jpg",
+  "sketchfab": {
+    "uid": "92d38904aa384014a064678bf4976122",
+    "name": "kia_tasman",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

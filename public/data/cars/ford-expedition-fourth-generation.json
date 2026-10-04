@@ -1,0 +1,50 @@
+{
+  "id": "ford-expedition-fourth-generation",
+  "make": "Ford",
+  "model": "Expedition",
+  "generation": "Fourth generation",
+  "aka": [
+    "Expedition electric",
+    "Expedition SUV",
+    "Expedition MAX"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2019_Ford_Expedition_XLT%2C_front_1.21.20.jpg/960px-2019_Ford_Expedition_XLT%2C_front_1.21.20.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Expedition"
+  ],
+  "description": "The Ford Expedition is a full-size SUV produced by Ford Motor Company since the 1997 model year. Introduced as the replacement for the 1978–1996 Ford Bronco, the Expedition again maintained commonality with the F-150, shifting its form factor to a truck-based five-door station wagon. Initially competing between the Chevrolet Tahoe and Chevrolet Suburban, the Expedition also serves a competitor against the Toyota Sequoia, Nissan Armada, and the Jeep (Grand) Wagoneer. From 2000 to 2006, the Expedition was slotted below the Ford Excursion in size. Currently in its fifth generation, the Expedition is produced in two wheelbases, with both versions offering seating for up to eight passengers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Expedition",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2019_Ford_Expedition_XLT%2C_front_1.21.20.jpg/1920px-2019_Ford_Expedition_XLT%2C_front_1.21.20.jpg",
+  "sketchfab": {
+    "uid": "b4034a12c61641429a172a8cbb873ddc",
+    "name": "Ford Expedition Max 2022",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

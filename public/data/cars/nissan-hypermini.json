@@ -1,0 +1,24 @@
+{
+  "id": "nissan-hypermini",
+  "make": "Nissan",
+  "model": "Hypermini",
+  "generation": null,
+  "aka": [],
+  "years": [
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/NissanHypermini.jpg/500px-NissanHypermini.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hypermini is a two-seater electric microcar by Nissan Motors, which produced 219 of the cars in 1999–2001 for the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Hypermini",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/NissanHypermini.jpg/500px-NissanHypermini.jpg",
+  "sketchfab": null
+}

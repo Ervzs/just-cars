@@ -1,0 +1,55 @@
+{
+  "id": "bmw-x6-first-generation",
+  "make": "BMW",
+  "model": "X6",
+  "generation": "First generation",
+  "aka": [
+    "E71",
+    "Concept X6 ActiveHybrid",
+    "E72",
+    "X6 M",
+    "Cylinder-bank Comprehensive Manifold",
+    "ActiveHybrid X6",
+    "F16"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-2012_BMW_X6_%28E71%29_xDrive35d_wagon_%282018-09-03%29_02.jpg/960px-2008-2012_BMW_X6_%28E71%29_xDrive35d_wagon_%282018-09-03%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X6",
+    "ActiveHybrid X6"
+  ],
+  "description": "The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW. The BMW X6 is the originator of the sports activity coupé (SAC), referencing its sloping rear roof design. It combines the attributes of an SUV with the stance of a coupé. It is built in BMW's North American plant in Greer, South Carolina alongside the BMW X5, whose platform it shares. Prior to the release of the X7, the X6 was considered a flagship SUV for BMW.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-2012_BMW_X6_%28E71%29_xDrive35d_wagon_%282018-09-03%29_02.jpg/1920px-2008-2012_BMW_X6_%28E71%29_xDrive35d_wagon_%282018-09-03%29_02.jpg",
+  "sketchfab": {
+    "uid": "260361fd3ab34913851e279da4746674",
+    "name": "2010 BMW X6 M",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

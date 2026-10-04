@@ -1,0 +1,50 @@
+{
+  "id": "chevrolet-corvette-fifth-generation",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "generation": "Fifth generation",
+  "aka": [
+    "Chevy Corvette",
+    "C5",
+    "C6",
+    "2006 Chevrolet Corvette Z06",
+    "C-5 Corvette",
+    "Traverse leaf spring",
+    "Traverse leaf springs",
+    "Corvette car"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chevrolet-Corvette-C5.jpg/960px-Chevrolet-Corvette-C5.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "5.7L 8-cyl",
+    "displacementL": 5.7,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corvette"
+  ],
+  "description": "The Chevrolet Corvette is a line of American two-door, two-seater sports cars manufactured and marketed by General Motors under the Chevrolet marque since 1953. Throughout eight generations, indicated sequentially as C1 to C8, the Corvette is noted for its performance, distinctive styling, lightweight fiberglass or composite bodywork, and competitive pricing. The Corvette has had domestic mass-produced two-seater competitors fielded by American Motors, Ford, and Chrysler; it is the only one continuously produced by a United States auto manufacturer. It serves as Chevrolet's halo car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Corvette",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chevrolet-Corvette-C5.jpg/1280px-Chevrolet-Corvette-C5.jpg",
+  "sketchfab": null
+}

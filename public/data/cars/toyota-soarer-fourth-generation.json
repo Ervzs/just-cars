@@ -1,0 +1,39 @@
+{
+  "id": "toyota-soarer-fourth-generation",
+  "make": "Toyota",
+  "model": "Soarer",
+  "generation": "Fourth generation",
+  "aka": [
+    "JZZ30",
+    "JZZ31",
+    "UZZ31",
+    "UZZ32",
+    "UZZ30",
+    "Soarer Turbo"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Toyota_SOARER_430SCV_%28UA-UZZ40%29_front.jpg/960px-Toyota_SOARER_430SCV_%28UA-UZZ40%29_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Soarer  is a personal luxury GT coupé produced from 1981 to 2005 by Toyota and sold in Japan. It was available at both Japanese Toyota dealerships called Toyota Store and Toyopet Store, and it debuted with the Z10 series, replacing the Toyopet Store exclusive Mark II coupé, the Toyota Auto Store exclusive Chaser coupé, and both the Toyota Store exclusive Crown coupé and Carina coupé.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Soarer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Toyota_SOARER_430SCV_%28UA-UZZ40%29_front.jpg/1920px-Toyota_SOARER_430SCV_%28UA-UZZ40%29_front.jpg",
+  "sketchfab": {
+    "uid": "4f5141da2695422d8c582def6137c1fd",
+    "name": "Toyota Soarer (JZZ30)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

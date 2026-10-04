@@ -2,6 +2,8 @@
   "id": "porsche-carrera-4-s-cabriolet",
   "make": "Porsche",
   "model": "Carrera 4 S Cabriolet",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005,
@@ -13,7 +15,7 @@
   "vehicleClass": "Minicompact Cars",
   "fuelType": "Premium",
   "engine": "3.8L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1986_944_Turbo.jpg/960px-1986_944_Turbo.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2009,
   "specs": {
@@ -27,8 +29,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Porsche 944 is a two-door sports car that was manufactured and marketed by Porsche from 1982 until 1991. A front-engine, rear-wheel drive model based on the platform of the 924, the 944 was available in coupé or cabriolet body styles, with either naturally aspirated or turbocharged engines. With over 163,000 cars produced, the 944 was the most successful sports car in Porsche's history until the introductions of the Boxster and 997 Carrera.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_944",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1986_944_Turbo.jpg/1920px-1986_944_Turbo.jpg",
+  "variants": [
+    "Carrera 4 S Cabriolet"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

@@ -1,0 +1,58 @@
+{
+  "id": "pontiac-firebird-fourth-generation",
+  "make": "Pontiac",
+  "model": "Firebird",
+  "generation": "Fourth generation",
+  "aka": [
+    "Trans Am",
+    "Screaming Chicken",
+    "Firehawk",
+    "Flaming Chicken",
+    "Firebird Trans Am",
+    "Turbo Trans Am",
+    "FIREBIRD FORMULA",
+    "1969 Pontiac Firebird"
+  ],
+  "years": [
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pontiac_Trans_Am_convertible.jpg/960px-Pontiac_Trans_Am_convertible.jpg",
+  "has3d": true,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Firebird/Trans Am/Formula"
+  ],
+  "description": "The Pontiac Firebird is an American automobile built and produced by Pontiac from the 1967 to 2002 model years. Designed as a pony car to compete with the Ford Mustang, it was introduced on February 23, 1967, five months after GM's Chevrolet division's platform-sharing Camaro. This also coincided with the release of the 1967 Mercury Cougar, Ford's upscale, platform-sharing version of the Mustang.\nThe name \"Firebird\" was also previously used by GM for the General Motors Firebird series of concept cars in the 1950s.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Firebird",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pontiac_Trans_Am_convertible.jpg/1920px-Pontiac_Trans_Am_convertible.jpg",
+  "sketchfab": {
+    "uid": "5e44a5e91fd54067b22346457e3d77d4",
+    "name": "Pontiac Firebird Trans Am (2002)",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

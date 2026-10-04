@@ -2,6 +2,8 @@
   "id": "ferrari-f167-aba",
   "make": "Ferrari",
   "model": "F167 ABA",
+  "generation": null,
+  "aka": [],
   "years": [
     2025
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 14,
     "evRangeMiles": null
   },
+  "variants": [
+    "F167 ABA"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

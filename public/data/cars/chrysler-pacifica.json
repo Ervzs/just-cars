@@ -2,6 +2,8 @@
   "id": "chrysler-pacifica",
   "make": "Chrysler",
   "model": "Pacifica",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005,
@@ -37,6 +39,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "Pacifica"
+  ],
   "description": "Chrysler Pacifica is a nameplate used by Chrysler for a variety of vehicles.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Pacifica",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg/1920px-2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg",

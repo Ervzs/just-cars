@@ -2,6 +2,11 @@
   "id": "ford-ranger",
   "make": "Ford",
   "model": "Ranger",
+  "generation": null,
+  "aka": [
+    "Mazda Truck",
+    "Mazda B3000"
+  ],
   "years": [
     2000,
     2001,
@@ -41,6 +46,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ranger"
+  ],
   "description": "The Ford Ranger is a compact or mid-size pickup truck marketed globally by Ford over a series of generations, varying between both in-house or outside development and manufacturing — and with a hiatus in North America from 2011–2018.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Ranger",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg/1920px-Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg",

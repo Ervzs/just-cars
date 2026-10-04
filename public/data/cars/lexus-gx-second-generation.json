@@ -1,0 +1,56 @@
+{
+  "id": "lexus-gx-second-generation",
+  "make": "Lexus",
+  "model": "GX",
+  "generation": "Second generation",
+  "aka": [
+    "GX 470",
+    "GX 460"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Lexus_GX_460_%28facelift%29%2C_front_4.26.23.jpg/960px-2018_Lexus_GX_460_%28facelift%29%2C_front_4.26.23.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GX"
+  ],
+  "description": "The Lexus GX  is a mid/full-size luxury SUV sold in North American and Eurasian markets by Lexus, a luxury division of Toyota. The GX is based on the Toyota Land Cruiser Prado, from which it derives its off-road capability.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Lexus_GX_460_%28facelift%29%2C_front_4.26.23.jpg/1920px-2018_Lexus_GX_460_%28facelift%29%2C_front_4.26.23.jpg",
+  "sketchfab": {
+    "uid": "e29111d561c24fcfa5106b3b6abfdd68",
+    "name": "Lexus GX 2010",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

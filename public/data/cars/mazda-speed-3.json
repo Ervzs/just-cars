@@ -2,6 +2,8 @@
   "id": "mazda-speed-3",
   "make": "Mazda",
   "model": "Speed 3",
+  "generation": null,
+  "aka": [],
   "years": [
     2008,
     2009,
@@ -13,7 +15,7 @@
   "vehicleClass": "Midsize Cars",
   "fuelType": "Premium",
   "engine": "2.3L 4-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mazda_RX-8.jpg/960px-Mazda_RX-8.jpg",
+  "thumbnail": null,
   "has3d": false,
   "representativeYear": 2013,
   "specs": {
@@ -27,8 +29,11 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
-  "description": "The Mazda RX-8 is a sports car manufactured by Japanese automobile manufacturer Mazda between 2003 and 2012. It was first shown in 2001 at the North American International Auto Show. It is the direct successor to the RX-7. Like its predecessors in the RX range, it is powered by a rotary Wankel engine. The RX-8 was available for the 2003 model year in most parts of the world.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_RX-8",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mazda_RX-8.jpg/1920px-Mazda_RX-8.jpg",
+  "variants": [
+    "Speed 3"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": null
 }

@@ -1,0 +1,37 @@
+{
+  "id": "nissan-sylphy-second-generation",
+  "make": "Nissan",
+  "model": "Sylphy",
+  "generation": "Second generation",
+  "aka": [
+    "Bluebird Sylphy",
+    "Dongfeng E11K"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2006_Dongfeng-Nissan_Sylphy_Classic.jpg/960px-2006_Dongfeng-Nissan_Sylphy_Classic.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sylphy  is a compact car produced by the Japanese car maker Nissan since 2000 as the successor to the Nissan Pulsar. The Sylphy has also been marketed in export markets under several other nameplates, including Pulsar, Almera, Sunny and Sentra. For the third-generation model (B17) introduced in 2012, the Sylphy model was merged with the B17 Sentra, meaning it is no longer a standalone model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sylphy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2006_Dongfeng-Nissan_Sylphy_Classic.jpg/1920px-2006_Dongfeng-Nissan_Sylphy_Classic.jpg",
+  "sketchfab": {
+    "uid": "ac9c647d6997408692a63bd1889ee5ca",
+    "name": "Nissan Sylphy 2011",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

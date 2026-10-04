@@ -1,0 +1,25 @@
+{
+  "id": "honda-domani-second-generation-mb3-5",
+  "make": "Honda",
+  "model": "Domani",
+  "generation": "Second generation: MB3-5",
+  "aka": [],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Honda_Domani_1997_1.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Domani (ホンダ・ドマーニ) is a car made by Honda and marketed in east Asia, including Japan. The car was mutually developed during Rover's collaboration with Honda. It was introduced on 4 November 1992, replacing the Concerto in Honda's lineup, although that model lasted until 1995 in Europe.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Domani",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Honda_Domani_1997_1.jpg",
+  "sketchfab": null
+}

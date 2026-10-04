@@ -1,0 +1,28 @@
+{
+  "id": "mg-zt",
+  "make": "MG",
+  "model": "ZT",
+  "generation": null,
+  "aka": [
+    "ZT-T"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MG_ZT_%28FP04_YLW%29_-_7_June_2026.jpg/960px-MG_ZT_%28FP04_YLW%29_-_7_June_2026.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MG ZT is a car which was produced by MG Rover from 2001 to 2005. It was offered in saloon and estate versions, the latter designated as the MG ZT-T. Styling is similar to the Rover 75, upon which it was based, although various modifications, most noticeably the wheels and tyres, make for a far sportier ride. Production ceased in April 2005, amidst financial turmoil at MG Rover.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MG_ZT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MG_ZT_%28FP04_YLW%29_-_7_June_2026.jpg/1920px-MG_ZT_%28FP04_YLW%29_-_7_June_2026.jpg",
+  "sketchfab": null
+}

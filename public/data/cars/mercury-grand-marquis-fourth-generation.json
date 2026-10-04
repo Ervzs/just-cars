@@ -1,0 +1,50 @@
+{
+  "id": "mercury-grand-marquis-fourth-generation",
+  "make": "Mercury",
+  "model": "Grand Marquis",
+  "generation": "Fourth generation",
+  "aka": [
+    "Ford Grand Marquis"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Gasoline or E85",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2005_Mercury_Grand_Marquis_30th_Anniversary_Edition_--_06-02-2011.jpg/960px-2005_Mercury_Grand_Marquis_30th_Anniversary_Edition_--_06-02-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Marquis"
+  ],
+  "description": "The Mercury Grand Marquis is an automobile that was produced by Mercury from the 1975 until 2011 model years. Introduced as the flagship sub-model of the Mercury Marquis in 1975, the Grand Marquis became a stand-alone model line in 1983, serving as the largest Mercury sedan. The model line served as the sedan counterpart of the Mercury Colony Park station wagon up to 1991. The fourth generation was the basis of the 2003 and 2004 Mercury Marauder.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Grand_Marquis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2005_Mercury_Grand_Marquis_30th_Anniversary_Edition_--_06-02-2011.jpg/1920px-2005_Mercury_Grand_Marquis_30th_Anniversary_Edition_--_06-02-2011.jpg",
+  "sketchfab": {
+    "uid": "ee5199a58b8c4ad9bfbd9dd28f2fe5cc",
+    "name": "2008 Mercury Grand Marquis",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "CC Attribution"
+  }
+}

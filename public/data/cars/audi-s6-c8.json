@@ -1,0 +1,44 @@
+{
+  "id": "audi-s6-c8",
+  "make": "Audi",
+  "model": "S6",
+  "generation": "C8",
+  "aka": [
+    "S6 Plus",
+    "S6 Avant"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Audi_S6_C8_at_IAA_2019_IMG_0305.jpg/960px-Audi_S6_C8_at_IAA_2019_IMG_0305.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 106,
+    "mpgHighway": 100,
+    "mpgCombined": 103,
+    "evRangeMiles": 326
+  },
+  "variants": [
+    "S6",
+    "S6 e-tron"
+  ],
+  "description": "The Audi S6 is a high-performance variant of the Audi A6, an executive car produced by German automaker Audi. It went on sale in 1994, shortly after the \"A6\" designation was introduced, replacing the \"100\" nameplate.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Audi_S6_C8_at_IAA_2019_IMG_0305.jpg/1920px-Audi_S6_C8_at_IAA_2019_IMG_0305.jpg",
+  "sketchfab": null
+}

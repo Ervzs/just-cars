@@ -1,0 +1,53 @@
+{
+  "id": "chevrolet-express-gmt560",
+  "make": "Chevrolet",
+  "model": "Express",
+  "generation": "GMT560",
+  "aka": [
+    "GMC Savana",
+    "Chevy Express",
+    "Express 1500 Passenger",
+    "GMC Savanna",
+    "Savana"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Vans, Passenger Type",
+  "fuelType": "Regular",
+  "engine": "6.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/960px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "6.0L 8-cyl",
+    "displacementL": 6,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Express Passenger",
+    "Express Cargo"
+  ],
+  "description": "The Chevrolet Express is a series of full-size vans produced by General Motors since 1996. The successor to the Chevrolet G-series van, the Express is produced in passenger and cargo variants. Alongside the standard van body, the line is offered as a cutaway van chassis, which is a chassis cab variant developed for commercial-grade applications, including ambulances, buses, motorhomes, and small trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Express",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/1920px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "sketchfab": {
+    "uid": "ed2a0b37a01e4e51ba5b82c35d4a9dae",
+    "name": "2003 Chevrolet Express GMC Savana 2500 Cargo Van",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

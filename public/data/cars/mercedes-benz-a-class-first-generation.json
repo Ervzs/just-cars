@@ -1,0 +1,38 @@
+{
+  "id": "mercedes-benz-a-class-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "generation": "First generation",
+  "aka": [
+    "W168",
+    "W169",
+    "A Classe",
+    "Mercedes A Classe",
+    "Mercedes a160",
+    "Mercedes a class",
+    "Mercedes Benz A class",
+    "Baby Benz"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mercedes_A-Klasse_front.JPG/960px-Mercedes_A-Klasse_front.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mercedes-Benz A-Class is a car manufactured by German luxury automaker Mercedes-Benz. It has been marketed across four generations as a front-engine, front-wheel drive, five-passenger, five-door hatchback, with a three-door hatchback offered for the second generation, as well as a saloon version for the fourth.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mercedes_A-Klasse_front.JPG/1920px-Mercedes_A-Klasse_front.JPG",
+  "sketchfab": null
+}

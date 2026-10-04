@@ -1,0 +1,66 @@
+{
+  "id": "ferrari-612-scaglietti-gg50",
+  "make": "Ferrari",
+  "model": "612 Scaglietti",
+  "generation": "GG50",
+  "aka": [
+    "612",
+    "612 Scagletti",
+    "Scaglietti",
+    "612 Kappa"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "5.7L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg/960px-Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "5.7L 12-cyl",
+    "displacementL": 5.7,
+    "cylinders": 12,
+    "transmission": "Automatic (AM6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 16,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "612 Scaglietti"
+  ],
+  "description": "The Ferrari 612 Scaglietti is an executive 2+2 coupé grand tourer made by the Italian automobile manufacturer Ferrari between 2004 and 2011. It was designed to replace the smaller 456; its larger size makes it a true 4-seater with adequate space in the rear seats for adults.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_612_Scaglietti",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg/1920px-Ferrari_GG50_-_Museo_Ferrari_%2817515678863%29.jpg",
+  "sketchfab": {
+    "uid": "4eacafcec2af4cf9bbbfac5ad92238f0",
+    "name": "Ferrari 612 Scaglietti - Super Drift NitroStream",
+    "author": "Aeroux",
+    "authorUrl": "https://sketchfab.com/aeroux",
+    "license": "CC Attribution"
+  }
+}

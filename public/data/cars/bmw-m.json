@@ -2,6 +2,12 @@
   "id": "bmw-m",
   "make": "BMW",
   "model": "M",
+  "generation": null,
+  "aka": [
+    "MPower",
+    "M GmbH",
+    "M Series"
+  ],
   "years": [
     2000,
     2001,
@@ -49,6 +55,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "M"
+  ],
   "description": "BMW M GmbH, formerly known as BMW Motorsport GmbH, is a subsidiary of the German automobile BMW AG that manufactures high-performance luxury cars.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_M",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/BMW_M_Grey-Colour_RGB.svg/500px-BMW_M_Grey-Colour_RGB.svg.png",

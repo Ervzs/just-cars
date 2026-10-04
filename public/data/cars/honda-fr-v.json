@@ -1,0 +1,29 @@
+{
+  "id": "honda-fr-v",
+  "make": "Honda",
+  "model": "FR-V",
+  "generation": null,
+  "aka": [
+    "Edix"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2007_Honda_FR-V_ES_i-CTDi_2.2.jpg/960px-2007_Honda_FR-V_ES_i-CTDi_2.2.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda FR-V, marketed as the Honda Edix in Japan, is a six-passenger car that was manufactured by Honda from 2004 to 2009, over a single generation. A five-door compact multi-purpose vehicle (MPV), the FR-V was noted for its 3+3 seating configuration, along with the Fiat Multipla.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_FR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2007_Honda_FR-V_ES_i-CTDi_2.2.jpg/1920px-2007_Honda_FR-V_ES_i-CTDi_2.2.jpg",
+  "sketchfab": null
+}

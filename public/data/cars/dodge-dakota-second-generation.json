@@ -1,0 +1,50 @@
+{
+  "id": "dodge-dakota-second-generation",
+  "make": "Dodge",
+  "model": "Dakota",
+  "generation": "Second generation",
+  "aka": [
+    "Chrysler N platform",
+    "Ram Dakota"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2nd-Dodge-Dakota-extcab.jpg/960px-2nd-Dodge-Dakota-extcab.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Dakota Pickup"
+  ],
+  "description": "The Dodge Dakota, marketed as the Ram Dakota for the final two years of production, is a mid-size pickup truck manufactured by Chrysler and marketed by its Dodge Truck division and later its Ram Truck division (2010–2011) — across three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Dakota",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2nd-Dodge-Dakota-extcab.jpg/1920px-2nd-Dodge-Dakota-extcab.jpg",
+  "sketchfab": {
+    "uid": "4af1fe3d7ead4658aa6b1ea6839cfa45",
+    "name": "Dodge Dakota (Mk2) Sport Quad Cab 2000",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

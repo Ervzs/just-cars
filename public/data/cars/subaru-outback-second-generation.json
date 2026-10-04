@@ -1,0 +1,28 @@
+{
+  "id": "subaru-outback-second-generation",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "Second generation",
+  "aka": [
+    "Outback Sport",
+    "Legacy Outback",
+    "Impreza Outback",
+    "Impreza Outback Sport"
+  ],
+  "years": [
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2000-2004_Subaru_Outback_Wagon.jpg/960px-2000-2004_Subaru_Outback_Wagon.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Outback is an automotive nameplate used by the Japanese automaker Subaru for two different themed vehicles: a Legacy-derived station wagon, the Outback, and an Impreza-derived off-road themed hatchback, the Outback Sport (1994–2011).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Outback",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2000-2004_Subaru_Outback_Wagon.jpg/1280px-2000-2004_Subaru_Outback_Wagon.jpg",
+  "sketchfab": null
+}

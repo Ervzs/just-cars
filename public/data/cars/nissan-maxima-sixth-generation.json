@@ -1,0 +1,43 @@
+{
+  "id": "nissan-maxima-sixth-generation",
+  "make": "Nissan",
+  "model": "Maxima",
+  "generation": "Sixth generation",
+  "aka": [
+    "Datsun Maxima",
+    "Nissen Maxima",
+    "J30",
+    "Maxima QX"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2005_Nissan_Maxima_3.5_SL%2C_front_right.jpg/960px-2005_Nissan_Maxima_3.5_SL%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Maxima"
+  ],
+  "description": "The Nissan Maxima is a five-passenger, front-engine, full-size car that was manufactured and marketed by Nissan as Nissan's flagship sedan primarily in North America, the Middle East, South Korea, and China — across eight generations. The Maxima debuted for model year 1982 as the Datsun Maxima, replacing the Datsun 810.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Maxima",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2005_Nissan_Maxima_3.5_SL%2C_front_right.jpg/1920px-2005_Nissan_Maxima_3.5_SL%2C_front_right.jpg",
+  "sketchfab": null
+}

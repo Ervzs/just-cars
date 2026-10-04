@@ -1,0 +1,32 @@
+{
+  "id": "changan-eado-third-generation",
+  "make": "Changan",
+  "model": "Eado",
+  "generation": "Third generation",
+  "aka": [
+    "Eado XT"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Changan_Eado_III_002.jpg/960px-Changan_Eado_III_002.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Changan Eado (逸动) is a compact car produced by Chinese auto manufacturer Changan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changan_Eado",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Changan_Eado_III_002.jpg/1920px-Changan_Eado_III_002.jpg",
+  "sketchfab": {
+    "uid": "a50de32e1c844363ad75e04d37a03fa8",
+    "name": "Changan Eado Plus 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

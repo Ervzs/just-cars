@@ -2,6 +2,8 @@
   "id": "volvo-v50",
   "make": "Volvo",
   "model": "V50",
+  "generation": null,
+  "aka": [],
   "years": [
     2005,
     2006,
@@ -28,6 +30,9 @@
     "mpgCombined": 24,
     "evRangeMiles": null
   },
+  "variants": [
+    "V50"
+  ],
   "description": "The Volvo V50 is the station wagon version of the Volvo S40 small family car (\"C-segment\") first unveiled at the 2003 Bologna Motor Show, both assembled at Ghent, Belgium. Sharing the Volvo, Ford, and Mazda Global C-car Platform with the European 2nd-gen Ford Focus and the Mazda3, the V50 featured interior \"theatre\" lighting, a floating center console, and \"Volvo Intelligent Vehicle Architecture\".",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V50",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2005_Volvo_V50_SE_1.8_Front.jpg/1920px-2005_Volvo_V50_SE_1.8_Front.jpg",

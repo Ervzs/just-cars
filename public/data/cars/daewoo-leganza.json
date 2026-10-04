@@ -2,6 +2,11 @@
   "id": "daewoo-leganza",
   "make": "Daewoo",
   "model": "Leganza",
+  "generation": null,
+  "aka": [
+    "Chevrolet Leganza",
+    "Doninvest Kondor"
+  ],
   "years": [
     2000,
     2001,
@@ -24,6 +29,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Leganza"
+  ],
   "description": "The Daewoo Leganza is an executive car (E-segment), sometimes classified as luxury large family car (D-segment), that was manufactured and marketed by the automobile manufacturer Daewoo. The Leganza was only available as a front engine, front-wheel drive, four-door, five-passenger sedan in South Korea over a single generation for model years 1997-2002 and was internally designated as the V100.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Daewoo_Leganza",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2002_%2852%29_Daewoo_Leganza_CDX_Automatic_-_1998cc_2.0_%28135PS%29_Petrol_-_Poly_Silver_Metallic_-_21-01-2024%2C_Front_Right.jpg/1920px-2002_%2852%29_Daewoo_Leganza_CDX_Automatic_-_1998cc_2.0_%28135PS%29_Petrol_-_Poly_Silver_Metallic_-_21-01-2024%2C_Front_Right.jpg",

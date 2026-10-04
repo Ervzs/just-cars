@@ -1,0 +1,41 @@
+{
+  "id": "hyundai-venue-first-generation",
+  "make": "Hyundai",
+  "model": "Venue",
+  "generation": "First generation",
+  "aka": [
+    "Styx"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2025_Hyundai_Venue_Turbo_%28front%29%2C_Pakuwon_Mall%2C_West_Surabaya.jpg/960px-2025_Hyundai_Venue_Turbo_%28front%29%2C_Pakuwon_Mall%2C_West_Surabaya.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 33,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Venue"
+  ],
+  "description": "The Hyundai Venue is a subcompact crossover SUV manufactured by South Korean manufacturer Hyundai since 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Venue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2025_Hyundai_Venue_Turbo_%28front%29%2C_Pakuwon_Mall%2C_West_Surabaya.jpg/1920px-2025_Hyundai_Venue_Turbo_%28front%29%2C_Pakuwon_Mall%2C_West_Surabaya.jpg",
+  "sketchfab": null
+}

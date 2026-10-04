@@ -1,0 +1,37 @@
+{
+  "id": "buick-lacrosse-fourth-generation",
+  "make": "Buick",
+  "model": "LaCrosse",
+  "generation": "Fourth generation",
+  "aka": [
+    "Allure",
+    "2008 Buick LaCrosse",
+    "LaX",
+    "Daewoo Alpheon",
+    "Alpheon"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Buick_LaCrosse_IV_004.jpg/960px-Buick_LaCrosse_IV_004.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Buick LaCrosse is a four-door, front-wheel-drive sedan manufactured by Buick since the 2005 model year, and marketed variously across four generations for the North American and Chinese markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_LaCrosse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Buick_LaCrosse_IV_004.jpg/1920px-Buick_LaCrosse_IV_004.jpg",
+  "sketchfab": {
+    "uid": "9852ece4440b49d5a8ee539cc0379877",
+    "name": "Buick Lacrosse",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

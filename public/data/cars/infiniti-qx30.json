@@ -2,6 +2,8 @@
   "id": "infiniti-qx30",
   "make": "Infiniti",
   "model": "QX30",
+  "generation": null,
+  "aka": [],
   "years": [
     2017,
     2018,
@@ -24,6 +26,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "QX30"
+  ],
   "description": "The Infiniti QX30 is a subcompact luxury crossover SUV manufactured and marketed by Nissan's Infiniti luxury brand. It is heavily based on the Q30 hatchback with modifications mainly in its ride height in order for it to be marketed as a crossover. Both the Q30 and the QX30 are based on the first-generation Mercedes-Benz GLA and the third-generation Mercedes-Benz A-Class. The QX30 was manufactured from 2016 to mid-2019, at the same time the brand withdrew from Europe altogether.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX30",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2017_Infiniti_QX30_2.0t_AWD_front_2.10.19.jpg/1920px-2017_Infiniti_QX30_2.0t_AWD_front_2.10.19.jpg",

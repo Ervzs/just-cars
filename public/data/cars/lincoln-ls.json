@@ -2,6 +2,8 @@
   "id": "lincoln-ls",
   "make": "Lincoln",
   "model": "LS",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -28,6 +30,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "LS"
+  ],
   "description": "The Lincoln LS is a mid-size luxury car which was manufactured and marketed by the Lincoln Motor Company for the 2000-through-2006 model years, having entered production in June 1999. Primarily sold in the North American market, it is a four-door sedan with seating for five occupants. The LS has a front-engine, rear-wheel-drive layout and either a V8 or V6 engine, with the latter configuration initially offered with a manual transmission. Described as a sport sedan, it has a near 50/50 weight distribution, and aimed to provide a blend of luxury and sport to attract a new generation of buyers to the Lincoln brand.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_LS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/00-02_Lincoln_LS_2.jpg/1920px-00-02_Lincoln_LS_2.jpg",

@@ -1,0 +1,29 @@
+{
+  "id": "kia-ev4",
+  "make": "Kia",
+  "model": "EV4",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/960px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia EV4 is a battery electric (C-segment) compact car produced by Kia since 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/1920px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg",
+  "sketchfab": {
+    "uid": "baf083380b1147e9a55cfb29f1b6af91",
+    "name": "Kia Ev4",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

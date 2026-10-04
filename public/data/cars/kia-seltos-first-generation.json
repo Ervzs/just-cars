@@ -1,0 +1,45 @@
+{
+  "id": "kia-seltos-first-generation",
+  "make": "Kia",
+  "model": "Seltos",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg/960px-Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 27,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Seltos"
+  ],
+  "description": "The Kia Seltos is a crossover SUV manufactured by Kia since 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Seltos",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg/1920px-Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "7b57354723d945cd864cda2cf0f5447d",
+    "name": "Kia Seltos SX-TGDI 2021",
+    "author": "Siddharth K",
+    "authorUrl": "https://sketchfab.com/Siddharth2013.",
+    "license": "CC Attribution"
+  }
+}

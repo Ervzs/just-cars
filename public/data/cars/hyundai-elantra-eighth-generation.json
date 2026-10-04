@@ -1,0 +1,49 @@
+{
+  "id": "hyundai-elantra-eighth-generation",
+  "make": "Hyundai",
+  "model": "Elantra",
+  "generation": "Eighth generation",
+  "aka": [
+    "Avante",
+    "Lantra",
+    "Bimantara Nenggala",
+    "Avante Touring",
+    "Elantra LPI",
+    "Avante XD",
+    "Elantra LPI Hybrid",
+    "Elantra LPI HEV"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hyundai_Avante_2.0_Inspiration_CN8_Raptor_Gray_Matte_%2824%29.jpg/960px-Hyundai_Avante_2.0_Inspiration_CN8_Raptor_Gray_Matte_%2824%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 35,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Elantra"
+  ],
+  "description": "The Hyundai Elantra, also known as the Hyundai Avante, is a series of compact cars produced by the South Korean manufacturer Hyundai since 1990.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Elantra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hyundai_Avante_2.0_Inspiration_CN8_Raptor_Gray_Matte_%2824%29.jpg/1920px-Hyundai_Avante_2.0_Inspiration_CN8_Raptor_Gray_Matte_%2824%29.jpg",
+  "sketchfab": {
+    "uid": "22b2e87e2e714f6e8fbc92a0268252b3",
+    "name": "unpacked-hyundai_elantra",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

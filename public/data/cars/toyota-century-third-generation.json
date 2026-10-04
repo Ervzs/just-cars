@@ -1,0 +1,42 @@
+{
+  "id": "toyota-century-third-generation",
+  "make": "Toyota",
+  "model": "Century",
+  "generation": "Third generation",
+  "aka": [
+    "Century Limousine",
+    "Century Royal",
+    "Century SUV",
+    "Century Coupe",
+    "Toyotacentury"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/53/Toyota_Century_SIDE.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Century  is a line of full-size luxury cars and limousines produced mainly for the Japanese market, serving as Toyota's flagship car within Japan. Globally the unrelated Lexus brand houses Toyota's flagship luxury model. Production began in 1967, and the model received only minor changes until redesigns in 1997 and 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Century",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Toyota_Century_SIDE.jpg",
+  "sketchfab": {
+    "uid": "baa50deae0eb424a80ba8d8acd1c230d",
+    "name": "Toyota Century (Mk3) (G60) 2018",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

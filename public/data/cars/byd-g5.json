@@ -1,0 +1,25 @@
+{
+  "id": "byd-g5",
+  "make": "BYD",
+  "model": "G5",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/BYD_G5_IMG01.jpg/960px-BYD_G5_IMG01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD G5 is a compact sedan that was produced by the Chinese automaker BYD from 2014 to 2017. It replaced the BYD G3 car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_G5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/BYD_G5_IMG01.jpg/1920px-BYD_G5_IMG01.jpg",
+  "sketchfab": null
+}

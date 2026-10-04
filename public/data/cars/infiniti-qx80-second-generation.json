@@ -1,0 +1,57 @@
+{
+  "id": "infiniti-qx80-second-generation",
+  "make": "Infiniti",
+  "model": "QX80",
+  "generation": "Second generation",
+  "aka": [
+    "QX56",
+    "QX4",
+    "QX4 SUV"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "5.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Infiniti_QX56_--_04-08-2011.jpg/960px-2011_Infiniti_QX56_--_04-08-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "5.6L 8-cyl",
+    "displacementL": 5.6,
+    "cylinders": 8,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "QX80",
+    "QX56"
+  ],
+  "description": "The Infiniti QX80 is a full-size luxury SUV marketed by Nissan's luxury division Infiniti since the 2004 model year. The first-generation QX56 was built in the United States and is based on the first-generation Armada. The second-generation model was released in 2010 as a model produced in Japan, which used the sixth-generation Patrol as the base vehicle instead. Since the 2014 model year in 2013, the vehicle was renamed to the QX80 as Infiniti renamed their entire product line under a new nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Infiniti_QX56_--_04-08-2011.jpg/1280px-2011_Infiniti_QX56_--_04-08-2011.jpg",
+  "sketchfab": {
+    "uid": "ed9cdb2c7fc04459bd51e316b7928fb5",
+    "name": "2021 Infiniti QX80",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "laferrari",
+  "make": "Ferrari",
+  "model": "LaFerrari",
+  "generation": null,
+  "aka": [
+    "Ferreri f70",
+    "f70",
+    "FXX-K",
+    "LaFerrari Aperta",
+    "F150 LaFerrari"
+  ],
+  "years": [
+    2014,
+    2017
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.3L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/960px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "6.3L 12-cyl",
+    "displacementL": 6.3,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Part-time 4-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LaFerrari"
+  ],
+  "description": "The LaFerrari is a limited production mid-engine, mild hybrid sports car built by Italian automotive manufacturer Ferrari. Its name means \"The Ferrari\" in Italian, as it is intended to be the definitive Ferrari.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/LaFerrari",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/1920px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg",
+  "sketchfab": {
+    "uid": "979f7085012e4d6399f38de3f9c39012",
+    "name": "Ferrari Laferrari | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

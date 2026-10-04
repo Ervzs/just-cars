@@ -1,0 +1,52 @@
+{
+  "id": "cadillac-escalade-fifth-generation",
+  "make": "Cadillac",
+  "model": "Escalade",
+  "generation": "Fifth generation",
+  "aka": [
+    "Escalade EXT",
+    "Escalade ESV",
+    "Escalade Hybrid",
+    "Escalade IQL",
+    "escalade iq",
+    "Escalade v"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "6.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2022_Cadillac_Escalade_ESV_Premium%2C_front_4.7.23.jpg/960px-2022_Cadillac_Escalade_ESV_Premium%2C_front_4.7.23.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "6.2L 8-cyl",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "transmission": "Automatic 10-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Escalade"
+  ],
+  "description": "The Cadillac Escalade is a full-size luxury SUV manufactured by General Motors and marketed by Cadillac as its first major entry into the SUV market. The Escalade was introduced for the 1999 model year in response to an influx of new luxury SUVs during the late 1990s, including the Mercedes-Benz M-Class, Range Rover, Lexus LX, and Lincoln Navigator. The Escalade project went into production only ten months after it was approved. The Escalade is built at Arlington Assembly in Arlington, Texas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Escalade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2022_Cadillac_Escalade_ESV_Premium%2C_front_4.7.23.jpg/1920px-2022_Cadillac_Escalade_ESV_Premium%2C_front_4.7.23.jpg",
+  "sketchfab": {
+    "uid": "54a2bdd83bb048fb8ef5b539c1b82346",
+    "name": "2021 Cadillac Escalade Premium",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

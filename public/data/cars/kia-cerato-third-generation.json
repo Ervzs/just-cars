@@ -1,0 +1,33 @@
+{
+  "id": "kia-cerato-third-generation",
+  "make": "Kia",
+  "model": "Cerato",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2015_Kia_Cerato_%28YD_MY16%29_Si_hatchback_%282018-10-19%29_01.jpg/960px-2015_Kia_Cerato_%28YD_MY16%29_Si_hatchback_%282018-10-19%29_01.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Cerato is a compact car produced by the South Korean manufacturer Kia since 2003. In 2008, the Cerato nameplate was replaced by the Forte nameplate in the North American market and the K3 nameplate in South Korea. However, the \"Cerato\" name remains in use in markets such as Australasia, Middle East and Latin America. It is available in five-door hatchback, two-door coupe and four-door sedan variants. It is not available in Europe, where the similar sized Kia Ceed is offered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cerato",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2015_Kia_Cerato_%28YD_MY16%29_Si_hatchback_%282018-10-19%29_01.jpg/1920px-2015_Kia_Cerato_%28YD_MY16%29_Si_hatchback_%282018-10-19%29_01.jpg",
+  "sketchfab": {
+    "uid": "0bc7438d41914a6ab094b6fb59e3857d",
+    "name": "Kia Cerato 2014",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

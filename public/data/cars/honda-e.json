@@ -1,0 +1,32 @@
+{
+  "id": "honda-e",
+  "make": "Honda",
+  "model": "e",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Honda_e_Advance_%E2%80%93_f_18102020.jpg/960px-Honda_e_Advance_%E2%80%93_f_18102020.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda e is a battery electric car that was manufactured by Japanese automaker Honda and sold in Japan from 2020 to 2024 and in Europe from 2020 to 2023. It is a supermini with a five-door hatchback design and a battery-electric powertrain that drives the rear wheels. The vehicle is styled with a retro look reminiscent of the first-generation Civic. It was previewed by the 2017 Urban EV Concept with the production version first shown publicly in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_e",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Honda_e_Advance_%E2%80%93_f_18102020.jpg/1920px-Honda_e_Advance_%E2%80%93_f_18102020.jpg",
+  "sketchfab": {
+    "uid": "814cf3f8cfd64594b1c4f96e873c3cef",
+    "name": "FREE // Honda E (Detailed Interior) 2021",
+    "author": "Alex Murias",
+    "authorUrl": "https://sketchfab.com/Xlay3D",
+    "license": "CC Attribution"
+  }
+}

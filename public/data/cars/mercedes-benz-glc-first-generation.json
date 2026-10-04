@@ -1,0 +1,45 @@
+{
+  "id": "mercedes-benz-glc-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "GLC",
+  "generation": "First generation",
+  "aka": [
+    "Mercedes GLC",
+    "GLC 350 e",
+    "GLC F-CELL",
+    "GLC-Class"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2018_Mercedes-Benz_GLC_250d_4MATIC_AMG_Line_Premium_Automatic_2.1_Front.jpg/960px-2018_Mercedes-Benz_GLC_250d_4MATIC_AMG_Line_Premium_Automatic_2.1_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GLC-Class"
+  ],
+  "description": "The Mercedes-Benz GLC is a compact luxury crossover SUV introduced in 2015 for the 2016 model year that replaced the GLK-Class. According to Mercedes-Benz, it is the SUV equivalent to the C-Class.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2018_Mercedes-Benz_GLC_250d_4MATIC_AMG_Line_Premium_Automatic_2.1_Front.jpg/1920px-2018_Mercedes-Benz_GLC_250d_4MATIC_AMG_Line_Premium_Automatic_2.1_Front.jpg",
+  "sketchfab": null
+}

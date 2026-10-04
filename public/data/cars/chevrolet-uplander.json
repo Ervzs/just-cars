@@ -2,6 +2,11 @@
   "id": "chevrolet-uplander",
   "make": "Chevrolet",
   "model": "Uplander",
+  "generation": null,
+  "aka": [
+    "Chevy uplander",
+    "Up landers"
+  ],
   "years": [
     2005,
     2006,
@@ -25,6 +30,9 @@
     "mpgCombined": 19,
     "evRangeMiles": null
   },
+  "variants": [
+    "Uplander"
+  ],
   "description": "The Chevrolet Uplander is a minivan manufactured and marketed by the Chevrolet division of General Motors for model years of 2005–2009, replacing the Venture and the Astro. Marketed over a single generation, the Uplander was offered in short and long wheelbase variations — each with foldable and removable second and third row seating; a V-6 engine and 4-speed automatic transmission.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Uplander",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chevrolet_Uplander_LWB.jpg/1920px-Chevrolet_Uplander_LWB.jpg",

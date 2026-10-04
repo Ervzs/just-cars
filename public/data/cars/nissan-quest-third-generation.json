@@ -1,0 +1,48 @@
+{
+  "id": "nissan-quest-third-generation",
+  "make": "Nissan",
+  "model": "Quest",
+  "generation": "Third generation",
+  "aka": [
+    "Forum"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/3rd-Nissan-Quest.jpg/960px-3rd-Nissan-Quest.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Quest"
+  ],
+  "description": "The Nissan Quest is a minivan that was marketed by Nissan from the 1993 to 2017 model years. The successor for the Japanese-designed Nissan Van and Nissan Axxess, the Quest was the first Japanese-brand minivan developed specifically for the North American market. In a joint venture with Ford Motor Company, the Quest was manufactured alongside the Mercury Villager",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Quest",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/3rd-Nissan-Quest.jpg/960px-3rd-Nissan-Quest.jpg",
+  "sketchfab": {
+    "uid": "b88a273601e44417b764419dae3256cb",
+    "name": "2008 Nissan Quest",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

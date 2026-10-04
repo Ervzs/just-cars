@@ -1,0 +1,42 @@
+{
+  "id": "nissan-elgrand-third-generation",
+  "make": "Nissan",
+  "model": "Elgrand",
+  "generation": "Third generation",
+  "aka": [
+    "Isuzu Filly",
+    "Isuzu Fargo Filly",
+    "Caravan Elgrand",
+    "Hyper Tourer"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2010-2013_Nissan_Elgrand_%28TE52%29_Highway_Star_van_%282018-09-28%29_02.jpg/960px-2010-2013_Nissan_Elgrand_%28TE52%29_Highway_Star_van_%282018-09-28%29_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Elgrand  is a minivan manufactured by Nissan Shatai for Nissan since 1997, available in fourth generations, with model codes E50 (1997–2002), E51 (2002–2010), E52 (2010–2026), and E53 (2026–present). The E50 Elgrand was also configured and produced as a light commercial vehicle from 1998 to 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Elgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2010-2013_Nissan_Elgrand_%28TE52%29_Highway_Star_van_%282018-09-28%29_02.jpg/1920px-2010-2013_Nissan_Elgrand_%28TE52%29_Highway_Star_van_%282018-09-28%29_02.jpg",
+  "sketchfab": null
+}

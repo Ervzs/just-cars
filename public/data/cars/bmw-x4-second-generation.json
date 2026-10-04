@@ -1,0 +1,51 @@
+{
+  "id": "bmw-x4-second-generation",
+  "make": "BMW",
+  "model": "X4",
+  "generation": "Second generation",
+  "aka": [
+    "X4 Concept",
+    "Alpina XD4"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/BMW_X4_G02_Shishi_02_2022-04-23.jpg/960px-BMW_X4_G02_Shishi_02_2022-04-23.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X4"
+  ],
+  "description": "The BMW X4 is a compact luxury crossover SUV manufactured by BMW from 2014 to 2025. It is marketed as a sports activity coupé (SAC), the second model from BMW marketed as such after the X6, and features styling elements and the roofline of a traditional two-door coupé. The X4 is widely considered as a \"coupé\" version of the X3, trading its practicality with a sloping rear roof which offers a sportier styling. BMW has indicated 2025 will be the X4's final model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/BMW_X4_G02_Shishi_02_2022-04-23.jpg/1920px-BMW_X4_G02_Shishi_02_2022-04-23.jpg",
+  "sketchfab": {
+    "uid": "bc3e714e021b44f4844ddf847288e99a",
+    "name": "2020 BMW X4",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

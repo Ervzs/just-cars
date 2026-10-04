@@ -1,0 +1,36 @@
+{
+  "id": "toyota-auris-first-generation",
+  "make": "Scion",
+  "model": "Toyota Auris",
+  "generation": "First generation",
+  "aka": [
+    "Toyota Blade",
+    "Toyota Auris HSD",
+    "Toyota Auris Hybrid",
+    "Toyota Auris HSD Full Hybrid Concept",
+    "Toyota Auris S2000",
+    "iM",
+    "Toyota iM",
+    "Toyota Corolla iM"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2007_Toyota_Corolla_%28ZRE152R%29_Conquest_Seca_5-door_hatchback_%282015-07-03%29_01_%28cropped%29.jpg/960px-2007_Toyota_Corolla_%28ZRE152R%29_Conquest_Seca_5-door_hatchback_%282015-07-03%29_01_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Auris  is a compact car derived from the Corolla, manufactured and sold by Toyota. Introduced in 2006, the first generation three/five-door hatchback shared the platform with the E150 series Corolla, while the second generation five-door hatchback and estate car called \"Touring Sports\" uses the E180 platform. The \"Auris\" name is based on the Latin word for \"gold\", \"aurum\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Auris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2007_Toyota_Corolla_%28ZRE152R%29_Conquest_Seca_5-door_hatchback_%282015-07-03%29_01_%28cropped%29.jpg/1920px-2007_Toyota_Corolla_%28ZRE152R%29_Conquest_Seca_5-door_hatchback_%282015-07-03%29_01_%28cropped%29.jpg",
+  "sketchfab": null
+}

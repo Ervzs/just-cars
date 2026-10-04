@@ -1,0 +1,48 @@
+{
+  "id": "toyota-rav4-fourth-generation",
+  "make": "Toyota",
+  "model": "RAV4",
+  "generation": "Fourth generation",
+  "aka": [
+    "Vanguard",
+    "RAV4 Premium",
+    "RAV4 Adventure",
+    "RAV4 Hybrid",
+    "Rav",
+    "RAV4 Prime",
+    "Mitsuoka Buddy",
+    "Wildlander"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2015_Toyota_Rav4_LE_in_Barcelona_Red_Metallic%2C_Front_Left%2C_10-08-2022.jpg/960px-2015_Toyota_Rav4_LE_in_Barcelona_Red_Metallic%2C_Front_Left%2C_10-08-2022.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RAV4"
+  ],
+  "description": "The Toyota RAV4  is a compact crossover SUV produced by the Japanese automobile manufacturer Toyota. Having sold over 15 million units worldwide as of 2025, the RAV4 is the best-selling SUV of all time.\nThe car is credited with popularizing compact crossover automobiles, often credited as the first modern compact crossover SUV. In February 2025, the RAV4 replaced the Ford F-150 as the best-selling car in the United States, after nearly four decades of the latter's reign.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2015_Toyota_Rav4_LE_in_Barcelona_Red_Metallic%2C_Front_Left%2C_10-08-2022.jpg/1920px-2015_Toyota_Rav4_LE_in_Barcelona_Red_Metallic%2C_Front_Left%2C_10-08-2022.jpg",
+  "sketchfab": null
+}

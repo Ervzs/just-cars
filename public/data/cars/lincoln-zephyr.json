@@ -2,6 +2,8 @@
   "id": "lincoln-zephyr",
   "make": "Lincoln",
   "model": "Zephyr",
+  "generation": null,
+  "aka": [],
   "years": [
     2006
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Zephyr"
+  ],
   "description": "Lincoln Zephyr is a name used on various different Lincoln vehicles.Lincoln-Zephyr, a 1936–1942 line of mid-size luxury cars\nLincoln MKZ, a 2006–2020 mid-size sedan sold as the Zephyr for 2006\nLincoln Zephyr, a 2022–present mid-size sedan built by Changan Ford, known in Chinese as the 'Z'",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Zephyr",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lincoln_Zephyr_1939.jpg/1920px-Lincoln_Zephyr_1939.jpg",

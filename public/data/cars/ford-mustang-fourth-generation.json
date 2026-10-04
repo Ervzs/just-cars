@@ -1,0 +1,53 @@
+{
+  "id": "ford-mustang-fourth-generation",
+  "make": "Ford",
+  "model": "Mustang",
+  "generation": "Fourth generation",
+  "aka": [
+    "Mustang GT",
+    "S-197",
+    "Mustang GT Coupe",
+    "Mustang GT Convertible",
+    "1972 Ford Mustang",
+    "Ronaele Mustang",
+    "Ronaele",
+    "Mustang SVT Cobra R"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/94-98_Ford_Mustang_coupe.jpg/960px-94-98_Ford_Mustang_coupe.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mustang"
+  ],
+  "description": "The Ford Mustang is an American automobile manufactured and marketed by Ford since 1964, as Ford's longest nameplate in continuous production. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate. The namesake of the \"pony car\" automobile segment, the Mustang was developed as a highly styled line of sporty coupes and convertibles derived from existing model lines, initially distinguished by its pronounced \"long hood, short deck\" proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Mustang",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/94-98_Ford_Mustang_coupe.jpg/1280px-94-98_Ford_Mustang_coupe.jpg",
+  "sketchfab": null
+}

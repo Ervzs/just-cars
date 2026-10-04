@@ -1,0 +1,44 @@
+{
+  "id": "byd-song",
+  "make": "BYD",
+  "model": "Song",
+  "generation": null,
+  "aka": [
+    "Song PHEV",
+    "Song EV300",
+    "S3",
+    "Seal U DM-i"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2020_BYD_Song_Plus_DM-i.jpg/960px-2020_BYD_Song_Plus_DM-i.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Song is a series of compact SUVs produced by BYD Auto since 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Song",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2020_BYD_Song_Plus_DM-i.jpg/1920px-2020_BYD_Song_Plus_DM-i.jpg",
+  "sketchfab": {
+    "uid": "dbc8a20d557042c5be32dd60bf470ae1",
+    "name": "2022 BYD Song Plus EV",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

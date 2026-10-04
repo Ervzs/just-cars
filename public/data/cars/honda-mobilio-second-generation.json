@@ -1,0 +1,42 @@
+{
+  "id": "honda-mobilio-second-generation",
+  "make": "Honda",
+  "model": "Mobilio",
+  "generation": "Second generation",
+  "aka": [
+    "Mobilio Spike"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2018_Honda_Mobilio_1.5_E_DD4_%28190316%29.jpg/960px-2018_Honda_Mobilio_1.5_E_DD4_%28190316%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda Mobilio  is a seven-seat mini MPV produced by the Japanese automaker Honda. The first-generation Mobilio that was produced from 2001 to 2008 and sold exclusively in Japan. It was the second model in Honda's \"Small Max\" series and also took Honda's Global Small Platform and their i-DSI engine. In May 2008, the Freed was introduced, replacing the first-generation model. The second-generation Mobilio, which is based on the Brio, was introduced in September 2013 and went on sale in January 2014 for several emerging markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Mobilio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2018_Honda_Mobilio_1.5_E_DD4_%28190316%29.jpg/1920px-2018_Honda_Mobilio_1.5_E_DD4_%28190316%29.jpg",
+  "sketchfab": {
+    "uid": "0fe37a6d26f34767860d3063fab993c2",
+    "name": "2023 Honda Mobilio E Widebody",
+    "author": "lionardivince",
+    "authorUrl": "https://sketchfab.com/lionardivince",
+    "license": "CC Attribution"
+  }
+}

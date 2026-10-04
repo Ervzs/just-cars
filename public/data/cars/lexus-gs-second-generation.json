@@ -1,0 +1,56 @@
+{
+  "id": "lexus-gs-second-generation",
+  "make": "Lexus",
+  "model": "GS",
+  "generation": "Second generation",
+  "aka": [
+    "Toyota Aristo",
+    "GS 450h",
+    "GS430",
+    "The Lexus GS 430h",
+    "GS 350",
+    "GS Hybrid",
+    "GS 300h",
+    "GS 200t"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/1999_Toyota_Aristo_V300_Vertex_Edition_3.0_Front.jpg/960px-1999_Toyota_Aristo_V300_Vertex_Edition_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "GS"
+  ],
+  "description": "The Lexus GS  is an executive car manufactured by Toyota and marketed by Lexus across four generations — launched in 1991 as the Toyota Aristo  in Japan and as the Lexus GS for markets outside the Japanese market beginning in February 1993. It continued with the Toyota Aristo name for the Japanese market until January 2005, following the introduction of the Lexus marque in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_GS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/1999_Toyota_Aristo_V300_Vertex_Edition_3.0_Front.jpg/1920px-1999_Toyota_Aristo_V300_Vertex_Edition_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "a9f5713e8a4349458085b96d9fea4000",
+    "name": "2004 Lexus GS 430",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

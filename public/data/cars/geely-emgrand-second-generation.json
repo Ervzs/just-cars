@@ -1,0 +1,29 @@
+{
+  "id": "geely-emgrand-second-generation",
+  "make": "Geely",
+  "model": "Emgrand",
+  "generation": "Second generation",
+  "aka": [
+    "Emgrand EC7",
+    "EC7",
+    "Emgrand EC7-RV"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Emgrand_EC7-RV_facelift_01_Auto_China_2014-04-23.jpg/960px-Emgrand_EC7-RV_facelift_01_Auto_China_2014-04-23.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Emgrand, originally the Emgrand EC7, is a car produced by Chinese automaker Geely Auto. After the discontinuation of the Emgrand brand, the EC7 was renamed to the Geely Emgrand in 2014.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_Emgrand",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Emgrand_EC7-RV_facelift_01_Auto_China_2014-04-23.jpg/1280px-Emgrand_EC7-RV_facelift_01_Auto_China_2014-04-23.jpg",
+  "sketchfab": null
+}

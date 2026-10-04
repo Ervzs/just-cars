@@ -1,0 +1,41 @@
+{
+  "id": "kia-picanto-first-generation",
+  "make": "Kia",
+  "model": "Picanto",
+  "generation": "First generation",
+  "aka": [
+    "Morning",
+    "EuroStar",
+    "Naza Suria",
+    "New Morning",
+    "Naza Picanto"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2009_Kia_Picanto_Strike_1.1_Front.jpg/960px-2009_Kia_Picanto_Strike_1.1_Front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Kia Picanto is a city car that has been produced by the South Korean car manufacturer, Kia, since 2003. Other names of the car include Kia Morning in South Korea, Hong Kong, Taiwan and Chile, Kia EuroStar in Taiwan, Kia New Morning in Vietnam and the Naza Suria or Naza Picanto in Malaysia. The Picanto is primarily manufactured at the Donghee joint-venture plant in Seosan, South Korea, though some countries locally assemble complete knock-down versions of the car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Picanto",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2009_Kia_Picanto_Strike_1.1_Front.jpg/1920px-2009_Kia_Picanto_Strike_1.1_Front.jpg",
+  "sketchfab": {
+    "uid": "b3c8e76124c641e9ba30015a14929218",
+    "name": "Kia Picanto MK1 2003-2011",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

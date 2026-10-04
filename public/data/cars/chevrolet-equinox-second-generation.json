@@ -1,0 +1,52 @@
+{
+  "id": "chevrolet-equinox-second-generation",
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "generation": "Second generation",
+  "aka": [
+    "Chevy Equinox",
+    "Equinox Fuel Cell",
+    "Equinox 2018",
+    "Holden Equinox"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2011_Chevrolet_Equinox_LTZ_--_03-09-2011.jpg/960px-2011_Chevrolet_Equinox_LTZ_--_03-09-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Equinox"
+  ],
+  "description": "The Chevrolet Equinox is a crossover SUV introduced by Chevrolet in 2004 for the 2005 model year. It was intended to replace the North American Chevrolet Tracker and Chevrolet S-10 Blazer. The third-generation Equinox also replaced the first-generation Chevrolet Captiva.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Equinox",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2011_Chevrolet_Equinox_LTZ_--_03-09-2011.jpg/1920px-2011_Chevrolet_Equinox_LTZ_--_03-09-2011.jpg",
+  "sketchfab": {
+    "uid": "9065adb2dcd44424b08e59cfba90c62d",
+    "name": "2014 Chevrolet Equinox",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

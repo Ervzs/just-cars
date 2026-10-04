@@ -2,6 +2,8 @@
   "id": "chrysler-crossfire",
   "make": "Chrysler",
   "model": "Crossfire",
+  "generation": null,
+  "aka": [],
   "years": [
     2004,
     2005,
@@ -26,6 +28,9 @@
     "mpgCombined": 21,
     "evRangeMiles": null
   },
+  "variants": [
+    "Crossfire"
+  ],
   "description": "The Chrysler Crossfire is a rear-wheel drive, two-seat sports car, marketed by Chrysler and manufactured in Germany by Karmann across the 2004 to 2008 model years.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Crossfire",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2004_Chrysler_Crossfire_3.2.jpg/1920px-2004_Chrysler_Crossfire_3.2.jpg",

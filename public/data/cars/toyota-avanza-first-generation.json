@@ -1,0 +1,44 @@
+{
+  "id": "toyota-avanza-first-generation",
+  "make": "Toyota",
+  "model": "Avanza",
+  "generation": "First generation",
+  "aka": [
+    "Daihatsu Xenia",
+    "FAW Senya M80",
+    "FAW Senya S80",
+    "Veloz",
+    "Transmover",
+    "Avanza Veloz",
+    "Senya S80",
+    "Senya M80"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2007_Toyota_Avanza_1.3_G_wagon_%28F601RM%3B_01-19-2019%29%2C_South_Tangerang.jpg/960px-2007_Toyota_Avanza_1.3_G_wagon_%28F601RM%3B_01-19-2019%29%2C_South_Tangerang.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Avanza and Daihatsu Xenia are a series of multi-purpose vehicles (MPV) developed by Daihatsu and marketed by both Toyota and Daihatsu, mainly sold with three-row seating. The Avanza and Xenia were developed as an entry-level MPV marketed mainly for the Indonesian and other emerging markets, and mainly produced in Indonesia by Astra Daihatsu Motor. Avanza's spiritual predecessor was the Kijang, whose model program has since been split into two different models to expand Toyota's reach in the MPV sector.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Avanza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2007_Toyota_Avanza_1.3_G_wagon_%28F601RM%3B_01-19-2019%29%2C_South_Tangerang.jpg/1920px-2007_Toyota_Avanza_1.3_G_wagon_%28F601RM%3B_01-19-2019%29%2C_South_Tangerang.jpg",
+  "sketchfab": {
+    "uid": "3c74a99f026c431685fae9925e52ed0d",
+    "name": "Toyota Avanza 2005",
+    "author": "JhonyMan",
+    "authorUrl": "https://sketchfab.com/nazarabdi2022",
+    "license": "CC Attribution"
+  }
+}

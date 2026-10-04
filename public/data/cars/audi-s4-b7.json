@@ -1,0 +1,46 @@
+{
+  "id": "audi-s4-b7",
+  "make": "Audi",
+  "model": "S4",
+  "generation": "B7",
+  "aka": [
+    "\"S4 25quattro\"",
+    "100 S4"
+  ],
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/AudiS4_B7_Avant_front.jpg/960px-AudiS4_B7_Avant_front.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 19,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S4"
+  ],
+  "description": "The Audi S4 is the high performance variant of Audi's compact executive car A4. The original Audi S4, built from 1991 until 1994, was a performance-oriented version of Audi's 100 saloon/sedan. All subsequent S4s, beginning with the \"B5\" platform car in 1997, have been based on the Audi A4; and as the A4 has evolved from one generation to the next, so has the S4. Audi's platform generation names, beginning with \"B5\" in 1997, are used throughout to distinguish between generations/evolutions of these products.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/AudiS4_B7_Avant_front.jpg/960px-AudiS4_B7_Avant_front.jpg",
+  "sketchfab": {
+    "uid": "610562e80aa24ac78fbf26206d3dfb57",
+    "name": "2006 Audi S4",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

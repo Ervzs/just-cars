@@ -1,0 +1,27 @@
+{
+  "id": "nissan-presea-r11",
+  "make": "Nissan",
+  "model": "Presea",
+  "generation": "R11",
+  "aka": [],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Presea_1995.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Presea  is a compact car, produced for the Asian market from 1990 to 2000. It competed with the entry-level luxury 4-door hardtop sedans that were popular in Japan during the 1990s, notably the Toyota Corolla Ceres, the Toyota Sprinter Marino, the Honda Integra, and the Mazda Lantis.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Presea",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Presea_1995.jpg",
+  "sketchfab": null
+}

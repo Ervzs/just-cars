@@ -1,0 +1,59 @@
+{
+  "id": "mitsubishi-mirage-fifth-generation",
+  "make": "Mitsubishi",
+  "model": "Mirage",
+  "generation": "Fifth generation",
+  "aka": [
+    "Libero",
+    "Mirage Cyborg",
+    "Libero EV",
+    "Fiore",
+    "Champ",
+    "Signo",
+    "Lancer Fiore",
+    "Attrage"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitsubishi_Colt_%28CE%29_%28cropped%29.jpg/960px-Mitsubishi_Colt_%28CE%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mirage"
+  ],
+  "description": "The Mitsubishi Mirage is a range of cars produced by the Japanese manufacturer Mitsubishi from 1978 until 2003 and again since 2012. The hatchback models produced between 1978 and 2003 were classified as subcompact cars, while the sedan and station wagon models, marketed prominently as the Mitsubishi Lancer, were the compact offerings. The liftback introduced in 1988 complemented the sedan as an additional compact offering, and the coupé of 1991 fitted in with the subcompact range. The current Mirage model is a subcompact hatchback and sedan and it replaces the Mitsubishi Colt sold between 2002 and 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Mirage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitsubishi_Colt_%28CE%29_%28cropped%29.jpg/1920px-Mitsubishi_Colt_%28CE%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

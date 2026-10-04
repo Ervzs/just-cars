@@ -1,0 +1,43 @@
+{
+  "id": "bmw-x5-first-generation",
+  "make": "BMW",
+  "model": "X5",
+  "generation": "First generation",
+  "aka": [
+    "X5 M",
+    "BMX X5"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2002_BMW_X5_Sport_Automatic_4.4_Front.jpg/960px-2002_BMW_X5_Sport_Automatic_4.4_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "X5"
+  ],
+  "description": "The BMW X5 is a mid-size luxury crossover SUV produced by BMW. The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV. At launch, it featured all-wheel drive and was available with either a manual or automatic gearbox. The second generation was launched in 2006, and was known internally as the E70. The E70 featured the torque-split capable xDrive all-wheel drive system mated to an automatic gearbox. In 2009, the X5 M performance variant was released as a 2010 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2002_BMW_X5_Sport_Automatic_4.4_Front.jpg/1920px-2002_BMW_X5_Sport_Automatic_4.4_Front.jpg",
+  "sketchfab": null
+}

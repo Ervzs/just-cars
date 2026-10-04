@@ -1,0 +1,50 @@
+{
+  "id": "toyota-rav4-sixth-generation",
+  "make": "Toyota",
+  "model": "RAV4",
+  "generation": "Sixth generation",
+  "aka": [
+    "Vanguard",
+    "RAV4 Premium",
+    "RAV4 Adventure",
+    "RAV4 Hybrid",
+    "Rav",
+    "RAV4 Prime",
+    "Mitsuoka Buddy",
+    "Wildlander"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Toyota_RAV4_Core_Plug-in_Hybrid_%28XA60%29_Auto_Zuerich_2025_DSC_3403.jpg/960px-Toyota_RAV4_Core_Plug-in_Hybrid_%28XA60%29_Auto_Zuerich_2025_DSC_3403.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 43,
+    "mpgHighway": 37,
+    "mpgCombined": 41,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RAV4"
+  ],
+  "description": "The Toyota RAV4  is a compact crossover SUV produced by the Japanese automobile manufacturer Toyota. Having sold over 15 million units worldwide as of 2025, the RAV4 is the best-selling SUV of all time.\nThe car is credited with popularizing compact crossover automobiles, often credited as the first modern compact crossover SUV. In February 2025, the RAV4 replaced the Ford F-150 as the best-selling car in the United States, after nearly four decades of the latter's reign.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Toyota_RAV4_Core_Plug-in_Hybrid_%28XA60%29_Auto_Zuerich_2025_DSC_3403.jpg/1920px-Toyota_RAV4_Core_Plug-in_Hybrid_%28XA60%29_Auto_Zuerich_2025_DSC_3403.jpg",
+  "sketchfab": {
+    "uid": "3db45bf3669a42b1b761af9cdb447300",
+    "name": "2023_toyota_rav4_hybrid",
+    "author": "007",
+    "authorUrl": "https://sketchfab.com/tangwang920",
+    "license": "CC Attribution"
+  }
+}

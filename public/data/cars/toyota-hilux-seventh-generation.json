@@ -1,0 +1,47 @@
+{
+  "id": "toyota-hilux-seventh-generation",
+  "make": "Toyota",
+  "model": "Hilux",
+  "generation": "Seventh generation",
+  "aka": [
+    "Hilux platform",
+    "Pickup",
+    "pickup trucks",
+    "Truck",
+    "Truck Maintenance",
+    "Truck Maintainence",
+    "Highlux",
+    "Hiluxes"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2006_Toyota_Hilux_%28GGN25R_MY05%29_SR5_4-door_utility_%282011-04-22%29.jpg/960px-2006_Toyota_Hilux_%28GGN25R_MY05%29_SR5_4-door_utility_%282011-04-22%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Hilux, stylised as HiLux and historically as Hi-Lux, is a series of pickup trucks produced and marketed by the Japanese automobile manufacturer Toyota. The majority of these vehicles are sold as a pickup truck or cab chassis, although they could be configured in a variety of body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Hilux",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2006_Toyota_Hilux_%28GGN25R_MY05%29_SR5_4-door_utility_%282011-04-22%29.jpg/1920px-2006_Toyota_Hilux_%28GGN25R_MY05%29_SR5_4-door_utility_%282011-04-22%29.jpg",
+  "sketchfab": {
+    "uid": "df56087572a44b0496e39006859ae3b9",
+    "name": "2005 Toyota Hilux Double Cab",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

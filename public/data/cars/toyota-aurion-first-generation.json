@@ -1,0 +1,35 @@
+{
+  "id": "toyota-aurion-first-generation",
+  "make": "Toyota",
+  "model": "Aurion",
+  "generation": "First generation",
+  "aka": [
+    "Specification levels of the Toyota Aurion",
+    "Aurions",
+    "TRD Aurions",
+    "Racing Development Aurion",
+    "Racing Development Aurions",
+    "Aurion AT-X",
+    "Touring SE",
+    "Aurion Touring SE"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg/960px-2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Aurion is a mid-size car produced by Toyota in Australia and parts of Asia from 2006 to 2017. In the two generations it was produced, the Aurion was derived from the equivalent Camry. Changes were mainly limited to revised front- and rear-end treatment, along with changes to the interior. The Camry-based Aurion was also sold in the majority of East and Southeast Asia as the Toyota Camry, with the original version of the Camry sold alongside the Aurion in Australasia and the Middle East. In the previous two markets, the car replaced the Avalon model, which can trace its roots back to the early 1990s. A total of 111,140 Aurions were sold over the 10 year Australian production span.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Aurion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg/1920px-2007_Toyota_Aurion_Prodigy_06_%28edit_5%29.jpg",
+  "sketchfab": null
+}

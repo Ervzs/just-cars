@@ -2,6 +2,14 @@
   "id": "subaru-tribeca",
   "make": "Subaru",
   "model": "Tribeca",
+  "generation": null,
+  "aka": [
+    "Saab 9-6",
+    "B9X",
+    "Saab 9-6X",
+    "B9",
+    "B9 Tribeca"
+  ],
   "years": [
     2006,
     2007,
@@ -30,6 +38,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "Tribeca"
+  ],
   "description": "The Subaru Tribeca is a mid-size crossover SUV manufactured and marketed by Subaru for model years 2005-2014. Released in some markets, including Canada, as the Subaru B9 Tribeca, the name derived from the Tribeca neighborhood of New York City. Built on the Subaru Legacy platform and sold in five- and seven-seat configurations, the Tribeca was intended to be sold alongside a slightly revised version known as the Saab 9-6X. Saab, at the time a subsidiary of General Motors (GM), abandoned the 9-6X program just prior to its release subsequent to GM's 2005 divestiture of its 20 percent stake in FHI.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Tribeca",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006-2007_Subaru_Tribeca_%28B9_MY07%29_R_Premium_Pack_wagon_%282011-11-17%29.jpg/1920px-2006-2007_Subaru_Tribeca_%28B9_MY07%29_R_Premium_Pack_wagon_%282011-11-17%29.jpg",

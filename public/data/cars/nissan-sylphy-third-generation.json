@@ -1,0 +1,37 @@
+{
+  "id": "nissan-sylphy-third-generation",
+  "make": "Nissan",
+  "model": "Sylphy",
+  "generation": "Third generation",
+  "aka": [
+    "Bluebird Sylphy",
+    "Dongfeng E11K"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2012-2015_Nissan_Sylphy_%28B17%29_1.8_Premium_sedan_%282017-11-28%29.jpg/960px-2012-2015_Nissan_Sylphy_%28B17%29_1.8_Premium_sedan_%282017-11-28%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Sylphy  is a compact car produced by the Japanese car maker Nissan since 2000 as the successor to the Nissan Pulsar. The Sylphy has also been marketed in export markets under several other nameplates, including Pulsar, Almera, Sunny and Sentra. For the third-generation model (B17) introduced in 2012, the Sylphy model was merged with the B17 Sentra, meaning it is no longer a standalone model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Sylphy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2012-2015_Nissan_Sylphy_%28B17%29_1.8_Premium_sedan_%282017-11-28%29.jpg/1920px-2012-2015_Nissan_Sylphy_%28B17%29_1.8_Premium_sedan_%282017-11-28%29.jpg",
+  "sketchfab": {
+    "uid": "593973027771487fb2f1f41d2933c688",
+    "name": "2018 Nissan Sylphy EV Zero Emission",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

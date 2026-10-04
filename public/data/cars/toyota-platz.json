@@ -1,0 +1,31 @@
+{
+  "id": "toyota-platz",
+  "make": "Toyota",
+  "model": "Platz",
+  "generation": null,
+  "aka": [
+    "Xiali Vela",
+    "FAW Vela"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toyota-Echo-sedan.jpg/960px-Toyota-Echo-sedan.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Platz  is a subcompact car that was manufactured in Japan by Toyota from 1999 until 2005, when it was replaced by the Belta. Designated by Toyota as the XP10 series, the Platz was also sold in export markets as either the Toyota Yaris or Toyota Echo. The \"Yaris\" and \"Echo\" names were also given to the export version of the related Japanese market Vitz hatchback, from which the Platz derives. In Japan, it was available at the Toyopet Store and the Netz Toyota Store dealerships.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Platz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toyota-Echo-sedan.jpg/960px-Toyota-Echo-sedan.jpg",
+  "sketchfab": null
+}

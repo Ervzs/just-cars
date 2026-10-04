@@ -2,6 +2,17 @@
   "id": "lamborghini-diablo",
   "make": "Lamborghini",
   "model": "Diablo",
+  "generation": null,
+  "aka": [
+    "Diablo VT 6.0",
+    "Diablo SV",
+    "Diablo VT",
+    "Diablo GT",
+    "Diablo Gran Turismo",
+    "Lambo GT",
+    "Lambo Gran Turismo",
+    "Diablo 6.0 GT"
+  ],
   "years": [
     2001
   ],
@@ -22,6 +33,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "Diablo"
+  ],
   "description": "The Lamborghini Diablo, is a series of high-performance V12, longitudinal, mid-engined sports cars in the supercar market segment, built by Italian automobile manufacturer Lamborghini from 1990 through 2001. It is the first production Lamborghini with a top speed in excess of 200 mph (322 km/h).",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Diablo",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/1920px-1995_Lamborghini_Diablo_SE_30.jpg",

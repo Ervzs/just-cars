@@ -1,0 +1,36 @@
+{
+  "id": "toyota-chaser-sixth-generation",
+  "make": "Toyota",
+  "model": "Chaser",
+  "generation": "Sixth generation",
+  "aka": [
+    "JZX90",
+    "JZX100"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Toyota_chaser_gx100_2.0avanteloadly_1_f.jpg/960px-Toyota_chaser_gx100_2.0avanteloadly_1_f.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Chaser  is a mid-size car produced by Toyota. In the beginning, Chasers were four-door sedans and hardtop sedans; a two-door coupé was available only for the first generation. It was introduced on the Toyota Mark II (X30) platform and was only available at Japanese Toyota Auto Store dealerships as their top-level model. The Chaser was produced for six generations; production ceased in 2001 when both it and the Cresta were replaced by the short-lived Verossa.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Chaser",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Toyota_chaser_gx100_2.0avanteloadly_1_f.jpg/1280px-Toyota_chaser_gx100_2.0avanteloadly_1_f.jpg",
+  "sketchfab": {
+    "uid": "7e856b85c32a40bea7a88b5852ded4a9",
+    "name": "Toyota Chaser",
+    "author": "Blue3D",
+    "authorUrl": "https://sketchfab.com/Blueberry12",
+    "license": "CC Attribution"
+  }
+}

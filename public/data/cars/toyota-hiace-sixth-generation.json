@@ -1,0 +1,44 @@
+{
+  "id": "toyota-hiace-sixth-generation",
+  "make": "Toyota",
+  "model": "HiAce",
+  "generation": "Sixth generation",
+  "aka": [
+    "Grandia",
+    "RegiusAce",
+    "Regius",
+    "Hiace Commercial Camper",
+    "Grand HiAce",
+    "Quantum",
+    "Ses'fikile",
+    "Gonow GA6530"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2019_Toyota_Granvia_Premium_%28front%29.jpg/960px-2019_Toyota_Granvia_Premium_%28front%29.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota HiAce  is a light commercial vehicle produced by the Japanese automobile manufacturer Toyota. First launched in October 1967, the HiAce has since been available in a wide range of body configurations, including a minivan/MPV, minibus, panel van, crew van, pickup truck, taxi and an ambulance.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_HiAce",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2019_Toyota_Granvia_Premium_%28front%29.jpg/1920px-2019_Toyota_Granvia_Premium_%28front%29.jpg",
+  "sketchfab": {
+    "uid": "87f3fefe19904a8293a8a65c7560e74a",
+    "name": "radio toyota hiace",
+    "author": "HR2our",
+    "authorUrl": "https://sketchfab.com/toyotahiacemodels",
+    "license": "CC Attribution"
+  }
+}

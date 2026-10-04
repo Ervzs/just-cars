@@ -1,0 +1,55 @@
+{
+  "id": "mercedes-benz-s-class-fourth-generation",
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "generation": "Fourth generation",
+  "aka": [
+    "SEL",
+    "Mercedes S-Class",
+    "Mercedes s",
+    "Mercedes S500",
+    "S500",
+    "Mercedes S600",
+    "S600",
+    "Mercedes S430"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercedes-Benz_S430_W220.jpg/960px-Mercedes-Benz_S430_W220.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.3L 8-cyl",
+    "displacementL": 4.3,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S-Class"
+  ],
+  "description": "The Mercedes-Benz S-Class, formerly known as \"special class\", is a series of full-sized luxury sedans and coupés produced by the German automaker Mercedes-Benz. The S-Class is the designation for top-of-the-line Mercedes-Benz models and was officially introduced in 1972 with the W116, and has remained in use ever since. The S-Class is the flagship vehicle for Mercedes-Benz, being positioned above the other Mercedes-Benz models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_S-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mercedes-Benz_S430_W220.jpg/1920px-Mercedes-Benz_S430_W220.jpg",
+  "sketchfab": {
+    "uid": "1d2494ea90434de984b9dc677461af5a",
+    "name": "Mercedes- Benz S-class 2003",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

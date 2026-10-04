@@ -1,0 +1,47 @@
+{
+  "id": "honda-civic-seventh-generation",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "Seventh generation",
+  "aka": [
+    "Civic Hybrid",
+    "Civic Ima",
+    "Civic Si",
+    "Civic CX",
+    "Civic VX",
+    "Civic SiR",
+    "Civici SiR",
+    "civic sports"
+  ],
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2002_Honda_Civic_%28MY2002%29_GLi_sedan_%282011-07-17%29_01.jpg/960px-2002_Honda_Civic_%28MY2002%29_GLi_sedan_%282011-07-17%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.3L 4-cyl",
+    "displacementL": 1.3,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 39,
+    "mpgHighway": 43,
+    "mpgCombined": 40,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Civic"
+  ],
+  "description": "The Honda Civic  is a series of automobiles manufactured by Honda since 1972. As of 2023, the Civic is positioned between the Honda Fit/City and Honda Accord in Honda's global passenger car line-up. It is one of the best-selling automobiles in history, with over 27 million units sold through 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Civic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2002_Honda_Civic_%28MY2002%29_GLi_sedan_%282011-07-17%29_01.jpg/1920px-2002_Honda_Civic_%28MY2002%29_GLi_sedan_%282011-07-17%29_01.jpg",
+  "sketchfab": null
+}

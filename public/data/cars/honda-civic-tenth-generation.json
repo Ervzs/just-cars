@@ -1,0 +1,54 @@
+{
+  "id": "honda-civic-tenth-generation",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "Tenth generation",
+  "aka": [
+    "Civic Hybrid",
+    "Civic Ima",
+    "Civic Si",
+    "Civic CX",
+    "Civic VX",
+    "Civic SiR",
+    "Civici SiR",
+    "civic sports"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/960px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 37,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Civic"
+  ],
+  "description": "The Honda Civic  is a series of automobiles manufactured by Honda since 1972. As of 2023, the Civic is positioned between the Honda Fit/City and Honda Accord in Honda's global passenger car line-up. It is one of the best-selling automobiles in history, with over 27 million units sold through 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Civic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/1920px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+  "sketchfab": {
+    "uid": "c312252877204a44999bf084d1e19118",
+    "name": "2018 Honda Civic Type R",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

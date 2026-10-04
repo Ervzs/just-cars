@@ -1,0 +1,30 @@
+{
+  "id": "subaru-pleo-second-generation-l275f-l285f-l275b-l285b",
+  "make": "Subaru",
+  "model": "Pleo",
+  "generation": "Second generation - L275F/L285F/L275B/L285B",
+  "aka": [],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2nd_Subaru_Pleo_Van_1.jpg/960px-2nd_Subaru_Pleo_Van_1.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Pleo is a kei car marketed by the Japanese automaker Subaru from 1998 to 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Pleo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2nd_Subaru_Pleo_Van_1.jpg/1920px-2nd_Subaru_Pleo_Van_1.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "toyota-mark-x-second-generation",
+  "make": "Toyota",
+  "model": "Mark X",
+  "generation": "Second generation",
+  "aka": [
+    "Reiz",
+    "Mark X G Sports Concept",
+    "Mark X GRMN"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2009_Toyota_Mark-X_05.jpg/960px-2009_Toyota_Mark-X_05.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Mark X  is a mid-size car manufactured by Toyota between 2004 and 2019, and was primarily aimed at the Japanese market. The Mark X was introduced in 2004 and is the successor to the Mark II which was first introduced in 1968, and was known in the North American market as the Corona Mark II starting in 1972, and renamed the Cressida from 1977 to 1992.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Mark_X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2009_Toyota_Mark-X_05.jpg/1280px-2009_Toyota_Mark-X_05.jpg",
+  "sketchfab": {
+    "uid": "8adf58d990a74b37b1e056ff5834fca8",
+    "name": "2009 Toyota Mark X Premium",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

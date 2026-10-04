@@ -1,0 +1,41 @@
+{
+  "id": "mitsubishi-pajero-sport-second-generation",
+  "make": "Mitsubishi",
+  "model": "Pajero Sport",
+  "generation": "Second generation",
+  "aka": [
+    "Montero Sport",
+    "Shogun Sport",
+    "Nativa",
+    "G-Wagon",
+    "Challenger",
+    "Strada G-Wagon"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mitsubishi_Montero_Sport_G2_2014.jpg/960px-Mitsubishi_Montero_Sport_G2_2014.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi Pajero Sport is a body-on-frame mid-size SUV produced by the Japanese manufacturer Mitsubishi Motors using the Pajero nameplate since 1996. It has spanned over three generations, based on the Triton pickup truck.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Pajero_Sport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mitsubishi_Montero_Sport_G2_2014.jpg/1920px-Mitsubishi_Montero_Sport_G2_2014.jpg",
+  "sketchfab": {
+    "uid": "09eed5d5d299425fa37b2617444871af",
+    "name": "2010 Mitsubishi Pajero Sport Tuned",
+    "author": "Ayo850850",
+    "authorUrl": "https://sketchfab.com/win850850th",
+    "license": "CC Attribution"
+  }
+}

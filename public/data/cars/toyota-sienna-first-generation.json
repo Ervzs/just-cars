@@ -1,0 +1,44 @@
+{
+  "id": "toyota-sienna-first-generation",
+  "make": "Toyota",
+  "model": "Sienna",
+  "generation": "First generation",
+  "aka": [
+    "Siena",
+    "2011 Toyota Sienna",
+    "Sienna minivans",
+    "Toyotasienna"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2001_Toyota_Sienna_LE_front_3.30.19.jpg/960px-2001_Toyota_Sienna_LE_front_3.30.19.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sienna"
+  ],
+  "description": "The Toyota Sienna is a minivan manufactured and marketed by Toyota primarily for the North American market. It is named for the Italian city of Siena, in the region of Tuscany. It replaced the first generation Previa van, and the Toyota Camry wagon in 1997 with a more conventional front-wheel drive layout and shares a heavily revised platform with the Camry. Both the Previa and original Sienna were smaller than the other minivans they competed against, but a redesign in 2003 increased the dimensions to match those of its competitors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Sienna",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2001_Toyota_Sienna_LE_front_3.30.19.jpg/1920px-2001_Toyota_Sienna_LE_front_3.30.19.jpg",
+  "sketchfab": null
+}

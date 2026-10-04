@@ -1,0 +1,53 @@
+{
+  "id": "hyundai-sonata-fifth-generation",
+  "make": "Hyundai",
+  "model": "Sonata",
+  "generation": "Fifth generation",
+  "aka": [
+    "NF Sonata",
+    "Marcia",
+    "Sonata Embera",
+    "Sonata GLS",
+    "i45",
+    "Sonata Hybrid",
+    "Sonata Turbo",
+    "Stellar II"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hyundai_Sonata_NFC_China_2012-05-12.JPG/960px-Hyundai_Sonata_NFC_China_2012-05-12.JPG",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sonata"
+  ],
+  "description": "The Hyundai Sonata is a mid-size car that has been manufactured by Hyundai since 1985. The first generation Sonata, which was introduced in 1985, was a facelifted version of the Hyundai Stellar with an engine upgrade, and was withdrawn from the market in two years due to poor customer reaction. While the nameplate was originally only sold in South Korea, the second generation of 1988 was widely exported.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Sonata",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hyundai_Sonata_NFC_China_2012-05-12.JPG/1280px-Hyundai_Sonata_NFC_China_2012-05-12.JPG",
+  "sketchfab": {
+    "uid": "bc6efe437ef14c89ac5c486863ad9a5b",
+    "name": "2006 Hyundai Sonata",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

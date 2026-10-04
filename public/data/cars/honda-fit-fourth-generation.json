@@ -1,0 +1,50 @@
+{
+  "id": "honda-fit-fourth-generation",
+  "make": "Honda",
+  "model": "Fit",
+  "generation": "Fourth generation",
+  "aka": [
+    "Fitta",
+    "Jazz hybrid",
+    "Fit EV"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_h_18102020.jpg/960px-Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_h_18102020.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 33,
+    "mpgHighway": 40,
+    "mpgCombined": 36,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Fit"
+  ],
+  "description": "The Honda Fit or Honda Jazz is a small car manufactured and marketed by Honda since 2001 over four generations. With a five-door hatchback body style, it is considered a supermini in the United Kingdom, a subcompact car in the United States, and a light car in Australia. Marketed worldwide and manufactured at ten plants in eight countries, sales reached almost 5 million by mid-2013. Honda uses the \"Jazz\" nameplate in Europe, Oceania, the Middle East, Africa, Hong Kong, Macau, Southeast Asia and India; and \"Fit\" in Japan, Sri Lanka, China, Taiwan and the Americas.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Fit",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_h_18102020.jpg/1920px-Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_h_18102020.jpg",
+  "sketchfab": {
+    "uid": "6af77df7e9fa40a3804ef2811d6a65e9",
+    "name": "2020 Honda Fit Hybrid 6AA-GR3",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

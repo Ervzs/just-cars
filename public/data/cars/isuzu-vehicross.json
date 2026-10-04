@@ -1,7 +1,13 @@
 {
   "id": "isuzu-vehicross",
   "make": "Isuzu",
-  "model": "Vehicross",
+  "model": "VehiCROSS",
+  "generation": null,
+  "aka": [
+    "VX-O2",
+    "VX-4",
+    "Tiejingang"
+  ],
   "years": [
     2000,
     2001
@@ -23,6 +29,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "Vehicross"
+  ],
   "description": "The Isuzu VehiCROSS is a compact SUV manufactured by Isuzu from 1997 through 2001.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_VehiCROSS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Isuzu-VehiCross.jpg/1920px-Isuzu-VehiCross.jpg",

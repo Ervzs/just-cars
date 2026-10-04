@@ -1,0 +1,48 @@
+{
+  "id": "mercedes-benz-cla-third-generation",
+  "make": "Mercedes-Benz",
+  "model": "CLA",
+  "generation": "Third generation",
+  "aka": [
+    "Mercedes cla",
+    "C117",
+    "Mercedes CLA-Class",
+    "Concept Style Coupé",
+    "CLA-Class",
+    "CLA-Klasse"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mercedes-Benz_C174_350_4Matic_DSC_8536.jpg/960px-Mercedes-Benz_C174_350_4Matic_DSC_8536.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AM8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 39,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CLA-Class"
+  ],
+  "description": "The Mercedes-Benz CLA is a series of luxury subcompact executive cars manufactured by Mercedes-Benz since 2013. The first generation was a four-door sedan based on the platform of the W176 A-Class and W246 B-Class compact cars, marketed as a four-door coupé. In 2015, Mercedes-Benz expanded the CLA family to include a station wagon configuration which it markets as a Shooting Brake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mercedes-Benz_C174_350_4Matic_DSC_8536.jpg/1920px-Mercedes-Benz_C174_350_4Matic_DSC_8536.jpg",
+  "sketchfab": {
+    "uid": "52c4a3cc5536425782e13bd8282f9d99",
+    "name": "2026 Mercedes-Benz CLA Sedan EV",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

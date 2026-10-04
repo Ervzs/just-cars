@@ -1,0 +1,44 @@
+{
+  "id": "jeep-wagoneer-fourth-generation",
+  "make": "Jeep",
+  "model": "Wagoneer",
+  "generation": "Fourth generation",
+  "aka": [],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/960px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 100,
+    "mpgHighway": 85,
+    "mpgCombined": 93,
+    "evRangeMiles": 294
+  },
+  "variants": [
+    "Wagoneer"
+  ],
+  "description": "The Jeep Wagoneer and Grand Wagoneer are a sport utility vehicle (SUV) nameplate of Jeep vehicles, with several models marketed for the 1963 through 1993 model years and again since the 2022 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Wagoneer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/1920px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "66ea16297a9342ac999742fc680672d4",
+    "name": "Jeep Grand Wagoneer",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

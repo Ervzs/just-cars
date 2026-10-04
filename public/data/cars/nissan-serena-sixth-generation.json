@@ -1,0 +1,30 @@
+{
+  "id": "nissan-serena-sixth-generation",
+  "make": "Nissan",
+  "model": "Serena",
+  "generation": "Sixth generation",
+  "aka": [
+    "LDV Cub",
+    "Largo",
+    "Dongfeng Yuxuan"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nissan_Serena_%28C28%29_e-POWER_LUXION.jpg/960px-Nissan_Serena_%28C28%29_e-POWER_LUXION.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Serena  is a minivan manufactured by Nissan, joining the slightly larger Vanette. The car was engineered by Nissan's Aichi Manufacturing Division and launched in 1991 as a compact passenger van, and it grew larger with each generation over the years. Earlier versions were front-engine, rear-wheel-drive layout with a live axle mounted on leaf springs, while the following generations are front-wheel drive or 4WD.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Serena",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nissan_Serena_%28C28%29_e-POWER_LUXION.jpg/1920px-Nissan_Serena_%28C28%29_e-POWER_LUXION.jpg",
+  "sketchfab": null
+}

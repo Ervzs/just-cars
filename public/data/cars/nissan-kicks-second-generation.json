@@ -1,0 +1,44 @@
+{
+  "id": "nissan-kicks-second-generation",
+  "make": "Nissan",
+  "model": "Kicks",
+  "generation": "Second generation",
+  "aka": [
+    "Kicks Play"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2025_Nissan_Kicks_SR%2C_front_4.12.25.jpg/960px-2025_Nissan_Kicks_SR%2C_front_4.12.25.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 35,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Kicks"
+  ],
+  "description": "The Nissan Kicks  is a subcompact crossover SUV produced by Nissan since 2016. The crossover was initially introduced as a concept car under the same name and was premiered at the 2014 São Paulo International Motor Show. Nissan claimed the concept is inspired by the streets of Brazil.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Kicks",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2025_Nissan_Kicks_SR%2C_front_4.12.25.jpg/1920px-2025_Nissan_Kicks_SR%2C_front_4.12.25.jpg",
+  "sketchfab": {
+    "uid": "95908ef0425646dda870c9302e6cba71",
+    "name": "Nissan Kicks 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chery-qq3-first-generation",
+  "make": "Chery",
+  "model": "QQ3",
+  "generation": "First generation",
+  "aka": [
+    "MVM 110",
+    "QQ3 EV",
+    "eQ",
+    "DR Zero",
+    "Chery-EQ"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chery_QQ3_Sport_02_China_2012-06-02.jpg/960px-Chery_QQ3_Sport_02_China_2012-06-02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery QQ3 is a city car and subcompact hatchback produced by the Chinese manufacturer Chery from May 2003. In 2006, Chery created a QQ-branded product line that included the original QQ, a sedan version called Chery QQ6 released in September 2006 and a three-door hatchback called Chery QQme released in June 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_QQ3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chery_QQ3_Sport_02_China_2012-06-02.jpg/1280px-Chery_QQ3_Sport_02_China_2012-06-02.jpg",
+  "sketchfab": null
+}

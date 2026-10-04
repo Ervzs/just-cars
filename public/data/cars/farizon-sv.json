@@ -1,0 +1,30 @@
+{
+  "id": "farizon-sv",
+  "make": "Geely",
+  "model": "Farizon SV",
+  "generation": null,
+  "aka": [
+    "Farizon SuperVan",
+    "Jinbei Jiyun E9",
+    "Farizon Xingfuhao",
+    "Farizon Geely Xingfuhao",
+    "Xingfuhao"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Farizon_SV_004.jpg/960px-Farizon_SV_004.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Farizon SV (Supervan) is a battery electric light commercial vehicle (LCV) van produced by the Chinese automaker Farizon from 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Farizon_SV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Farizon_SV_004.jpg/1920px-Farizon_SV_004.jpg",
+  "sketchfab": null
+}

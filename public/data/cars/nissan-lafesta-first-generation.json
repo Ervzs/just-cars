@@ -1,0 +1,30 @@
+{
+  "id": "nissan-lafesta-first-generation",
+  "make": "Nissan",
+  "model": "Lafesta",
+  "generation": "First generation",
+  "aka": [
+    "Lafesta Highway Star"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2004-2007_NISSAN_LAFESTA_Highway_STAR.jpg/960px-2004-2007_NISSAN_LAFESTA_Highway_STAR.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Lafesta  is a compact MPV built by Nissan mainly for the Japanese market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Lafesta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2004-2007_NISSAN_LAFESTA_Highway_STAR.jpg/1920px-2004-2007_NISSAN_LAFESTA_Highway_STAR.jpg",
+  "sketchfab": null
+}

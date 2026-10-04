@@ -1,0 +1,26 @@
+{
+  "id": "byd-sealion-06",
+  "make": "BYD",
+  "model": "Sealion 06",
+  "generation": null,
+  "aka": [
+    "Sealion 06 EV",
+    "Sealion 06 DM-i"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BYD_Sealion_06_EV_001_%28cropped%29.jpg/960px-BYD_Sealion_06_EV_001_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The BYD Sealion 06 is a mid-size SUV manufactured by BYD Auto since 2025. Available with battery electric (EV) and plug-in hybrid (DM-i) powertrains, the model was introduced in April 2025 at the Auto Shanghai.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BYD_Sealion_06",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BYD_Sealion_06_EV_001_%28cropped%29.jpg/1920px-BYD_Sealion_06_EV_001_%28cropped%29.jpg",
+  "sketchfab": null
+}

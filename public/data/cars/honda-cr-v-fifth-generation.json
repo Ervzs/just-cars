@@ -1,0 +1,49 @@
+{
+  "id": "honda-cr-v-fifth-generation",
+  "make": "Honda",
+  "model": "CR-V",
+  "generation": "Fifth generation",
+  "aka": [
+    "CR-V Limited Edition",
+    "Breeze",
+    "Compact recreational vehicle"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/960px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 34,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CR-V"
+  ],
+  "description": "The Honda CR-V is a compact crossover SUV manufactured by Japanese automaker Honda since 1995. Initial models of the CR-V were built using the same platform as the Civic.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_CR-V",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/1920px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+  "sketchfab": {
+    "uid": "cf55df17d2154cbbb157c2e1b062ac23",
+    "name": "2022 Honda CR-V",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

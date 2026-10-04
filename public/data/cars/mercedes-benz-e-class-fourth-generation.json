@@ -1,0 +1,49 @@
+{
+  "id": "mercedes-benz-e-class-fourth-generation",
+  "make": "Mercedes-Benz",
+  "model": "E-Class",
+  "generation": "Fourth generation",
+  "aka": [
+    "Mercedes E500",
+    "Mercedes Benz E-class",
+    "Mercedes E-class",
+    "Mercedes E55",
+    "E63 AMG",
+    "Mercedes E",
+    "MB E-Class",
+    "Mercedes Benz E"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2009_Mercedes-Benz_E_250_CGI_%28W_212%29_Avantgarde_sedan_%282010-07-05%29.jpg/960px-2009_Mercedes-Benz_E_250_CGI_%28W_212%29_Avantgarde_sedan_%282010-07-05%29.jpg",
+  "has3d": false,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "E-Class"
+  ],
+  "description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by German automaker Mercedes-Benz in various engine and body configurations. Produced since September 1953, the E-Class falls as a midrange in the Mercedes line-up, and has been marketed worldwide across five generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2009_Mercedes-Benz_E_250_CGI_%28W_212%29_Avantgarde_sedan_%282010-07-05%29.jpg/1920px-2009_Mercedes-Benz_E_250_CGI_%28W_212%29_Avantgarde_sedan_%282010-07-05%29.jpg",
+  "sketchfab": null
+}

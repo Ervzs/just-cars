@@ -1,0 +1,51 @@
+{
+  "id": "hyundai-kona-first-generation",
+  "make": "Hyundai",
+  "model": "Kona",
+  "generation": "First generation",
+  "aka": [
+    "Kauai",
+    "Encino",
+    "Kona Electric",
+    "Kona EV",
+    "Kona N"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2020_Hyundai_Kona_Electric_in_Chalk_White%2C_front_left.jpg/960px-2020_Hyundai_Kona_Electric_in_Chalk_White%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 35,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Kona"
+  ],
+  "description": "The Hyundai Kona is a subcompact crossover SUV produced by the South Korean manufacturer Hyundai. The first-generation Kona debuted in June 2017 and the production version was revealed later that year. The current, second-generation model was revealed in December 2022 and launched in 2023. It was developed first as a battery-electric model before being adapted for petrol and hybrid variants, which are offered depending on the market. Depending on the market, the Kona is positioned above either the Venue or the Bayon and below the Tucson in Hyundai's crossover SUV line-up. The battery-electric version, called the Kona Electric or Kona EV, was first launched in South Korea during the first half of 2018 and was rolled out gradually worldwide afterwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Kona",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2020_Hyundai_Kona_Electric_in_Chalk_White%2C_front_left.jpg/1920px-2020_Hyundai_Kona_Electric_in_Chalk_White%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "7d1d7fda8e0a445491ddff8634d8de95",
+    "name": "Hyundai Kona 2022",
+    "author": "Techno Kunal Gamerz",
+    "authorUrl": "https://sketchfab.com/Shivshankar1",
+    "license": "CC Attribution"
+  }
+}

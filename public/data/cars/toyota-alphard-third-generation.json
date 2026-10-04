@@ -1,0 +1,41 @@
+{
+  "id": "toyota-alphard-third-generation",
+  "make": "Toyota",
+  "model": "Alphard",
+  "generation": "Third generation",
+  "aka": [
+    "Vellfire",
+    "Alphard Hybrid",
+    "Hybrid Alphard",
+    "Crown Vellfire",
+    "Vellfire Spacious Lounge Concept"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Toyota_Alphard_350_V6_%28III%29_%E2%80%93_Frontansicht%2C_2._April_2018%2C_Hongkong.jpg/960px-Toyota_Alphard_350_V6_%28III%29_%E2%80%93_Frontansicht%2C_2._April_2018%2C_Hongkong.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Toyota Alphard  is a large MPV produced by the Japanese automaker Toyota since 2002. It is available as a seven or eight-seater with petrol and hybrid engine options. Hybrid variants have been available since 2003, which incorporates Toyota's Hybrid Synergy Drive technology. It is Toyota's flagship MPV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Alphard",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Toyota_Alphard_350_V6_%28III%29_%E2%80%93_Frontansicht%2C_2._April_2018%2C_Hongkong.jpg/1920px-Toyota_Alphard_350_V6_%28III%29_%E2%80%93_Frontansicht%2C_2._April_2018%2C_Hongkong.jpg",
+  "sketchfab": {
+    "uid": "c3b0c9b6363945e0b27d020404198b0f",
+    "name": "Toyota Alphard III 2015",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

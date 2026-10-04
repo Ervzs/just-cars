@@ -2,6 +2,8 @@
   "id": "bmw-alpina-roadster",
   "make": "BMW Alpina",
   "model": "Roadster",
+  "generation": null,
+  "aka": [],
   "years": [
     2003
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 15,
     "evRangeMiles": null
   },
+  "variants": [
+    "Roadster"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

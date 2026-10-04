@@ -1,0 +1,48 @@
+{
+  "id": "kia-sportage-fourth-generation",
+  "make": "Kia",
+  "model": "Sportage",
+  "generation": "Fourth generation",
+  "aka": [
+    "Sportage R",
+    "KX5"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Kia_Sportage_2_CRDi_ISG_S-A_1.6_Front.jpg/960px-2019_Kia_Sportage_2_CRDi_ISG_S-A_1.6_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Sportage"
+  ],
+  "description": "The Kia Sportage is a series of automobiles manufactured by the South Korean manufacturer Kia since 1993 through five generations. Initially a compact SUV built on a body-on-frame chassis, the second-generation Sportage transitioned to a car-based platform, placing it into the compact crossover SUV class, and was originally developed alongside the Hyundai Tucson, in two sizes with different wheelbase lengths for different markets, alongside the Hyundai Santa Fe and the Kia Sorento.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Sportage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Kia_Sportage_2_CRDi_ISG_S-A_1.6_Front.jpg/1920px-2019_Kia_Sportage_2_CRDi_ISG_S-A_1.6_Front.jpg",
+  "sketchfab": {
+    "uid": "8f794775950041d7a9ae867e40646a33",
+    "name": "2018 Kia Sportage",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

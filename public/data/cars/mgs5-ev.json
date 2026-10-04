@@ -1,0 +1,28 @@
+{
+  "id": "mgs5-ev",
+  "make": "MG",
+  "model": "MGS5 EV",
+  "generation": null,
+  "aka": [
+    "S5",
+    "S5 EV",
+    "ES5"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/MGS5_EV_Automesse_Ludwigsburg_2025_DSC_2557.jpg/960px-MGS5_EV_Automesse_Ludwigsburg_2025_DSC_2557.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The MGS5 EV or MG ES5 in China is a battery electric compact crossover SUV (C-segment) produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque since 2024. It was introduced outside China in regions such as Europe and Thailand since March 2025 as the MGS5 EV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MGS5_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/MGS5_EV_Automesse_Ludwigsburg_2025_DSC_2557.jpg/1920px-MGS5_EV_Automesse_Ludwigsburg_2025_DSC_2557.jpg",
+  "sketchfab": null
+}

@@ -2,6 +2,10 @@
   "id": "maserati-grecale",
   "make": "Maserati",
   "model": "Grecale",
+  "generation": null,
+  "aka": [
+    "Folgore"
+  ],
   "years": [
     2023,
     2024,
@@ -25,6 +29,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Grecale"
+  ],
   "description": "The Maserati Grecale is a front-engine, five-door, five passenger compact luxury crossover SUV (D-segment) manufactured and marketed by the Maserati subdivision of Stellantis, entering production at the company's Cassino Plant in March 2022. Internally designated model M182, the Grecale shares the company's Giorgio platform with the Alfa Romeo Stelvio and the fifth generation Jeep Grand Cherokee.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_Grecale",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Maserati_Grecale_GT_1X7A6371.jpg/1920px-Maserati_Grecale_GT_1X7A6371.jpg",

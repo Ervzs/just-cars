@@ -1,0 +1,43 @@
+{
+  "id": "mercury-mariner-second-generation",
+  "make": "Mercury",
+  "model": "Mariner",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2008_Mercury_Mariner_Premier_4WD%2C_front_right%2C_08-27-2023.jpg/960px-2008_Mercury_Mariner_Premier_4WD%2C_front_right%2C_08-27-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 34,
+    "mpgHighway": 30,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mariner"
+  ],
+  "description": "The Mercury Mariner is a compact crossover SUV that was introduced for the 2005 model year. It is a sibling of the Mazda Tribute and Ford Escape, although it is more upmarket than the other two. The Mariner is Mercury's first car-based SUV, and is slotted below the Mountaineer in the lineup. When Ford eliminated the Mercury brand, the Mariner ended production in October 2010.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Mariner",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2008_Mercury_Mariner_Premier_4WD%2C_front_right%2C_08-27-2023.jpg/1920px-2008_Mercury_Mariner_Premier_4WD%2C_front_right%2C_08-27-2023.jpg",
+  "sketchfab": {
+    "uid": "e01da38803ba45f89284e9f7bde649ba",
+    "name": "2008 Mercury Mariner",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

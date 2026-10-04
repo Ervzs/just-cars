@@ -2,6 +2,8 @@
   "id": "jaguar-xjr",
   "make": "Jaguar",
   "model": "XJR",
+  "generation": null,
+  "aka": [],
   "years": [
     2000,
     2001,
@@ -31,6 +33,9 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
+  "variants": [
+    "XJR"
+  ],
   "description": "\nJaguar XJR is a nameplate used by Jaguar Cars for several line of vehicles:Jaguar XJR Sportscars, a line of Group C race cars.\nSeveral high performance versions of the company's flagship XJ saloons.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XJR",
   "image": null,

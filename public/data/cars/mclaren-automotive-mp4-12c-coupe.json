@@ -2,6 +2,8 @@
   "id": "mclaren-automotive-mp4-12c-coupe",
   "make": "McLaren Automotive",
   "model": "MP4-12C Coupe",
+  "generation": null,
+  "aka": [],
   "years": [
     2012,
     2014
@@ -23,8 +25,11 @@
     "mpgCombined": 18,
     "evRangeMiles": null
   },
-  "description": "McLaren Automotive is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. As of March 2025, McLaren Automotive is wholly owned by CYVN Holdings LLC, owned by the government of Abu Dhabi.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/McLaren_Automotive",
+  "variants": [
+    "MP4-12C Coupe"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
   "image": null,
   "sketchfab": null
 }

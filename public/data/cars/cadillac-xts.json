@@ -2,6 +2,10 @@
   "id": "cadillac-xts",
   "make": "Cadillac",
   "model": "XTS",
+  "generation": null,
+  "aka": [
+    "XTS Platinum"
+  ],
   "years": [
     2013,
     2014,
@@ -28,6 +32,10 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
+  "variants": [
+    "XTS",
+    "XTS Hearse"
+  ],
   "description": "The Cadillac XTS is a full-size car built by the American company Cadillac from 2013 until 2019. It is a four-door sedan with seating for up to five passengers. Based on an enlarged version of General Motors' Epsilon II platform, it has a front-mounted engine that either drives the front wheels or drives all four wheels.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XTS",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2014_Cadillac_XTS_Luxury_in_Black_Diamond%2C_front_right.jpg/1920px-2014_Cadillac_XTS_Luxury_in_Black_Diamond%2C_front_right.jpg",

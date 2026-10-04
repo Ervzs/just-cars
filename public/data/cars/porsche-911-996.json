@@ -1,0 +1,50 @@
+{
+  "id": "porsche-911-996",
+  "make": "Porsche",
+  "model": "911",
+  "generation": "996",
+  "aka": [
+    "911 Carrera RS",
+    "911 Turbo",
+    "911 Carrera S",
+    "911 Turbo S",
+    "1992 Porsche 911 America Roadster",
+    "911 Carrera",
+    "Carrera RS",
+    "911SC"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2002_911C4S.JPG/960px-2002_911C4S.JPG",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "911",
+    "Targa"
+  ],
+  "description": "The Porsche 911 model series is a family of two-door, high performance rear-engine sports cars, introduced in September 1964 by Porsche of Stuttgart, Germany, and now in its eighth generation. All 911s have a rear-mounted flat-six engine, and usually 2+2 seating, except for special 2-seater variants. Originally, 911s had air-cooled engines, and torsion bar suspension, but the 911 has been continuously changed and improved across generations. Though the 911 core concept has remained largely unchanged, water-cooled engines were introduced with the 996 series in 1998, and front and rear suspension have been replaced by Porsche-specific MacPherson suspension in the front, and independent multi-link suspension in the rear.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2002_911C4S.JPG/1920px-2002_911C4S.JPG",
+  "sketchfab": null
+}

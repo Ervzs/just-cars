@@ -1,0 +1,28 @@
+{
+  "id": "nissan-cube-first-generation",
+  "make": "Nissan",
+  "model": "Cube",
+  "generation": "First generation",
+  "aka": [
+    "Denki Cube",
+    "EV"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nissan_Cube_Z10_002.JPG/960px-Nissan_Cube_Z10_002.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Cube is a mini MPV produced by carmaker Nissan between 1998 and 2019. Initially sold only in Japan, the Cube was sold in North American markets from 2009 to 2014, and in European markets from 2009 to 2011. In Japan, it was exclusive to Nissan Red Stage dealerships. It is a slightly larger load-carrying alternative to the Nissan Micra hatchback. While production for the North American market ended in 2014, the Japanese-market Cube lasted until December 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Cube",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nissan_Cube_Z10_002.JPG/1280px-Nissan_Cube_Z10_002.JPG",
+  "sketchfab": null
+}

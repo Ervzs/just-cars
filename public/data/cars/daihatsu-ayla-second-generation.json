@@ -1,0 +1,29 @@
+{
+  "id": "daihatsu-ayla-second-generation",
+  "make": "Toyota",
+  "model": "Daihatsu Ayla",
+  "generation": "Second generation",
+  "aka": [
+    "Wigo",
+    "Agya",
+    "Daihatsu Ayla Turbo"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2023_Daihatsu_Ayla_1.2_R_ADS_%28Indonesia%29_front_view_02.jpg/960px-2023_Daihatsu_Ayla_1.2_R_ADS_%28Indonesia%29_front_view_02.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Ayla is a city car designed by Daihatsu and manufactured by Astra Daihatsu Motor in Indonesia since 2013, primarily developed for emerging markets. The Ayla has also been sold by Toyota as the Toyota Agya in Indonesia, South Africa, Tunisia and Americas, and the Toyota Wigo in the Philippines, Sri Lanka, Brunei and Vietnam through an OEM agreement. The car is also slightly reengineered and manufactured in Malaysia by Perodua as the Perodua Axia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Ayla",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2023_Daihatsu_Ayla_1.2_R_ADS_%28Indonesia%29_front_view_02.jpg/1920px-2023_Daihatsu_Ayla_1.2_R_ADS_%28Indonesia%29_front_view_02.jpg",
+  "sketchfab": null
+}

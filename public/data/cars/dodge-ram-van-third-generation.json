@@ -1,0 +1,55 @@
+{
+  "id": "dodge-ram-van-third-generation",
+  "make": "Dodge",
+  "model": "Ram Van",
+  "generation": "Third generation",
+  "aka": [
+    "Tradesman",
+    "Ram Wagon",
+    "Sportsman",
+    "B-series Van",
+    "More-Than-That",
+    "Santana",
+    "B-Series vans",
+    "b250 cng"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Vans, Cargo Type",
+  "fuelType": "Regular",
+  "engine": "3.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Dodge-Ram-wagon.jpg/960px-Dodge-Ram-wagon.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.9L 6-cyl",
+    "displacementL": 3.9,
+    "cylinders": 6,
+    "transmission": "Automatic 3-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 15,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Ram Van 1500",
+    "Ram Van 2500"
+  ],
+  "description": "The Dodge Ram Van is a range of full-size vans that were produced by Chrysler Corporation from the 1971 to 2003 model years. The B series replaced the forward control Dodge A100, transitioning to a front-engine, rear-wheel-drive layout that shared components with the D series pickup truck and had a conventional exterior hood for engine access. The model range consisted of a cargo van, a passenger van marketed as the Dodge Ram Wagon after introduction of the Ram nameplate for model year 1980, and a cutaway van chassis which was dropped in 1979.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Ram_Van",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Dodge-Ram-wagon.jpg/960px-Dodge-Ram-wagon.jpg",
+  "sketchfab": {
+    "uid": "32bd10b337ce42df8043023ce21b7819",
+    "name": "Dodge Ram Van (Mk3) Passenger Van",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

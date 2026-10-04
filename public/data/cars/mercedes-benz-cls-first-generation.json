@@ -1,0 +1,53 @@
+{
+  "id": "mercedes-benz-cls-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "CLS",
+  "generation": "First generation",
+  "aka": [
+    "CLS-Class",
+    "Mercedes cls class",
+    "Mercedes CLS",
+    "CLS500",
+    "CLS AMG",
+    "MB CLS-class",
+    "CLS63 AMG"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "5.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2005_Mercedes-Benz_CLS_320_CDi_Automatic_3.0_Front.jpg/960px-2005_Mercedes-Benz_CLS_320_CDi_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "5.5L 8-cyl",
+    "displacementL": 5.5,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CLS-Class"
+  ],
+  "description": "The Mercedes-Benz CLS is a series of executive cars produced by Mercedes-Benz from December 2003 to August 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2005_Mercedes-Benz_CLS_320_CDi_Automatic_3.0_Front.jpg/1920px-2005_Mercedes-Benz_CLS_320_CDi_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "205671638afb4c4aa679fa4acc488915",
+    "name": "2008 Mercedes-Benz CLS 63 AMG (W219)",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

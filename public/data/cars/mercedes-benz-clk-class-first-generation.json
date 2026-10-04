@@ -1,0 +1,50 @@
+{
+  "id": "mercedes-benz-clk-class-first-generation",
+  "make": "Mercedes-Benz",
+  "model": "CLK-Class",
+  "generation": "First generation",
+  "aka": [
+    "CLK",
+    "Mercedes CLK",
+    "Clk dtm",
+    "Mercedes Benz CLK",
+    "Mercedes CLK-Class",
+    "Mercedes Benz CLK-Class",
+    "CLK320",
+    "CLK55"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2000_Mercedes-Benz_CLK_320_%28C_208%29_Elegance_coupe_%282015-07-03%29_01.jpg/960px-2000_Mercedes-Benz_CLK_320_%28C_208%29_Elegance_coupe_%282015-07-03%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CLK-Class"
+  ],
+  "description": "The Mercedes-Benz CLK-Class is a former series of mid-size or entry-level luxury coupés and convertibles produced by Mercedes-Benz between 1996 and 2010. Although its design and styling was derived from the E-Class, the mechanical underpinnings were based on the smaller C-Class, and was positioned between the Mercedes-Benz SLK-Class and CL-Class. The name CLK is either derived from the German words \"Coupé\", \"Luxus\" (luxury) and \"Kurz\" (short) or \"Coupé\", \"Leicht\" (light) and \"Kurz\" (short), as the clear definition was never published. It primarily competes with the two-door BMW 3 and 6 Series, as well as the Audi A4 Cabriolet and Audi A5 Coupe/Cabriolet, as well as the Maserati Coupe and its convertible variant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLK-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2000_Mercedes-Benz_CLK_320_%28C_208%29_Elegance_coupe_%282015-07-03%29_01.jpg/1920px-2000_Mercedes-Benz_CLK_320_%28C_208%29_Elegance_coupe_%282015-07-03%29_01.jpg",
+  "sketchfab": null
+}

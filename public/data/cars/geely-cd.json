@@ -1,0 +1,26 @@
+{
+  "id": "geely-cd",
+  "make": "Geely",
+  "model": "CD",
+  "generation": null,
+  "aka": [
+    "Zhongguolong"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geely_CD_001.jpg/960px-Geely_CD_001.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely CD is a 2-door coupé produced by Chinese manufacturer Geely Automobile from 2009 to 2011.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_CD",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Geely_CD_001.jpg/960px-Geely_CD_001.jpg",
+  "sketchfab": null
+}

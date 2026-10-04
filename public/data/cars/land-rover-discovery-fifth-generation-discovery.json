@@ -1,0 +1,60 @@
+{
+  "id": "land-rover-discovery-fifth-generation-discovery",
+  "make": "Land Rover",
+  "model": "Discovery",
+  "generation": "Fifth generation Discovery",
+  "aka": [
+    "LR3",
+    "Discovery3",
+    "LR Discovery",
+    "LR4",
+    "Landie Disco",
+    "Disco",
+    "Discovery 4",
+    "Discovery Series I"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2017_Land_Rover_Discovery_HSE_TD6_Automatic_3.0_Front.jpg/960px-2017_Land_Rover_Discovery_HSE_TD6_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 23,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Discovery",
+    "LR4",
+    "LR3"
+  ],
+  "description": "The Land Rover Discovery is a series of sport utility vehicles produced by the British manufacturer Jaguar Land Rover—previously Land Rover—and marketed under the marque Land Rover. The series has been in its fifth generation since 2017. The first was introduced in 1989 and was the manufacturer's first model series to launch since the 1970 Range Rover—on which it was based—and the third new product line since the brand's conception by Rover in 1948. An influential vehicle within the automotive industry, the Discovery is one of the first true off-road capable family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Land_Rover_Discovery",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2017_Land_Rover_Discovery_HSE_TD6_Automatic_3.0_Front.jpg/1920px-2017_Land_Rover_Discovery_HSE_TD6_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "48d256ab61c748d2ae1757ad39897353",
+    "name": "2022 Land Rover Discovery P360 Facelift",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

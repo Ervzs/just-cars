@@ -1,0 +1,60 @@
+{
+  "id": "saturn-vue-second-generation",
+  "make": "Saturn",
+  "model": "Vue",
+  "generation": "Second generation",
+  "aka": [
+    "PreVUE"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2nd_Saturn_Vue_--_08-28-2009.jpg/960px-2nd_Saturn_Vue_--_08-28-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Vue"
+  ],
+  "description": "The Saturn Vue is a compact SUV that was built and marketed by Saturn, and it was Saturn's best-selling model. It was the first vehicle to use the GM Theta platform when it was introduced in 2001 for the 2002 model year. The Vue was facelifted for the 2006 model year. A second generation model was launched in 2007 for the 2008 model year as a rebadged Opel Antara.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Vue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2nd_Saturn_Vue_--_08-28-2009.jpg/1920px-2nd_Saturn_Vue_--_08-28-2009.jpg",
+  "sketchfab": {
+    "uid": "5c183827628041479a635c1a0ec878fa",
+    "name": "Saturn vue 25889610",
+    "author": "jagmode52",
+    "authorUrl": "https://sketchfab.com/jagmode52",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

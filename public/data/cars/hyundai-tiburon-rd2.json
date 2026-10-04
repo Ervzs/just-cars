@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-tiburon-rd2",
+  "make": "Hyundai",
+  "model": "Tiburon",
+  "generation": "RD2",
+  "aka": [
+    "T Buron",
+    "Coupé",
+    "Tuscani",
+    "coupe",
+    "Coupe Evo II"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/1999_Hyundai_Coupe_%28RD%29_SX_coupe_%282015-08-07%29_01.jpg/960px-1999_Hyundai_Coupe_%28RD%29_SX_coupe_%282015-08-07%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Tiburon"
+  ],
+  "description": "The Hyundai Tiburon, known in Europe as the Hyundai Coupé, is a front wheel drive sports coupe that was produced by the South Korean manufacturer Hyundai from 1996 to 2008.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Tiburon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/1999_Hyundai_Coupe_%28RD%29_SX_coupe_%282015-08-07%29_01.jpg/1920px-1999_Hyundai_Coupe_%28RD%29_SX_coupe_%282015-08-07%29_01.jpg",
+  "sketchfab": null
+}

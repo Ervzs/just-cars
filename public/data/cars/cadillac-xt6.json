@@ -2,6 +2,8 @@
   "id": "cadillac-xt6",
   "make": "Cadillac",
   "model": "XT6",
+  "generation": null,
+  "aka": [],
   "years": [
     2020,
     2021,
@@ -27,6 +29,9 @@
     "mpgCombined": 23,
     "evRangeMiles": null
   },
+  "variants": [
+    "XT6"
+  ],
   "description": "The Cadillac XT6 is a mid-size luxury crossover SUV with three-row seating manufactured by the Cadillac division of General Motors. The vehicle was introduced on January 12, 2019, at the North American International Auto Show. It went on sale in June of the same year as a 2020 model.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XT6",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg/1920px-2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg",

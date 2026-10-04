@@ -2,6 +2,8 @@
   "id": "saleen-performance-f150-supercharged",
   "make": "Saleen Performance",
   "model": "F150 Supercharged",
+  "generation": null,
+  "aka": [],
   "years": [
     2008
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "F150 Supercharged"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

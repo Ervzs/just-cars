@@ -1,0 +1,31 @@
+{
+  "id": "mitsubishi-ek-first-generation",
+  "make": "Nissan",
+  "model": "Mitsubishi eK",
+  "generation": "First generation",
+  "aka": [
+    "Otti",
+    "Dayz",
+    "Dayz Roox",
+    "Mitsubishi eK X EV"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mitsubishi_eKwagon_2004.jpg/960px-Mitsubishi_eKwagon_2004.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Mitsubishi eK  is a kei car series from Mitsubishi Motors and Nissan, based on the long-running Minica, and first introduced on 11 October 2001. The \"eK\" name is an abbreviation for \"excellent keijidōsha\" and is meant to be pronounced \"ee kay\", a pun which sounds like the Japanese いい軽, meaning \"good kei [car]\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_eK",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mitsubishi_eKwagon_2004.jpg/1920px-Mitsubishi_eKwagon_2004.jpg",
+  "sketchfab": null
+}

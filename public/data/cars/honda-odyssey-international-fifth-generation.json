@@ -1,0 +1,49 @@
+{
+  "id": "honda-odyssey-international-fifth-generation",
+  "make": "Honda",
+  "model": "Odyssey (international)",
+  "generation": "Fifth generation",
+  "aka": [
+    "Odyssey J"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/HONDA_ODYSSEY_RC_China_%2850%29.jpg/960px-HONDA_ODYSSEY_RC_China_%2850%29.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Odyssey"
+  ],
+  "description": "The Honda Odyssey  is a minivan manufactured by Japanese automaker Honda since 1994, marketed in most of the world and currently in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Odyssey_(international)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/HONDA_ODYSSEY_RC_China_%2850%29.jpg/1920px-HONDA_ODYSSEY_RC_China_%2850%29.jpg",
+  "sketchfab": null
+}

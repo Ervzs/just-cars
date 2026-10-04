@@ -1,0 +1,47 @@
+{
+  "id": "honda-pilot-first-generation",
+  "make": "Honda",
+  "model": "Pilot",
+  "generation": "First generation",
+  "aka": [
+    "MR-V"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2003-2005_Honda_Pilot_--_10-19-2011.jpg/960px-2003-2005_Honda_Pilot_--_10-19-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Pilot"
+  ],
+  "description": "The Honda Pilot is a mid-size crossover SUV with three-row seating manufactured by Honda since 2002 for the 2003 model year. Primarily aimed at the North American market, the Pilot is the largest SUV produced by Honda. As of 2025, the Pilot is manufactured in Lincoln, Alabama, and the Pilot was produced in Alliston, Ontario, until April 2007. The first generation Pilot was released in April 2002 as a 2003 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Pilot",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2003-2005_Honda_Pilot_--_10-19-2011.jpg/1280px-2003-2005_Honda_Pilot_--_10-19-2011.jpg",
+  "sketchfab": {
+    "uid": "282daa30bda44dd0b81e245778eda309",
+    "name": "2005 Honda Pilot Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

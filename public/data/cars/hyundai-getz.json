@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-getz",
+  "make": "Hyundai",
+  "model": "Getz",
+  "generation": null,
+  "aka": [
+    "TB",
+    "Inokom Getz",
+    "Click",
+    "Blade Electron"
+  ],
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hyundai_Getz_-_Flickr_-_mick_-_Lumix.jpg/960px-Hyundai_Getz_-_Flickr_-_mick_-_Lumix.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Getz is a supermini manufactured and marketed by Hyundai from 2002 to 2011 in three- and five-door hatchback body styles over a single generation — and marketed globally except in the United States, Canada and China.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Getz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hyundai_Getz_-_Flickr_-_mick_-_Lumix.jpg/1920px-Hyundai_Getz_-_Flickr_-_mick_-_Lumix.jpg",
+  "sketchfab": {
+    "uid": "a82f0f2d937e4cf694c2de7cdbfba093",
+    "name": "Hyundai Getz 2006",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

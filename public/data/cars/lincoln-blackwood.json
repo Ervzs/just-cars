@@ -2,6 +2,8 @@
   "id": "lincoln-blackwood",
   "make": "Lincoln",
   "model": "Blackwood",
+  "generation": null,
+  "aka": [],
   "years": [
     2002,
     2003
@@ -23,6 +25,9 @@
     "mpgCombined": 13,
     "evRangeMiles": null
   },
+  "variants": [
+    "Blackwood"
+  ],
   "description": "The Lincoln Blackwood is a luxury full-size pickup truck that was marketed by the Lincoln division of Ford Motor Company for the 2002 model year. The first pickup truck marketed by Lincoln, the Blackwood was derived from the Ford F-150 SuperCrew and the Lincoln Navigator. Drawing its name from its simulated black woodgrain cargo box, the Blackwood was offered solely with a black-painted exterior.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Blackwood",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2002_Lincoln_Blackwood_1.jpg/1920px-2002_Lincoln_Blackwood_1.jpg",

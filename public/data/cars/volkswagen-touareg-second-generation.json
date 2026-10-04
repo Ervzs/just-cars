@@ -1,0 +1,56 @@
+{
+  "id": "volkswagen-touareg-second-generation",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "generation": "Second generation",
+  "aka": [
+    "VW Touareg",
+    "Touareg R50",
+    "Race Touareg",
+    "Touraeg",
+    "R50",
+    "Toaureg R50",
+    "Toaureg",
+    "VW Toaureg"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/VW_Touareg_V8_TDI_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_2._Juli_2011%2C_D%C3%BCsseldorf.jpg/960px-VW_Touareg_V8_TDI_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_2._Juli_2011%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Touareg"
+  ],
+  "description": "The Volkswagen Touareg is a mid-size luxury crossover SUV produced by Volkswagen from August 2002 until March 2026. The vehicle takes its name from the nomadic Tuareg people, inhabitants of the Saharan interior in North Africa. It served as Volkswagen's flagship SUV throughout its production life and was built exclusively at the Volkswagen Bratislava Plant in Slovakia, with CKD assembly in Malaysia commencing in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touareg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/VW_Touareg_V8_TDI_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_2._Juli_2011%2C_D%C3%BCsseldorf.jpg/1920px-VW_Touareg_V8_TDI_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_2._Juli_2011%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "a9d8eeb835cf4e10be03e32c99f54cfb",
+    "name": "2011 Volkswagen Touareg",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

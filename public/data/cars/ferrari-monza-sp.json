@@ -1,0 +1,38 @@
+{
+  "id": "ferrari-monza-sp",
+  "make": "Ferrari",
+  "model": "Monza SP",
+  "generation": null,
+  "aka": [
+    "Monza SP1",
+    "Monza SP2"
+  ],
+  "years": [
+    2023
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg/960px-Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Monza SP1",
+    "Monza SP2"
+  ],
+  "description": "The Ferrari Monza SP1 and SP2 are limited production sports cars produced by Italian automobile manufacturer Ferrari, introduced in 2018 for the 2019 model year. The cars mark the start of a new lineage of models called the \"Icona\" series, a program aimed at creating special cars inspired by classic Ferrari models, all to be produced in limited series. The first cars of the new lineage are the Monza SP1 and SP2, whose designs are inspired by the 750 Monza, 250 Testarossa and 166 MM. The SP1 and SP2 nomenclature refers to the number of seats for each model. 499 units were built at a price of €1.58 million before options.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Monza_SP",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg/1920px-Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_005_%28cropped%29.jpg",
+  "sketchfab": null
+}

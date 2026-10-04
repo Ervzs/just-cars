@@ -1,0 +1,48 @@
+{
+  "id": "jeep-gladiator-sj",
+  "make": "Jeep",
+  "model": "Gladiator (SJ)",
+  "generation": null,
+  "aka": [
+    "Honcho",
+    "J-Series",
+    "Pickup",
+    "J10",
+    "J20"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/1974_Jeep_J10_pickup_truck_all-original_finished_in_green_at_2017_AMO_meet_01of12.jpg/960px-1974_Jeep_J10_pickup_truck_all-original_finished_in_green_at_2017_AMO_meet_01of12.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Gladiator",
+    "Gladiator Pickup"
+  ],
+  "description": "The Jeep Gladiator, Jeep Pickup or J-series is a series of full-size pickup trucks based on the large Jeep SJ (Wagoneer) platform, which was built and sold under numerous marques from 1962 until 1988. The Jeep Gladiator/Pickup design is noteworthy for remaining in production for more than 26 years on a single automobile platform generation. The Gladiator was the basis of the first post-war U.S. Army trucks designed to be civilian vehicles and adapted to military use. Numerous versions of the Jeep pickup were built in other markets, including Mexico by Vehículos Automotores Mexicanos (VAM) and Argentina by Industrias Kaiser Argentina (IKA).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Gladiator_(SJ)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/1974_Jeep_J10_pickup_truck_all-original_finished_in_green_at_2017_AMO_meet_01of12.jpg/1920px-1974_Jeep_J10_pickup_truck_all-original_finished_in_green_at_2017_AMO_meet_01of12.jpg",
+  "sketchfab": null
+}

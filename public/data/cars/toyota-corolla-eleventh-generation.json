@@ -1,0 +1,54 @@
+{
+  "id": "toyota-corolla-eleventh-generation",
+  "make": "Toyota",
+  "model": "Corolla",
+  "generation": "Eleventh generation",
+  "aka": [
+    "Altis",
+    "Corolla Sprinter",
+    "Seca",
+    "Corolla Seca",
+    "Corolla AE70",
+    "corolla gts",
+    "Corolla 80",
+    "Axio"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2013_Toyota_Corolla-Axio-Hybrid_01.jpg/960px-2013_Toyota_Corolla-Axio-Hybrid_01.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corolla"
+  ],
+  "description": "The Toyota Corolla  is a series of compact cars manufactured and marketed globally by the Japanese automaker Toyota Motor Corporation since 1966. Since 1997, the Corolla has remained the best-selling automobile nameplate of all time, surpassing the Volkswagen Beetle. Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021, and has sold over 54 million units as of early 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2013_Toyota_Corolla-Axio-Hybrid_01.jpg/1280px-2013_Toyota_Corolla-Axio-Hybrid_01.jpg",
+  "sketchfab": {
+    "uid": "d87af59849814c5cb35a0c233f2c2f19",
+    "name": "toyota-corolla-e170-2017",
+    "author": "Blender Boy",
+    "authorUrl": "https://sketchfab.com/Blender_Boy1",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

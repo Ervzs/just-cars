@@ -1,0 +1,45 @@
+{
+  "id": "buick-lacrosse-third-generation",
+  "make": "Buick",
+  "model": "LaCrosse",
+  "generation": "Third generation",
+  "aka": [
+    "Allure",
+    "2008 Buick LaCrosse",
+    "LaX",
+    "Daewoo Alpheon",
+    "Alpheon"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2018_Buick_LaCrosse_Premium_AWD%2C_Front_left%2C_05-19-2020.jpg/960px-2018_Buick_LaCrosse_Premium_AWD%2C_Front_left%2C_05-19-2020.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 35,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "LaCrosse"
+  ],
+  "description": "The Buick LaCrosse is a four-door, front-wheel-drive sedan manufactured by Buick since the 2005 model year, and marketed variously across four generations for the North American and Chinese markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_LaCrosse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2018_Buick_LaCrosse_Premium_AWD%2C_Front_left%2C_05-19-2020.jpg/1920px-2018_Buick_LaCrosse_Premium_AWD%2C_Front_left%2C_05-19-2020.jpg",
+  "sketchfab": null
+}

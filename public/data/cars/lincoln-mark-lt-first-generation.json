@@ -1,0 +1,36 @@
+{
+  "id": "lincoln-mark-lt-first-generation",
+  "make": "Lincoln",
+  "model": "Mark LT",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2006_Lincoln_Mark_LT_in_White%2C_front_left.jpg/960px-2006_Lincoln_Mark_LT_in_White%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Mark LT"
+  ],
+  "description": "The Lincoln Mark LT is a luxury full-size pickup truck manufactured and marketed by Ford's Lincoln division for model years 2006–2008 and 2006–2014 (Mexico) as a badge engineered, luxury-trimmed variant of the Ford F-150 truck — and a successor to the 2002-only Lincoln Blackwood.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Mark_LT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2006_Lincoln_Mark_LT_in_White%2C_front_left.jpg/1920px-2006_Lincoln_Mark_LT_in_White%2C_front_left.jpg",
+  "sketchfab": null
+}

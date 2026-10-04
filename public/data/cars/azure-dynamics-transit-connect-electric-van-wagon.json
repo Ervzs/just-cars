@@ -2,6 +2,8 @@
   "id": "azure-dynamics-transit-connect-electric-van-wagon",
   "make": "Azure Dynamics",
   "model": "Transit Connect Electric Van/Wagon",
+  "generation": null,
+  "aka": [],
   "years": [
     2012
   ],
@@ -22,6 +24,9 @@
     "mpgCombined": 62,
     "evRangeMiles": 56
   },
+  "variants": [
+    "Transit Connect Electric Van/Wagon"
+  ],
   "description": null,
   "wikipediaUrl": null,
   "image": null,

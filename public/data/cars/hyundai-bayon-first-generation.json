@@ -1,0 +1,26 @@
+{
+  "id": "hyundai-bayon-first-generation",
+  "make": "Hyundai",
+  "model": "Bayon",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Hyundai_Bayon_IMG_6649.jpg/960px-Hyundai_Bayon_IMG_6649.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Hyundai Bayon is a five-door subcompact crossover SUV produced by the South Korean manufacturer Hyundai. The Bayon is based on the third-generation i20 and is not offered with all-wheel drive.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Bayon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Hyundai_Bayon_IMG_6649.jpg/1920px-Hyundai_Bayon_IMG_6649.jpg",
+  "sketchfab": null
+}

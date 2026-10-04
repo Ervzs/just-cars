@@ -1,0 +1,49 @@
+{
+  "id": "bmw-7-series-fourth-generation",
+  "make": "BMW",
+  "model": "7 Series",
+  "generation": "Fourth generation",
+  "aka": [
+    "700 Series",
+    "7",
+    "745",
+    "745i",
+    "750i",
+    "750",
+    "760i",
+    "7 Series Sedan"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.8L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/BMW_745i_1_--_04-22-2010.jpg/960px-BMW_745i_1_--_04-22-2010.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "4.8L 8-cyl",
+    "displacementL": 4.8,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "7 Series"
+  ],
+  "description": "The BMW 7 Series is a full-size luxury sedan manufactured and marketed by the German automaker BMW since 1977. It is the successor to the BMW E3 \"New Six\" sedan and is now in its seventh generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_7_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/BMW_745i_1_--_04-22-2010.jpg/1920px-BMW_745i_1_--_04-22-2010.jpg",
+  "sketchfab": null
+}

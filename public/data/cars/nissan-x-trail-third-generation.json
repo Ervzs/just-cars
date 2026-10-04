@@ -1,0 +1,39 @@
+{
+  "id": "nissan-x-trail-third-generation",
+  "make": "Nissan",
+  "model": "X-Trail",
+  "generation": "Third generation",
+  "aka": [
+    "X-Trail FCHV",
+    "Dongfeng Fengdu MX6",
+    "Fengdu MX6"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2014_Nissan_X-Trail_%28T32%29_ST_2WD_wagon_%282015-08-07%29_02.jpg/960px-2014_Nissan_X-Trail_%28T32%29_ST_2WD_wagon_%282015-08-07%29_02.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan X-Trail  is a compact crossover SUV produced by the Japanese automaker Nissan since 2000, replacing the Rasheen and Terrano II. Since 2018, it is positioned between the Qashqai and the larger Murano.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2014_Nissan_X-Trail_%28T32%29_ST_2WD_wagon_%282015-08-07%29_02.jpg/1920px-2014_Nissan_X-Trail_%28T32%29_ST_2WD_wagon_%282015-08-07%29_02.jpg",
+  "sketchfab": {
+    "uid": "30663a0fbc9e4e32b6f7adacca2b603c",
+    "name": "Nissan X-Trail MK3 T32 2013-2021",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

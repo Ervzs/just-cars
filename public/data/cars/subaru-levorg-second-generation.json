@@ -1,0 +1,41 @@
+{
+  "id": "subaru-levorg-second-generation",
+  "make": "Subaru",
+  "model": "Levorg",
+  "generation": "Second generation",
+  "aka": [
+    "Levorg GT",
+    "WRX Sportswagon",
+    "WRX-GTB",
+    "WRX GT",
+    "WRX Wagon",
+    "Levorg Layback"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2024_Subaru_Levorg_Layback_Limited_EX_in_Asteroid_Grey_Pearl%2C_front_left.jpg/960px-2024_Subaru_Levorg_Layback_Limited_EX_in_Asteroid_Grey_Pearl%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Subaru Levorg  is a mid-size car manufactured since 2014 by Subaru. According to the company, the name Levorg is a blended word or portmanteau of three words: LEgacy, reVOlution and touRinG. The first Levorg shares its platform with the Impreza/WRX and the Legacy. The second generation Levorg sits on the Subaru Global Platform used by the majority of Subaru's family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Levorg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2024_Subaru_Levorg_Layback_Limited_EX_in_Asteroid_Grey_Pearl%2C_front_left.jpg/1920px-2024_Subaru_Levorg_Layback_Limited_EX_in_Asteroid_Grey_Pearl%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "97986892e112401f9f4ac6c6feac9693",
+    "name": "Subaru Levorg 2025",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

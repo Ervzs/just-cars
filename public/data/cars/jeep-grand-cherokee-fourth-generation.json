@@ -1,0 +1,56 @@
+{
+  "id": "jeep-grand-cherokee-fourth-generation",
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "generation": "Fourth generation",
+  "aka": [
+    "grand cherokee srt-8",
+    "Grand Cherokee 5.9",
+    "srt8",
+    "Laredo",
+    "GC",
+    "Grand Cherokee L"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/4th_Jeep_Grand_Cherokee_--_03-21-2012_2.JPG/960px-4th_Jeep_Grand_Cherokee_--_03-21-2012_2.JPG",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Grand Cherokee"
+  ],
+  "description": "The Jeep Grand Cherokee is a range of mid-sized sport utility vehicles produced by American manufacturer Jeep. At its introduction, while most SUVs were still manufactured with body-on-frame construction, the Grand Cherokee has used a unibody chassis from the start.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Grand_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/4th_Jeep_Grand_Cherokee_--_03-21-2012_2.JPG/1280px-4th_Jeep_Grand_Cherokee_--_03-21-2012_2.JPG",
+  "sketchfab": {
+    "uid": "032f67b38e7c4302b9b05b1875077186",
+    "name": "2018 Jeep Grand Cherokee Trackhawk",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

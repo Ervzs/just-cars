@@ -2,6 +2,8 @@
   "id": "maserati-grancabrio",
   "make": "Maserati",
   "model": "Grancabrio",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -10,7 +12,7 @@
   "vehicleClass": "Subcompact Cars",
   "fuelType": "Premium",
   "engine": "3.0L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Maserati_Mod%C3%A8ne_0002.JPG/960px-Maserati_Mod%C3%A8ne_0002.JPG",
+  "thumbnail": null,
   "has3d": true,
   "representativeYear": 2026,
   "specs": {
@@ -24,9 +26,12 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
-  "description": "Maserati S.p.A. is an Italian luxury car manufacturer. Established on 1 December 1914 in Bologna, Italy, the company's headquarters are now in Modena, and its emblem is a trident. The company has been owned by Stellantis since 2021.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Maserati_Mod%C3%A8ne_0002.JPG/1280px-Maserati_Mod%C3%A8ne_0002.JPG",
+  "variants": [
+    "Grancabrio"
+  ],
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
   "sketchfab": {
     "uid": "1c13884484804852a1e9c83672a9960b",
     "name": "2018 Maserati GranCabrio Sport",

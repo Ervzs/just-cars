@@ -1,0 +1,40 @@
+{
+  "id": "chery-a3",
+  "make": "Chery",
+  "model": "A3",
+  "generation": null,
+  "aka": [
+    "Chance",
+    "Niche",
+    "J3",
+    "Cielo"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chery_A3_at_the_2010_Guangzhou_Motorshow_1.jpg/960px-Chery_A3_at_the_2010_Guangzhou_Motorshow_1.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Chery A3 is a compact car built by the Chinese manufacturer Chery between 2008–2015, offered as a 4-door sedan and as a 5-door hatchback. It was revealed for the first time as a concept car at the 2006 Beijing Motor Show and production car two years later which went on sale in September 2008. The car was designed by the Italian studio Pininfarina.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chery_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chery_A3_at_the_2010_Guangzhou_Motorshow_1.jpg/1920px-Chery_A3_at_the_2010_Guangzhou_Motorshow_1.jpg",
+  "sketchfab": {
+    "uid": "9361c10bacc94a94a5bdcdcc084018a8",
+    "name": "Chery A3 Sedan",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

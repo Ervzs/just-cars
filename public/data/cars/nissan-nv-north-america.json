@@ -1,0 +1,32 @@
+{
+  "id": "nissan-nv-north-america",
+  "make": "Nissan",
+  "model": "NV (North America)",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2012_Nissan_NV_2500_HD_--_09-15-2011.jpg/960px-2012_Nissan_NV_2500_HD_--_09-15-2011.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan NV is a full-size van produced by Nissan from 2011 to 2021. It was developed and marketed for the United States and Canada, where Nissan had not previously been present in the full-size segment. Until the introduction of the Nissan NV, Mexico was the only country in North America selling a full-size Nissan van, as the Nissan Urvan was sold there.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_NV_(North_America)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2012_Nissan_NV_2500_HD_--_09-15-2011.jpg/1920px-2012_Nissan_NV_2500_HD_--_09-15-2011.jpg",
+  "sketchfab": null
+}

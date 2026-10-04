@@ -2,6 +2,8 @@
   "id": "rolls-royce-spectre",
   "make": "Rolls-Royce",
   "model": "Spectre",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -25,6 +27,9 @@
     "mpgCombined": 82,
     "evRangeMiles": 324
   },
+  "variants": [
+    "Spectre"
+  ],
   "description": "The Rolls-Royce Spectre is a full-sized luxury electric grand tourer manufactured by Rolls-Royce Motor Cars. The Spectre was formally launched in Napa Valley, California in 2023. The first deliveries of the car were made in the last quarter of 2023.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Spectre",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/1920px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg",

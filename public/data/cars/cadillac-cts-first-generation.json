@@ -1,0 +1,50 @@
+{
+  "id": "cadillac-cts-first-generation",
+  "make": "Cadillac",
+  "model": "CTS",
+  "generation": "First generation",
+  "aka": [
+    "CTS-V",
+    "CTC-V",
+    "CTC",
+    "CTW",
+    "CTS V-Series"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cadillac_CTS_002.JPG/960px-Cadillac_CTS_002.JPG",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.8L 6-cyl",
+    "displacementL": 2.8,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 25,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "CTS"
+  ],
+  "description": "The Cadillac CTS is a luxury car manufactured and marketed by General Motors under the Cadillac brand from 2002 until 2019 across three generations. Initially available as a 4-door sedan using the GM Sigma platform, GM offered the second-generation CTS as a 4-door sedan, 2-door coupe, and 5-door sport wagon, and the third generation as a sedan, using a stretched version of the GM Alpha platform. High performance sedan variants were offered for each generation as the CTS-V, with wagon and coupe variants offered for the second generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CTS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cadillac_CTS_002.JPG/1280px-Cadillac_CTS_002.JPG",
+  "sketchfab": {
+    "uid": "b15bc02063e546d697ca3b6aa851e91d",
+    "name": "2006 Cadillac CTS",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

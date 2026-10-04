@@ -1,0 +1,53 @@
+{
+  "id": "kia-carens-second-generation",
+  "make": "Kia",
+  "model": "Carens",
+  "generation": "Second generation",
+  "aka": [
+    "Rondo",
+    "Naza Citra",
+    "Naza Citra II Rondo",
+    "Rondo7",
+    "Clavis",
+    "Hyundai Neira"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2009-2010_Kia_Rondo7_%28UN_MY10%29_EX-L_wagon_%282011-06-15%29_02.jpg/960px-2009-2010_Kia_Rondo7_%28UN_MY10%29_EX-L_wagon_%282011-06-15%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Rondo"
+  ],
+  "description": "The  Kia Carens is a compact MPV manufactured by Kia since 1999, spanning over four generations, and was marketed worldwide under various nameplates, prominently as the Kia Rondo.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carens",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2009-2010_Kia_Rondo7_%28UN_MY10%29_EX-L_wagon_%282011-06-15%29_02.jpg/1920px-2009-2010_Kia_Rondo7_%28UN_MY10%29_EX-L_wagon_%282011-06-15%29_02.jpg",
+  "sketchfab": {
+    "uid": "36c0db47c10a478f86e97cf20f175e22",
+    "name": "Kia Carens 2010",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "jeep-cherokee-fifth-generation",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "generation": "Fifth generation",
+  "aka": [],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2016_Jeep_Cherokee_Limited_Multjet_II_2.2.jpg/960px-2016_Jeep_Cherokee_Limited_Multjet_II_2.2.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Cherokee"
+  ],
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2016_Jeep_Cherokee_Limited_Multjet_II_2.2.jpg/1920px-2016_Jeep_Cherokee_Limited_Multjet_II_2.2.jpg",
+  "sketchfab": {
+    "uid": "11335c9ff9b54e75a0f6ce80b7357406",
+    "name": "2019 Jeep Cherokee",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

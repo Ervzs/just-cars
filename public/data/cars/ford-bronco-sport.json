@@ -2,6 +2,8 @@
   "id": "ford-bronco-sport",
   "make": "Ford",
   "model": "Bronco Sport",
+  "generation": null,
+  "aka": [],
   "years": [
     2021,
     2022,
@@ -27,6 +29,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "Bronco Sport"
+  ],
   "description": "The Ford Bronco Sport is a compact crossover SUV sold by the Ford Motor Company and marketed under the Ford Bronco nameplate. It was released alongside the sixth generation Bronco body-on-frame SUV, featuring a similar retro and off-road styling in a smaller footprint. The vehicle is based on the front-wheel drive-based, unibody C2 platform, which is also used by the Ford Escape crossover and Maverick pickup.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Bronco_Sport",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2021_Ford_Bronco_Sport_Big_Bend%2C_front_3.15.21.jpg/1920px-2021_Ford_Bronco_Sport_Big_Bend%2C_front_3.15.21.jpg",

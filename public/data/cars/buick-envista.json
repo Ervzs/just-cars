@@ -2,6 +2,8 @@
   "id": "buick-envista",
   "make": "Buick",
   "model": "Envista",
+  "generation": null,
+  "aka": [],
   "years": [
     2024,
     2025,
@@ -24,6 +26,9 @@
     "mpgCombined": 30,
     "evRangeMiles": null
   },
+  "variants": [
+    "Envista"
+  ],
   "description": "The Buick Envista is a subcompact crossover SUV with a fastback design manufactured by General Motors and marketed under the Buick brand since 2022 for the model years 2023 onward, 2024 for North America. It shares the GM VSS-F platform with the Chevrolet Trax.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Envista",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2025_Buick_Envista_in_White_Frost_Tricoat%2C_front_right%2C_09-20-2025.jpg/1920px-2025_Buick_Envista_in_White_Frost_Tricoat%2C_front_right%2C_09-20-2025.jpg",

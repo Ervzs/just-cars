@@ -1,0 +1,52 @@
+{
+  "id": "volvo-s40-first-generation",
+  "make": "Volvo",
+  "model": "S40",
+  "generation": "First generation",
+  "aka": [
+    "The Mystery of Dalarö",
+    "Mystery of dalaroe",
+    "Mystery of Dalarö",
+    "Mystery of Dalaro",
+    "The Mystery of Dalaro",
+    "The Mystery of Dalaroe",
+    "S40 T16 4x4",
+    "S40 EVO"
+  ],
+  "years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.9L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1998_Volvo_V40_CD_2.0_Front.jpg/960px-1998_Volvo_V40_CD_2.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "1.9L 4-cyl",
+    "displacementL": 1.9,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "S40"
+  ],
+  "description": "The Volvo S40 is a series of subcompact executive cars marketed and produced by the Swedish manufacturer Volvo Cars from 1995 to 2012, offered as a more mainstream alternative to the compact executive Volvo 850 and later the Volvo S60 to compete in a lower pricing bracket. The S40 was more or less positioned against premium-leaning small family cars like the Volkswagen Jetta, as well as some mass-market large family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S40",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1998_Volvo_V40_CD_2.0_Front.jpg/1920px-1998_Volvo_V40_CD_2.0_Front.jpg",
+  "sketchfab": null
+}

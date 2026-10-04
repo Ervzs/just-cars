@@ -1,0 +1,51 @@
+{
+  "id": "hyundai-genesis-first-generation",
+  "make": "Hyundai",
+  "model": "Genesis",
+  "generation": "First generation",
+  "aka": [
+    "Concept Genesis",
+    "Genesis Car",
+    "Genesis Sedan",
+    "Rohens",
+    "HCD-14 Genesis",
+    "Genesis DH"
+  ],
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/09_Hyundai_Genesis.jpg/960px-09_Hyundai_Genesis.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Genesis"
+  ],
+  "description": "The Hyundai Genesis is an executive car manufactured and marketed by Hyundai Motor Company over two generations from 2008 until 2016, before it was renamed the Genesis G80. It is a five-passenger, four-door, rear- or all-wheel-drive sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Genesis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/09_Hyundai_Genesis.jpg/1920px-09_Hyundai_Genesis.jpg",
+  "sketchfab": {
+    "uid": "95175f735af343b490b8709767a0271e",
+    "name": "2012 Hyundai Genesis Coupe",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "geely-mr",
+  "make": "Geely",
+  "model": "MR",
+  "generation": null,
+  "aka": [
+    "Merrie",
+    "Uliou"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2004_Geely_Merrie_%28Meiri-Zhixing%29%2C_front_8.6.18.jpg/960px-2004_Geely_Merrie_%28Meiri-Zhixing%29%2C_front_8.6.18.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Geely Merrie is a subcompact car produced by Chinese automaker Geely Automobile from 2003 to 2006. The MR is produced in five-door hatchback and four-door sedan body styles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely_MR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2004_Geely_Merrie_%28Meiri-Zhixing%29%2C_front_8.6.18.jpg/1920px-2004_Geely_Merrie_%28Meiri-Zhixing%29%2C_front_8.6.18.jpg",
+  "sketchfab": null
+}

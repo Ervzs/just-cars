@@ -1,0 +1,35 @@
+{
+  "id": "nissan-micra-k11c",
+  "make": "Nissan",
+  "model": "Micra",
+  "generation": "K11C",
+  "aka": [
+    "March Cup",
+    "Micra Challenge",
+    "March Superturbo R",
+    "March Superturbo",
+    "March Turbo",
+    "Micra C+C",
+    "March R",
+    "Datsun March"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nissan_Micra_Dreit%C3%BCrer_1.0_Jive.JPG/960px-Nissan_Micra_Dreit%C3%BCrer_1.0_Jive.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Micra, also known as the Nissan March , is a supermini car (B-segment) that has been produced by the Japanese automobile manufacturer Nissan from 1982. The March name has always been used in the Japanese markets but also in many export markets across Asia and Latin America and others.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Micra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nissan_Micra_Dreit%C3%BCrer_1.0_Jive.JPG/1280px-Nissan_Micra_Dreit%C3%BCrer_1.0_Jive.JPG",
+  "sketchfab": null
+}

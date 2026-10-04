@@ -2,6 +2,8 @@
   "id": "mini-paceman",
   "make": "MINI",
   "model": "Paceman",
+  "generation": null,
+  "aka": [],
   "years": [
     2014,
     2015,
@@ -24,6 +26,9 @@
     "mpgCombined": 27,
     "evRangeMiles": null
   },
+  "variants": [
+    "Paceman"
+  ],
   "description": "The Mini Paceman is a three-door subcompact SUV sold by German automobile manufacturer BMW under the Mini brand. It is the three-door counterpart of the R60 Mini Countryman. It was introduced as the Paceman Concept at the 2011 North American International Auto Show. The production model debuted in September 2012.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Paceman",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/1920px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg",

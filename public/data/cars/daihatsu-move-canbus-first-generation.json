@@ -1,0 +1,29 @@
+{
+  "id": "daihatsu-move-canbus-first-generation",
+  "make": "Daihatsu",
+  "model": "Move Canbus",
+  "generation": "First generation",
+  "aka": [
+    "Hinata"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Daihatsu_Move_Canbus_102.JPG/960px-Daihatsu_Move_Canbus_102.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Daihatsu Move Canbus  is a retro-styled semi-tall kei car with rear sliding doors manufactured by the Japanese carmaker Daihatsu since 2016. Despite adopting the \"Move\" nameplate, the car shared its underpinnings with the Tanto instead.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daihatsu_Move_Canbus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Daihatsu_Move_Canbus_102.JPG/1280px-Daihatsu_Move_Canbus_102.JPG",
+  "sketchfab": null
+}

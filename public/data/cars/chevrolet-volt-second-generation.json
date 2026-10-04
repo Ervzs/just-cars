@@ -1,0 +1,52 @@
+{
+  "id": "chevrolet-volt-second-generation",
+  "make": "Chevrolet",
+  "model": "Volt",
+  "generation": "Second generation",
+  "aka": [
+    "Chevy Volt",
+    "E-Flex System",
+    "GM Volt",
+    "GM´s battery testing lab",
+    "Volt family",
+    "Volt fire incidents",
+    "2016 Chevrolet Volt",
+    "Chevy Volts"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular Gas or Electricity",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2018_Chevrolet_Volt%2C_front_2.29.20.jpg/960px-2018_Chevrolet_Volt%2C_front_2.29.20.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 43,
+    "mpgHighway": 42,
+    "mpgCombined": 42,
+    "evRangeMiles": 420
+  },
+  "variants": [
+    "Volt"
+  ],
+  "description": "The Chevrolet Volt is a plug-in hybrid electric vehicle car that was manufactured across two generations by General Motors, and also marketed in rebadged variants as the Holden Volt in Australia and New Zealand and the Buick Velite 5 in China, and with a different fascia as the Vauxhall Ampera in the United Kingdom and as the Opel Ampera in the remainder of Europe. Volt production ended in February 2019. While similar in some ways to hybrid vehicles, the Chevy Volt is an electric car with an onboard gasoline generator.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Volt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2018_Chevrolet_Volt%2C_front_2.29.20.jpg/1920px-2018_Chevrolet_Volt%2C_front_2.29.20.jpg",
+  "sketchfab": {
+    "uid": "41ce80f0e9fe4ec289d394acab879778",
+    "name": "Chevrolet Volt",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

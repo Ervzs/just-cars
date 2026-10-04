@@ -1,0 +1,29 @@
+{
+  "id": "gmc-envoy-first-generation",
+  "make": "GMC",
+  "model": "Envoy",
+  "generation": "First generation",
+  "aka": [
+    "Envoy XL",
+    "Envoy XUV",
+    "Envoy Denali",
+    "Envoy XL Denali"
+  ],
+  "years": [
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1998-2000_GMC_Envoy.jpg/960px-1998-2000_GMC_Envoy.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The GMC Envoy is a mid-size SUV manufactured and marketed by General Motors for the 1998 to 2009 model years over two generations. Adopting a nameplate used by GM Canada, the Envoy was phased in as a trim variant of the GMC Jimmy alongside the similar Chevrolet TrailBlazer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Envoy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1998-2000_GMC_Envoy.jpg/960px-1998-2000_GMC_Envoy.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nissan-patrol-seventh-generation",
+  "make": "Nissan",
+  "model": "Patrol",
+  "generation": "Seventh generation",
+  "aka": [
+    "Safari",
+    "Ebro Patrol",
+    "Patrol 4x4",
+    "Patrol GQ",
+    "Polerban Nissan Patrol",
+    "Ebro Patrol Autocarro",
+    "Patrol MQ",
+    "Patrol MK"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/MIAS_2025_-_Nissan_Patrol_Y63_LE_V6T_04.jpg/960px-MIAS_2025_-_Nissan_Patrol_Y63_LE_V6T_04.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Nissan Patrol  is a series of off-road vehicles and full-size SUVs manufactured by Nissan in Japan since 1951 and sold throughout the world. It is Nissan's longest running series of models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Patrol",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/MIAS_2025_-_Nissan_Patrol_Y63_LE_V6T_04.jpg/1920px-MIAS_2025_-_Nissan_Patrol_Y63_LE_V6T_04.jpg",
+  "sketchfab": {
+    "uid": "80162fe6fadd4650a2a6c38fca3662a0",
+    "name": "Nissan Patrol Nismo",
+    "author": "radekstepan",
+    "authorUrl": "https://sketchfab.com/radekstepan",
+    "license": "CC Attribution"
+  }
+}

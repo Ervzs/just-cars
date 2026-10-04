@@ -2,6 +2,10 @@
   "id": "chevrolet-trailblazer",
   "make": "Chevrolet",
   "model": "Trailblazer",
+  "generation": null,
+  "aka": [
+    "Chevy Trailblazer"
+  ],
   "years": [
     2002,
     2003,
@@ -35,6 +39,10 @@
     "mpgCombined": 30,
     "evRangeMiles": null
   },
+  "variants": [
+    "TrailBlazer",
+    "Trailblazer"
+  ],
   "description": "The Chevrolet Trailblazer is an automobile nameplate used by General Motors for its Chevrolet brand since 1999 for several SUV models:TrailBlazer, a name of appearance package for the Chevrolet S-10 Blazer used between 1999 and 2002\nChevrolet Trailblazer, a mid-size SUV produced since 2001 as the successor to the S-10 Blazer\nChevrolet Trailblazer, a subcompact crossover produced since 2020",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Trailblazer",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg/1920px-99-02_Chevrolet_Blazer_TrailBlazer.jpg",

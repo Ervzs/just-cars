@@ -1,0 +1,45 @@
+{
+  "id": "subaru-legacy-sixth-generation",
+  "make": "Subaru",
+  "model": "Legacy",
+  "generation": "Sixth generation",
+  "aka": [
+    "Liberty",
+    "Legacy RS",
+    "B4",
+    "Legacy WRX STi",
+    "Liberty GT"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2015_Subaru_Liberty_%28MY15%29_3.6R_sedan_%282017-07-15%29_01.jpg/960px-2015_Subaru_Liberty_%28MY15%29_3.6R_sedan_%282017-07-15%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 34,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Legacy/Outback",
+    "Legacy"
+  ],
+  "description": "The Subaru Legacy  is a mid-size car built by Japanese automobile manufacturer Subaru from 1989 to 2025. The maker's flagship car, it is unique in its class for offering all-wheel drive as a standard feature, and Subaru's traditional boxer engine.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Legacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2015_Subaru_Liberty_%28MY15%29_3.6R_sedan_%282017-07-15%29_01.jpg/1920px-2015_Subaru_Liberty_%28MY15%29_3.6R_sedan_%282017-07-15%29_01.jpg",
+  "sketchfab": null
+}

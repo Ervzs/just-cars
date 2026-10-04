@@ -1,0 +1,44 @@
+{
+  "id": "bmw-2-series-second-generation-3",
+  "make": "BMW",
+  "model": "2 Series",
+  "generation": "Second generation",
+  "aka": [
+    "2",
+    "M235i Racing",
+    "220i",
+    "216i",
+    "218i",
+    "225i",
+    "M235i",
+    "M240i Racing"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/BMW_220d_%28F74%29_DSC_7359.jpg/960px-BMW_220d_%28F74%29_DSC_7359.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 38,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "2 Series"
+  ],
+  "description": "The BMW 2 Series is a range of subcompact executive cars (C-segment) manufactured by BMW since the year 2014. The 2 Series was created when BMW spun-off the 2-door models of the BMW 1 Series into a separate series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_2_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/BMW_220d_%28F74%29_DSC_7359.jpg/1920px-BMW_220d_%28F74%29_DSC_7359.jpg",
+  "sketchfab": null
+}

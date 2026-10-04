@@ -1,0 +1,48 @@
+{
+  "id": "toyota-corolla-tenth-generation",
+  "make": "Toyota",
+  "model": "Corolla",
+  "generation": "Tenth generation",
+  "aka": [
+    "Altis",
+    "Corolla Sprinter",
+    "Seca",
+    "Corolla Seca",
+    "Corolla AE70",
+    "corolla gts",
+    "Corolla 80",
+    "Axio"
+  ],
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2006-2008_Toyota_Corolla_Axio.jpg/960px-2006-2008_Toyota_Corolla_Axio.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 34,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Corolla"
+  ],
+  "description": "The Toyota Corolla  is a series of compact cars manufactured and marketed globally by the Japanese automaker Toyota Motor Corporation since 1966. Since 1997, the Corolla has remained the best-selling automobile nameplate of all time, surpassing the Volkswagen Beetle. Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021, and has sold over 54 million units as of early 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2006-2008_Toyota_Corolla_Axio.jpg/1920px-2006-2008_Toyota_Corolla_Axio.jpg",
+  "sketchfab": null
+}

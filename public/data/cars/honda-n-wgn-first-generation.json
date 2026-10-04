@@ -1,0 +1,27 @@
+{
+  "id": "honda-n-wgn-first-generation",
+  "make": "Honda",
+  "model": "N-WGN",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2013_Honda_N-WGN_Custom_01.jpg/960px-2013_Honda_N-WGN_Custom_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Honda N-WGN  is a kei car produced by Honda since 2013 over two generations. A Japanese market model, the N-WGN is a five-door hatchback with a front-mounted engine and either front-wheel drive or four-wheel drive. Together with the N-Box, N-One and N-Van, is part of the renewed N lineup of kei class city cars from Honda. The \"N\" prefix was previously used for the late 1960s and 1970s N360; originally it stood for norimono which loosely translates to vehicle. For the new N lineup, the \"N\" represented New, Next, Nippon, and Norimono.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_N-WGN",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2013_Honda_N-WGN_Custom_01.jpg/1280px-2013_Honda_N-WGN_Custom_01.jpg",
+  "sketchfab": null
+}

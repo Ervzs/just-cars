@@ -2,6 +2,13 @@
   "id": "maserati-ghibli",
   "make": "Maserati",
   "model": "Ghibli",
+  "generation": null,
+  "aka": [
+    "Ghibli Cup",
+    "Ghibli II",
+    "Ghibli I",
+    "Ghilbi Cup"
+  ],
   "years": [
     2014,
     2015,
@@ -32,6 +39,9 @@
     "mpgCombined": 20,
     "evRangeMiles": null
   },
+  "variants": [
+    "Ghibli"
+  ],
   "description": "Maserati Ghibli is the name of three different cars produced by Italian automobile manufacturer Maserati: the AM115, a V8 grand tourer from 1967 to 1973; the AM336, a V6 twin-turbocharged coupé from 1992 to 1998; and the M157, an executive saloon from 2013 to 2023.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_Ghibli",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg/1920px-2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg",

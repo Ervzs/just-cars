@@ -2,6 +2,8 @@
   "id": "koenigsegg-regera",
   "make": "Koenigsegg",
   "model": "Regera",
+  "generation": null,
+  "aka": [],
   "years": [
     2019,
     2020
@@ -23,6 +25,9 @@
     "mpgCombined": 11,
     "evRangeMiles": null
   },
+  "variants": [
+    "Regera"
+  ],
   "description": "The Koenigsegg Regera is a limited production, plug-in hybrid grand touring sports car manufactured by Swedish automotive manufacturer Koenigsegg. It was unveiled at the March 2015 Geneva Motor Show. The name Regera is a Swedish verb, meaning \"to reign\" or \"to rule\". Koenigsegg produced 85 Regeras, most of which were sold upon unveiling.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Koenigsegg_Regera",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Regera_%28light_gradient%29.png/1920px-Regera_%28light_gradient%29.png",

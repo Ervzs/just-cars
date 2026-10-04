@@ -1,0 +1,35 @@
+{
+  "id": "haval-h6-coupe-third-generation",
+  "make": "Haval",
+  "model": "H6 Coupe",
+  "generation": "Third generation",
+  "aka": [
+    "Great Wall Haval H6 Coupe"
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2022_Haval_H6_GT_Ultra_front.jpg/960px-2022_Haval_H6_GT_Ultra_front.jpg",
+  "has3d": true,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Haval H6S or H6 Coupe is a coupe compact SUV based on the Haval H6 compact SUV produced by Haval of Great Wall Motor.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haval_H6_Coupe",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2022_Haval_H6_GT_Ultra_front.jpg/1920px-2022_Haval_H6_GT_Ultra_front.jpg",
+  "sketchfab": {
+    "uid": "7b91f18b1f0544fa870250737f7f017a",
+    "name": "Haval H6 Coupe",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}
