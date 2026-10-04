@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 scripts/.cache/
 scripts/.out-test/
+
+# Local docs (screenshots are used by the README)
+docs/*
+!docs/screenshots/
