@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Just Cars mockup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Instrument+Sans:wght@400..700&display=swap" rel="stylesheet">
+<style>
+/* ---------- Mockup chrome (not part of the design) ---------- */
+* { box-sizing: border-box; }
+body { margin: 0; background: #d6d8dc; font: 14px/1.4 system-ui, sans-serif; color: #222; }
+.mk-bar { position: sticky; top: 0; z-index: 50; background: #fff; border-bottom: 1px solid #bbb; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
+.mk-bar strong { margin-right: 8px; }
+.mk-tabs button { font: inherit; padding: 6px 14px; border: 1px solid #999; background: #f4f4f4; border-radius: 6px; cursor: pointer; }
+.mk-tabs button[aria-selected="true"] { background: #222; color: #fff; border-color: #222; }
+.mk-jump { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.mk-jump a { color: #333; }
+.mk-note { max-width: 1280px; margin: 20px auto 0; padding: 0 16px; color: #333; }
+.mk-sec { max-width: 1312px; margin: 0 auto; padding: 28px 16px 8px; scroll-margin-top: 60px; }
+.mk-sec > h2 { font: 600 15px system-ui; margin: 0 0 10px; color: #333; }
+.mk-row { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+.frame { container-type: inline-size; width: 100%; overflow: hidden; border-radius: 10px; box-shadow: 0 1px 0 #0002, 0 8px 30px #0001; }
+.frame.phone { width: 390px; max-width: 100%; border-radius: 28px; border: 8px solid #222; }
+.phone-screen { height: 760px; overflow: auto; }
+img { display: block; max-width: 100%; }
+iframe { display: block; border: 0; width: 100%; height: 100%; }
+:focus-visible { outline: 3px solid #2C5A86; outline-offset: 2px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+/* ============ Direction A: Window sticker ============ */
+.A { --paper: #F2F4F1; --white: #FFFFFF; --ink: #172430; --muted: #56636E; --green: #1F6F4A; --blue: #2C5A86; --rule: #172430;
+  background: var(--paper); color: var(--ink); font-family: Archivo, sans-serif; font-size: 16px; line-height: 1.5; }
+.A a { color: inherit; }
+.A .cond { font-stretch: 70%; }
+.a-wrap { padding: 0 32px 40px; }
+.a-head { display: flex; justify-content: space-between; align-items: end; gap: 16px; padding: 24px 32px 16px; border-bottom: 4px solid var(--rule); background: var(--white); }
+.a-logo { font-size: 40px; line-height: .9; font-weight: 900; font-stretch: 62%; text-decoration: none; letter-spacing: -.01em; }
+.a-count { margin: 0; color: var(--muted); }
+.a-count b { color: var(--ink); }
+.a-filters { display: grid; grid-template-columns: 2.2fr 1fr 1.3fr 1.2fr 1.1fr auto; border-bottom: 1px solid var(--rule); background: var(--white); }
+.a-field { display: flex; flex-direction: column; gap: 2px; padding: 10px 14px; border-right: 1px solid var(--rule); font-size: 13px; color: var(--muted); }
+.a-field:last-child { border-right: 0; }
+.a-field input, .a-field select { font: 600 16px Archivo, sans-serif; color: var(--ink); border: 0; padding: 2px 0; background: transparent; width: 100%; }
+.a-field input::placeholder { color: #8A949C; font-weight: 400; }
+.a-pair { display: flex; gap: 6px; align-items: center; color: var(--ink); }
+.a-toggle { flex-direction: row; align-items: center; gap: 10px; color: var(--ink); font-size: 15px; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.a-toggle input { appearance: none; width: 22px; height: 22px; border: 2px solid var(--ink); margin: 0; display: grid; place-items: center; flex: none; }
+.a-toggle input:checked { background: var(--ink); }
+.a-toggle input:checked::after { content: ""; width: 10px; height: 6px; border: solid #fff; border-width: 0 0 2.5px 2.5px; transform: translateY(-1px) rotate(-45deg); }
+.a-filter-btn { display: none; }
+.a-result { display: flex; justify-content: space-between; padding: 18px 0 14px; color: var(--muted); }
+.a-result select { font: inherit; color: var(--ink); border: 0; background: transparent; font-weight: 600; }
+.grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+.a-card { display: block; text-decoration: none; background: var(--white); border: 2px solid var(--ink); }
+.a-card:hover .a-name { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 4px; }
+.a-photo { position: relative; aspect-ratio: 3 / 2; background: #DDE2DE; border-bottom: 2px solid var(--ink); }
+.a-photo img { width: 100%; height: 100%; object-fit: cover; }
+.a-3d { position: absolute; top: 0; right: 0; background: var(--ink); color: #fff; font-weight: 800; font-stretch: 75%; font-size: 15px; padding: 4px 10px 4px 12px; display: flex; gap: 6px; align-items: center; }
+.a-tag { padding: 12px 14px 14px; }
+.a-make { margin: 0; font-size: 14px; color: var(--muted); }
+.a-name { margin: 0; font-size: 30px; line-height: 1; font-weight: 850; font-stretch: 68%; }
+.a-meta { display: grid; grid-template-columns: auto 1fr; margin: 12px 0 0; border-top: 1px solid var(--rule); font-size: 14px; }
+.a-meta dt, .a-meta dd { margin: 0; padding: 5px 0; border-bottom: 1px solid #C9D0CC; }
+.a-meta dt { color: var(--muted); padding-right: 16px; }
+.a-meta dd { font-weight: 600; text-align: right; }
+.a-pages { display: flex; justify-content: center; gap: 4px; padding-top: 32px; }
+.a-pages a, .a-pages span { min-width: 40px; padding: 8px 12px; text-align: center; border: 2px solid transparent; text-decoration: none; font-weight: 600; }
+.a-pages a[aria-current] { border-color: var(--ink); background: var(--ink); color: #fff; }
+.a-pages .edge { border-color: var(--ink); }
+/* A detail */
+.a-dnav { display: flex; justify-content: space-between; align-items: stretch; border-bottom: 1px solid var(--rule); background: var(--white); }
+.a-dnav a { display: flex; align-items: center; gap: 8px; padding: 12px 24px; text-decoration: none; font-weight: 600; }
+.a-dnav .pn { display: flex; }
+.a-dnav .pn a { border-left: 1px solid var(--rule); flex-direction: column; align-items: flex-start; gap: 0; font-weight: 400; font-size: 13px; color: var(--muted); }
+.a-dnav .pn a b { color: var(--ink); font-size: 16px; }
+.a-dnav .pn a.next { align-items: flex-end; }
+.a-title { padding: 28px 0 20px; display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 8px 24px; }
+.a-title h1 { margin: 0; font-size: clamp(48px, 9cqi, 112px); line-height: .85; font-weight: 900; font-stretch: 62%; letter-spacing: -.01em; }
+.a-title h1 small { display: block; font-size: 22px; font-weight: 500; font-stretch: 100%; color: var(--muted); letter-spacing: 0; margin-bottom: 8px; }
+.a-title p { margin: 0; font-size: 18px; }
+.a-main { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; }
+.a-stage { aspect-ratio: 16 / 10; border: 2px solid var(--ink); background: #1b1f22; }
+.a-stage img { width: 100%; height: 100%; object-fit: cover; }
+.a-attrib { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+.a-label { background: var(--white); border: 3px solid var(--ink); }
+.a-label-head { display: flex; justify-content: space-between; align-items: baseline; padding: 10px 14px; background: var(--ink); color: #fff; }
+.a-label-head b { font-size: 22px; font-weight: 850; font-stretch: 70%; }
+.a-mpg { display: grid; grid-template-columns: 1fr 1.3fr 1fr; align-items: center; border-bottom: 3px solid var(--ink); background: linear-gradient(var(--green), var(--green)) center / 1.3fr 100% no-repeat; }
+.a-mpg div { padding: 14px 6px; text-align: center; }
+.a-mpg b { display: block; font-size: 40px; line-height: 1; font-weight: 850; font-stretch: 70%; }
+.a-mpg .big { background: var(--green); color: #fff; padding: 18px 6px; }
+.a-mpg .big b { font-size: 72px; }
+.a-mpg small { font-size: 13px; }
+.a-specs { margin: 0; padding: 6px 14px 12px; display: grid; grid-template-columns: auto 1fr; }
+.a-specs dt, .a-specs dd { margin: 0; padding: 8px 0; border-bottom: 1px solid #C9D0CC; }
+.a-specs dt { color: var(--muted); padding-right: 16px; }
+.a-specs dd { font-weight: 650; text-align: right; }
+.a-specs > :nth-last-child(-n+2) { border-bottom: 0; }
+.a-label-foot { padding: 8px 14px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--muted); }
+.a-about { max-width: 68ch; padding-top: 32px; }
+.a-about h2 { font-size: 30px; font-weight: 850; font-stretch: 70%; margin: 0 0 8px; line-height: 1.1; }
+.a-about p { margin: 0 0 12px; font-size: 17px; line-height: 1.6; }
+.a-about a { color: var(--blue); font-weight: 600; }
+/* A states */
+.a-skel { background: var(--white); border: 2px solid #C9D0CC; }
+.a-skel .s1 { aspect-ratio: 3/2; background: #E3E7E4; }
+.a-skel .s2 { height: 14px; width: 40%; margin: 14px; background: #E3E7E4; }
+.a-skel .s3 { height: 28px; width: 70%; margin: 0 14px 18px; background: #E3E7E4; }
+.A .shimmer { animation: pulse 1.4s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: .45; } }
+.a-empty { border: 2px dashed var(--ink); background: var(--white); padding: 48px 24px; text-align: center; }
+.a-empty h2 { margin: 0 0 6px; font-size: 34px; font-weight: 850; font-stretch: 70%; }
+.a-empty p { margin: 0 auto 20px; color: var(--muted); max-width: 46ch; }
+.a-btn { font: 700 16px Archivo, sans-serif; background: var(--ink); color: #fff; border: 0; padding: 12px 20px; cursor: pointer; }
+@container (max-width: 760px) {
+  .a-head { padding: 16px; flex-direction: column; align-items: start; gap: 4px; }
+  .a-wrap { padding: 0 16px 32px; }
+  .a-filters { grid-template-columns: 1fr auto; }
+  .a-filters .a-field:not(.a-search) { display: none; }
+  .a-filter-btn { display: flex; align-items: center; gap: 6px; font: 700 15px Archivo, sans-serif; background: var(--ink); color: #fff; border: 0; padding: 0 16px; }
+  .a-main { grid-template-columns: 1fr; }
+  .a-dnav a { padding: 12px 16px; }
+  .a-dnav .pn a span { display: none; }
+  .a-title h1 small { font-size: 18px; }
+  .a-mpg .big b { font-size: 60px; }
+}
+
+/* ============ Direction B: Night garage ============ */
+.B { --bg: #1D2732; --panel: #263443; --line: #3A4C5F; --text: #E8EDF2; --muted: #9AABBC; --amber: #F2A33A; --amber-ink: #2A1A04;
+  background: var(--bg); color: var(--text); font-family: "Instrument Sans", sans-serif; font-size: 16px; line-height: 1.55; }
+.B a { color: inherit; }
+.B :focus-visible { outline-color: var(--amber); }
+.B .disp { font-family: "Bricolage Grotesque", sans-serif; }
+.b-wrap { padding: 0 40px 48px; }
+.b-head { display: flex; justify-content: space-between; align-items: center; padding: 24px 40px; }
+.b-logo { font: 800 26px/1 "Bricolage Grotesque", sans-serif; text-decoration: none; display: flex; align-items: center; gap: 10px; letter-spacing: -.02em; }
+.b-logo i { width: 14px; height: 14px; border-radius: 50%; background: var(--amber); box-shadow: 0 0 18px var(--amber); }
+.b-head nav { color: var(--muted); display: flex; gap: 24px; }
+.b-hero { padding: 24px 0 28px; }
+.b-hero h1 { font: 700 clamp(40px, 6.4cqi, 80px)/0.98 "Bricolage Grotesque", sans-serif; letter-spacing: -.035em; margin: 0 0 24px; max-width: 14ch; }
+.b-search { display: flex; align-items: center; gap: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 6px 6px 6px 22px; max-width: 640px; }
+.b-search input { flex: 1; font: 500 18px "Instrument Sans", sans-serif; color: var(--text); background: transparent; border: 0; padding: 10px 0; min-width: 0; }
+.b-search input::placeholder { color: var(--muted); }
+.b-search input:focus { outline: none; }
+.b-search:focus-within { border-color: var(--amber); }
+.b-filters { display: flex; flex-wrap: wrap; gap: 10px; padding-top: 16px; align-items: center; }
+.b-chip { font: 500 15px "Instrument Sans", sans-serif; color: var(--text); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 8px 34px 8px 16px; appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%239AABBC' stroke-width='1.6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; }
+.b-chip option { color: #111; }
+.b-chip.on { border-color: var(--amber); color: var(--amber); }
+.b-switch { display: inline-flex; align-items: center; gap: 10px; cursor: pointer; margin-left: 6px; }
+.b-switch input { appearance: none; width: 44px; height: 26px; border-radius: 999px; background: var(--line); position: relative; margin: 0; transition: background .15s; }
+.b-switch input::after { content: ""; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; background: var(--text); transition: transform .15s; }
+.b-switch input:checked { background: var(--amber); }
+.b-switch input:checked::after { transform: translateX(18px); background: var(--amber-ink); }
+.b-filter-btn { display: none; }
+.b-result { color: var(--muted); padding: 28px 0 16px; display: flex; justify-content: space-between; }
+.B .grid { gap: 32px 24px; }
+.b-card { display: block; text-decoration: none; }
+.b-photo { position: relative; aspect-ratio: 4 / 3; border-radius: 16px; overflow: hidden; background: var(--panel); }
+.b-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.b-card:hover img { transform: scale(1.03); }
+.b-3d { position: absolute; left: 12px; top: 12px; background: var(--amber); color: var(--amber-ink); font: 700 13px/1 "Instrument Sans", sans-serif; padding: 6px 10px 6px 8px; border-radius: 999px; display: flex; align-items: center; gap: 6px; }
+.b-card h3 { font: 700 26px/1.1 "Bricolage Grotesque", sans-serif; letter-spacing: -.02em; margin: 14px 0 2px; }
+.b-card h3 span { display: block; font: 500 14px "Instrument Sans", sans-serif; color: var(--muted); letter-spacing: 0; margin-bottom: 2px; }
+.b-card p { margin: 0; color: var(--muted); font-size: 15px; }
+.b-pages { display: flex; justify-content: center; align-items: center; gap: 6px; padding-top: 48px; color: var(--muted); }
+.b-pages a { min-width: 42px; height: 42px; display: grid; place-items: center; padding: 0 14px; border-radius: 999px; text-decoration: none; color: var(--text); }
+.b-pages a[aria-current] { background: var(--text); color: var(--bg); font-weight: 700; }
+.b-pages .edge { border: 1px solid var(--line); }
+/* B detail */
+.b-dnav { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 20px 0; }
+.b-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid var(--line); border-radius: 999px; padding: 8px 16px; text-decoration: none; font-weight: 500; white-space: nowrap; }
+.b-pill:hover { border-color: var(--text); }
+.b-dnav .pn { display: flex; gap: 8px; }
+.b-title { padding: 8px 0 24px; }
+.b-title h1 { font: 800 clamp(52px, 10cqi, 140px)/.88 "Bricolage Grotesque", sans-serif; letter-spacing: -.045em; margin: 0; }
+.b-title h1 span { display: block; font-size: .32em; font-weight: 500; letter-spacing: -.01em; color: var(--muted); margin-bottom: .2em; }
+.b-title p { margin: 14px 0 0; color: var(--muted); font-size: 17px; }
+.b-stage { aspect-ratio: 21 / 9; border-radius: 24px; overflow: hidden; background: radial-gradient(ellipse 60% 40% at 50% 85%, #34475B, #141C24 70%); }
+.b-stage img { width: 100%; height: 100%; object-fit: cover; }
+.b-hint { margin: 10px 0 0; color: var(--muted); font-size: 14px; display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.b-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); margin: 36px 0 0; border-top: 1px solid var(--line); }
+.b-stats div { padding: 18px 20px 18px 0; border-bottom: 1px solid var(--line); }
+.b-stats dt { color: var(--muted); font-size: 14px; }
+.b-stats dd { margin: 2px 0 0; font: 600 22px/1.2 "Bricolage Grotesque", sans-serif; letter-spacing: -.01em; }
+.b-stats .hero dd { font-size: 44px; font-weight: 700; color: var(--amber); line-height: 1; white-space: nowrap; }
+.b-stats .hero small { font-size: 18px; font-weight: 600; }
+.b-about { display: grid; grid-template-columns: 1fr 2fr; gap: 24px 48px; padding-top: 48px; }
+.b-about h2 { font: 700 30px/1.1 "Bricolage Grotesque", sans-serif; letter-spacing: -.02em; margin: 0; }
+.b-about p { margin: 0 0 14px; font-size: 18px; line-height: 1.65; max-width: 62ch; }
+.b-about a.wiki { color: var(--amber); font-weight: 600; }
+/* B states */
+.b-skel .s1 { aspect-ratio: 4/3; border-radius: 16px; background: var(--panel); }
+.b-skel .s2 { height: 14px; width: 35%; margin: 16px 0 8px; border-radius: 6px; background: var(--panel); }
+.b-skel .s3 { height: 26px; width: 65%; border-radius: 6px; background: var(--panel); }
+.B .shimmer { animation: pulse 1.4s ease-in-out infinite; }
+.b-empty { text-align: center; padding: 72px 24px; border: 1px dashed var(--line); border-radius: 24px; }
+.b-empty h2 { font: 700 36px/1.1 "Bricolage Grotesque", sans-serif; letter-spacing: -.02em; margin: 0 0 8px; }
+.b-empty p { color: var(--muted); max-width: 44ch; margin: 0 auto 24px; }
+.b-btn { font: 600 16px "Instrument Sans", sans-serif; background: var(--amber); color: var(--amber-ink); border: 0; border-radius: 999px; padding: 12px 22px; cursor: pointer; }
+@container (max-width: 760px) {
+  .b-head, .b-wrap { padding-left: 16px; padding-right: 16px; }
+  .b-head nav { display: none; }
+  .b-filters > :not(.b-filter-btn) { display: none; }
+  .b-filter-btn { display: inline-flex; align-items: center; gap: 8px; }
+  .b-stage { aspect-ratio: 4 / 3.4; border-radius: 18px; }
+  .b-about { grid-template-columns: 1fr; padding-top: 32px; }
+  .b-dnav .pn .b-pill span { display: none; }
+  .b-stats .hero dd { font-size: 38px; }
+}
+</style>
+</head>
+<body>
+
+<div class="mk-bar">
+  <strong>Just Cars mockup</strong>
+  <div class="mk-tabs" role="tablist" aria-label="Visual direction">
+    <button role="tab" data-dir="A" aria-selected="true">A: Window sticker</button>
+    <button role="tab" data-dir="B" aria-selected="false">B: Night garage</button>
+  </div>
+  <nav class="mk-jump" aria-label="Jump to section">
+    <a href="#home">Home grid</a><a href="#d3">Detail with 3D</a><a href="#dphoto">Detail without 3D</a><a href="#mobile">Mobile</a><a href="#states">Loading and empty</a>
+  </nav>
+</div>
+<p class="mk-note" id="mk-desc"></p>
+<main id="root"></main>
+
+<script>
+const T = (p, w) => `https://thumb.wikimedia.org/wikipedia/commons/thumb/${p}/${w}px-${p.split('/').pop()}`;
+const range = (a, b) => Array.from({ length: b - a + 1 }, (_, i) => a + i);
+const CARS = [
+  { id: 'toyota-supra', make: 'Toyota', model: 'GR Supra', years: range(2020, 2026), vehicleClass: 'Two Seaters', fuelType: 'Premium Gasoline',
+    img: 'e/e5/2020_Toyota_GR_Supra_%28United_States%29.png', representativeYear: 2026,
+    specs: { engine: '3.0L 6-cyl turbo', transmission: 'Automatic (S8)', drive: 'Rear-Wheel Drive', mpgCity: 22, mpgHighway: 30, mpgCombined: 25, evRangeMiles: null },
+    description: 'The Toyota Supra is a sports car and grand tourer manufactured and developed by the Toyota Motor Corporation beginning in 1978. The name "supra" is taken from the Latin prefix meaning "above", "to surpass" or "go beyond".',
+    sketchfab: { uid: 'eb9bb1eb41db431cb078088ae1ce45f8', name: 'Toyota Supra MK IV (1994)', author: 'Martin Trafas', authorUrl: 'https://sketchfab.com/TinoD2', license: 'CC Attribution' } },
+  { id: 'mazda-mx-5-miata', make: 'Mazda', model: 'MX-5 Miata', years: range(2000, 2026), vehicleClass: 'Two Seaters', fuelType: 'Regular Gasoline',
+    img: '9/95/Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg', representativeYear: 2026,
+    specs: { engine: '2.0L 4-cyl', transmission: 'Manual 6-spd', drive: 'Rear-Wheel Drive', mpgCity: 26, mpgHighway: 34, mpgCombined: 29, evRangeMiles: null },
+    description: 'The Mazda MX-5 is a lightweight two-seat sports car manufactured and marketed by Mazda. In the United States it is sold as the Mazda MX-5 Miata.', sketchfab: null },
+  { id: 'ford-mustang', make: 'Ford', model: 'Mustang', years: range(2000, 2026), vehicleClass: 'Subcompact Cars', fuelType: 'Premium Gasoline',
+    img: '9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg', representativeYear: 2026,
+    specs: { engine: '5.0L 8-cyl', transmission: 'Manual 6-spd', drive: 'Rear-Wheel Drive', mpgCity: 15, mpgHighway: 24, mpgCombined: 18, evRangeMiles: null },
+    description: "The Ford Mustang is an American automobile manufactured and marketed by Ford since 1964, as Ford's longest nameplate in continuous production. The namesake of the \"pony car\" segment, it is currently in its seventh generation.", sketchfab: null },
+  { id: 'tesla-model-3', make: 'Tesla', model: 'Model 3', years: range(2017, 2026), vehicleClass: 'Midsize Cars', fuelType: 'Electricity',
+    img: 'a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg', representativeYear: 2026,
+    specs: { engine: null, transmission: 'Automatic (A1)', drive: 'All-Wheel Drive', mpgCity: 134, mpgHighway: 126, mpgCombined: 131, evRangeMiles: 346 },
+    description: "The Tesla Model 3 is a battery electric mid-size sedan with a fastback body style built by Tesla, introduced in 2017. It was the world's top-selling plug-in electric car for three years, from 2018 to 2020.", sketchfab: null },
+  { id: 'honda-civic', make: 'Honda', model: 'Civic', years: range(2000, 2026), vehicleClass: 'Compact Cars', fuelType: 'Regular Gasoline',
+    img: '1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg', representativeYear: 2026,
+    specs: { engine: '2.0L 4-cyl', transmission: 'Automatic (AV-S7)', drive: 'Front-Wheel Drive', mpgCity: 32, mpgHighway: 41, mpgCombined: 36, evRangeMiles: null },
+    description: 'The Honda Civic is a series of automobiles manufactured by Honda since 1972. It is one of the best-selling automobiles in history, with over 27 million units sold through 2021.', sketchfab: null },
+  { id: 'porsche-911', make: 'Porsche', model: '911', years: range(2000, 2026), vehicleClass: 'Minicompact Cars', fuelType: 'Premium Gasoline',
+    img: 'a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg', representativeYear: 2026,
+    specs: { engine: '3.0L 6-cyl turbo', transmission: 'Automatic (AM-S8)', drive: 'Rear-Wheel Drive', mpgCity: 18, mpgHighway: 24, mpgCombined: 20, evRangeMiles: null },
+    description: 'The Porsche 911 is a family of two-door, high performance rear-engine sports cars, introduced in September 1964 by Porsche of Stuttgart, Germany, and now in its eighth generation. All 911s have a rear-mounted flat-six engine.',
+    sketchfab: { uid: 'd01b254483794de3819786d93e0e1ebf', name: '(FREE) Porsche 911 Carrera 4S', author: 'Lionsharp Studios', authorUrl: 'https://sketchfab.com/lionsharp', license: 'CC Attribution-ShareAlike' } },
+];
+const yrs = c => c.years.length > 1 ? `${c.years[0]}–${c.years.at(-1)}` : `${c.years[0]}`;
+const ev = c => c.fuelType === 'Electricity';
+const fuel = f => f.replace('Gasoline', 'gasoline');
+const embed = (uid, theme) => `https://sketchfab.com/models/${uid}/embed?autostart=1&autospin=0.15&preload=1&ui_infos=0&ui_inspector=0&ui_settings=0&ui_vr=0&ui_ar=0&ui_help=0&ui_annotations=0&ui_theme=${theme}`;
+const stage = (c, theme) => c.sketchfab
+  ? `<iframe title="3D model of the ${c.make} ${c.model}" src="${embed(c.sketchfab.uid, theme)}" allow="autoplay; fullscreen; xr-spatial-tracking" allowfullscreen loading="lazy"></iframe>`
+  : `<img src="${T(c.img, 1920)}" alt="${c.make} ${c.model}">`;
+const attrib = c => c.sketchfab
+  ? `3D model: <a href="https://sketchfab.com/3d-models/${c.sketchfab.uid}">${c.sketchfab.name}</a> by <a href="${c.sketchfab.authorUrl}">${c.sketchfab.author}</a>, ${c.sketchfab.license}`
+  : 'No 3D model yet. Photo from Wikipedia.';
+const specRows = c => [
+  ['Engine', c.specs.engine], ['Transmission', c.specs.transmission], ['Drive', c.specs.drive],
+  ['Fuel', fuel(c.fuelType)], ['Class', c.vehicleClass], ['Electric range', c.specs.evRangeMiles && `${c.specs.evRangeMiles} miles`],
+].filter(r => r[1]);
+const neighbors = i => [CARS[(i + CARS.length - 1) % CARS.length], CARS[(i + 1) % CARS.length]];
+const cube = (s = 14) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M12 2l9 5v10l-9 5-9-5V7z"/><path d="M3 7l9 5 9-5M12 12v10"/></svg>`;
+const chev = d => `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="${d === 'l' ? 'M15 5l-7 7 7 7' : 'M9 5l7 7-7 7'}"/></svg>`;
+const sliders = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M4 6h10M18 6h2M4 18h4M12 18h8M14 3v6M8 15v6"/></svg>`;
+const opts = (label, list) => `<option>${label}</option>` + list.map(x => `<option>${x}</option>`).join('');
+const MAKES = ['Acura','Audi','BMW','Ford','Honda','Mazda','Porsche','Tesla','Toyota'];
+const CLASSES = ['Two Seaters','Minicompact Cars','Subcompact Cars','Compact Cars','Midsize Cars','Large Cars','Small SUVs','Standard Pickup Trucks'];
+const FUELS = ['Regular gasoline','Premium gasoline','Diesel','Electricity','Hybrid'];
+const YEARS = range(2000, 2026).reverse();
+
+/* ---------- A ---------- */
+const A = {
+  desc: 'A, Window sticker: based on the EPA fuel economy label and dealer window stickers. It uses cool paper with navy ink and one typeface, Archivo, whose width axis carries the hierarchy. The stats panel reads like a real fuel economy label.',
+  card: c => `<a class="a-card" href="#d3">
+    <div class="a-photo"><img loading="lazy" src="${T(c.img, 960)}" alt="">${c.sketchfab ? `<span class="a-3d">${cube()} 3D</span>` : ''}</div>
+    <div class="a-tag"><p class="a-make">${c.make}</p><h3 class="a-name">${c.model}</h3>
+      <dl class="a-meta"><dt>Years</dt><dd>${yrs(c)}</dd><dt>Class</dt><dd>${c.vehicleClass}</dd><dt>Engine</dt><dd>${c.specs.engine ?? 'Electric'}</dd></dl></div></a>`,
+  header: () => `<header class="a-head"><a class="a-logo" href="#home">Just Cars</a><p class="a-count"><b>1,042</b> cars sold in the US, 2000 to 2026</p></header>`,
+  filters: (q = '') => `<div class="a-filters">
+    <label class="a-field a-search">Search<input type="search" value="${q}" placeholder="Make or model, like Supra"></label>
+    <label class="a-field">Make<select>${opts('All makes', MAKES)}</select></label>
+    <div class="a-field">Years<div class="a-pair"><select aria-label="From year">${opts('2000', YEARS.slice(1))}</select>to<select aria-label="To year">${opts('2026', YEARS.slice(1))}</select></div></div>
+    <label class="a-field">Class<select>${opts('All classes', CLASSES)}</select></label>
+    <label class="a-field">Fuel<select>${opts('Any fuel', FUELS)}</select></label>
+    <label class="a-field a-toggle"><input type="checkbox">Only with 3D</label>
+    <button class="a-filter-btn">${sliders} Filters</button></div>`,
+  home: () => `${A.header()}${A.filters()}<div class="a-wrap">
+    <div class="a-result"><span>Showing 1–24 of 1,042 cars</span><label>Sort <select><option>Make A–Z</option><option>Newest first</option></select></label></div>
+    <div class="grid">${CARS.map(A.card).join('')}</div>
+    <nav class="a-pages" aria-label="Pages"><a class="edge" href="#">${chev('l')}<span class="sr">Previous page</span></a><a aria-current="page" href="#">1</a><a href="#">2</a><a href="#">3</a><span>…</span><a href="#">44</a><a class="edge" href="#">${chev('r')}<span class="sr">Next page</span></a></nav></div>`,
+  detail: i => { const c = CARS[i], [p, n] = neighbors(i), s = c.specs;
+    return `${A.header()}<nav class="a-dnav"><a href="#home">${chev('l')} All cars</a><div class="pn">
+      <a href="#"><span>Previous</span><b>${p.make} ${p.model}</b></a><a class="next" href="#"><span>Next</span><b>${n.make} ${n.model}</b></a></div></nav>
+    <div class="a-wrap"><div class="a-title"><h1><small>${c.make}</small>${c.model}</h1><p>${yrs(c)}</p></div>
+    <div class="a-main"><div><div class="a-stage">${stage(c, 'dark')}</div><p class="a-attrib">${attrib(c)}</p></div>
+      <aside class="a-label" aria-label="Specifications"><div class="a-label-head"><b>Fuel economy</b><span>${c.representativeYear} model</span></div>
+        <div class="a-mpg"><div><b>${s.mpgCity}</b><small>city</small></div><div class="big"><b>${s.mpgCombined}</b><small>combined ${ev(c) ? 'MPGe' : 'mpg'}</small></div><div><b>${s.mpgHighway}</b><small>highway</small></div></div>
+        <dl class="a-specs">${specRows(c).map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
+        <p class="a-label-foot">EPA estimates from FuelEconomy.gov</p></aside></div>
+    <section class="a-about"><h2>About the ${c.model}</h2><p>${c.description}</p><a href="#">Read more on Wikipedia</a></section></div>`; },
+  states: () => `${A.header()}${A.filters()}<div class="a-wrap"><div class="a-result"><span>Loading cars…</span></div>
+      <div class="grid" aria-busy="true">${'<div class="a-skel shimmer"><div class="s1"></div><div class="s2"></div><div class="s3"></div></div>'.repeat(4)}</div></div>`,
+  empty: () => `${A.header()}${A.filters('zonda')}<div class="a-wrap"><div class="a-result"><span>0 cars</span></div>
+      <div class="a-empty"><h2>No cars match “zonda”</h2><p>Nothing in the catalog matches this search with the current filters. Try another make or model, or clear the filters.</p><button class="a-btn">Clear filters</button></div></div>`,
+};
+
+/* ---------- B ---------- */
+const B = {
+  desc: 'B, Night garage: a slate-blue studio lit by sodium-lamp amber. Cards are mostly photo, and the detail page opens on a wide stage with a huge car name above it. It uses Bricolage Grotesque for display and Instrument Sans for text.',
+  card: c => `<a class="b-card" href="#d3"><div class="b-photo"><img loading="lazy" src="${T(c.img, 960)}" alt="">${c.sketchfab ? `<span class="b-3d">${cube()} 3D</span>` : ''}</div>
+    <h3><span>${c.make}</span>${c.model}</h3><p>${yrs(c)}, ${c.vehicleClass.toLowerCase()}</p></a>`,
+  header: () => `<header class="b-head"><a class="b-logo" href="#home"><i></i>Just Cars</a><nav><a href="#home">Browse</a><a href="#">Credits</a></nav></header>`,
+  filters: (q = '') => `<label class="b-search">${'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#9AABBC" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>'}<span class="sr">Search</span><input type="search" value="${q}" placeholder="Search 1,042 cars by make or model"></label>
+    <div class="b-filters"><select class="b-chip" aria-label="Make">${opts('Any make', MAKES)}</select>
+      <select class="b-chip on" aria-label="From year">${opts('From 2010', YEARS)}</select><select class="b-chip" aria-label="To year">${opts('To 2026', YEARS)}</select>
+      <select class="b-chip" aria-label="Class">${opts('Any class', CLASSES)}</select><select class="b-chip" aria-label="Fuel">${opts('Any fuel', FUELS)}</select>
+      <label class="b-switch"><input type="checkbox" checked>Only with 3D</label>
+      <button class="b-pill b-filter-btn" style="background:none;color:inherit;font:inherit">${sliders} Filters (2)</button></div>`,
+  home: () => `${B.header()}<div class="b-wrap"><div class="b-hero"><h1 class="disp">Every car sold in the US since 2000</h1>${B.filters()}</div>
+    <div class="b-result"><span>Showing 1–24 of 186 cars</span><span>Make A–Z</span></div>
+    <div class="grid">${CARS.map(B.card).join('')}</div>
+    <nav class="b-pages" aria-label="Pages"><a class="edge" href="#">${chev('l')}<span class="sr">Previous page</span></a><a aria-current="page" href="#">1</a><a href="#">2</a><a href="#">3</a>…<a href="#">8</a><a class="edge" href="#">${chev('r')}<span class="sr">Next page</span></a></nav></div>`,
+  detail: i => { const c = CARS[i], [p, n] = neighbors(i), s = c.specs, u = ev(c) ? 'MPGe' : 'mpg';
+    const stats = [['hero', 'Combined', `${s.mpgCombined}<small> ${u}</small>`], ['', 'City', `${s.mpgCity} ${u}`], ['', 'Highway', `${s.mpgHighway} ${u}`], ...specRows(c).map(r => ['', ...r])];
+    return `${B.header()}<div class="b-wrap"><nav class="b-dnav"><a class="b-pill" href="#home">${chev('l')} All cars</a>
+      <div class="pn"><a class="b-pill" href="#">${chev('l')}<span>${p.make} ${p.model}</span><b class="sr">Previous</b></a><a class="b-pill" href="#"><span>${n.make} ${n.model}</span><b class="sr">Next</b>${chev('r')}</a></div></nav>
+    <div class="b-title"><h1><span>${c.make}</span>${c.model}</h1><p>${yrs(c)}. Specs from the ${c.representativeYear} model.</p></div>
+    <div class="b-stage">${stage(c, 'dark')}</div>
+    <p class="b-hint"><span>${attrib(c)}</span>${c.sketchfab ? '<span>Drag to rotate, scroll to zoom</span>' : ''}</p>
+    <dl class="b-stats">${stats.map(([cl, k, v]) => `<div class="${cl}"><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
+    <section class="b-about"><h2>About the ${c.model}</h2><div><p>${c.description}</p><a class="wiki" href="#">Read more on Wikipedia</a></div></section></div>`; },
+  states: () => `${B.header()}<div class="b-wrap"><div class="b-hero">${B.filters()}</div><div class="b-result"><span>Loading cars…</span></div>
+      <div class="grid" aria-busy="true">${'<div class="b-skel shimmer"><div class="s1"></div><div class="s2"></div><div class="s3"></div></div>'.repeat(4)}</div></div>`,
+  empty: () => `${B.header()}<div class="b-wrap"><div class="b-hero">${B.filters('zonda')}</div><div class="b-result"><span>0 cars</span></div>
+      <div class="b-empty"><h2>No cars match “zonda”</h2><p>Nothing in the catalog matches this search with the current filters. Try another make or model, or clear the filters.</p><button class="b-btn">Clear filters</button></div></div>`,
+};
+
+/* ---------- render ---------- */
+const sec = (id, title, body) => `<section class="mk-sec" id="${id}"><h2>${title}</h2>${body}</section>`;
+const frame = (d, html) => `<div class="frame ${d}">${html}</div>`;
+const phone = (d, html) => `<div class="frame phone"><div class="phone-screen ${d}">${html}</div></div>`;
+function render(d) {
+  const D = d === 'A' ? A : B;
+  document.getElementById('mk-desc').textContent = D.desc;
+  document.getElementById('root').innerHTML =
+    sec('home', '1. Home grid', frame(d, D.home())) +
+    sec('d3', '2. Detail page with 3D model (Toyota Supra)', frame(d, D.detail(0))) +
+    sec('dphoto', '3. Detail page without 3D (Tesla Model 3, electric, so it shows MPGe and range)', frame(d, D.detail(3))) +
+    sec('mobile', '4. Mobile: grid, and detail with 3D (Porsche 911)', `<div class="mk-row">${phone(d, D.home())}${phone(d, D.detail(5))}</div>`) +
+    sec('states', '5. Loading and empty states', `<div class="mk-row" style="flex-direction:column">${frame(d, D.states())}${frame(d, D.empty())}</div>`);
+  document.querySelectorAll('.mk-tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.dir === d));
+}
+document.querySelectorAll('.mk-tabs button').forEach(b => b.onclick = () => render(b.dataset.dir));
+render('A');
+</script>
+</body>
+</html>
