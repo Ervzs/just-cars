@@ -3,7 +3,7 @@ import { Link, useSearchParams } from 'react-router'
 import { filterCars, useIndex, yearRange, type CarSummary } from '../data'
 
 const PER_PAGE = 24
-const uniq = (xs: string[]) => [...new Set(xs)].sort((a, b) => a.localeCompare(b))
+const uniq = (xs: (string | null)[]) => [...new Set(xs.filter(x => x !== null))].sort((a, b) => a.localeCompare(b))
 const field = 'flex-col gap-0.5 border-ink px-3.5 py-2.5 text-[13px] text-muted'
 // Filter fields stack under the search on mobile, sit in one ruled row from md up.
 const extra = 'col-span-2 border-t md:col-span-1 md:border-t-0 md:border-r'
@@ -13,7 +13,7 @@ export default function HomePage() {
   const [params, setParams] = useSearchParams()
   const { data: cars, error } = useIndex()
   const [showFilters, setShowFilters] = useState(false)
-  useEffect(() => { document.title = 'Just Cars: browse 1,000+ cars with 3D models' }, [])
+  useEffect(() => { document.title = 'Just Cars: browse cars from around the world, with 3D models' }, [])
 
   const opts = useMemo(() => {
     if (!cars) return null
@@ -162,6 +162,8 @@ export default function HomePage() {
 }
 
 function Card({ car: c, query, eager }: { car: CarSummary; query: string; eager: boolean }) {
+  const engine = c.engine ?? (c.fuelType === 'Electricity' ? 'Electric' : null)
+  const rows = ([['Years', yearRange(c.years)], ['Class', c.vehicleClass], ['Engine', engine]] as const).filter(r => r[1])
   return (
     <Link to={`/cars/${c.id}${query ? `?${query}` : ''}`} className="group block border-2 border-ink bg-white">
       <div className="relative aspect-3/2 border-b-2 border-ink bg-skel">
@@ -173,11 +175,13 @@ function Card({ car: c, query, eager }: { car: CarSummary; query: string; eager:
       </div>
       <div className="px-3.5 pt-3 pb-3.5">
         <p className="text-sm text-muted">{c.make}</p>
-        <h3 className="cond text-[30px] leading-none font-extrabold decoration-[3px] underline-offset-4 group-hover:underline">{c.model}</h3>
+        <h3 className="cond text-[30px] leading-none font-extrabold [overflow-wrap:anywhere] decoration-[3px] underline-offset-4 group-hover:underline">{c.model}</h3>
+        {c.generation && <p className="mt-1 text-sm font-semibold">{c.generation}</p>}
         <dl className="mt-3 grid grid-cols-[auto_1fr] border-t border-ink text-sm [&>*]:border-b [&>*]:border-line [&>*]:py-1.5">
-          <dt className="pr-4 text-muted">Years</dt><dd className="text-right font-semibold">{yearRange(c.years)}</dd>
-          <dt className="pr-4 text-muted">Class</dt><dd className="text-right font-semibold">{c.vehicleClass}</dd>
-          <dt className="pr-4 text-muted">Engine</dt><dd className="text-right font-semibold">{c.engine ?? 'Electric'}</dd>
+          {rows.map(([k, v]) => [
+            <dt key={k} className="pr-4 text-muted">{k}</dt>,
+            <dd key={`${k}v`} className="text-right font-semibold">{v}</dd>,
+          ])}
         </dl>
       </div>
     </Link>

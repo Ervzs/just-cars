@@ -4,16 +4,20 @@ export type CarSummary = {
   id: string
   make: string
   model: string
+  generation: string | null
+  aka: string[] // other market names, e.g. Alterra for the Isuzu MU-X
   years: number[]
-  vehicleClass: string
-  fuelType: string
+  vehicleClass: string | null
+  fuelType: string | null
   engine: string | null
   thumbnail: string | null
   has3d: boolean
 }
 
 export type CarDetail = CarSummary & {
-  representativeYear: number
+  representativeYear: number | null
+  variants: string[]
+  // null when the generation was never sold in the US (no EPA data)
   specs: {
     engine: string | null
     displacementL: number | null
@@ -24,7 +28,7 @@ export type CarDetail = CarSummary & {
     mpgHighway: number | null
     mpgCombined: number | null
     evRangeMiles: number | null
-  }
+  } | null
   description: string | null
   wikipediaUrl: string | null
   image: string | null
@@ -54,7 +58,7 @@ export function useJson<T>(url: string) {
 export const useIndex = () => useJson<CarSummary[]>('/data/index.json')
 
 export const yearRange = (years: number[]) =>
-  years.length > 1 ? `${years[0]}–${years.at(-1)}` : `${years[0]}`
+  years.length > 1 ? `${years[0]}–${years.at(-1)}` : years.length ? `${years[0]}` : ''
 
 // One filter used by the grid and by prev/next on the car page, driven by the URL query.
 export function filterCars(cars: CarSummary[], p: URLSearchParams) {
@@ -62,11 +66,11 @@ export function filterCars(cars: CarSummary[], p: URLSearchParams) {
   const make = p.get('make'), cls = p.get('class'), fuel = p.get('fuel'), only3d = p.get('3d') === '1'
   const from = Number(p.get('from')) || 0, to = Number(p.get('to')) || 9999
   const out = cars.filter(c =>
-    (!q || `${c.make} ${c.model}`.toLowerCase().includes(q)) &&
+    (!q || `${c.make} ${c.model} ${c.aka.join(' ')}`.toLowerCase().includes(q)) &&
     (!make || c.make === make) &&
     (!cls || c.vehicleClass === cls) &&
     (!fuel || c.fuelType === fuel) &&
     (!only3d || c.has3d) &&
-    c.years.some(y => y >= from && y <= to))
-  return p.get('sort') === 'new' ? out.sort((a, b) => b.years.at(-1)! - a.years.at(-1)!) : out
+    (!(p.has('from') || p.has('to')) || c.years.some(y => y >= from && y <= to)))
+  return p.get('sort') === 'new' ? out.sort((a, b) => (b.years.at(-1) ?? 0) - (a.years.at(-1) ?? 0)) : out
 }

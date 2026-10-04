@@ -4,12 +4,12 @@ const sources = [
   {
     name: 'FuelEconomy.gov',
     href: 'https://www.fueleconomy.gov/feg/ws/',
-    text: 'Model years, engine, transmission, drive, fuel type, vehicle class, MPG and electric range. These are EPA estimates published by the US Department of Energy and the Environmental Protection Agency, and are in the public domain.',
+    text: 'Engine, transmission, drive, fuel type, vehicle class, MPG and electric range for models sold in the US. These are EPA estimates published by the US Department of Energy and the Environmental Protection Agency, and are in the public domain. Models never sold in the US have no EPA figures.',
   },
   {
     name: 'Wikipedia',
     href: 'https://en.wikipedia.org/',
-    text: 'Car descriptions and photos. Text is available under the Creative Commons Attribution-ShareAlike license. Photos come from Wikimedia Commons under their individual licenses. Each car page links to its Wikipedia article.',
+    text: 'The global model list, generations, other market names, descriptions and photos. Text is available under the Creative Commons Attribution-ShareAlike license. Photos come from Wikimedia Commons under their individual licenses. Each car page links to its Wikipedia article.',
   },
   {
     name: 'Sketchfab',

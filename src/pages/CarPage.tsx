@@ -18,10 +18,11 @@ export default function CarPage() {
     const i = list.findIndex(c => c.id === id)
     return i < 0 ? [] : [list[i - 1], list[i + 1]]
   }, [cars, params, id])
+  const siblings = cars && car ? cars.filter(c => c.make === car.make && c.model === car.model && c.id !== car.id) : []
   const q = params.size ? `?${params}` : ''
 
   useEffect(() => {
-    if (car) document.title = `${car.make} ${car.model} | Just Cars`
+    if (car) document.title = `${car.make} ${car.model}${car.generation ? ` (${car.generation})` : ''} | Just Cars`
   }, [car])
 
   if (error) return <NotFoundPage />
@@ -29,12 +30,14 @@ export default function CarPage() {
   const s = car?.specs
   const unit = car?.fuelType === 'Electricity' ? 'MPGe' : 'mpg'
   const rows = car ? ([
-    ['Engine', s!.engine],
-    ['Transmission', s!.transmission],
-    ['Drive', s!.drive],
+    ['Also known as', car.aka.join(', ')],
+    ['Variants', car.variants.length > 1 && car.variants.join(', ')],
+    ['Engine', s?.engine],
+    ['Transmission', s?.transmission],
+    ['Drive', s?.drive],
     ['Fuel', car.fuelType],
     ['Class', car.vehicleClass],
-    ['Electric range', s!.evRangeMiles && `${s!.evRangeMiles} miles`],
+    ['Electric range', s?.evRangeMiles && `${s.evRangeMiles} miles`],
   ].filter(r => r[1]) as [string, string][]) : []
 
   return (
@@ -69,9 +72,9 @@ export default function CarPage() {
             <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-2 pt-7 pb-5">
               <h1 className="xcond text-[clamp(48px,9vw,112px)] leading-[.85] font-black tracking-tight">
                 <small className="mb-2 block text-lg font-medium tracking-normal text-muted [font-stretch:100%] sm:text-[22px]">{car.make}</small>
-                {car.model}
+                <span className="[overflow-wrap:anywhere]">{car.model}</span>
               </h1>
-              <p className="text-lg">{yearRange(car.years)}</p>
+              <p className="text-lg">{[car.generation, yearRange(car.years)].filter(Boolean).join(', ')}</p>
             </div>
 
             <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
@@ -96,28 +99,45 @@ export default function CarPage() {
 
               <aside aria-label="Specifications" className="border-3 border-ink bg-white">
                 <div className="flex items-baseline justify-between bg-ink px-3.5 py-2.5 text-white">
-                  <b className="cond text-[22px] font-extrabold">Fuel economy</b>
-                  <span>{car.representativeYear} model</span>
+                  <b className="cond text-[22px] font-extrabold">{s ? 'Fuel economy' : 'Details'}</b>
+                  {s && <span>{car.representativeYear} model</span>}
                 </div>
-                {s!.mpgCombined != null && (
+                {s?.mpgCombined != null && (
                   <div className="grid grid-cols-[1fr_1.3fr_1fr] items-center border-b-3 border-ink text-center">
-                    <div className="px-1.5 py-3.5">{s!.mpgCity != null && <><b className="cond block text-[40px] leading-none font-extrabold">{s!.mpgCity}</b><small>city</small></>}</div>
+                    <div className="px-1.5 py-3.5">{s.mpgCity != null && <><b className="cond block text-[40px] leading-none font-extrabold">{s.mpgCity}</b><small>city</small></>}</div>
                     <div className="self-stretch bg-green px-1.5 py-4.5 text-white">
-                      <b className="cond block text-[60px] leading-none font-extrabold sm:text-[72px]">{s!.mpgCombined}</b>
+                      <b className="cond block text-[60px] leading-none font-extrabold sm:text-[72px]">{s.mpgCombined}</b>
                       <small>combined {unit}</small>
                     </div>
-                    <div className="px-1.5 py-3.5">{s!.mpgHighway != null && <><b className="cond block text-[40px] leading-none font-extrabold">{s!.mpgHighway}</b><small>highway</small></>}</div>
+                    <div className="px-1.5 py-3.5">{s.mpgHighway != null && <><b className="cond block text-[40px] leading-none font-extrabold">{s.mpgHighway}</b><small>highway</small></>}</div>
                   </div>
                 )}
-                <dl className="grid grid-cols-[auto_1fr] px-3.5 pt-1.5 pb-3 [&>*]:border-b [&>*]:border-line [&>*]:py-2 [&>*:nth-last-child(-n+2)]:border-b-0">
+                {rows.length > 0 && <dl className="grid grid-cols-[auto_1fr] px-3.5 pt-1.5 pb-3 [&>*]:border-b [&>*]:border-line [&>*]:py-2 [&>*:nth-last-child(-n+2)]:border-b-0">
                   {rows.map(([k, v]) => [
                     <dt key={k} className="pr-4 text-muted">{k}</dt>,
                     <dd key={`${k}v`} className="text-right font-semibold">{v}</dd>,
                   ])}
-                </dl>
-                <p className="border-t border-ink px-3.5 py-2 text-xs text-muted">EPA estimates from FuelEconomy.gov</p>
+                </dl>}
+                <p className="border-t border-ink px-3.5 py-2 text-xs text-muted">
+                  {s ? 'EPA estimates from FuelEconomy.gov' : "No EPA figures: this generation wasn't sold in the US."}
+                </p>
               </aside>
             </div>
+
+            {siblings.length > 0 && (
+              <nav aria-label="Other generations" className="pt-8">
+                <h2 className="cond mb-3 text-[30px] leading-tight font-extrabold">Other generations</h2>
+                <ul className="flex flex-wrap gap-2">
+                  {siblings.map(c => (
+                    <li key={c.id}>
+                      <Link to={`/cars/${c.id}`} className="block border-2 border-ink bg-white px-3 py-2 font-semibold hover:bg-ink hover:text-white">
+                        {c.generation ?? c.model} <span className="font-normal">{yearRange(c.years)}</span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            )}
 
             {car.description && (
               <section className="max-w-[68ch] pt-8">
