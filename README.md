@@ -43,10 +43,6 @@ npm run data -- 20 Toyota,Isuzu
 
 Test runs write to `scripts/.out-test/` and never touch `public/data/`. The year range and the list of Asian brands are set at the top of `scripts/build-data.mjs`.
 
-## Deploy
-
-Every push to `main` builds the site and publishes it to GitHub Pages through `.github/workflows/deploy.yml`. One-time setup: **Settings → Pages → Source: GitHub Actions**. See [deploy.md](deploy.md) for details.
-
 ## Built with
 
 React 19, React Router, Vite, Tailwind CSS 4 and TypeScript.
