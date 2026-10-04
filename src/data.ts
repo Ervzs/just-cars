@@ -55,7 +55,9 @@ export function useJson<T>(url: string) {
   return state.url === url ? state : { url }
 }
 
-export const useIndex = () => useJson<CarSummary[]>('/data/index.json')
+// Data URLs follow Vite's `base`, so they work under the GitHub Pages sub-path.
+export const dataUrl = (path: string) => `${import.meta.env.BASE_URL}data/${path}`
+export const useIndex = () => useJson<CarSummary[]>(dataUrl('index.json'))
 
 export const yearRange = (years: number[]) =>
   years.length > 1 ? `${years[0]}–${years.at(-1)}` : years.length ? `${years[0]}` : ''

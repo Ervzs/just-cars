@@ -18,7 +18,7 @@ const router = createBrowserRouter([
       { path: '*', element: <NotFoundPage /> },
     ],
   },
-])
+], { basename: import.meta.env.BASE_URL })
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

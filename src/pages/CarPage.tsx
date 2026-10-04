@@ -1,6 +1,6 @@
 import { useEffect, useMemo } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router'
-import { filterCars, useIndex, useJson, yearRange, type CarDetail } from '../data'
+import { dataUrl, filterCars, useIndex, useJson, yearRange, type CarDetail } from '../data'
 import NotFoundPage from './NotFoundPage'
 
 const embed = (uid: string) =>
@@ -9,7 +9,7 @@ const embed = (uid: string) =>
 export default function CarPage() {
   const { id } = useParams()
   const [params] = useSearchParams()
-  const { data: car, error } = useJson<CarDetail>(`/data/cars/${id}.json`)
+  const { data: car, error } = useJson<CarDetail>(dataUrl(`cars/${id}.json`))
   const { data: cars } = useIndex()
 
   // Previous/next follow the grid's current filtered order (carried in the query string).
