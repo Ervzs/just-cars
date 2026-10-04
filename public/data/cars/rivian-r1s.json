@@ -1,0 +1,34 @@
+{
+  "id": "rivian-r1s",
+  "make": "Rivian",
+  "model": "R1S",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023_Rivian_R1S_Adventure%2C_front_1.29.23.jpg/960px-2023_Rivian_R1S_Adventure%2C_front_1.29.23.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 72,
+    "mpgHighway": 63,
+    "mpgCombined": 68,
+    "evRangeMiles": 329
+  },
+  "description": "The Rivian R1S is an all-electric, seven-passenger, full-size, off-road SUV manufactured by Rivian. Customer deliveries started in 2022, after 10 years under development. Depending on the configuration, it has either two, three, or four electric motors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivian_R1S",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023_Rivian_R1S_Adventure%2C_front_1.29.23.jpg/1920px-2023_Rivian_R1S_Adventure%2C_front_1.29.23.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "acura-cl",
+  "make": "Acura",
+  "model": "CL",
+  "years": [
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2nd_Acura_CL.jpg/960px-2nd_Acura_CL.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 26,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Acura CL is a midsize four passenger coupe manufactured and marketed by Honda's Acura brand across two generations from 1997–2003 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_CL",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2nd_Acura_CL.jpg/1280px-2nd_Acura_CL.jpg",
+  "sketchfab": null
+}

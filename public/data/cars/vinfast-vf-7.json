@@ -1,0 +1,30 @@
+{
+  "id": "vinfast-vf-7",
+  "make": "Vinfast",
+  "model": "VF 7",
+  "years": [
+    2025,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/VinFast_VF7%2C_front_NYIAS_2022.jpg/960px-VinFast_VF7%2C_front_NYIAS_2022.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 80,
+    "mpgHighway": 71,
+    "mpgCombined": 76,
+    "evRangeMiles": 209
+  },
+  "description": "The VinFast VF 7 is an electric compact SUV (C-segment) manufactured and marketed by VinFast of Vingroup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/VinFast_VF7%2C_front_NYIAS_2022.jpg/1920px-VinFast_VF7%2C_front_NYIAS_2022.jpg",
+  "sketchfab": null
+}

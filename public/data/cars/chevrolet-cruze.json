@@ -1,0 +1,43 @@
+{
+  "id": "chevrolet-cruze",
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2017_Chevrolet_Cruze_LT_in_Arctic_Blue_Metallic%2C_Front_Left.jpg/960px-2017_Chevrolet_Cruze_LT_in_Arctic_Blue_Metallic%2C_Front_Left.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 38,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Cruze is a compact car produced by General Motors from 2008 through 2023. It was designated as a globally developed, designed, and manufactured four-door compact sedan, complemented by a five-door hatchback body variant from 2011, and a station wagon in 2012. The Cruze replaced several compact models, including the Chevrolet Optra which was sold internationally under various names, the Chevrolet Cobalt sold exclusively in North America, and the Australasian-market Holden Astra.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cruze",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2017_Chevrolet_Cruze_LT_in_Arctic_Blue_Metallic%2C_Front_Left.jpg/1920px-2017_Chevrolet_Cruze_LT_in_Arctic_Blue_Metallic%2C_Front_Left.jpg",
+  "sketchfab": {
+    "uid": "39e9d65e21b645a6949c6420062b23a0",
+    "name": "Chevrolet Cruze LTZ",
+    "author": "talonx",
+    "authorUrl": "https://sketchfab.com/gytalon",
+    "license": "CC Attribution-NoDerivs"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mclaren-automotive-mso-hs",
+  "make": "McLaren Automotive",
+  "model": "MSO HS",
+  "years": [
+    2016
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.8L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "3.8L 8-cyl",
+    "displacementL": 3.8,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

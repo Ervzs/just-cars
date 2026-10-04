@@ -1,0 +1,46 @@
+{
+  "id": "mercedes-benz-glc-class",
+  "make": "Mercedes-Benz",
+  "model": "GLC-Class",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/960px-Mercedes-Benz_X254_1X7A6343.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-Benz GLC is a compact luxury crossover SUV introduced in 2015 for the 2016 model year that replaced the GLK-Class. According to Mercedes-Benz, it is the SUV equivalent to the C-Class.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/1920px-Mercedes-Benz_X254_1X7A6343.jpg",
+  "sketchfab": {
+    "uid": "6a0ef719f8d74378969b6f6095bd8981",
+    "name": "Mercedes- Benz GLC-class (X205) F Cell",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

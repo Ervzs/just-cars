@@ -1,0 +1,42 @@
+{
+  "id": "kia-spectra",
+  "make": "Kia",
+  "model": "Spectra",
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "\nThe Kia Spectra is a compact car produced by Kia Motors between 2000 and 2009. It took many design components from its predecessor, the Kia Sephia, which ceased production in the year 2000 in most countries. It succeeded the Kia Sephia and it was replaced by the Kia Forte.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Spectra",
+  "image": null,
+  "sketchfab": {
+    "uid": "272358397c5342e386834ddfcb085e46",
+    "name": "3D Scanned Kia Spectra (2006) [Free]",
+    "author": "agent",
+    "authorUrl": "https://sketchfab.com/agentmooshroom5",
+    "license": "CC Attribution"
+  }
+}

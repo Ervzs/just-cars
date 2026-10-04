@@ -1,0 +1,45 @@
+{
+  "id": "honda-passport",
+  "make": "Honda",
+  "model": "Passport",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/960px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Honda Passport  is a line of sport utility vehicles (SUV) from the Japanese automaker Honda. Originally, it was a rebadged version of the Isuzu Rodeo, a mid-size SUV sold between 1993 and 2002. It was introduced in 1993 for the 1994 model year as Honda's first entry into the growing SUV market of the 1990s in the United States. The first and second generation Passport was manufactured by Subaru Isuzu Automotive in Lafayette, Indiana. Like various other Honda models, it re-used a name from their motorcycle division, the Honda C75 Passport. The other two name candidates were Elsinore and Odyssey, the latter would be re-used a year later on a minivan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Passport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/1920px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg",
+  "sketchfab": {
+    "uid": "c911b34cb78149a7b53b135ee44b0922",
+    "name": "Honda Passport Trailsport 2026",
+    "author": "BMW'S Lost Proxy",
+    "authorUrl": "https://sketchfab.com/Bmws_Lost_Proxy",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bmw-i4",
+  "make": "BMW",
+  "model": "i4",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/BMW_i4_IMG_6695.jpg/960px-BMW_i4_IMG_6695.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 113,
+    "mpgHighway": 105,
+    "mpgCombined": 109,
+    "evRangeMiles": 251
+  },
+  "description": "The BMW i4 is a battery electric compact executive car produced by BMW since 2021. It has a five-door liftback body style and is marketed as a four-door coupé. The initial concept version, named BMW i Vision Dynamics, debuted at the 2017 Frankfurt Motor Show. It is the fifth BMW i sub-brand model, and is sold in several variants at different performance levels, including the first battery-electric variant by BMW's motorsport division. The production version was revealed in March 2021 and went on sale in November of the same year as a 2022 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_i4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/BMW_i4_IMG_6695.jpg/1920px-BMW_i4_IMG_6695.jpg",
+  "sketchfab": {
+    "uid": "1f23525ab55746899e3645e3352981c2",
+    "name": "2022 BMW i4",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

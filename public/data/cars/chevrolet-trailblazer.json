@@ -1,0 +1,48 @@
+{
+  "id": "chevrolet-trailblazer",
+  "make": "Chevrolet",
+  "model": "Trailblazer",
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "1.2L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg/960px-99-02_Chevrolet_Blazer_TrailBlazer.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.2L 3-cyl",
+    "displacementL": 1.2,
+    "cylinders": 3,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 31,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Trailblazer is an automobile nameplate used by General Motors for its Chevrolet brand since 1999 for several SUV models:TrailBlazer, a name of appearance package for the Chevrolet S-10 Blazer used between 1999 and 2002\nChevrolet Trailblazer, a mid-size SUV produced since 2001 as the successor to the S-10 Blazer\nChevrolet Trailblazer, a subcompact crossover produced since 2020",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Trailblazer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg/1920px-99-02_Chevrolet_Blazer_TrailBlazer.jpg",
+  "sketchfab": {
+    "uid": "0ce84c24b64f4758989b5efa7fa20d94",
+    "name": "2003 Chevrolet Trailblazer",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

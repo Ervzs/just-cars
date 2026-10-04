@@ -1,0 +1,45 @@
+{
+  "id": "kia-niro",
+  "make": "Kia",
+  "model": "Niro",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/960px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 53,
+    "mpgHighway": 46,
+    "mpgCombined": 50,
+    "evRangeMiles": null
+  },
+  "description": "The Kia Niro is a subcompact crossover SUV (B-segment) manufactured by Kia since 2016. It is an electrification-focused vehicle, offering three versions: hybrid, plug-in hybrid and battery electric variants.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Niro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/1920px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg",
+  "sketchfab": {
+    "uid": "ba2a3f3add114727b639d72b4548cae2",
+    "name": "2024 Kia Niro PHEV Dynamic Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

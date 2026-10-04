@@ -1,0 +1,32 @@
+{
+  "id": "jeep-wrangler-tj",
+  "make": "Jeep",
+  "model": "Wrangler/TJ",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/TJ-Jeep-Wrangler-X.jpg/960px-TJ-Jeep-Wrangler-X.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Jeep Wrangler (TJ) is the second generation of the Jeep Wrangler off-road and sport utility vehicle (SUV). Introduced in 1996 as a 1997 model, the TJ reintroduced the circular headlights that the classic Jeep models had been known for. For the 2004 model year, the long-wheelbase Unlimited model was introduced.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Wrangler_(TJ)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/TJ-Jeep-Wrangler-X.jpg/1920px-TJ-Jeep-Wrangler-X.jpg",
+  "sketchfab": null
+}

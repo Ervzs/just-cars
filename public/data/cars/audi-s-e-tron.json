@@ -1,0 +1,31 @@
+{
+  "id": "audi-s-e-tron",
+  "make": "Audi",
+  "model": "S e-tron",
+  "years": [
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/960px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 91,
+    "mpgHighway": 88,
+    "mpgCombined": 90,
+    "evRangeMiles": 300
+  },
+  "description": "The Audi Q8 e-tron is a battery electric mid-size luxury crossover produced by Audi from 2019 to 2025. The e-tron was unveiled as a concept car at the 2015 Frankfurt Motor Show. The final production version was revealed in San Francisco on 17 September 2018, publicly debuted at the 2018 Paris Motor Show, and was first delivered in May 2019. It is the company's first battery electric mass production car. The Sportback variant, a coupe style of the e-tron, entered production in 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q8_e-tron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/1920px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+  "sketchfab": null
+}

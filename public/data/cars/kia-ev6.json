@@ -1,0 +1,39 @@
+{
+  "id": "kia-ev6",
+  "make": "Kia",
+  "model": "EV6",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/960px-2021_Kia_EV6_GT-Line_S.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 87,
+    "mpgHighway": 79,
+    "mpgCombined": 83,
+    "evRangeMiles": 231
+  },
+  "description": "The Kia EV6 is a battery electric compact crossover SUV produced by Kia since 2021. It is the first Kia dedicated electric vehicle, and the first model developed on the Electric Global Modular Platform (E-GMP) similar to the Hyundai Ioniq 5.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/1920px-2021_Kia_EV6_GT-Line_S.jpg",
+  "sketchfab": {
+    "uid": "44d11e83ef40492bb4bc3d9fbc41e5e0",
+    "name": "2022 Kia EV6",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

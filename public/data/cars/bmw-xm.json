@@ -1,0 +1,38 @@
+{
+  "id": "bmw-xm",
+  "make": "BMW",
+  "model": "XM",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium and Electricity",
+  "engine": "4.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/BMW_XM_%28G09%29_IMG_7778.jpg/960px-BMW_XM_%28G09%29_IMG_7778.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "4.4L 8-cyl",
+    "displacementL": 4.4,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 17,
+    "mpgCombined": 14,
+    "evRangeMiles": 300
+  },
+  "description": "The BMW XM is a full-size automobile manufactured by German marque BMW since 2022. It is a crossover SUV with a plug-in hybrid electric drivetrain, and is the second car developed entirely by BMW M, after the BMW M1 in 1978.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_XM",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/BMW_XM_%28G09%29_IMG_7778.jpg/1920px-BMW_XM_%28G09%29_IMG_7778.jpg",
+  "sketchfab": {
+    "uid": "0365cea69e924f698484d7d705df6b76",
+    "name": "BMW XM - 2023",
+    "author": "Unn Tech",
+    "authorUrl": "https://sketchfab.com/unntech",
+    "license": "CC Attribution"
+  }
+}

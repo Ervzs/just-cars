@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-entourage",
+  "make": "Hyundai",
+  "model": "Entourage",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kia_Carnival_KA4_PE_1.6T_EX_HEV_Snowflake_White_Pearl.jpg/960px-Kia_Carnival_KA4_PE_1.6T_EX_HEV_Snowflake_White_Pearl.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Kia Carnival is a minivan manufactured by the South Korean automaker Kia since 1998, formerly marketed as the Kia Sedona in North America and several other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Carnival",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kia_Carnival_KA4_PE_1.6T_EX_HEV_Snowflake_White_Pearl.jpg/1920px-Kia_Carnival_KA4_PE_1.6T_EX_HEV_Snowflake_White_Pearl.jpg",
+  "sketchfab": {
+    "uid": "81f0f718eba246539e0d2401d6bebf30",
+    "name": "Hyundai Entourage",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

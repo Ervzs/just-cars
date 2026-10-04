@@ -1,0 +1,38 @@
+{
+  "id": "nissan-ariya",
+  "make": "Nissan",
+  "model": "ARIYA",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2023_Nissan_Ariya_Advance_Front.jpg/960px-2023_Nissan_Ariya_Advance_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 101,
+    "mpgHighway": 89,
+    "mpgCombined": 95,
+    "evRangeMiles": 205
+  },
+  "description": "The Nissan Ariya is a battery electric car produced by the Japanese company Nissan since January 2022. It is a compact crossover SUV and is produced at Nissan's factory in Tochigi prefecture. The Ariya is the brand's first zero-emissions SUV. It was first revealed in July 2020, with the US launch of the Ariya initially planned for the second half of 2021, before being delayed to 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Ariya",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2023_Nissan_Ariya_Advance_Front.jpg/1920px-2023_Nissan_Ariya_Advance_Front.jpg",
+  "sketchfab": {
+    "uid": "414019b3a89a45fe914b977e48925f39",
+    "name": "2020 Nissan Ariya",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

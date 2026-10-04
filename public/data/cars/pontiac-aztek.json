@@ -1,0 +1,39 @@
+{
+  "id": "pontiac-aztek",
+  "make": "Pontiac",
+  "model": "Aztek",
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2002-05_Pontiac_Aztek.jpg/960px-2002-05_Pontiac_Aztek.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Pontiac Aztek is a mid-size crossover SUV marketed by General Motors introduced in 2000 for the 2001 to 2005 model years. As a four-door crossover with front-wheel drive and optional all-wheel drive, the Aztek featured a four-speed automatic transmission with a V6 engine. Marketed by Pontiac as a \"sport recreational vehicle,\" the Aztek used a shortened platform shared with GM's minivans featuring 94 cubic feet of cargo room with its rear seats removed. The design employed conventional rear outswing doors rather than sliding doors, and a split rear tailgate, the lower section formed with seat indentations and cupholders. Other features included a front center console that doubled as a removable cooler, optional rear stereo controls in the cargo area, optional sliding cargo floor with grocery compartments, and optional camping package with an attachable tent and air mattress.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Aztek",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2002-05_Pontiac_Aztek.jpg/1280px-2002-05_Pontiac_Aztek.jpg",
+  "sketchfab": {
+    "uid": "12b60d84bd044960881f72d079fabdc8",
+    "name": "2005 Pontiac Aztek",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

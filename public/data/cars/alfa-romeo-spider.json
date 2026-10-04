@@ -1,0 +1,35 @@
+{
+  "id": "alfa-romeo-spider",
+  "make": "Alfa Romeo",
+  "model": "Spider",
+  "years": [
+    2009
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.7L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Alfa_Romeo_%283568179480%29.jpg/960px-Alfa_Romeo_%283568179480%29.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "4.7L 8-cyl",
+    "displacementL": 4.7,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Alfa Romeo Spider is a two-seater, front-engined, rear-drive roadster manufactured and marketed by Alfa Romeo from 1966 to 1994 in four distinct generations, or \"series\", each with modifications ranging from modest to extensive.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Spider",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Alfa_Romeo_%283568179480%29.jpg/1920px-Alfa_Romeo_%283568179480%29.jpg",
+  "sketchfab": {
+    "uid": "c7d2ea0a66094d1aa68c2715722a090b",
+    "name": "Alfa Romeo Spider",
+    "author": "Nommoc",
+    "authorUrl": "https://sketchfab.com/kikumi",
+    "license": "CC Attribution"
+  }
+}

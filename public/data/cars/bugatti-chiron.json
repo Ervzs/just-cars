@@ -1,0 +1,41 @@
+{
+  "id": "bugatti-chiron",
+  "make": "Bugatti",
+  "model": "Chiron",
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.0L 16-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/960px-Bugatti_Chiron_1.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "8.0L 16-cyl",
+    "displacementL": 8,
+    "cylinders": 16,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 8,
+    "mpgHighway": 11,
+    "mpgCombined": 9,
+    "evRangeMiles": null
+  },
+  "description": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH. It was manufactured in Molsheim, France, by French automobile manufacturer Bugatti Automobiles S.A.S. The successor to the Bugatti Veyron, the Chiron was first shown at the Geneva Motor Show on 1 March 2016. The car's design was initially previewed with the Bugatti Vision Gran Turismo concept car unveiled at the 2015 Frankfurt Auto Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Chiron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/1920px-Bugatti_Chiron_1.jpg",
+  "sketchfab": {
+    "uid": "1bad4302097e41dc9b9e04794dd20108",
+    "name": "Bugatti Chiron Mansory",
+    "author": "VTX",
+    "authorUrl": "https://sketchfab.com/VTX_car",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

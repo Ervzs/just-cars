@@ -1,0 +1,39 @@
+{
+  "id": "audi-r8-spyder",
+  "make": "Audi",
+  "model": "R8 Spyder",
+  "years": [
+    2011,
+    2012,
+    2014,
+    2015,
+    2017
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.2L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_R8_Coupe_V10_plus_Front.jpg/960px-2018_Audi_R8_Coupe_V10_plus_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "5.2L 10-cyl",
+    "displacementL": 5.2,
+    "cylinders": 10,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 22,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system. It was introduced by the German car manufacturer Audi AG in 2006. Production ended in the first quarter of 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_R8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_R8_Coupe_V10_plus_Front.jpg/1920px-2018_Audi_R8_Coupe_V10_plus_Front.jpg",
+  "sketchfab": {
+    "uid": "de0810b55c154ac3a3bb2972d043edb6",
+    "name": "Audi R8 Spyder",
+    "author": "DRIVER-FIRE",
+    "authorUrl": "https://sketchfab.com/DRIVER-FIRE",
+    "license": "CC Attribution"
+  }
+}

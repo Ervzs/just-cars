@@ -1,0 +1,32 @@
+{
+  "id": "aston-martin-dbx-707",
+  "make": "Aston Martin",
+  "model": "DBX 707",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2021_Aston_Martin_DBX_in_Midnight_Blue%2C_front_left.jpg/960px-2021_Aston_Martin_DBX_in_Midnight_Blue%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 9-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Aston Martin DBX is a crossover SUV produced by British luxury car marque Aston Martin since 2020. It is the first SUV the company has made. It has been described as both a \"full-sized\" and as a \"mid-sized\" vehicle.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DBX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2021_Aston_Martin_DBX_in_Midnight_Blue%2C_front_left.jpg/1920px-2021_Aston_Martin_DBX_in_Midnight_Blue%2C_front_left.jpg",
+  "sketchfab": null
+}

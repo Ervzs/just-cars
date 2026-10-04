@@ -1,0 +1,29 @@
+{
+  "id": "aston-martin-db-7-gt",
+  "make": "Aston Martin",
+  "model": "DB-7 GT",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.9L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/1960_Aston_Martin_DB4_3.jpg/960px-1960_Aston_Martin_DB4_3.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "5.9L 12-cyl",
+    "displacementL": 5.9,
+    "cylinders": 12,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 15,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "description": "The Aston Martin DB4 is a grand tourer that was produced by Aston Martin from 1958 until 1963. The \"DB\" designation came from Sir David Brown, who built up the company from 1947 onwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/1960_Aston_Martin_DB4_3.jpg/1920px-1960_Aston_Martin_DB4_3.jpg",
+  "sketchfab": null
+}

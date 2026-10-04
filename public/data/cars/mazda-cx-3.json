@@ -1,0 +1,40 @@
+{
+  "id": "mazda-cx-3",
+  "make": "Mazda",
+  "model": "CX-3",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg/960px-2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 34,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda CX-3 is a subcompact crossover SUV (B-segment) manufactured by Mazda. Based on the same platform as the third-generation Mazda2, it was revealed on 19 November 2014 ahead of the 2014 Los Angeles Auto Show as a production vehicle for the 2016 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg/1920px-2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "7e7fd687a0cb4a1ca5088c8b719aaf58",
+    "name": "Mazda Cx-3 2016",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

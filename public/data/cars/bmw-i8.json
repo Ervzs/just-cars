@@ -1,0 +1,40 @@
+{
+  "id": "bmw-i8",
+  "make": "BMW",
+  "model": "i8",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium and Electricity",
+  "engine": "1.5L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_BMW_i8.jpg/960px-2016_BMW_i8.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.5L 3-cyl",
+    "displacementL": 1.5,
+    "cylinders": 3,
+    "transmission": "Automatic 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 29,
+    "mpgCombined": 27,
+    "evRangeMiles": 320
+  },
+  "description": "The BMW i8 is a plug-in hybrid sports car developed by BMW. The i8 was part of BMW's electrified fleet and was marketed under the BMW i sub-brand. The production version of the BMW i8 was unveiled at the 2013 Frankfurt Motor Show and was released in Germany in June 2014. Deliveries to retail customers in the U.S. began in August 2014. A roadster variant was launched in May 2018. Production ended in June 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_i8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_BMW_i8.jpg/1920px-2016_BMW_i8.jpg",
+  "sketchfab": {
+    "uid": "4b143b95aec045bf8912d99662f8d580",
+    "name": "BMW I8",
+    "author": "iSteven",
+    "authorUrl": "https://sketchfab.com/OneSteven",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

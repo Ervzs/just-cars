@@ -1,0 +1,48 @@
+{
+  "id": "volvo-xc70",
+  "make": "Volvo",
+  "model": "XC70",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/VOLVO_XC70_V446K_China.jpg/960px-VOLVO_XC70_V446K_China.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo XC70 is a plug-in hybrid mid-size luxury crossover SUV manufactured by Volvo Cars. The vehicle is built on the Scalable Modular Architecture (SMA) platform, a re-branded Compact Modular Architecture (CMA) from Geely. It is produced in China at the Volvo Taizhou factory.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_XC70_(2025)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/VOLVO_XC70_V446K_China.jpg/1920px-VOLVO_XC70_V446K_China.jpg",
+  "sketchfab": {
+    "uid": "507b1b82483f4243b04ca9e45c7a4794",
+    "name": "Volvo XC70 Cross Country",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

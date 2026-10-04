@@ -1,0 +1,44 @@
+{
+  "id": "jaguar-xjr",
+  "make": "Jaguar",
+  "model": "XJR",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "\nJaguar XJR is a nameplate used by Jaguar Cars for several line of vehicles:Jaguar XJR Sportscars, a line of Group C race cars.\nSeveral high performance versions of the company's flagship XJ saloons.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XJR",
+  "image": null,
+  "sketchfab": {
+    "uid": "b71ee24c729d46a6b1c0a9be242e30a2",
+    "name": "Jaguar XJR 9 | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-ShareAlike"
+  }
+}

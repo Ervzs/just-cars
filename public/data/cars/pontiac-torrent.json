@@ -1,0 +1,38 @@
+{
+  "id": "pontiac-torrent",
+  "make": "Pontiac",
+  "model": "Torrent",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pontiac_Torrent_--_08-28-2009.jpg/960px-Pontiac_Torrent_--_08-28-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Pontiac Torrent is a mid-size crossover SUV produced by General Motors for the 2006 to 2009 model years. A replacement for the Aztek, it was a mildly restyled version of the first-generation Chevrolet Equinox. The Torrent shared its basic body structure and mechanicals with the Equinox. However, the Torrent had a different front and rear end to distinguish it visually from the Equinox. The suspension was also modified to be firmer and sportier, and the electronic power steering was recalibrated to deliver a firmer, less artificial feel.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Torrent",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pontiac_Torrent_--_08-28-2009.jpg/1280px-Pontiac_Torrent_--_08-28-2009.jpg",
+  "sketchfab": {
+    "uid": "198f54df13dd4abfb9c320d387696fab",
+    "name": "Photoscanned Pontiac Torrent",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

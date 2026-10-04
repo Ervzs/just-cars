@@ -1,0 +1,53 @@
+{
+  "id": "nissan-versa",
+  "make": "Nissan",
+  "model": "Versa",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2011_Nissan_Versa_1.6_Sedan.jpg/960px-2011_Nissan_Versa_1.6_Sedan.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 32,
+    "mpgHighway": 40,
+    "mpgCombined": 35,
+    "evRangeMiles": null
+  },
+  "description": "Nissan Versa is an automobile nameplate used by the Japanese manufacturer Nissan in the Americas for the following models:",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Versa",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2011_Nissan_Versa_1.6_Sedan.jpg/1920px-2011_Nissan_Versa_1.6_Sedan.jpg",
+  "sketchfab": {
+    "uid": "18af87c9490e4acb80a46b70ca8d86ed",
+    "name": "2015 Nissan Versa Sedan 1.6",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

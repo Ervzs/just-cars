@@ -1,0 +1,40 @@
+{
+  "id": "spyker-c8",
+  "make": "Spyker",
+  "model": "C8",
+  "years": [
+    2005,
+    2006,
+    2007,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2008_Spyker_C8_Spyder_SP_25.jpg/960px-2008_Spyker_C8_Spyder_SP_25.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Spyker C8 is a sports car produced by the Dutch automaker Spyker Cars since 2000. The design takes visual cues from the 1999 Spyker Silvestris V8 prototype but with changes to the proportions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spyker_C8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/2008_Spyker_C8_Spyder_SP_25.jpg/1920px-2008_Spyker_C8_Spyder_SP_25.jpg",
+  "sketchfab": {
+    "uid": "78cf6abf9a4f47eeb962b9d7b2d670ea",
+    "name": "Spyker C8 Preliator",
+    "author": "JUSTGAME",
+    "authorUrl": "https://sketchfab.com/JUSTGAME",
+    "license": "CC Attribution"
+  }
+}

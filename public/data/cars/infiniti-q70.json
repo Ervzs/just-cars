@@ -1,0 +1,40 @@
+{
+  "id": "infiniti-q70",
+  "make": "Infiniti",
+  "model": "Q70",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2016_Infiniti_Q70L_front_4.24.18.jpg/960px-2016_Infiniti_Q70L_front_4.24.18.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Infiniti Q70 and Q70L is a line of mid-size luxury (executive) cars from Nissan luxury division Infiniti. Essentially an update to the Infiniti M series with minor cosmetic changes, the Q70 name was introduced to reflect Infiniti's updated \"Q\" nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_Q70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2016_Infiniti_Q70L_front_4.24.18.jpg/1920px-2016_Infiniti_Q70L_front_4.24.18.jpg",
+  "sketchfab": {
+    "uid": "e3218279738446dca311220e9223ac36",
+    "name": "2020 Infiniti Q70 Luxury 3.7",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

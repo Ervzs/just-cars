@@ -1,0 +1,37 @@
+{
+  "id": "mercedes-benz-eqb",
+  "make": "Mercedes-Benz",
+  "model": "EQB",
+  "years": [
+    2022,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/960px-Mercedes-Benz_X243_300_1X7A0422.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 114,
+    "mpgHighway": 100,
+    "mpgCombined": 107,
+    "evRangeMiles": 251
+  },
+  "description": "The Mercedes-Benz EQB (X243) is a seven-seat battery electric mid-size D-segment crossover SUV produced by the German automobile manufacturer Mercedes-Benz from 2021 to 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQB",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/1920px-Mercedes-Benz_X243_300_1X7A0422.jpg",
+  "sketchfab": {
+    "uid": "bdda9a96bee74db8bff2eca6514fd575",
+    "name": "Mercedes-Benz EQB",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

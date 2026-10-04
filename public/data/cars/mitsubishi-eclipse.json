@@ -1,0 +1,47 @@
+{
+  "id": "mitsubishi-eclipse",
+  "make": "Mitsubishi",
+  "model": "Eclipse",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Mitsubishi_Eclipse_--_09-08-2009.jpg/960px-Mitsubishi_Eclipse_--_09-08-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S4)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Mitsubishi Eclipse  is a sport compact car which was manufactured and marketed by Mitsubishi over four generations in the 1990–2012 model years. A convertible body style was added during the 1996 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Mitsubishi_Eclipse_--_09-08-2009.jpg/1920px-Mitsubishi_Eclipse_--_09-08-2009.jpg",
+  "sketchfab": {
+    "uid": "38ea726a6aae496981069cdfdb140adc",
+    "name": "1999 Mitsubishi Eclipse GSX",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

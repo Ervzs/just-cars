@@ -1,0 +1,40 @@
+{
+  "id": "chevrolet-astro-cargo",
+  "make": "Chevrolet",
+  "model": "Astro Cargo",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Vans, Cargo Type",
+  "fuelType": "Regular",
+  "engine": "4.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg/960px-1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "4.3L 6-cyl",
+    "displacementL": 4.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Astro is a minivan that was manufactured and marketed by the Chevrolet division of American auto manufacturer General Motors from 1985 to 2005. Sold alongside the GMC Safari, the Astro was marketed in multiple configurations, including passenger van and cargo van.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Astro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg/1920px-1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg",
+  "sketchfab": {
+    "uid": "984486bc9d2d4b1395b72ac9b20939be",
+    "name": "2004 Chevrolet Astro Cargo",
+    "author": "LEON elenaisakova248",
+    "authorUrl": "https://sketchfab.com/elenaisakova248",
+    "license": "CC Attribution"
+  }
+}

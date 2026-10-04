@@ -1,0 +1,48 @@
+{
+  "id": "suzuki-grand-vitara",
+  "make": "Suzuki",
+  "model": "Grand Vitara",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2018_Suzuki_Vitara_%28LY%29_S_Turbo_wagon_%282018-11-02%29_01.jpg/960px-2018_Suzuki_Vitara_%28LY%29_S_Turbo_wagon_%282018-11-02%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Suzuki Vitara is a series of SUVs produced by Suzuki in five generations since 1988. The second and third generation were known as the Suzuki Grand Vitara, while the fourth generation eschewed the \"Grand\" prefix. In Japan and a number of other markets, all generations have used the name Suzuki Escudo  until 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Vitara",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2018_Suzuki_Vitara_%28LY%29_S_Turbo_wagon_%282018-11-02%29_01.jpg/1920px-2018_Suzuki_Vitara_%28LY%29_S_Turbo_wagon_%282018-11-02%29_01.jpg",
+  "sketchfab": {
+    "uid": "2479f3620eea4320a6b30950347a768c",
+    "name": "Suzuki Grand Vitara",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

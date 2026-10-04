@@ -1,0 +1,50 @@
+{
+  "id": "nissan-xterra",
+  "make": "Nissan",
+  "model": "Xterra",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Nissan_Xterra_%28N50%29_IMG_6174.jpg/960px-Nissan_Xterra_%28N50%29_IMG_6174.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Nissan Xterra is a truck-based compact SUV that was first manufactured and marketed by Nissan from 1999 to 2015 across two generations; the first (1999–2004) sharing a platform and many of its major exterior parts from the front doors forward with the Nissan (D22) Frontier pickup – and the second (2005–2015) sharing the Nissan F-Alpha platform with the Frontier and Pathfinder. It is planned to be reintroduced in 2028.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Xterra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Nissan_Xterra_%28N50%29_IMG_6174.jpg/1920px-Nissan_Xterra_%28N50%29_IMG_6174.jpg",
+  "sketchfab": {
+    "uid": "4519f330f0fe42b9ad0eb1cb08c74df3",
+    "name": "Photoscanned Nissan Xterra",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

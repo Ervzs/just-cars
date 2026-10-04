@@ -1,0 +1,29 @@
+{
+  "id": "dodge-b2500-van",
+  "make": "Dodge",
+  "model": "B2500 Van",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Vans, Cargo Type",
+  "fuelType": "Regular",
+  "engine": "5.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/960px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "5.2L 8-cyl",
+    "displacementL": 5.2,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 17,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Dodge Ram Van is a range of full-size vans that were produced by Chrysler Corporation from the 1971 to 2003 model years. The B series replaced the forward control Dodge A100, transitioning to a front-engine, rear-wheel-drive layout that shared components with the D series pickup truck and had a conventional exterior hood for engine access. The model range consisted of a cargo van, a passenger van marketed as the Dodge Ram Wagon after introduction of the Ram nameplate for model year 1980, and a cutaway van chassis which was dropped in 1979.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Ram_Van",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/1920px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg",
+  "sketchfab": null
+}

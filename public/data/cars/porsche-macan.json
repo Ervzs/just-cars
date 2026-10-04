@@ -1,0 +1,46 @@
+{
+  "id": "porsche-macan",
+  "make": "Porsche",
+  "model": "Macan",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/960px-Porsche_Macan_4_IMG_2153.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche Macan is a compact luxury crossover SUV (D-segment) produced by German manufacturer Porsche since 2014. It is the smaller SUV from Porsche below the Cayenne. The first-generation Macan entered production from February 2014 with petrol and diesel engine options. In 2024, Porsche released the second-generation Macan which is a battery electric vehicle built on the dedicated Premium Platform Electric (PPE) EV platform. The first-generation and second-generation Macan will be marketed side-by-side, providing multiple powertrain options for consumers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Macan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/1920px-Porsche_Macan_4_IMG_2153.jpg",
+  "sketchfab": {
+    "uid": "5d57f6dcabe7473f91b160595a3eb0cc",
+    "name": "Porsche Macan - Kaban",
+    "author": "animanyarty",
+    "authorUrl": "https://sketchfab.com/animanyarty",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lincoln-corsair",
+  "make": "Lincoln",
+  "model": "Corsair",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg/960px-2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Lincoln Corsair is a compact luxury crossover manufactured by Ford and marketed by its Lincoln brand since 2019, superseding the MKC. The Corsair was Lincoln's best-selling model through 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Corsair",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg/1920px-2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg",
+  "sketchfab": null
+}

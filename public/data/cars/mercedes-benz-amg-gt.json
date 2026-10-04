@@ -1,0 +1,46 @@
+{
+  "id": "mercedes-benz-amg-gt",
+  "make": "Mercedes-Benz",
+  "model": "AMG GT",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/960px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-AMG GT is a series of 2-door sports cars produced by German automobile manufacturer Mercedes-AMG. The car was introduced on 9 September 2014 and was officially unveiled to the public in October 2014 at the Paris Motor Show. While not directly replacing the SLS AMG, it is the second sports car developed entirely in-house by Mercedes-AMG. The Mercedes-AMG GT went on sale in two variants in March 2015, while a GT3 racing variant of the car was introduced in 2015. A high performance variant called the GT R was introduced in 2016. A GT4 racing variant, targeted at semi-professional drivers and based on the GT R variant, was introduced in 2017. In 2021, a new variant called the AMG GT R Black Series was released. All variants are assembled at the Mercedes-Benz plant in Sindelfingen, Germany.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-AMG_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/1920px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg",
+  "sketchfab": {
+    "uid": "661dcab94455463784651a3ebc63cfb9",
+    "name": "Mercedes Benz AMG GT",
+    "author": "Yan Carvalho",
+    "authorUrl": "https://sketchfab.com/carvalhoyan",
+    "license": "CC Attribution"
+  }
+}

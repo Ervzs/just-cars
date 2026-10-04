@@ -1,0 +1,39 @@
+{
+  "id": "oldsmobile-alero",
+  "make": "Oldsmobile",
+  "model": "Alero",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Oldsmobile_Alero_sedan_--_03-16-2012.JPG/960px-Oldsmobile_Alero_sedan_--_03-16-2012.JPG",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Oldsmobile Alero is a compact car that was produced by General Motors for its Oldsmobile division. Introduced in 1998 as a 1999 model, the Alero was the replacement for both the Achieva and Cutlass. The Alero was Oldsmobile's last new model nameplate, and — on April 29, 2004 — was also the last Oldsmobile manufactured.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Alero",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Oldsmobile_Alero_sedan_--_03-16-2012.JPG/1280px-Oldsmobile_Alero_sedan_--_03-16-2012.JPG",
+  "sketchfab": {
+    "uid": "1b6cf591db1647308b045915ee5ca150",
+    "name": "Oldsmobile Alero sedan 1998",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

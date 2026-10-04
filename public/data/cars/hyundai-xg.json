@@ -1,0 +1,33 @@
+{
+  "id": "hyundai-xg",
+  "make": "Hyundai",
+  "model": "XG",
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Hyundai_Grandeur_Calligraphy_GN7_Biophilic_Blue_Pearl_%285%29_%28cropped%29.jpg/960px-Hyundai_Grandeur_Calligraphy_GN7_Biophilic_Blue_Pearl_%285%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Grandeur, is an executive car / full-size car manufactured and marketed by the South Korean manufacturer Hyundai since 1986, over seven generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Grandeur",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Hyundai_Grandeur_Calligraphy_GN7_Biophilic_Blue_Pearl_%285%29_%28cropped%29.jpg/1920px-Hyundai_Grandeur_Calligraphy_GN7_Biophilic_Blue_Pearl_%285%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

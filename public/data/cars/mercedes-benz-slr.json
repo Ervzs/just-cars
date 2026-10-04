@@ -1,0 +1,39 @@
+{
+  "id": "mercedes-benz-slr",
+  "make": "Mercedes-Benz",
+  "model": "SLR",
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "Mercedes-Benz SLR is a designation shared by two cars:Mercedes-Benz 300 SLR, a 1955 sports racing car developed by Daimler-Benz\nMercedes-Benz SLR McLaren, a 2004 road car co-developed by DaimlerChrysler and McLaren",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLR",
+  "image": null,
+  "sketchfab": {
+    "uid": "d2f44fb984ff4018b498790a114340a8",
+    "name": "Mercedes-Benz SLR Mclaren | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

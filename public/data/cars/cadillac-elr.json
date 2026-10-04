@@ -1,0 +1,37 @@
+{
+  "id": "cadillac-elr",
+  "make": "Cadillac",
+  "model": "ELR",
+  "years": [
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium Gas or Electricity",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2014_Cadillac_ELR_trimmed.jpg/960px-2014_Cadillac_ELR_trimmed.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 33,
+    "mpgCombined": 32,
+    "evRangeMiles": 340
+  },
+  "description": "The Cadillac ELR is a two-door, four-passenger luxury plug-in hybrid compact coupé manufactured and marketed by Cadillac for model years (MY) 2014 and 2016 – with a hiatus for MY 2015. Using a retuned version of the Chevrolet Volt's Voltec EREV drivetrain, the ELR's lithium-ion battery pack delivered an all-electric range of 37–39 miles (60–63 km) and a top speed of 106 mph (171 km/h).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_ELR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2014_Cadillac_ELR_trimmed.jpg/1920px-2014_Cadillac_ELR_trimmed.jpg",
+  "sketchfab": {
+    "uid": "9d3dc5f7ca2143daa091874a99fc4509",
+    "name": "2016 Cadillac ELR",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mercury-milan",
+  "make": "Mercury",
+  "model": "Milan",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mercury-Milan-Premier.JPG/960px-Mercury-Milan-Premier.JPG",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Mercury Milan is a four-door, five passenger, front and all-wheel drive mid-size sedan manufactured by Ford and marketed by its Mercury division over a single generation from 2006 to 2011, using Ford's CD3 platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Milan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mercury-Milan-Premier.JPG/1920px-Mercury-Milan-Premier.JPG",
+  "sketchfab": {
+    "uid": "fd97cf0eec4a4686ba0bc90f7a80a44c",
+    "name": "Photoscanned Mercury Milan",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "buick-envision",
+  "make": "Buick",
+  "model": "Envision",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/960px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Buick Envision is a compact crossover SUV manufactured by General Motors and marketed under the Buick brand since 2014. It is exclusively manufactured in China by the SAIC-GM joint venture, supplying the Chinese and North American markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Envision",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/1920px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg",
+  "sketchfab": {
+    "uid": "057cd2a2385b4c8381f11ddfa6c251b5",
+    "name": "Buick Envision 2019",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "buick-century",
+  "make": "Buick",
+  "model": "Century",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.1L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Buick_Century_--_04-23-2012.JPG/960px-Buick_Century_--_04-23-2012.JPG",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.1L 6-cyl",
+    "displacementL": 3.1,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "Buick Century is the model name that was used by Buick for a line of upscale full-size cars from 1936 to 1942 and 1954 to 1958, as well as from 1973 to 2005 for mid-size cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Century",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Buick_Century_--_04-23-2012.JPG/1280px-Buick_Century_--_04-23-2012.JPG",
+  "sketchfab": {
+    "uid": "72c558d84448489592a9db227a161dac",
+    "name": "Buick Century",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

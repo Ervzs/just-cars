@@ -1,0 +1,42 @@
+{
+  "id": "lamborghini-urus",
+  "make": "Lamborghini",
+  "model": "Urus",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium and Electricity",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/960px-Lamborghini_Urus_SE_DSC_8524.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 21,
+    "mpgCombined": 20,
+    "evRangeMiles": 450
+  },
+  "description": "The Lamborghini Urus is a high performance luxury SUV manufactured by the Italian automobile manufacturer Lamborghini. It was introduced in December 2017 as a 2018 model year production vehicle. The Urus is the first Lamborghini SUV and five-door vehicle under Volkswagen's ownership, and the second SUV in its history after the LM002, produced between 1986 and 1993.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Urus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/1920px-Lamborghini_Urus_SE_DSC_8524.jpg",
+  "sketchfab": {
+    "uid": "cc113385b7e34481af5e50a2fb8b6b2e",
+    "name": "2025 Lamborghini Urus SE",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

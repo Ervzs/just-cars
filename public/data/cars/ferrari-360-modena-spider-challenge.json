@@ -1,0 +1,30 @@
+{
+  "id": "ferrari-360-modena-spider-challenge",
+  "make": "Ferrari",
+  "model": "360 Modena/Spider/Challenge",
+  "years": [
+    2004,
+    2005
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ferrari_360_Modena_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2826%29_%28cropped%29.jpg/960px-Ferrari_360_Modena_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2826%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.6L 8-cyl",
+    "displacementL": 3.6,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 10,
+    "mpgHighway": 15,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari 360 is a two-seater sports car which was manufactured by Ferrari from 1999 until 2004. It has a rear mid-engine, rear-wheel-drive layout with coupé and roadster body styles. The 360 has a 3,586 cc (218.8 cu in) V8 engine which is mounted longitudinally. It succeeded the Ferrari F355 and was replaced by the Ferrari F430 in 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_360",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ferrari_360_Modena_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2826%29_%28cropped%29.jpg/1280px-Ferrari_360_Modena_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2826%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

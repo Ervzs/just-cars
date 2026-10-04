@@ -1,0 +1,45 @@
+{
+  "id": "jaguar-f-type",
+  "make": "Jaguar",
+  "model": "F-Type",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/960px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Jaguar F-Type (X152) is a series of two-door, two-seater sports cars manufactured by British car manufacturer Jaguar Land Rover under their Jaguar Cars marque from December 2012 to June 2024 at Jaguar's Castle Bromwich assembly plant in the UK. The car's JLR D6a platform is based on a shortened version of the XK's platform. It is the so-called \"spiritual successor\" to the E-Type.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_F-Type",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/1920px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "4dde0628c79c479eb6b71d82248afaa4",
+    "name": "jaguar_f-type",
+    "author": "royjang",
+    "authorUrl": "https://sketchfab.com/royjang",
+    "license": "CC Attribution"
+  }
+}

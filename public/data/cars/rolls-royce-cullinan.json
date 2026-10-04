@@ -1,0 +1,43 @@
+{
+  "id": "rolls-royce-cullinan",
+  "make": "Rolls-Royce",
+  "model": "Cullinan",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "6.7L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg/960px-2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "6.7L 12-cyl",
+    "displacementL": 6.7,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Rolls-Royce Cullinan is a full-size luxury crossover sport utility vehicle (SUV)/4x4 manufactured by Rolls-Royce Motor Cars as the brand's first all-wheel drive vehicle. It is named after the Cullinan Diamond, the largest gem-quality rough diamond ever discovered.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Cullinan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg/1920px-2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg",
+  "sketchfab": {
+    "uid": "61f16a1d5be2403abcdd8fa552f730f7",
+    "name": "Rolls Royce Cullinan",
+    "author": "NewViStudios",
+    "authorUrl": "https://sketchfab.com/newvistudios",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-genesis",
+  "make": "Hyundai",
+  "model": "Genesis",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Hyundai_Genesis_3.8L_front.jpg/960px-2015_Hyundai_Genesis_3.8L_front.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 25,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Genesis is an executive car manufactured and marketed by Hyundai Motor Company over two generations from 2008 until 2016, before it was renamed the Genesis G80. It is a five-passenger, four-door, rear- or all-wheel-drive sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Genesis",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Hyundai_Genesis_3.8L_front.jpg/1920px-2015_Hyundai_Genesis_3.8L_front.jpg",
+  "sketchfab": {
+    "uid": "eac436f9b1a34e58843a72625b9b57b5",
+    "name": "VEHICLE - Hyundai Genesis Coupe 3.8",
+    "author": "Thcyrax",
+    "authorUrl": "https://sketchfab.com/thcyrax",
+    "license": "CC Attribution"
+  }
+}

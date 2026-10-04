@@ -1,0 +1,46 @@
+{
+  "id": "acura-nsx",
+  "make": "Acura",
+  "model": "NSX",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/AcuraNSX-05-cropped.jpg/960px-AcuraNSX-05-cropped.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 22,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Honda NSX is a two-seater sports car manufactured by Honda over two generations. The first generation was produced from 1990 until 2006, whilst the second generation was made from 2016 to 2022. The first generation was introduced as a two-door coupé, with a two-door targa top variant later added, and has a rear mid-engine, rear-wheel-drive layout. The second generation is only a coupé, and has a rear mid-engine, all-wheel-drive layout. The first generation has a transversely-mounted naturally-aspirated engine with a V6 configuration, whilst the second generation has a twin-turbocharged V6 engine supplemented by multiple electric motors in a petrol-electric hybrid drivetrain.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_NSX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/AcuraNSX-05-cropped.jpg/1280px-AcuraNSX-05-cropped.jpg",
+  "sketchfab": {
+    "uid": "a35b248a148743b894c7312522b12068",
+    "name": "2020 Acura NSX",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

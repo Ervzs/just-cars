@@ -1,0 +1,32 @@
+{
+  "id": "suzuki-equator",
+  "make": "Suzuki",
+  "model": "Equator",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2009_Suzuki_Equator_extended_cab_Premium.jpg/960px-2009_Suzuki_Equator_extended_cab_Premium.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Suzuki Equator is a mid-size pickup truck based on the Nissan Frontier, assembled by Nissan and sold under the Suzuki brand. It was released in the 2009 model year in the United States, it made its debut at the 2008 Chicago Auto Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Equator",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2009_Suzuki_Equator_extended_cab_Premium.jpg/1280px-2009_Suzuki_Equator_extended_cab_Premium.jpg",
+  "sketchfab": null
+}

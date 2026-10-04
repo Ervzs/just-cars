@@ -1,0 +1,29 @@
+{
+  "id": "cadillac-armored-dts",
+  "make": "Cadillac",
+  "model": "Armored DTS",
+  "years": [
+    2006
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cadillac_DTS_--_02-29-2012.JPG/960px-Cadillac_DTS_--_02-29-2012.JPG",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Cadillac DTS is a full-size car that was built by the American company Cadillac from 2005 until May 2011. It is a four-door sedan that comes in five- or six-seat variants. The DTS debuted at the 2005 Chicago Auto Show and was manufactured at GM's Detroit/Hamtramck Assembly factory. It uses GM's G-platform for front-engine, front-wheel-drive automobiles. The DTS was a mildly revised iteration of the eighth-generation Deville, using the brand's new naming convention, set by the CTS and STS. Writing for the Los Angeles Times, noted reviewer Warren Brown called the DTS \"a large, exceptionally comfortable front-wheel-drive luxury sedan.\"\n",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_DTS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cadillac_DTS_--_02-29-2012.JPG/1280px-Cadillac_DTS_--_02-29-2012.JPG",
+  "sketchfab": null
+}

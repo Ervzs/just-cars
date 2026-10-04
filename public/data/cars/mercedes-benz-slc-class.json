@@ -1,0 +1,32 @@
+{
+  "id": "mercedes-benz-slc-class",
+  "make": "Mercedes-Benz",
+  "model": "SLC-Class",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_SLC_300_%28MSP16%29.jpg/960px-Mercedes-Benz_SLC_300_%28MSP16%29.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "Mercedes-Benz SLC-Class can designate:The hard-top coupé counterpart of the Mercedes-Benz R107 produced from 1971 to 1981\nThe Mercedes-Benz R172, the successor of the Mercedes-Benz SLK-Class R171, produced from 2016 to 2020",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLC-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_SLC_300_%28MSP16%29.jpg/1920px-Mercedes-Benz_SLC_300_%28MSP16%29.jpg",
+  "sketchfab": null
+}

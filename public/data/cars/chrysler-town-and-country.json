@@ -1,0 +1,43 @@
+{
+  "id": "chrysler-town-and-country",
+  "make": "Chrysler",
+  "model": "Town and Country",
+  "years": [
+    2006,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg/960px-2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Chrysler Town & Country is a minivan manufactured and marketed by Chrysler starting from the 1990 until the 2016 model year. It was the third Chrysler minivan model introduced in North America. The Town & Country adopted its nameplate from the flagship Chrysler station wagon line, adopting its exterior woodgrain trim as a design feature for several generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Town_%26_Country_(minivan)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg/1920px-2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg",
+  "sketchfab": {
+    "uid": "7d08bdbf764744b7ab593856cb73baba",
+    "name": "Stylized Chrysler Town and Country",
+    "author": "illustros",
+    "authorUrl": "https://sketchfab.com/illustros",
+    "license": "Free Standard"
+  }
+}

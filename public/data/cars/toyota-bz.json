@@ -1,0 +1,36 @@
+{
+  "id": "toyota-bz",
+  "make": "Toyota",
+  "model": "bZ",
+  "years": [
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 144,
+    "mpgHighway": 117,
+    "mpgCombined": 130,
+    "evRangeMiles": 236
+  },
+  "description": "The Toyota bZ series is a family of battery electric vehicles (BEV) manufactured by Toyota. It was introduced in April 2021 alongside the bZ4X Concept. The bZ series is a part of Toyota's plan to introduce 15 battery electric vehicle models by 2025, seven of which are from the bZ series. Vehicles from the bZ series make use of the e-TNGA platform co-developed with Subaru.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_bZ",
+  "image": null,
+  "sketchfab": {
+    "uid": "6f31946d492c4b2ab3666b59f7f1efd9",
+    "name": "Toyota Bz4x / Toyota Bz 2026",
+    "author": "BMW'S Lost Proxy",
+    "authorUrl": "https://sketchfab.com/Bmws_Lost_Proxy",
+    "license": "CC Attribution"
+  }
+}

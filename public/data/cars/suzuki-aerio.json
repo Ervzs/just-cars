@@ -1,0 +1,34 @@
+{
+  "id": "suzuki-aerio",
+  "make": "Suzuki",
+  "model": "Aerio",
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/02-04_Suzuki_Aerio_sedan.jpg/960px-02-04_Suzuki_Aerio_sedan.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Suzuki Aerio is a subcompact car that was built by Suzuki. It was introduced in 2001 as a replacement for the Suzuki Esteem/Baleno, with a tall 5-door SX model hatchback and a 4-door sedan body. It featured two different 16-valve gasoline inline-four engines, with 1.5-litre and 1.8-litre, this one capable of 125 PS JIS. Production was discontinued in 2007 around the world and replaced by the Suzuki SX4, except in Pakistan and China where production was continued by Changhe-Suzuki until 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Aerio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/02-04_Suzuki_Aerio_sedan.jpg/1280px-02-04_Suzuki_Aerio_sedan.jpg",
+  "sketchfab": null
+}

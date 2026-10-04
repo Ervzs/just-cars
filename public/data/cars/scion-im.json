@@ -1,0 +1,29 @@
+{
+  "id": "scion-im",
+  "make": "Scion",
+  "model": "iM",
+  "years": [
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg/960px-Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 28,
+    "mpgHighway": 36,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota Auris  is a compact car derived from the Corolla, manufactured and sold by Toyota. Introduced in 2006, the first generation three/five-door hatchback shared the platform with the E150 series Corolla, while the second generation five-door hatchback and estate car called \"Touring Sports\" uses the E180 platform. The \"Auris\" name is based on the Latin word for \"gold\", \"aurum\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Auris",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg/1920px-Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

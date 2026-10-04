@@ -1,0 +1,40 @@
+{
+  "id": "infiniti-g37",
+  "make": "Infiniti",
+  "model": "G37",
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/960px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Infiniti G Line is a series of compact executive cars manufactured and marketed by Infiniti, a luxury division of Nissan, for the 1991–1996 and 1999–2016 model years — across four generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_G_Line",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/1920px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg",
+  "sketchfab": {
+    "uid": "9f6243d03a004886b1326a23b9634893",
+    "name": "2013 Infiniti G37 IPL Convertible",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

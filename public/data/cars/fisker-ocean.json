@@ -1,0 +1,36 @@
+{
+  "id": "fisker-ocean",
+  "make": "Fisker",
+  "model": "Ocean",
+  "years": [
+    2023,
+    2024
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fisker_Ocean_Motorworld_Munich_1X7A0079.jpg/960px-Fisker_Ocean_Motorworld_Munich_1X7A0079.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 104,
+    "mpgHighway": 81,
+    "mpgCombined": 92,
+    "evRangeMiles": 231
+  },
+  "description": "The Fisker Ocean is a discontinued battery electric mid-size crossover SUV that was manufactured and marketed by Fisker, which filed for bankruptcy protection in June 2024. Released in 2023, the Ocean was intended to be the first of three models in a lineup of mass-market all-electric vehicles designed by Henrik Fisker.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fisker_Ocean",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fisker_Ocean_Motorworld_Munich_1X7A0079.jpg/1920px-Fisker_Ocean_Motorworld_Munich_1X7A0079.jpg",
+  "sketchfab": {
+    "uid": "f506bfe876864c04b68bdfc59070739a",
+    "name": "Fisker Ocean (low-poly)",
+    "author": "LagzDesign",
+    "authorUrl": "https://sketchfab.com/LagzDesign",
+    "license": "CC Attribution"
+  }
+}

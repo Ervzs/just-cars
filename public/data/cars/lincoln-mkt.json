@@ -1,0 +1,44 @@
+{
+  "id": "lincoln-mkt",
+  "make": "Lincoln",
+  "model": "MKT",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Special Purpose Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2010_Lincoln_MKT_--_NHTSA_1.jpg/960px-2010_Lincoln_MKT_--_NHTSA_1.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Lincoln MKT is a full-size luxury crossover SUV with 3-row seating marketed by the Lincoln division of Ford Motor Company over a single generation from 2010-2019. Marketed between the Lincoln MKX and the Lincoln Navigator, the MKT shared its Ford D4 chassis with the Ford Flex CUV and the 2011-2019 Ford Explorer.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_MKT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2010_Lincoln_MKT_--_NHTSA_1.jpg/1280px-2010_Lincoln_MKT_--_NHTSA_1.jpg",
+  "sketchfab": {
+    "uid": "1da65546e0a24ecfbb9aeb6238257d39",
+    "name": "2010 Lincoln MKT",
+    "author": "ActsOfDoge",
+    "authorUrl": "https://sketchfab.com/ActsOfDoge",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

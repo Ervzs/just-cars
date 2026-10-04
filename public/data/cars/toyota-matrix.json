@@ -1,0 +1,39 @@
+{
+  "id": "toyota-matrix",
+  "make": "Toyota",
+  "model": "Matrix",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2009_Toyota_Matrix_%28E140%29.jpg/960px-2009_Toyota_Matrix_%28E140%29.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 31,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota Matrix, officially named Toyota Corolla Matrix, is a compact hatchback manufactured by Toyota Motor Manufacturing Canada in Cambridge, Ontario and derived from the Corolla. Introduced in 2002 as a 2003 model, the Matrix was the result of a joint venture between Toyota and General Motors, with the GM version being the Pontiac Vibe, which was assembled by New United Motor Manufacturing, Inc. (NUMMI) in Fremont, California, United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Matrix",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2009_Toyota_Matrix_%28E140%29.jpg/1920px-2009_Toyota_Matrix_%28E140%29.jpg",
+  "sketchfab": null
+}

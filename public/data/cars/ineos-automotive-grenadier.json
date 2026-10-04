@@ -1,0 +1,31 @@
+{
+  "id": "ineos-automotive-grenadier",
+  "make": "INEOS Automotive",
+  "model": "Grenadier",
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2020_Ineos_Grenadier.jpg/960px-2020_Ineos_Grenadier.jpg",
+  "has3d": false,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 15,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "Ineos Automotive Ltd is a British manufacturer of off-road vehicles based in London, operating since 2016. It belongs to the multinational conglomerate Ineos.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ineos_Automotive",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2020_Ineos_Grenadier.jpg/1920px-2020_Ineos_Grenadier.jpg",
+  "sketchfab": null
+}

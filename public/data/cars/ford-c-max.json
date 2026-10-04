@@ -1,0 +1,40 @@
+{
+  "id": "ford-c-max",
+  "make": "Ford",
+  "model": "C-MAX",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/960px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 42,
+    "mpgHighway": 38,
+    "mpgCombined": 40,
+    "evRangeMiles": null
+  },
+  "description": "The Ford C-Max is a car produced by the Ford Motor Company from 2003 to 2019. It has a five-door compact multi-purpose vehicle (MPV) design. The Ford Grand C-Max has a longer wheelbase.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_C-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/1920px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Frontansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg",
+  "sketchfab": {
+    "uid": "ae21290ed9724e73abdf7495d1313d4f",
+    "name": "2013 Ford C-max Titanium",
+    "author": "Dejo",
+    "authorUrl": "https://sketchfab.com/dejomiletic",
+    "license": "CC Attribution"
+  }
+}

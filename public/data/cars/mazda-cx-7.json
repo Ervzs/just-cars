@@ -1,0 +1,40 @@
+{
+  "id": "mazda-cx-7",
+  "make": "Mazda",
+  "model": "CX-7",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Premium",
+  "engine": "2.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg/960px-2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.3L 4-cyl",
+    "displacementL": 2.3,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda CX-7 is a mid-size crossover SUV from Mazda, and is the production version of the MX-Crossport concept car. It was shown publicly for the first time at the 2006 LA Auto Show in January. Production officially began on February 20, 2006 in Mazda's Ujina #2 factory in Hiroshima, and went on sale in April 2006 as a 2007 model. The CX-7 was Mazda's first mid-size SUV since the Navajo was discontinued in 1994, although the CX-7 is considered more of a 'Soft Roader'.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg/1920px-2006-2009_Mazda_CX-7_%28ER%29_Luxury_wagon_%282010-06-17%29_01.jpg",
+  "sketchfab": {
+    "uid": "0941c4e2a80d4c4fa0fe37bdbd2f8225",
+    "name": "Mazda CX-7 2006-2012",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

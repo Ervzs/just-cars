@@ -1,0 +1,43 @@
+{
+  "id": "mazda-5",
+  "make": "Mazda",
+  "model": "5",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2012_Mazda5_Sport_--_03-09-2011.jpg/960px-2012_Mazda5_Sport_--_03-09-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda Premacy  is a passenger minivan that was built by the Japanese manufacturer Mazda from 1999 to 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Premacy",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2012_Mazda5_Sport_--_03-09-2011.jpg/1920px-2012_Mazda5_Sport_--_03-09-2011.jpg",
+  "sketchfab": {
+    "uid": "e074e29ccc3847dca74ed5e9cb92d3e7",
+    "name": "Mazda Miata mx-5",
+    "author": "Black Snow",
+    "authorUrl": "https://sketchfab.com/BlackSnow02",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "volvo-ex60",
+  "make": "Volvo",
+  "model": "EX60",
+  "years": [
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Volvo_EX60_fl.jpg/960px-Volvo_EX60_fl.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 118,
+    "mpgHighway": 102,
+    "mpgCombined": 110,
+    "evRangeMiles": 330
+  },
+  "description": "The Volvo EX60 is a battery electric compact luxury crossover SUV manufactured and marketed by Swedish automaker Volvo Cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_EX60",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Volvo_EX60_fl.jpg/1920px-Volvo_EX60_fl.jpg",
+  "sketchfab": null
+}

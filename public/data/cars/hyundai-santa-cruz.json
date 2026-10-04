@@ -1,0 +1,40 @@
+{
+  "id": "hyundai-santa-cruz",
+  "make": "Hyundai",
+  "model": "Santa Cruz",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2022_Hyundai_Santa_Cruz%2C_Front_Left%2C_10-17-2021.jpg/960px-2022_Hyundai_Santa_Cruz%2C_Front_Left%2C_10-17-2021.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Santa Cruz is a four-door compact pickup truck manufactured and marketed by Hyundai. Released in 2021 for the 2022 model year, the Santa Cruz is the first four-door pickup truck sold by Hyundai in the North American market. The vehicle is based on the Tucson crossover SUV, and uses a unibody chassis design.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Santa_Cruz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2022_Hyundai_Santa_Cruz%2C_Front_Left%2C_10-17-2021.jpg/1920px-2022_Hyundai_Santa_Cruz%2C_Front_Left%2C_10-17-2021.jpg",
+  "sketchfab": {
+    "uid": "420882c3f43f4aa6a78e1b15ab636f61",
+    "name": "Hyundai Santa Cruz",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

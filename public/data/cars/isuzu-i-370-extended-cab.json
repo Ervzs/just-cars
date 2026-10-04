@@ -1,0 +1,30 @@
+{
+  "id": "isuzu-i-370-extended-cab",
+  "make": "Isuzu",
+  "model": "i-370 Extended Cab",
+  "years": [
+    2007,
+    2008
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 5-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.7L 5-cyl",
+    "displacementL": 3.7,
+    "cylinders": 5,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

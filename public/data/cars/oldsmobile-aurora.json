@@ -1,0 +1,37 @@
+{
+  "id": "oldsmobile-aurora",
+  "make": "Oldsmobile",
+  "model": "Aurora",
+  "years": [
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1997_Oldsmobile_Aurora.jpg/960px-1997_Oldsmobile_Aurora.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 24,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Oldsmobile Aurora is a luxury sedan, manufactured and marketed by General Motors from 1994 until 2003 over two generations — sharing platforms with Buick Riviera and using the Cadillac-derived G platform. At the time of production, the Aurora was the flagship vehicle in the Oldsmobile lineup, having originated from the 1989 Oldsmobile tube concept.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Aurora",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1997_Oldsmobile_Aurora.jpg/960px-1997_Oldsmobile_Aurora.jpg",
+  "sketchfab": {
+    "uid": "2d3a89a955a44e27b31c957d09411a4f",
+    "name": "Oldsmobile Aurora lowpoly for 3D-printing",
+    "author": "fishermans garage",
+    "authorUrl": "https://sketchfab.com/fishermans",
+    "license": "CC Attribution"
+  }
+}

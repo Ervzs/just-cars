@@ -1,0 +1,36 @@
+{
+  "id": "ferrari-488-pista-spider",
+  "make": "Ferrari",
+  "model": "488 Pista Spider",
+  "years": [
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg/960px-2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari 488 is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari. The car replaced the 458, being the first mid-engine Ferrari to use a turbocharged V8 since the F40. It was succeeded by the Ferrari F8.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_488",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg/1920px-2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg",
+  "sketchfab": {
+    "uid": "e542a8f3cf274ba9805ec2b09bee6567",
+    "name": "2019 Ferrari 488 Pista Spider",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

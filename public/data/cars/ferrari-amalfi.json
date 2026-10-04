@@ -1,0 +1,29 @@
+{
+  "id": "ferrari-amalfi",
+  "make": "Ferrari",
+  "model": "Amalfi",
+  "years": [
+    2027
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ferrari_Amalfi_%28retouched%29.jpg/960px-Ferrari_Amalfi_%28retouched%29.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM-S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari Amalfi is a grand touring car produced by Italian manufacturer Ferrari. It was unveiled on 1 July 2025, as the successor to the Ferrari Roma, with an estimated starting price of $283,000. It has a front mid-engine, rear-wheel-drive layout. The car is named after the village of Amalfi on the Gulf of Salerno.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Amalfi",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ferrari_Amalfi_%28retouched%29.jpg/1920px-Ferrari_Amalfi_%28retouched%29.jpg",
+  "sketchfab": null
+}

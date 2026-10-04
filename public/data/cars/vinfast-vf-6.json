@@ -1,0 +1,29 @@
+{
+  "id": "vinfast-vf-6",
+  "make": "Vinfast",
+  "model": "VF 6",
+  "years": [
+    2025
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/VinFast_VF_6_DSC_8468.jpg/960px-VinFast_VF_6_DSC_8468.jpg",
+  "has3d": false,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 88,
+    "mpgHighway": 82,
+    "mpgCombined": 85,
+    "evRangeMiles": 176
+  },
+  "description": "The VinFast VF 6 is a battery electric subcompact SUV that produced and marketed by VinFast from 2024. On 6 January 2022, the model was presented for the first time at the Consumer Electronics Show, and was shown in full at the 2022 Paris Motor Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/VinFast_VF_6_DSC_8468.jpg/1920px-VinFast_VF_6_DSC_8468.jpg",
+  "sketchfab": null
+}

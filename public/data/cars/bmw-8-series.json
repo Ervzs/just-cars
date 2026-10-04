@@ -1,0 +1,42 @@
+{
+  "id": "bmw-8-series",
+  "make": "BMW",
+  "model": "8 Series",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2022_BMW_M850i_xDrive_Coupe%2C_front_right%2C_10-17-2022.jpg/960px-2022_BMW_M850i_xDrive_Coupe%2C_front_right%2C_10-17-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The BMW 8 Series is a range of grand tourer coupes and convertibles produced by BMW.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_8_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2022_BMW_M850i_xDrive_Coupe%2C_front_right%2C_10-17-2022.jpg/1920px-2022_BMW_M850i_xDrive_Coupe%2C_front_right%2C_10-17-2022.jpg",
+  "sketchfab": {
+    "uid": "343119ddf2a448b986fa2280491b4d6d",
+    "name": "2018 BMW 8 Series Concept *Attempt 1*",
+    "author": "Benit Kibabu",
+    "authorUrl": "https://sketchfab.com/benitkibabu",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

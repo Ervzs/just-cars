@@ -1,0 +1,37 @@
+{
+  "id": "audi-tt-rs",
+  "make": "Audi",
+  "model": "TT RS",
+  "years": [
+    2018,
+    2019,
+    2022
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg/960px-2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Audi TT is a sports car manufactured and marketed by Audi from 1998 to 2023 across three generations. Its bodystyles included a coupé with a 2+2 seating arrangement and a two-seater roadster. For each of its three generations, the TT has been based on consecutive generations of Volkswagen's \"Group A\" platforms, starting with its \"PQ34\" fourth generation. The TT shared powertrain and suspension layouts with other models made on these platforms, including the Audi A3, like a transversely mounted front-engine, powering front-wheel drive or four-wheel drive, and fully independent suspension using MacPherson struts in the front.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_TT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg/1920px-2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "d00ae4bc719249bb9bd1e2fc06853bec",
+    "name": "2018 Audi TT RS",
+    "author": "SINNIK",
+    "authorUrl": "https://sketchfab.com/sinnik",
+    "license": "CC Attribution"
+  }
+}

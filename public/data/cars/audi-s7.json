@@ -1,0 +1,40 @@
+{
+  "id": "audi-s7",
+  "make": "Audi",
+  "model": "S7",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/960px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+  "has3d": false,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.9L 6-cyl",
+    "displacementL": 2.9,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Audi A7 is an executive five-door liftback produced by Audi since 2010. The coupé variant of the Audi A6 saloon/estate, the Audi A7 features a sloping roofline with a steeply raked rear window and integrated boot lid, and four frameless doors. A sport version called the S7 has been made since 2012, and a high-performance model called the RS 7 has been in production since 2013. An extended-wheelbase three-box, four-door saloon derivative called the A7L has been produced in China since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/1920px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+  "sketchfab": null
+}

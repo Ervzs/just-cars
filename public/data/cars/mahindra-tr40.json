@@ -1,0 +1,29 @@
+{
+  "id": "mahindra-tr40",
+  "make": "Mahindra",
+  "model": "TR40",
+  "years": [
+    2011
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Diesel",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 21,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

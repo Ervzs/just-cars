@@ -1,0 +1,43 @@
+{
+  "id": "lotus-evora",
+  "make": "Lotus",
+  "model": "Evora",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2017,
+    2018,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg/960px-2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 26,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Lotus Evora is a sports car produced by British automaker Lotus. The car, which was developed under the project name Project Eagle, was launched on 22 July 2008 at the British International Motor Show. The Evora S was launched in 2010 with a supercharged 3.5-litre V6. The facelifted and more powerful Evora 400 model was unveiled at the 2015 Geneva Motor Show, followed by another more powerful variant, the Evora GT430, which was unveiled in 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Evora",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg/1920px-2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "aa58af64c5a74660b06ca517e8c7f50e",
+    "name": "2018 Lotus Evora GT430",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

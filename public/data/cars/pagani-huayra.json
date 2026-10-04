@@ -1,0 +1,37 @@
+{
+  "id": "pagani-huayra",
+  "make": "Pagani",
+  "model": "Huayra",
+  "years": [
+    2018,
+    2020,
+    2023
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.0L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg/960px-Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "6.0L 12-cyl",
+    "displacementL": 6,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 10,
+    "mpgHighway": 15,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "description": "The Pagani Huayra is a mid-engine sports car produced by Italian sports car manufacturer Pagani, superseding the company's previous offering, the Zonda. It is named after Wayra Tata, the Quechua wind god. The Huayra was named \"The Hypercar of the Year 2012\" by Top Gear magazine. On 11 February 2015 it was reported that the Pagani Huayra had been sold out. The Huayra was limited to just 100 units as part of Pagani's agreement with engine supplier Mercedes-AMG.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pagani_Huayra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg/1920px-Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg",
+  "sketchfab": {
+    "uid": "a31273a3956c4e36a770eae48183ee83",
+    "name": "Pagani Huayra Codalunga | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

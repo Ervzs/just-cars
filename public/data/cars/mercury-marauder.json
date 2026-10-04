@@ -1,0 +1,36 @@
+{
+  "id": "mercury-marauder",
+  "make": "Mercury",
+  "model": "Marauder",
+  "years": [
+    2003,
+    2004
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercury-Marauder-2.jpg/500px-Mercury-Marauder-2.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Mercury Marauder is an automobile nameplate that was used for three distinct full-size cars produced by the Mercury division of Ford Motor Company. Deriving its name from the most powerful engines available to the Mercury line, the Marauder was marketed as the highest-performance version of the full-size product range.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Marauder",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercury-Marauder-2.jpg/500px-Mercury-Marauder-2.jpg",
+  "sketchfab": {
+    "uid": "224fd7c7d8794b75b0f1ed8ed9066356",
+    "name": "Mercury Marauder",
+    "author": "Jean Wally's™",
+    "authorUrl": "https://sketchfab.com/JeanWallace10",
+    "license": "CC Attribution"
+  }
+}

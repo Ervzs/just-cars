@@ -1,0 +1,39 @@
+{
+  "id": "ferrari-ff",
+  "make": "Ferrari",
+  "model": "FF",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "6.3L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg/960px-2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "6.3L 12-cyl",
+    "displacementL": 6.3,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Part-time 4-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 17,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari FF is a grand touring car that was produced by the Italian carmaker Ferrari from 2011 to 2016. The successor to the 612 Scaglietti, the FF—whose name is an acronym for \"Ferrari Four\"—is a three-door shooting brake. Development of the FF began in 2007, and it debuted at the Geneva International Motor Show in March 2011; production started in the same month in Maranello, Italy. Designed under the direction of Lowie Vermeersch and Flavio Manzoni, the FF shares parts, mainly the engine, with the F12berlinetta—a coupé that was introduced one year after the FF.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_FF",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg/1920px-2013_Ferrari_FF%2C_Blu_TdF%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "29bb8dfd0b7b45a7aea642541514a2fa",
+    "name": "2012 Ferrari FF",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "gmc-terrain",
+  "make": "GMC",
+  "model": "Terrain",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg/960px-2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 28,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The GMC Terrain is a crossover SUV by American manufacturer General Motors under its GMC marque. Sharing its platform with the Chevrolet Equinox, the first-generation Terrain was built on GM's Theta platform, while subsequent generations are built on the Delta platform. The Terrain is the smallest GMC vehicle, slotted below the Acadia. It also indirectly replaced the Pontiac Torrent which was typically sold via the same dealers prior to General Motors dropping the Pontiac brand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Terrain",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg/1920px-2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg",
+  "sketchfab": {
+    "uid": "61dec49bc2c447b5a5e1578500d13b83",
+    "name": "2020 GMC Terrain",
+    "author": "Franco",
+    "authorUrl": "https://sketchfab.com/billowous",
+    "license": "Free Standard"
+  }
+}

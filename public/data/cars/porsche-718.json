@@ -1,0 +1,40 @@
+{
+  "id": "porsche-718",
+  "make": "Porsche",
+  "model": "718",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Porsche_718RSK_Spyder%2C_front_right%2C_Stratford.jpg/960px-Porsche_718RSK_Spyder%2C_front_right%2C_Stratford.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche 718 is a series of one- or two-seat sports-racing cars built by Porsche from 1957 to 1962. An open-wheel single-seat model was developed for Formula racing.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_718",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Porsche_718RSK_Spyder%2C_front_right%2C_Stratford.jpg/1920px-Porsche_718RSK_Spyder%2C_front_right%2C_Stratford.jpg",
+  "sketchfab": {
+    "uid": "1bb367ebaee14829a24e9b5444c15087",
+    "name": "2020 Porsche 718 Spyder",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

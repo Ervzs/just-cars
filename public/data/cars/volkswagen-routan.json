@@ -1,0 +1,34 @@
+{
+  "id": "volkswagen-routan",
+  "make": "Volkswagen",
+  "model": "Routan",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2009_Volkswagen_Routan_SE.jpg/960px-2009_Volkswagen_Routan_SE.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Routan is a seven-seat minivan marketed and sold by Volkswagen from the 2009 to 2014 model years. It is a rebadged variant of the Chrysler RT platform, with revised styling, content features, and suspension tuning from the fifth-generation Dodge Grand Caravan and Chrysler Town & Country.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Routan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2009_Volkswagen_Routan_SE.jpg/1920px-2009_Volkswagen_Routan_SE.jpg",
+  "sketchfab": null
+}

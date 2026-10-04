@@ -1,0 +1,43 @@
+{
+  "id": "genesis-g70",
+  "make": "Genesis",
+  "model": "G70",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg/960px-2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Genesis G70 is a compact executive car manufactured by the Korean luxury automaker Genesis, a luxury division of Hyundai Motor Group. It is offered as a four-door sedan and, for European markets, as a five-door shooting brake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_G70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg/1920px-2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg",
+  "sketchfab": {
+    "uid": "ded2c8428fb9499ebd2bfc69c5592b02",
+    "name": "Genesis G70",
+    "author": "Lucas.Karlsmoen",
+    "authorUrl": "https://sketchfab.com/Lucas.Karlsmoen",
+    "license": "CC Attribution"
+  }
+}

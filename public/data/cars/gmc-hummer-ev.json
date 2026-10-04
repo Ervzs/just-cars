@@ -1,0 +1,36 @@
+{
+  "id": "gmc-hummer-ev",
+  "make": "GMC",
+  "model": "Hummer EV",
+  "years": [
+    2024,
+    2025
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/960px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 59,
+    "mpgHighway": 47,
+    "mpgCombined": 53,
+    "evRangeMiles": 318
+  },
+  "description": "The GMC Hummer EV is a line of battery electric heavy-duty vehicles produced by General Motors since 2021, and sold under the GMC mark. The Hummer EV is offered in two variants: a pickup truck and a sport utility vehicle (SUV), unveiled in October 2020 and April 2021 respectively.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/GMC_Hummer_EV",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/1920px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg",
+  "sketchfab": {
+    "uid": "b686365d37a94cbdbb3a01d169f5a0de",
+    "name": "GMC Hummer EV 2022",
+    "author": "Unn Tech",
+    "authorUrl": "https://sketchfab.com/unntech",
+    "license": "CC Attribution"
+  }
+}

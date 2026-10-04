@@ -1,0 +1,35 @@
+{
+  "id": "ford-e150-club-wagon",
+  "make": "Ford",
+  "model": "E150 Club Wagon",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Vans, Passenger Type",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

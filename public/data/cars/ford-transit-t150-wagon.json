@@ -1,0 +1,36 @@
+{
+  "id": "ford-transit-t150-wagon",
+  "make": "Ford",
+  "model": "Transit T150 Wagon",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Vans, Passenger Type",
+  "fuelType": "Gasoline or E85",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg/960px-Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Ford Transit Connect is a compact panel van manufactured and marketed by Ford since 2002. Developed by Ford of Europe, the model line replaced sedan-based vans with a dedicated commercial vehicle platform. The model line is the second-smallest vehicle of the Ford Transit range, positioned between the Ford Transit Courier LAV and the Ford Transit Custom LCV/MPV. In line with other Ford Transit variants, passenger-oriented models are marketed as the Ford Tourneo Connect with side windows and rear seats.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg/1920px-Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg",
+  "sketchfab": null
+}

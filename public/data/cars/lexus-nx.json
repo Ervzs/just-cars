@@ -1,0 +1,46 @@
+{
+  "id": "lexus-nx",
+  "make": "Lexus",
+  "model": "NX",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2023_Lexus_NX_450h%2C_front_4.5.23.jpg/960px-2023_Lexus_NX_450h%2C_front_4.5.23.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus NX  is a compact luxury crossover SUV sold by Lexus, a luxury division of Toyota. Introduced in late 2014, it is positioned between the subcompact UX and the mid-size RX in Lexus’ crossover SUV lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_NX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2023_Lexus_NX_450h%2C_front_4.5.23.jpg/1920px-2023_Lexus_NX_450h%2C_front_4.5.23.jpg",
+  "sketchfab": {
+    "uid": "ac4e031cf9d342639d9bdac46ad2a40f",
+    "name": "Lexus NX (Mk1) F-sport HQ interior 2017",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

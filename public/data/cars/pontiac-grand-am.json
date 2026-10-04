@@ -1,0 +1,40 @@
+{
+  "id": "pontiac-grand-am",
+  "make": "Pontiac",
+  "model": "Grand Am",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/1999-2002_Pontiac_Grand_Am_SE_sedan_--_12-23-2011.jpg/960px-1999-2002_Pontiac_Grand_Am_SE_sedan_--_12-23-2011.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Pontiac Grand Am is a car model that the Pontiac division of General Motors produced in various years between 1973 and 2005. The first and second generations were RWD mid-size cars built on the LeMans GM A platform. The Grand Am name was reused for a FWD compact car from 1985 until the nameplate was discontinued in 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Grand_Am",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/1999-2002_Pontiac_Grand_Am_SE_sedan_--_12-23-2011.jpg/1920px-1999-2002_Pontiac_Grand_Am_SE_sedan_--_12-23-2011.jpg",
+  "sketchfab": {
+    "uid": "5a7e564cadaf49e3a2bdb995e6fe5467",
+    "name": "Pontiac Grand Am (Mk5) coupe",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

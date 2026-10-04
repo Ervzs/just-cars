@@ -1,0 +1,39 @@
+{
+  "id": "ferrari-portofino",
+  "make": "Ferrari",
+  "model": "Portofino",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ferrari_Portofino_M_IMG_4351.jpg/960px-Ferrari_Portofino_M_IMG_4351.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari Portofino is a grand touring sports car produced by the Italian automotive manufacturer Ferrari. It is a two-door 2+2 hard top convertible, with a 3.9 L twin-turbo V8 gasoline engine and a 0–60 mph (0–97 km/h) time of 3.5 seconds. The car is named after the village of Portofino on the Italian Riviera and succeeds the company's previous V8 grand tourer, the California T. The car was unveiled at the 2017 Frankfurt Motor Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Portofino",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ferrari_Portofino_M_IMG_4351.jpg/1920px-Ferrari_Portofino_M_IMG_4351.jpg",
+  "sketchfab": {
+    "uid": "e6500dd6bfe849678e56e5a8299c547b",
+    "name": "Ferrari Portofino 2018 | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

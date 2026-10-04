@@ -1,0 +1,42 @@
+{
+  "id": "tesla-model-y",
+  "make": "Tesla",
+  "model": "Model Y",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/960px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 119,
+    "mpgHighway": 108,
+    "mpgCombined": 114,
+    "evRangeMiles": 328
+  },
+  "description": "The Tesla Model Y is a battery electric compact crossover SUV produced by Tesla, Inc. since 2020. Presented in March 2019 as the company's fifth production model, the Model Y is the best-selling electric vehicle of all time, having sold more than 2.16 million units worldwide.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_Y",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/1920px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg",
+  "sketchfab": {
+    "uid": "619601e7800d418da5922c4fa7833f74",
+    "name": "2025 Tesla Model Y",
+    "author": "BloxBloger",
+    "authorUrl": "https://sketchfab.com/BloxBloger",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

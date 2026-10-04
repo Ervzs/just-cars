@@ -1,0 +1,45 @@
+{
+  "id": "chrysler-sebring",
+  "make": "Chrysler",
+  "model": "Sebring",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2007-Chrysler-Sebring-Sedan.jpg/960px-2007-Chrysler-Sebring-Sedan.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Chrysler Sebring is a mid-size automobile manufactured and marketed by Chrysler from 1995 to 2010 in convertible, sedan, and coupe body styles. Both coupe generations were a Chrysler design with engineering input from Mitsubishi and were built at Mitsubishi’s Normal, Illinois facility. The range was introduced in 1995, with the Coupe replacing the Chrysler LeBaron coupe. In 1996 Chrysler introduced the convertible, replacing its LeBaron counterpart.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Sebring",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2007-Chrysler-Sebring-Sedan.jpg/1280px-2007-Chrysler-Sebring-Sedan.jpg",
+  "sketchfab": {
+    "uid": "5d77d10b86324ab0be61949d5bd58fff",
+    "name": "Chrysler Sebring Remasterizado",
+    "author": "gta2026buster1017261221.casa",
+    "authorUrl": "https://sketchfab.com/gta2026buster1017261221.casa",
+    "license": "CC Attribution"
+  }
+}

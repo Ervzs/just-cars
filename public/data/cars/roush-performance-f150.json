@@ -1,0 +1,37 @@
+{
+  "id": "roush-performance-f150",
+  "make": "Roush Performance",
+  "model": "F150",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2014,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "jaguar-i-pace",
+  "make": "Jaguar",
+  "model": "I-Pace",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2018_Jaguar_I-Pace_EV400_AWD_Front.jpg/960px-2018_Jaguar_I-Pace_EV400_AWD_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 89,
+    "mpgHighway": 82,
+    "mpgCombined": 85,
+    "evRangeMiles": 246
+  },
+  "description": "The Jaguar I-Pace is a battery-electric car produced by Jaguar Land Rover (JLR) under their Jaguar marque. A five-door executive car with a hatchback, the I-Pace was announced in March 2018, with European deliveries beginning in June 2018 and North American deliveries starting in October 2018. The I-Pace was discontinued in 2024 due to slowing sales and a change in corporate vision.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_I-Pace",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2018_Jaguar_I-Pace_EV400_AWD_Front.jpg/1920px-2018_Jaguar_I-Pace_EV400_AWD_Front.jpg",
+  "sketchfab": {
+    "uid": "296a97a6c07041cf9c48f8a303315ed2",
+    "name": "Jaguar I-Pace",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

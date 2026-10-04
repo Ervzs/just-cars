@@ -1,0 +1,39 @@
+{
+  "id": "jeep-wagoneer",
+  "make": "Jeep",
+  "model": "Wagoneer",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg/960px-1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 100,
+    "mpgHighway": 85,
+    "mpgCombined": 93,
+    "evRangeMiles": 294
+  },
+  "description": "The Jeep Wagoneer and Grand Wagoneer are a sport utility vehicle (SUV) nameplate of Jeep vehicles, with several models marketed for the 1963 through 1993 model years and again since the 2022 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Wagoneer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg/1920px-1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "6dc305bfecb04efe9f0da0ad5fabfde8",
+    "name": "Jeep Wagoneer 1978",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

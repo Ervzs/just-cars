@@ -1,0 +1,29 @@
+{
+  "id": "nissan-altra-ev",
+  "make": "Nissan",
+  "model": "Altra EV",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Nissan-Rnessa-n30_1997-front.jpg/500px-Nissan-Rnessa-n30_1997-front.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": null,
+    "drive": null,
+    "mpgCity": 81,
+    "mpgHighway": 91,
+    "mpgCombined": 85,
+    "evRangeMiles": 90
+  },
+  "description": "The Nissan R'nessa  is a station wagon manufactured by Nissan Motors from 1997 to 2001. According to Nissan, the name derives from \"packaging renaissance for versatile, spacious comfort on wheels.\"",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_R'nessa",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Nissan-Rnessa-n30_1997-front.jpg/500px-Nissan-Rnessa-n30_1997-front.jpg",
+  "sketchfab": null
+}

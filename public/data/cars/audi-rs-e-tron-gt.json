@@ -1,0 +1,37 @@
+{
+  "id": "audi-rs-e-tron-gt",
+  "make": "Audi",
+  "model": "RS e-tron GT",
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Audi_e-tron_GT_IMG_5689.jpg/960px-Audi_e-tron_GT_IMG_5689.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A2)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 85,
+    "mpgHighway": 85,
+    "mpgCombined": 85,
+    "evRangeMiles": 249
+  },
+  "description": "The Audi e-tron GT is a battery electric executive car produced by Audi since late 2020 as part of the e-tron battery electric sub-brand, and the third fully electric car model, after Q8 e-tron and Q8 e-tron Sportback SUVs. It is also Audi's first full-sized electric sedan, and the RS e-tron GT, put on the market in 2021 is, in terms of 0–100 km/h (0–62 mph) times, the fastest Audi sedan to date. Based on the J1 platform shared with the Porsche Taycan, the car went on sale in March 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_e-tron_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Audi_e-tron_GT_IMG_5689.jpg/1920px-Audi_e-tron_GT_IMG_5689.jpg",
+  "sketchfab": {
+    "uid": "e5b032ec99bc44be9f31761c574fe4c2",
+    "name": "2022 Audi RS e-tron GT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "porsche-panamera",
+  "make": "Porsche",
+  "model": "Panamera",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/960px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.9L 6-cyl",
+    "displacementL": 2.9,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche Panamera is a mid- to full-sized luxury car manufactured and marketed by German automobile manufacturer Porsche. It currently spans across three generations, using a front-engine and rear- or all-wheel drive configuration.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Panamera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/1920px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg",
+  "sketchfab": {
+    "uid": "a4045a52962f4301b34a839b9c4ed9b9",
+    "name": "Porsche Panamera",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

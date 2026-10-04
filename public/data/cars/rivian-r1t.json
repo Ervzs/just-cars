@@ -1,0 +1,40 @@
+{
+  "id": "rivian-r1t",
+  "make": "Rivian",
+  "model": "R1T",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg/960px-2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 72,
+    "mpgHighway": 63,
+    "mpgCombined": 68,
+    "evRangeMiles": 329
+  },
+  "description": "The Rivian R1T is a battery electric mid-size pickup truck produced by the American company Rivian. The first production R1T was manufactured in Illinois on September 28, 2021, and was delivered to a customer. The official EPA range for the Rivian R1T ranges from 255–420 miles (410–676 km), depending on drivetrain, battery pack capacity and wheel size.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivian_R1T",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg/1920px-2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg",
+  "sketchfab": {
+    "uid": "36d35d51942a4e7d8effd7fe02ad0520",
+    "name": "Rivian R1T Charging Pad Scan",
+    "author": "acheparev",
+    "authorUrl": "https://sketchfab.com/acheparev",
+    "license": "CC Attribution"
+  }
+}

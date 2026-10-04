@@ -1,0 +1,40 @@
+{
+  "id": "cadillac-xt6",
+  "make": "Cadillac",
+  "model": "XT6",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg/960px-2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Cadillac XT6 is a mid-size luxury crossover SUV with three-row seating manufactured by the Cadillac division of General Motors. The vehicle was introduced on January 12, 2019, at the North American International Auto Show. It went on sale in June of the same year as a 2020 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XT6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg/1920px-2020_Cadillac_XT6_Sport_AWD_3.6L%2C_front_2.16.20.jpg",
+  "sketchfab": {
+    "uid": "b6a0be0c32e343b4812ec47660142824",
+    "name": "Cadillac XT6 Luxury 2023 (free)",
+    "author": "3DShowroom",
+    "authorUrl": "https://sketchfab.com/3dshowroom",
+    "license": "CC Attribution"
+  }
+}

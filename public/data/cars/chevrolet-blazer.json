@@ -1,0 +1,49 @@
+{
+  "id": "chevrolet-blazer",
+  "make": "Chevrolet",
+  "model": "Blazer",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg/960px-1979_Chevrolet_K5_Blazer_Cheyenne.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 102,
+    "mpgHighway": 87,
+    "mpgCombined": 94,
+    "evRangeMiles": 283
+  },
+  "description": "The Chevrolet Blazer is an automobile nameplate used by General Motors for its Chevrolet brand since 1969 for several SUV models:Full-size Chevrolet K5 Blazer, based on the C/K pickup chassis and built from 1969 to 1995 \nCompact and mid-size Chevrolet S-10 Blazer, based on the S-10 pickup and built from 1983 to 2012\nChevrolet Grand Blazer, sold in Argentina, Brazil and Ecuador from 1990 to 2000\nChevrolet Grand Blazer, full-size sold in Venezuela under the \"Grand Blazer\" name from 1993 to 1999 \nChevrolet Grand Blazer Z71, sold in Venezuela from 2000 to 2002 \nChevrolet Blazer (crossover), a mid-size crossover produced since 2019\nChevrolet Blazer EV, a battery electric mid-size crossover produced since 2023",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Blazer",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg/1920px-1979_Chevrolet_K5_Blazer_Cheyenne.jpg",
+  "sketchfab": {
+    "uid": "1d47b347a3a7455eb3e0b5167fa96959",
+    "name": "2019 Chevrolet Blazer Premier",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "porsche-carrera-gt",
+  "make": "Porsche",
+  "model": "Carrera GT",
+  "years": [
+    2004,
+    2005
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.7L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/960px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "5.7L 10-cyl",
+    "displacementL": 5.7,
+    "cylinders": 10,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 15,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche Carrera GT is a mid-engine sports car that was manufactured by German automobile manufacturer Porsche from 2003 to 2006. Sports Car International named the Carrera GT number one on its list of Top Sports Cars of the 2000s, and number eight on its Top Sports Cars of All Time list. For its advanced technology and development of its chassis, Popular Science magazine awarded it the \"Best of What's New\" award in 2003.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_Carrera_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/1920px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg",
+  "sketchfab": {
+    "uid": "a43be10ac0174dc0a35984c2d41d4058",
+    "name": "2004 Porsche Carrera GT",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

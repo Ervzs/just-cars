@@ -1,0 +1,31 @@
+{
+  "id": "porsche-carrera-4-s-kit",
+  "make": "Porsche",
+  "model": "Carrera 4 S Kit",
+  "years": [
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/960px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche 911 Turbo (930) is a turbocharged variant of the 911 model sports car manufactured by German automobile manufacturer Porsche between 1975 and 1989. It was the maker's top-of-the-range 911 model for its entire production duration and, at the time of its introduction, was the fastest production car in Germany.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_(930)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/1920px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg",
+  "sketchfab": null
+}

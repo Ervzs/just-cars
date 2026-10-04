@@ -1,0 +1,35 @@
+{
+  "id": "lotus-elise-exige",
+  "make": "Lotus",
+  "model": "Elise/Exige",
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Lotus_Exige_Sport_380.jpg/960px-Lotus_Exige_Sport_380.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Lotus Exige is a sports car made by the British company Lotus Cars from 2000 until 2021. Originally a coupé version of the Lotus Elise roadster, since the Series 3 the Exige has been the larger-engined model of the family, featuring a V6 engine in place of the Elise's straight-four. Convertible versions of both models are available. Exige is French and means \"demand\"/\"require\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Exige",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Lotus_Exige_Sport_380.jpg/960px-Lotus_Exige_Sport_380.jpg",
+  "sketchfab": null
+}

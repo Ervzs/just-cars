@@ -1,0 +1,42 @@
+{
+  "id": "toyota-fj-cruiser",
+  "make": "Toyota",
+  "model": "FJ Cruiser",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg/960px-2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota FJ Cruiser  is a retro-styled mid-size SUV produced by Toyota between 2006 and 2022. Introduced as a concept car at the January 2003 North American International Auto Show, the FJ Cruiser was approved for production after positive consumer response and debuted at the February 2005 Chicago Auto Show in final production form.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_FJ_Cruiser",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg/1920px-2011_Toyota_FJ_Cruiser_%28GSJ15R%29_wagon_%282011-11-08%29_01.jpg",
+  "sketchfab": {
+    "uid": "393a83d4174a426aa086496985bd15ed",
+    "name": "Toyota FJ Cruiser (GSJ15W) HQinterior 2010",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

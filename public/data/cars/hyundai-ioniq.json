@@ -1,0 +1,40 @@
+{
+  "id": "hyundai-ioniq",
+  "make": "Hyundai",
+  "model": "Ioniq",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg/960px-Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 54,
+    "mpgHighway": 57,
+    "mpgCombined": 55,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Ioniq is a compact car which was manufactured and marketed by Hyundai from 2016 to 2022. A five-door liftback, it is marketed as the first Hyundai automobile to be offered without a standard internal combustion engine, but rather sold in hybrid, plug-in hybrid, and all-electric variants.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg/1920px-Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "675e78311e8440d88714bd212cb7a8fb",
+    "name": "Hyundai Ioniq 5 - Lowpoly",
+    "author": "andikapratamaw",
+    "authorUrl": "https://sketchfab.com/andikapratamaw",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gmc-sonoma",
+  "make": "GMC",
+  "model": "Sonoma",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "4.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/98-04_Chevrolet_S-10.jpg/960px-98-04_Chevrolet_S-10.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.3L 6-cyl",
+    "displacementL": 4.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet S-10 is a compact pickup truck produced by Chevrolet. It was the first domestically-built compact pickup of the big three American automakers. When it was first introduced as a \"quarter-ton pickup\" in 1981 for the 1982 model year, the GMC version was known as the S-15 and later renamed the GMC Sonoma. A high-performance version of the latter was released in 1991, called \"Syclone\". The pickup was also sold by Isuzu as the Hombre from 1996 through 2000, but only in North America. There was also an SUV version, the Chevrolet S-10 Blazer/GMC S-15 Jimmy. An electric version was leased as a fleet vehicle in 1997 and 1998. These models are sometimes internally referred to as the S/T series to denote two- and four-wheel-drive models respectively despite all versions being badged with \"S\" nomenclature.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_S-10",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/98-04_Chevrolet_S-10.jpg/1920px-98-04_Chevrolet_S-10.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chevrolet-optra",
+  "make": "Chevrolet",
+  "model": "Optra",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2005_Chevrolet_Optra_LS_Sedan_in_Melange_Beige%2C_Front_Right%2C_10-31-2022.jpg/960px-2005_Chevrolet_Optra_LS_Sedan_in_Melange_Beige%2C_Front_Right%2C_10-31-2022.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Optra is an automotive nameplate used by the Chevrolet marque for three different compact car models, in the following markets:Daewoo Lacetti (2004–2013), in markets such as Colombia, Canada, Mexico, Japan, South Africa, and Southeast Asia\nBaojun 630 (2011–2023), in Egypt and Algeria.\nChevrolet Aveo (310C) (2024–present), in Egypt",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Optra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2005_Chevrolet_Optra_LS_Sedan_in_Melange_Beige%2C_Front_Right%2C_10-31-2022.jpg/1920px-2005_Chevrolet_Optra_LS_Sedan_in_Melange_Beige%2C_Front_Right%2C_10-31-2022.jpg",
+  "sketchfab": null
+}

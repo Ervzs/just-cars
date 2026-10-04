@@ -1,0 +1,39 @@
+{
+  "id": "genesis-gv60",
+  "make": "Genesis",
+  "model": "GV60",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/960px-Genesis_GV60_1X7A5760.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 102,
+    "mpgHighway": 89,
+    "mpgCombined": 96,
+    "evRangeMiles": 267
+  },
+  "description": "The Genesis GV60 is a battery electric compact luxury crossover SUV produced by Genesis, a luxury vehicle marque of Hyundai, since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_GV60",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/1920px-Genesis_GV60_1X7A5760.jpg",
+  "sketchfab": {
+    "uid": "ae60c5668ed848e48e0ed987ccfc16c6",
+    "name": "Genesis Gv60",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

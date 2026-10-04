@@ -1,0 +1,35 @@
+{
+  "id": "london-taxi-london-taxi",
+  "make": "London Taxi",
+  "model": "London Taxi",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Special Purpose Vehicle",
+  "fuelType": "Diesel",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 24,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": {
+    "uid": "9e57abf043744b86adbbc96083da637b",
+    "name": "LTI TX4 London Taxi",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

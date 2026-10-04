@@ -1,0 +1,30 @@
+{
+  "id": "porsche-turbo-4-911-turbo",
+  "make": "Porsche",
+  "model": "Turbo 4 911 Turbo",
+  "years": [
+    2005,
+    2007
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/1991_Porsche_964_Turbo_in_Summer_Yellow%2C_front_right.jpg/960px-1991_Porsche_964_Turbo_in_Summer_Yellow%2C_front_right.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche 964 is a model of the Porsche 911 sports car manufactured and sold between 1989 and 1994. Designed by Benjamin Dimson through January 1986, it featured significant styling revisions over previous 911 models, most prominently the more integrated bumpers. It was the first car to be offered with Porsche's Tiptronic automatic transmission and all-wheel drive as options.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_(964)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/1991_Porsche_964_Turbo_in_Summer_Yellow%2C_front_right.jpg/1920px-1991_Porsche_964_Turbo_in_Summer_Yellow%2C_front_right.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "maserati-coupe-cambiocorsa-gt-g-sport",
+  "make": "Maserati",
+  "model": "Coupe Cambiocorsa/GT/G-Sport",
+  "years": [
+    2006
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/960px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Maserati Quattroporte is a four-door full-size luxury saloon produced by Italian automobile manufacturer Maserati. The name translated from Italian means \"four doors\". The production of the sixth generation ended in late 2023, with the first generation introduced in 1963.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_Quattroporte",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/1920px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "jaguar-xf",
+  "make": "Jaguar",
+  "model": "XF",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Front.jpg/960px-2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Jaguar XF (X250) is an executive luxury sports saloon car that was manufactured and marketed by the British automobile manufacturer Jaguar Cars. The XF was available as a four-door saloon and a five-door estate marketed as the Sportbrake. Launched in Autumn 2007 as a replacement for the S-Type, the XF was designated internally as the X250. The X250 was succeeded by the X260 in 2015. X250 was the first of the new styled Jaguars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XF_(X250)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Front.jpg/1920px-2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "f27d0e569b7a44fc8786f1d914bc687d",
+    "name": "Jaguar XF",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

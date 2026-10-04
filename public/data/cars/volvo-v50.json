@@ -1,0 +1,41 @@
+{
+  "id": "volvo-v50",
+  "make": "Volvo",
+  "model": "V50",
+  "years": [
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2005_Volvo_V50_SE_1.8_Front.jpg/960px-2005_Volvo_V50_SE_1.8_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo V50 is the station wagon version of the Volvo S40 small family car (\"C-segment\") first unveiled at the 2003 Bologna Motor Show, both assembled at Ghent, Belgium. Sharing the Volvo, Ford, and Mazda Global C-car Platform with the European 2nd-gen Ford Focus and the Mazda3, the V50 featured interior \"theatre\" lighting, a floating center console, and \"Volvo Intelligent Vehicle Architecture\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2005_Volvo_V50_SE_1.8_Front.jpg/1920px-2005_Volvo_V50_SE_1.8_Front.jpg",
+  "sketchfab": {
+    "uid": "34632915878c410fa1f5cbc8c820e4ba",
+    "name": "Volvo V50",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

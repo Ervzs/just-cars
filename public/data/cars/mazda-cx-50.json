@@ -1,0 +1,38 @@
+{
+  "id": "mazda-cx-50",
+  "make": "Mazda",
+  "model": "CX-50",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2023_Mazda_CX-50_GT_in_Zircon_Sand_Metallic%2C_Front_Left%2C_06-18-2022.jpg/960px-2023_Mazda_CX-50_GT_in_Zircon_Sand_Metallic%2C_Front_Left%2C_06-18-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda CX-50 is a compact crossover SUV produced by the Japanese automobile manufacturer Mazda since 2022 for the 2023 model year, for the North American and Chinese markets. Based on the same transverse, front-wheel-drive platform as the fourth-generation Mazda3 and the CX-30, the vehicle is sold alongside the slightly smaller CX-5 and is positioned below the larger, rear-wheel-drive based CX-70.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2023_Mazda_CX-50_GT_in_Zircon_Sand_Metallic%2C_Front_Left%2C_06-18-2022.jpg/1920px-2023_Mazda_CX-50_GT_in_Zircon_Sand_Metallic%2C_Front_Left%2C_06-18-2022.jpg",
+  "sketchfab": {
+    "uid": "952aae5d18fe4f79a87aec8e8c4fe63d",
+    "name": "Mazda CX-50",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

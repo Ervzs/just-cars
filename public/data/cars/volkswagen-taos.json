@@ -1,0 +1,40 @@
+{
+  "id": "volkswagen-taos",
+  "make": "Volkswagen",
+  "model": "Taos",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Volkswagen_Taos_1X7A6750.jpg/960px-Volkswagen_Taos_1X7A6750.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 35,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Taos is a compact crossover SUV marketed by Volkswagen. It was first released in October 2018 as the Volkswagen Tharu in China, while the Taos was released in October 2020 as a restyled version of the Tharu for the North American, South American, and Russian markets. As of 2025, for the South American and Chinese markets the vehicle is positioned between the T-Cross and the Tiguan in Volkswagen's crossover SUV lineup. It is not marketed in core European market.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Taos",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Volkswagen_Taos_1X7A6750.jpg/1920px-Volkswagen_Taos_1X7A6750.jpg",
+  "sketchfab": {
+    "uid": "dfabca7a1cfb4f58916ad5c5237cff28",
+    "name": "Volkswagen Taos (2025)",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

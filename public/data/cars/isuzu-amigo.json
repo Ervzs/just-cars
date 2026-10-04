@@ -1,0 +1,29 @@
+{
+  "id": "isuzu-amigo",
+  "make": "Isuzu",
+  "model": "Amigo",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2001-2003_Isuzu_Rodeo.jpg/960px-2001-2003_Isuzu_Rodeo.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 21,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu MU is a mid-size SUV which was produced by Japan-based manufacturer Isuzu from 1989 to 2005.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_MU",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2001-2003_Isuzu_Rodeo.jpg/1920px-2001-2003_Isuzu_Rodeo.jpg",
+  "sketchfab": null
+}

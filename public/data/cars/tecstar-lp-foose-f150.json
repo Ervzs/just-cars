@@ -1,0 +1,29 @@
+{
+  "id": "tecstar-lp-foose-f150",
+  "make": "Tecstar, LP",
+  "model": "Foose F150",
+  "years": [
+    2008
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Premium",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

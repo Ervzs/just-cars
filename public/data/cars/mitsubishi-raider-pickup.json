@@ -1,0 +1,33 @@
+{
+  "id": "mitsubishi-raider-pickup",
+  "make": "Mitsubishi",
+  "model": "Raider Pickup",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mitsubishi_Raider_crew_cab.jpg/960px-Mitsubishi_Raider_crew_cab.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Mitsubishi Raider is a mid-size pickup truck from Mitsubishi Motors that debuted in the fall of 2005 as a 2006 model for the United States market and is based largely on the Dodge Dakota. The name is recycled from the Dodge Raider SUV sold from 1987 to 1990, which was a rebadged Mitsubishi Montero.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Raider",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mitsubishi_Raider_crew_cab.jpg/1920px-Mitsubishi_Raider_crew_cab.jpg",
+  "sketchfab": null
+}

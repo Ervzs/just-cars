@@ -1,0 +1,39 @@
+{
+  "id": "toyota-corolla-cross",
+  "make": "Toyota",
+  "model": "Corolla Cross",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg/960px-2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S10)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 33,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota Corolla Cross  is a compact crossover SUV produced by the Japanese automaker Toyota since 2020. Adopting the Corolla nameplate, it is positioned as a more practical and larger alternative to the C-HR and is built on the same TNGA-C (GA-C) platform as the C-HR, Lexus UX and E210 series Corolla. By size, the Corolla Cross is positioned between the smaller C-HR and the larger RAV4 in Toyota's global crossover SUV lineup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_Cross",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg/1920px-2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "6412b1bba68848af88169be2c75e10a6",
+    "name": "2021 Toyota Corolla Cross",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

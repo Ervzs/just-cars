@@ -1,0 +1,44 @@
+{
+  "id": "volvo-v90",
+  "make": "Volvo",
+  "model": "V90",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Volvo_V90_%28SPA%29_1X7A0384.jpg/960px-Volvo_V90_%28SPA%29_1X7A0384.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 29,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo V90 is a mid-size luxury wagon manufactured and marketed by Swedish automaker Volvo Cars from 2016 to 2025. Two months after the introduction of the sedan model, the Volvo S90, the V90 was revealed at the Geneva Motor Show in March 2016.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V90",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Volvo_V90_%28SPA%29_1X7A0384.jpg/1920px-Volvo_V90_%28SPA%29_1X7A0384.jpg",
+  "sketchfab": {
+    "uid": "bf16b64b8c2642d28fcc1817644e1023",
+    "name": "2020 Volvo V90",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

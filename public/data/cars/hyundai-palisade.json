@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-palisade",
+  "make": "Hyundai",
+  "model": "Palisade",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg/960px-Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 32,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Palisade is a mid-size crossover SUV with three-row seating manufactured and marketed by Hyundai Motor Company since late 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Palisade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg/1920px-Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "134d29397b6d42a8a1604e8c2bbbc458",
+    "name": "Hyundai_ Palisade_2020",
+    "author": "reyySIGMAA",
+    "authorUrl": "https://sketchfab.com/reyySIGMAA",
+    "license": "CC Attribution"
+  }
+}

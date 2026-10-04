@@ -1,0 +1,32 @@
+{
+  "id": "mercedes-benz-a-class",
+  "make": "Mercedes-Benz",
+  "model": "A-Class",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg/960px-2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 35,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-Benz A-Class is a car manufactured by German luxury automaker Mercedes-Benz. It has been marketed across four generations as a front-engine, front-wheel drive, five-passenger, five-door hatchback, with a three-door hatchback offered for the second generation, as well as a saloon version for the fourth.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg/1920px-2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mercedes-benz-clk-class",
+  "make": "Mercedes-Benz",
+  "model": "CLK-Class",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/CLK_209_%28Cabriolet%29.jpg/960px-CLK_209_%28Cabriolet%29.jpg",
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-Benz CLK-Class is a former series of mid-size or entry-level luxury coupés and convertibles produced by Mercedes-Benz between 1996 and 2010. Although its design and styling was derived from the E-Class, the mechanical underpinnings were based on the smaller C-Class, and was positioned between the Mercedes-Benz SLK-Class and CL-Class. The name CLK is either derived from the German words \"Coupé\", \"Luxus\" (luxury) and \"Kurz\" (short) or \"Coupé\", \"Leicht\" (light) and \"Kurz\" (short), as the clear definition was never published. It primarily competes with the two-door BMW 3 and 6 Series, as well as the Audi A4 Cabriolet and Audi A5 Coupe/Cabriolet, as well as the Maserati Coupe and its convertible variant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLK-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/CLK_209_%28Cabriolet%29.jpg/1920px-CLK_209_%28Cabriolet%29.jpg",
+  "sketchfab": null
+}

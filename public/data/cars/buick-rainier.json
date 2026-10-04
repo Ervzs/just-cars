@@ -1,0 +1,32 @@
+{
+  "id": "buick-rainier",
+  "make": "Buick",
+  "model": "Rainier",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "4.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Buick_Rainier_--_04-05-2011.jpg/960px-Buick_Rainier_--_04-05-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "4.2L 6-cyl",
+    "displacementL": 4.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Buick Rainier is a mid-size luxury SUV that was manufactured by General Motors and marketed by Buick for the 2004 to 2007 model years. It was named after Mount Rainier, and with the Saab 9-7X served as the replacement for the Oldsmobile Bravada.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Rainier",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Buick_Rainier_--_04-05-2011.jpg/1920px-Buick_Rainier_--_04-05-2011.jpg",
+  "sketchfab": null
+}

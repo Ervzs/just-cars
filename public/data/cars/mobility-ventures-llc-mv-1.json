@@ -1,0 +1,31 @@
+{
+  "id": "mobility-ventures-llc-mv-1",
+  "make": "Mobility Ventures LLC",
+  "model": "MV-1",
+  "years": [
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

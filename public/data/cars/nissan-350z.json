@@ -1,0 +1,41 @@
+{
+  "id": "nissan-350z",
+  "make": "Nissan",
+  "model": "350z",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2004_Nissan_350Z_3.5_Front.jpg/960px-2004_Nissan_350Z_3.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Nissan 350Z is a two-door, two-seater sports car that was manufactured by Nissan Motor Corporation from 2002 until 2009 and marks the fifth generation of Nissan's Z-car line. The 350Z entered production in 2002 and was sold and marketed as a 2003 model from August 2002. The first year there was only a coupe, as the roadster did not debut until the following year. Initially, the coupe came in Base, Enthusiast, Performance, Touring and Track versions, while the Roadster was limited to Enthusiast and Touring trim levels. The Track trim came with lightweight wheels and Brembo brakes, but its suspension tuning was the same as all other coupes. The Nissan 350Z was succeeded by the 370Z for the 2009 model year, although the roadster was sold alongside the 370Z for 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_350Z",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2004_Nissan_350Z_3.5_Front.jpg/1920px-2004_Nissan_350Z_3.5_Front.jpg",
+  "sketchfab": {
+    "uid": "05e7604a0f4643ab87c141e244813e9a",
+    "name": "Nissan 350Z",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

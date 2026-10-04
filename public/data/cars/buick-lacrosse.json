@@ -1,0 +1,43 @@
+{
+  "id": "buick-lacrosse",
+  "make": "Buick",
+  "model": "LaCrosse",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg/960px-2010_Buick_LaCrosse_2_--_09-07-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 35,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "description": "The Buick LaCrosse is a four-door, front-wheel-drive sedan manufactured by Buick since the 2005 model year, and marketed variously across four generations for the North American and Chinese markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_LaCrosse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg/1920px-2010_Buick_LaCrosse_2_--_09-07-2009.jpg",
+  "sketchfab": {
+    "uid": "9852ece4440b49d5a8ee539cc0379877",
+    "name": "Buick Lacrosse",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "volvo-ex30",
+  "make": "Volvo",
+  "model": "EX30",
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Volvo_EX30_IMG_8923.jpg/960px-Volvo_EX30_IMG_8923.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 127,
+    "mpgHighway": 104,
+    "mpgCombined": 116,
+    "evRangeMiles": 261
+  },
+  "description": "The Volvo EX30 is a battery electric subcompact crossover SUV manufactured by Volvo Cars. Revealed in June 2023, the EX30 is the smallest Volvo vehicle currently on sale, positioned below the XC40 and C40 crossovers. It is produced in China and Belgium and is related to the Zeekr X and the Smart #1, which are similar in size and developed from Geely's SEA platform. The vehicle is sold globally.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_EX30",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Volvo_EX30_IMG_8923.jpg/1920px-Volvo_EX30_IMG_8923.jpg",
+  "sketchfab": {
+    "uid": "c5be588ea33d44cc8d2690ffdba389a4",
+    "name": "Volvo EX30",
+    "author": "LagzDesign",
+    "authorUrl": "https://sketchfab.com/LagzDesign",
+    "license": "CC Attribution"
+  }
+}

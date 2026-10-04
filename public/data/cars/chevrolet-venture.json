@@ -1,0 +1,40 @@
+{
+  "id": "chevrolet-venture",
+  "make": "Chevrolet",
+  "model": "Venture",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/01-05_Chevrolet_Venture.jpg/960px-01-05_Chevrolet_Venture.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Venture is a minivan produced by General Motors for the 1997 to 2005 model years. The Chevrolet Venture, along with most of its General Motors minivan siblings, was built at GM's Doraville, Georgia, assembly plant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Venture",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/01-05_Chevrolet_Venture.jpg/1280px-01-05_Chevrolet_Venture.jpg",
+  "sketchfab": {
+    "uid": "ed52dbf3f50745fdad064ea7697e5c29",
+    "name": "Chevrolet Venture",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

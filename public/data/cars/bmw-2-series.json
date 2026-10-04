@@ -1,0 +1,48 @@
+{
+  "id": "bmw-2-series",
+  "make": "BMW",
+  "model": "2 Series",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BMW_G42_1X7A5766.jpg/960px-BMW_G42_1X7A5766.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 38,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The BMW 2 Series is a range of subcompact executive cars (C-segment) manufactured by BMW since the year 2014. The 2 Series was created when BMW spun-off the 2-door models of the BMW 1 Series into a separate series.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_2_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/BMW_G42_1X7A5766.jpg/1920px-BMW_G42_1X7A5766.jpg",
+  "sketchfab": {
+    "uid": "ddd69ee58ab34a8fbbbfafc9ba6d6358",
+    "name": "2020 BMW 2-Series",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

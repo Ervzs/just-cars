@@ -1,0 +1,38 @@
+{
+  "id": "subaru-baja",
+  "make": "Subaru",
+  "model": "Baja",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg/960px-2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Subaru Baja is an all-wheel-drive, four passenger coupé utility manufactured from 2002 to 2006 by Subaru and marketed for model years 2003 to 2006. The Baja combines the handling and passenger carrying characteristics of a traditional passenger car with the open-bed versatility and load capacity of a small pickup truck.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru_Baja",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg/1920px-2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg",
+  "sketchfab": {
+    "uid": "1da7be7b84bc4b6ea953311df68396a3",
+    "name": "Subaru Baja",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "oldsmobile-bravada",
+  "make": "Oldsmobile",
+  "model": "Bravada",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/02-04_Oldsmobile_Bravada.jpg/960px-02-04_Oldsmobile_Bravada.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.2L 6-cyl",
+    "displacementL": 4.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 19,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Oldsmobile Bravada is a mid-size luxury SUV that was sold by Oldsmobile from 1991 to 2004. The only SUV ever marketed by Oldsmobile, the Bravada was the first GM light truck since 1924 offered outside of the Chevrolet and GMC brands. Introduced as the flagship GM mid-size SUV, the Bravada was also the highest-content GM SUV prior to the 1999 introduction of the GMC Yukon Denali and Cadillac Escalade.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Bravada",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/02-04_Oldsmobile_Bravada.jpg/1920px-02-04_Oldsmobile_Bravada.jpg",
+  "sketchfab": {
+    "uid": "c362135d1f1f49a8962ee6a317053b4e",
+    "name": "2001 Oldsmobile Bravada",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

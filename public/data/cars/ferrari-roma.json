@@ -1,0 +1,40 @@
+{
+  "id": "ferrari-roma",
+  "make": "Ferrari",
+  "model": "Roma",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg/960px-2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari Roma is a grand touring car by Italian manufacturer Ferrari. It has a front mid-engine, rear-wheel-drive layout with a twin turbocharged V8 engine and a 2+2 seating arrangement. Based on the Ferrari Portofino, the car succeeds the Portofino and sits below the Ferrari F8 in Ferrari's range of sports cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Roma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg/1920px-2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "cbc0c13c0fb54fc8bbfa79a9ff99e3aa",
+    "name": "2020 Ferrari Roma",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

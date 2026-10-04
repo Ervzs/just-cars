@@ -1,0 +1,29 @@
+{
+  "id": "bmw-alpina-roadster",
+  "make": "BMW Alpina",
+  "model": "Roadster",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.8L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.8L 8-cyl",
+    "displacementL": 4.8,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 19,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

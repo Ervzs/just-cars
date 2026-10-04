@@ -1,0 +1,35 @@
+{
+  "id": "ferrari-sf90",
+  "make": "Ferrari",
+  "model": "SF90",
+  "years": [
+    2025
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium and Electricity",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg/960px-FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": 330
+  },
+  "description": "The Ferrari SF90, also known by its internal name Project 670, is a Formula One racing car designed and constructed by Scuderia Ferrari to compete during the 2019 Formula One World Championship. The chassis was designed by Mattia Binotto, Enrico Cardile, Fabio Montecchi, and David Sanchez with Corrado Iotti leading the powertrain design. It was driven by Sebastian Vettel and Charles Leclerc, who was making his debut for Ferrari. The car made its competitive debut at the 2019 Australian Grand Prix.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_SF90",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg/1920px-FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg",
+  "sketchfab": {
+    "uid": "2c80c667232544649328cf3589921bcd",
+    "name": "2023 Ferrari SF90 XX Stradale",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

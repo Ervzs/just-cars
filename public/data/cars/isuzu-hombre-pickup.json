@@ -1,0 +1,31 @@
+{
+  "id": "isuzu-hombre-pickup",
+  "make": "Isuzu",
+  "model": "Hombre Pickup",
+  "years": [
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Isuzu_P%27up_--_11-20-2011.jpg/960px-Isuzu_P%27up_--_11-20-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu Faster is a compact pickup truck that was manufactured and marketed by Isuzu between 1972 and 2002 over three generations. It was sold under myriad nameplates. Most commonly, they were marketed under their respective model codes: Isuzu KB for the first and second generations, TF for the third. In Japan, the \"Faster\" name was eventually supplanted by Rodeo. It was also marketed under a number of other brands from the General Motors portfolio. The Faster was succeeded worldwide by Isuzu D-Max, except in Japan and North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Faster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Isuzu_P%27up_--_11-20-2011.jpg/1920px-Isuzu_P%27up_--_11-20-2011.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pontiac-solstice",
+  "make": "Pontiac",
+  "model": "Solstice",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/PontiacSolstice.jpg/960px-PontiacSolstice.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Pontiac Solstice is a two-passenger, front engine, convertible roadster manufactured and marketed by Pontiac from 2005 to 2010, initially powered by a naturally aspirated 2.4 L I4 engine, producing 177 hp (132 kW) and 166 lb⋅ft (225 N⋅m) of torque..",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Solstice",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/PontiacSolstice.jpg/1920px-PontiacSolstice.jpg",
+  "sketchfab": {
+    "uid": "53745acff64a43ac93da4a7ee5adcca8",
+    "name": "Pontiac Solstice",
+    "author": "alban",
+    "authorUrl": "https://sketchfab.com/alban",
+    "license": "CC Attribution"
+  }
+}

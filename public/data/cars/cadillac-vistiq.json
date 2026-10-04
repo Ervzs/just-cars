@@ -1,0 +1,30 @@
+{
+  "id": "cadillac-vistiq",
+  "make": "Cadillac",
+  "model": "VISTIQ",
+  "years": [
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2026_Cadillac_Vistiq_Sport_900e4_in_Stellar_Black%2C_front_left.jpg/960px-2026_Cadillac_Vistiq_Sport_900e4_in_Stellar_Black%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 93,
+    "mpgHighway": 78,
+    "mpgCombined": 86,
+    "evRangeMiles": 305
+  },
+  "description": "The Cadillac Vistiq is a battery electric mid-size luxury three-row crossover SUV manufactured and marketed by the Cadillac division of General Motors. Positioned between the two-row Lyriq and the full-size Escalade IQ, the Vistiq went on sale in 2025 for the 2026 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Vistiq",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2026_Cadillac_Vistiq_Sport_900e4_in_Stellar_Black%2C_front_left.jpg/1920px-2026_Cadillac_Vistiq_Sport_900e4_in_Stellar_Black%2C_front_left.jpg",
+  "sketchfab": null
+}

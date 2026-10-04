@@ -1,0 +1,35 @@
+{
+  "id": "porsche-turbo",
+  "make": "Porsche",
+  "model": "Turbo",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/960px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Porsche 930 is a turbocharged variant of the 911 model sports car manufactured by German automobile manufacturer Porsche between 1975 and 1989. It was the maker's top-of-the-range 911 model for its entire production duration and, at the time of its introduction, was the fastest production car in Germany.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porsche_911_(930)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/1920px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "8568d9d14a994b9cae59499f0dbed21e",
+    "name": "FREE 1975 Porsche 911 (930) Turbo",
+    "author": "Lionsharp Studios",
+    "authorUrl": "https://sketchfab.com/lionsharp",
+    "license": "CC Attribution"
+  }
+}

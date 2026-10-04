@@ -1,0 +1,35 @@
+{
+  "id": "lamborghini-veneno",
+  "make": "Lamborghini",
+  "model": "Veneno",
+  "years": [
+    2015
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg/960px-Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 17,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Lamborghini Veneno is a limited production high performance sports car manufactured by Italian automobile manufacturer Lamborghini. Based on the Aventador, the Veneno was developed to celebrate Lamborghini's 50th anniversary. It was introduced at the 2013 Geneva Motor Show. When introduced, it had a price of US$4,000,000, making it one of the most expensive production cars in the world.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Veneno",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg/1920px-Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg",
+  "sketchfab": {
+    "uid": "d0cb32a70c3d4aa6b6036122f4924667",
+    "name": "2013 Lamborghini Veneno",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

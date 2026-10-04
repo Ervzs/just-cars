@@ -1,0 +1,35 @@
+{
+  "id": "jaguar-e-pace",
+  "make": "Jaguar",
+  "model": "E-Pace",
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg/960px-Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Jaguar E-Pace (X540) is a subcompact luxury crossover SUV that was produced by the British car manufacturer Jaguar Land Rover (JLR) under their Jaguar marque. It was officially revealed on 13 July 2017 and was the second production Jaguar SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_E-Pace",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg/1920px-Jaguar_E-Pace_D180_AWD_S_%E2%80%93_Frontansicht%2C_24._Juni_2018_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

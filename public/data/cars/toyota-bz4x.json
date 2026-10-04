@@ -1,0 +1,37 @@
+{
+  "id": "toyota-bz4x",
+  "make": "Toyota",
+  "model": "bZ4X",
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Toyota_bZ4X_in_Cape_Town.jpg/960px-Toyota_bZ4X_in_Cape_Town.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 121,
+    "mpgHighway": 102,
+    "mpgCombined": 112,
+    "evRangeMiles": 236
+  },
+  "description": "The Toyota bZ4X, marketed as simply the Toyota bZ in North America and Ireland since 2025, is a battery electric compact crossover SUV manufactured by Toyota. A Subaru version is marketed as the Subaru Solterra. Lexus also offers a sibling model of the bZ4X, the Lexus RZ.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_bZ4X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Toyota_bZ4X_in_Cape_Town.jpg/1920px-Toyota_bZ4X_in_Cape_Town.jpg",
+  "sketchfab": {
+    "uid": "bae4423cff184f8ebf3a46a1ffaf064a",
+    "name": "2023 Toyota bZ4X",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

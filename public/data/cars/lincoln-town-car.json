@@ -1,0 +1,46 @@
+{
+  "id": "lincoln-town-car",
+  "make": "Lincoln",
+  "model": "Town Car",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Gasoline or E85",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/960px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Lincoln Town Car is a model line of full-size luxury sedans that was marketed and produced by the Lincoln division of the American automaker Ford Motor Company. Deriving its name from a limousine body style, Lincoln marketed the Town Car from 1981 to 2011, with the nameplate previously serving as the flagship trim of the Lincoln Continental. Produced across three generations for thirty model years, the Town Car was marketed directly against luxury sedans from Cadillac and Chrysler.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Town_Car",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/1920px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg",
+  "sketchfab": {
+    "uid": "3a46f0baadb347c5993361d53929571c",
+    "name": "1989 Lincoln Town Car",
+    "author": "Outlaw Games™",
+    "authorUrl": "https://sketchfab.com/Outlaw_Games",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

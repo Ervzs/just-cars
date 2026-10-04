@@ -1,0 +1,30 @@
+{
+  "id": "subaru-trailseeker",
+  "make": "Subaru",
+  "model": "Trailseeker",
+  "years": [
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg/960px-Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 125,
+    "mpgHighway": 103,
+    "mpgCombined": 114,
+    "evRangeMiles": 274
+  },
+  "description": "The Toyota bZ4X is a battery electric compact crossover SUV manufactured by Toyota. A Subaru version is marketed as the Subaru Solterra. Lexus also offers a sibling model of the bZ4X, the Lexus RZ.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_bZ4X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg/1920px-Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bugatti-divo",
+  "make": "Bugatti",
+  "model": "Divo",
+  "years": [
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.0L 16-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg/960px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "8.0L 16-cyl",
+    "displacementL": 8,
+    "cylinders": 16,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 13,
+    "mpgCombined": 10,
+    "evRangeMiles": null
+  },
+  "description": "The Bugatti Divo is a mid-engine track-focused sports car developed and manufactured by Bugatti Automobiles S.A.S. The car is named after French racing driver Albert Divo, who raced for Bugatti in the 1920s winning the Targa Florio race twice. It was revealed on 24 August 2018 at “The Quail – A Motorsports Gathering“ in California, United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Divo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg/1920px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg",
+  "sketchfab": {
+    "uid": "7849e9f9cf2347c28fb5e41b1629991c",
+    "name": "2019 Bugatti Divo",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

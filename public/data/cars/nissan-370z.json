@@ -1,0 +1,47 @@
+{
+  "id": "nissan-370z",
+  "make": "Nissan",
+  "model": "370Z",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2012-2017_Nissan_Fairlady_Z.jpg/960px-2012-2017_Nissan_Fairlady_Z.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 26,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Nissan 370Z is a two-seater sports car which was made by Nissan from 2008 until 2020. Based on the Nissan FM platform, it has a front mid-engine, rear-wheel-drive layout and either a two-door coupé or two-door roadster body style. The 370Z is the sixth generation of the Nissan Z-car line, succeeding the 350Z and preceding the RZ34, which uses a modified version of the same platform. It was sold in North America for the 2009–2020 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_370Z",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2012-2017_Nissan_Fairlady_Z.jpg/1920px-2012-2017_Nissan_Fairlady_Z.jpg",
+  "sketchfab": {
+    "uid": "dcb6c0e14751480997564a817e17da84",
+    "name": "2010 Nissan 370Z Roadster",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

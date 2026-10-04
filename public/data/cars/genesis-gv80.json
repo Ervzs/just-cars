@@ -1,0 +1,41 @@
+{
+  "id": "genesis-gv80",
+  "make": "Genesis",
+  "model": "GV80",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/960px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Genesis GV80 is a mid-size luxury crossover SUV manufactured and marketed by Genesis, Hyundai's luxury division, since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_GV80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/1920px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg",
+  "sketchfab": {
+    "uid": "3486b7b7a25541498032cd1281de37fe",
+    "name": "01- Genesis GV80 2021",
+    "author": "ovaiskhan.244",
+    "authorUrl": "https://sketchfab.com/ovaiskhan.244",
+    "license": "CC Attribution"
+  }
+}

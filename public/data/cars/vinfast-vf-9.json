@@ -1,0 +1,31 @@
+{
+  "id": "vinfast-vf-9",
+  "make": "Vinfast",
+  "model": "VF 9",
+  "years": [
+    2024,
+    2025,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/VinFast_VF9%2C_front_NYIAS_2022.jpg/960px-VinFast_VF9%2C_front_NYIAS_2022.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 70,
+    "mpgHighway": 65,
+    "mpgCombined": 68,
+    "evRangeMiles": 287
+  },
+  "description": "The VinFast VF 9 is an electric full-size SUV (E-segment) manufactured and marketed by VinFast of Vingroup from 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/VinFast_VF_9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/VinFast_VF9%2C_front_NYIAS_2022.jpg/1920px-VinFast_VF9%2C_front_NYIAS_2022.jpg",
+  "sketchfab": null
+}

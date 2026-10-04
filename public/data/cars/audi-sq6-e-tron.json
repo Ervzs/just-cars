@@ -1,0 +1,30 @@
+{
+  "id": "audi-sq6-e-tron",
+  "make": "Audi",
+  "model": "SQ6 e-tron",
+  "years": [
+    2025,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Audi_Q6_e-tron_DSC_7829.jpg/960px-Audi_Q6_e-tron_DSC_7829.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 97,
+    "mpgHighway": 87,
+    "mpgCombined": 92,
+    "evRangeMiles": 285
+  },
+  "description": "The Audi Q6 e-tron is a battery electric compact luxury crossover SUV produced by German car manufacturer Audi, with production from an Audi plant in the city of Ingolstadt starting in November 2023. Like the Porsche Macan EV and the Audi A6 e-tron, the Q6 e-tron uses the PPE platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q6_e-tron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Audi_Q6_e-tron_DSC_7829.jpg/1920px-Audi_Q6_e-tron_DSC_7829.jpg",
+  "sketchfab": null
+}

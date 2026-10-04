@@ -1,0 +1,35 @@
+{
+  "id": "fisker-karma",
+  "make": "Fisker",
+  "model": "Karma",
+  "years": [
+    2012
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium Gas or Electricity",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg/960px-Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 21,
+    "mpgCombined": 20,
+    "evRangeMiles": 240
+  },
+  "description": "The Fisker Karma is a luxury plug-in range-extended electric sports sedan produced by Fisker Automotive between 2011 and 2012. The cars were manufactured by Valmet Automotive in Finland.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fisker_Karma",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg/1920px-Fisker_Karma_EVer_EcoChic_%E2%80%93_Frontansicht_%281%29%2C_6._Juni_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "ec889c96bf154a808836ca499736e8ab",
+    "name": "2012 Fisker Karma EcoSport",
+    "author": "SIU Car Garage",
+    "authorUrl": "https://sketchfab.com/Game_mode",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

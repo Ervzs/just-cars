@@ -1,0 +1,29 @@
+{
+  "id": "isuzu-i-350-crew-cab",
+  "make": "Isuzu",
+  "model": "i-350 Crew Cab",
+  "years": [
+    2006
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Isuzu_D-Max_%28third_generation%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2758.jpg/960px-Isuzu_D-Max_%28third_generation%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2758.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "3.5L 5-cyl",
+    "displacementL": 3.5,
+    "cylinders": 5,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu D-Max is a compact pickup truck and mid-size pickup truck manufactured since 2002 by Isuzu. It is a successor to the Isuzu Faster/KB. The first and second-generation model shares its platform with the Chevrolet Colorado. The third-generation model shares its platform with the third-generation Mazda BT-50, which is produced in the same Isuzu plant in Thailand.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_D-Max",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Isuzu_D-Max_%28third_generation%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2758.jpg/1920px-Isuzu_D-Max_%28third_generation%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2758.jpg",
+  "sketchfab": null
+}

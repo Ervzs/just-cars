@@ -1,0 +1,40 @@
+{
+  "id": "genesis-gv70",
+  "make": "Genesis",
+  "model": "GV70",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/960px-Genesis_GV70_IAA_2021_1X7A0228.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "\n\nThe Genesis GV70 is a compact luxury D-segment crossover SUV manufactured by Korean luxury automaker Genesis, a luxury vehicle division of Hyundai. Internally codenamed JK1, it is the second SUV model from the brand after the mid-size GV80.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesis_GV70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/1920px-Genesis_GV70_IAA_2021_1X7A0228.jpg",
+  "sketchfab": {
+    "uid": "82edac5f1d744fe98d78adeb7a7d329e",
+    "name": "Genesis Gv70",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

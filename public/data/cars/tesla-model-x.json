@@ -1,0 +1,45 @@
+{
+  "id": "tesla-model-x",
+  "make": "Tesla",
+  "model": "Model X",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/960px-2017_Tesla_Model_X_100D_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 110,
+    "mpgHighway": 99,
+    "mpgCombined": 105,
+    "evRangeMiles": 352
+  },
+  "description": "The Tesla Model X is a battery electric mid-size luxury crossover SUV built by Tesla, Inc. from 2015 to 2026. Developed from the full-sized sedan platform of the Tesla Model S, the vehicle uses distinctive falcon wing doors for rear passenger access. In January 2026, Tesla announced that the Model X would be discontinued alongside the Model S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1920px-2017_Tesla_Model_X_100D_Front.jpg",
+  "sketchfab": {
+    "uid": "5c08f723bfc94a98b7d7918e3e4ff1dc",
+    "name": "Tesla Model X",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "saleen-performance-s281-family",
+  "make": "Saleen Performance",
+  "model": "S281 Family",
+  "years": [
+    2008,
+    2009
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

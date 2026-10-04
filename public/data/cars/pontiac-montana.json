@@ -1,0 +1,41 @@
+{
+  "id": "pontiac-montana",
+  "make": "Pontiac",
+  "model": "Montana",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Pontiac_Montana_LWB.jpg/960px-Pontiac_Montana_LWB.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Pontiac Montana is a minivan that was sold by Pontiac from the 1997 to 2009 model years. The successor to the Pontiac Trans Sport, the nameplate was introduced in 1997 as a trim package for its predecessor. For 1999, Pontiac introduced the Montana as a distinct model line. Initially marketed between the Chevrolet Venture and the Oldsmobile Silhouette, the model line was later slotted between the Chevrolet Uplander, Saturn Relay, and Buick Terraza.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pontiac_Montana",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Pontiac_Montana_LWB.jpg/960px-Pontiac_Montana_LWB.jpg",
+  "sketchfab": {
+    "uid": "7c33882aa534453cb4b42952f8467854",
+    "name": "Pontiac Montana",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

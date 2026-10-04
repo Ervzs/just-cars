@@ -1,0 +1,30 @@
+{
+  "id": "mazda-protege-protege-5",
+  "make": "Mazda",
+  "model": "Protege/Protege 5",
+  "years": [
+    2002,
+    2003
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg/960px-2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda Familia , also marketed prominently as the Mazda 323, Mazda Protegé and Mazda Allegro, is a small family car that was manufactured by Mazda between 1963 and 2003. The Familia line was replaced by the Mazda3/Axela for 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_Familia",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg/1920px-2003_Mazda_323_%28BJ_II%29_Proteg%C3%A9_Shades_sedan_%282015-08-07%29_01.jpg",
+  "sketchfab": null
+}

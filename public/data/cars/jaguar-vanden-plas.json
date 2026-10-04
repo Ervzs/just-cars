@@ -1,0 +1,32 @@
+{
+  "id": "jaguar-vanden-plas",
+  "make": "Jaguar",
+  "model": "Vanden Plas",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jaguar_XJ_vs._Jetman_-_World-First_Desert_Drag_Race_%2822928441043%29_%28cropped%29.jpg/960px-Jaguar_XJ_vs._Jetman_-_World-First_Desert_Drag_Race_%2822928441043%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Jaguar XJ is a series of full-size luxury cars produced from 1968 to 2019 by British automobile manufacturer Jaguar Cars. It was produced across four basic platform generations with various updated derivatives of each. From 1970, it was Jaguar's flagship four-door model. A two-door Coupé was also available. The original model was the last Jaguar saloon to have been designed under the leadership of Sir William Lyons, the company's founder, and the model has been featured in a myriad of media and high-profile appearances.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_XJ",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jaguar_XJ_vs._Jetman_-_World-First_Desert_Drag_Race_%2822928441043%29_%28cropped%29.jpg/1920px-Jaguar_XJ_vs._Jetman_-_World-First_Desert_Drag_Race_%2822928441043%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

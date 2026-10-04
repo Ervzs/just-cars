@@ -1,0 +1,53 @@
+{
+  "id": "chevrolet-traverse",
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2023_Chevrolet_Traverse_LT_3.6_V6_in_Sterling_Gray_Metallic%2C_front_left.jpg/960px-2023_Chevrolet_Traverse_LT_3.6_V6_in_Sterling_Gray_Metallic%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Traverse is a full-size crossover SUV with three-row seating built by General Motors produced since the 2009 model year. It is built on the same platform as the GMC Acadia and Buick Enclave, known as the Lambda platform for the first generation, and the C1XX for the second generation. It also shares the C1XX platform with the Cadillac XT6. It is the successor to the TrailBlazer body-on-frame SUV and the Uplander minivan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Traverse",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2023_Chevrolet_Traverse_LT_3.6_V6_in_Sterling_Gray_Metallic%2C_front_left.jpg/1920px-2023_Chevrolet_Traverse_LT_3.6_V6_in_Sterling_Gray_Metallic%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "38fcef192b1342449314c5e968542b44",
+    "name": "2023 Chevrolet Traverse RS",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

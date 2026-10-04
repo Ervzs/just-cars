@@ -1,0 +1,30 @@
+{
+  "id": "saab-9-4",
+  "make": "Saab",
+  "model": "9-4",
+  "years": [
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "2.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Saab_9-4X_--_04-08-2011.jpg/960px-Saab_9-4X_--_04-08-2011.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.8L 6-cyl",
+    "displacementL": 2.8,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Saab 9-4X is a mid-size luxury crossover SUV that was introduced at the 2010 LA Auto Show. It is based on the all-wheel-drive GM Theta Premium platform, which also forms the basis for the Cadillac SRX. Production of the 9-4X began in 2011, at General Motors' Ramos Arizpe Assembly in Mexico, but halted before the end of that year as a result of the bankruptcy of Saab, leaving a total of 814 assembled under Saab Automobile and almost 300 by GM.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saab_9-4X",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Saab_9-4X_--_04-08-2011.jpg/1920px-Saab_9-4X_--_04-08-2011.jpg",
+  "sketchfab": null
+}

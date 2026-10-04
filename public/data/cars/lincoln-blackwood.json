@@ -1,0 +1,36 @@
+{
+  "id": "lincoln-blackwood",
+  "make": "Lincoln",
+  "model": "Blackwood",
+  "years": [
+    2002,
+    2003
+  ],
+  "vehicleClass": "Standard Pickup Trucks 2WD",
+  "fuelType": "Premium",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2002_Lincoln_Blackwood_1.jpg/960px-2002_Lincoln_Blackwood_1.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Lincoln Blackwood is a luxury full-size pickup truck that was marketed by the Lincoln division of Ford Motor Company for the 2002 model year. The first pickup truck marketed by Lincoln, the Blackwood was derived from the Ford F-150 SuperCrew and the Lincoln Navigator. Drawing its name from its simulated black woodgrain cargo box, the Blackwood was offered solely with a black-painted exterior.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincoln_Blackwood",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2002_Lincoln_Blackwood_1.jpg/1920px-2002_Lincoln_Blackwood_1.jpg",
+  "sketchfab": {
+    "uid": "acc414295c854674a1bca610768a4888",
+    "name": "Lincoln Blackwood",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

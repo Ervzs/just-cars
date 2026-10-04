@@ -1,0 +1,42 @@
+{
+  "id": "bugatti-veyron",
+  "make": "Bugatti",
+  "model": "Veyron",
+  "years": [
+    2006,
+    2008,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.0L 16-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/960px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "8.0L 16-cyl",
+    "displacementL": 8,
+    "cylinders": 16,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 8,
+    "mpgHighway": 15,
+    "mpgCombined": 10,
+    "evRangeMiles": null
+  },
+  "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car designed and developed in Germany by the Volkswagen Group and Bugatti, and manufactured in Molsheim, France by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Veyron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "653d089ba9304657ab7f0e3552a8f87b",
+    "name": "Bugatti Veyron",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

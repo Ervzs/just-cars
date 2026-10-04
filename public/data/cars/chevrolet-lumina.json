@@ -1,0 +1,35 @@
+{
+  "id": "chevrolet-lumina",
+  "make": "Chevrolet",
+  "model": "Lumina",
+  "years": [
+    2001
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.1L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2nd_Chevrolet_Lumina_1.jpg/960px-2nd_Chevrolet_Lumina_1.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.1L 6-cyl",
+    "displacementL": 3.1,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Lumina is a mid-size car that was produced and marketed by Chevrolet from the 1990 to 2001 model years. Serving as the combined successor for both the Chevrolet Celebrity and Chevrolet Monte Carlo, the Lumina was sold as both a two-door coupe and a four-door sedan. Serving as the largest front-wheel drive Chevrolet, the model line was slotted below the Caprice Classic in the Chevrolet line.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Lumina",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2nd_Chevrolet_Lumina_1.jpg/1280px-2nd_Chevrolet_Lumina_1.jpg",
+  "sketchfab": {
+    "uid": "53a74508ad1f47ac913c70f35161a576",
+    "name": "Chevrolet Lumina NASCAR Mello Yello",
+    "author": "SpatialNeglect",
+    "authorUrl": "https://sketchfab.com/jeandiz",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

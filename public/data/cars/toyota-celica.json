@@ -1,0 +1,40 @@
+{
+  "id": "toyota-celica",
+  "make": "Toyota",
+  "model": "Celica",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/1994_Toyota_Celica_GT-4_2.0.jpg/960px-1994_Toyota_Celica_GT-4_2.0.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota Celica   is an automobile produced by Toyota from 1970 until 2006. The Celica name derives from the Latin word coelica meaning heavenly or celestial. In Japan, the Celica was exclusive to Toyota Corolla Store dealer chain. Produced across seven generations, the Celica was powered by various four-cylinder engines, and body styles included convertibles, liftbacks, and notchback coupé.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Celica",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/1994_Toyota_Celica_GT-4_2.0.jpg/1920px-1994_Toyota_Celica_GT-4_2.0.jpg",
+  "sketchfab": {
+    "uid": "b5e7d045c48745718d980b5af2be4de0",
+    "name": "Toyota Celica Turbo IMSA GTO",
+    "author": "SpatialNeglect",
+    "authorUrl": "https://sketchfab.com/jeandiz",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

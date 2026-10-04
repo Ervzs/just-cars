@@ -1,0 +1,29 @@
+{
+  "id": "rivian-r2",
+  "make": "Rivian",
+  "model": "R2",
+  "years": [
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RivianR2.jpg/960px-RivianR2.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 109,
+    "mpgHighway": 89,
+    "mpgCombined": 99,
+    "evRangeMiles": 307
+  },
+  "description": "The Rivian R2 is a battery electric mid-size SUV being produced by American electric vehicle manufacturer Rivian. It is the second Rivian SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivian_R2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RivianR2.jpg/1920px-RivianR2.jpg",
+  "sketchfab": null
+}

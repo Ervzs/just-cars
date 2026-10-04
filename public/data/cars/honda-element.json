@@ -1,0 +1,43 @@
+{
+  "id": "honda-element",
+  "make": "Honda",
+  "model": "Element",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/HondaElement-001.jpg/960px-HondaElement-001.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 24,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Honda Element  is a compact crossover SUV manufactured by Honda and marketed in North America over a single generation for model years 2003–2011, and noted for its boxy exterior styling with bi-parting side doors and its boxy, flexible interior layout.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Element",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/HondaElement-001.jpg/1920px-HondaElement-001.jpg",
+  "sketchfab": {
+    "uid": "5835d68920f04b568d416f15c7053045",
+    "name": "Honda Element",
+    "author": "Schafter",
+    "authorUrl": "https://sketchfab.com/Schafter",
+    "license": "CC Attribution"
+  }
+}

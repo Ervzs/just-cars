@@ -1,0 +1,40 @@
+{
+  "id": "volkswagen-id-4",
+  "make": "Volkswagen",
+  "model": "ID.4",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/960px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 122,
+    "mpgHighway": 104,
+    "mpgCombined": 113,
+    "evRangeMiles": 291
+  },
+  "description": "The Volkswagen ID.4 and Volkswagen ID.5 are battery electric compact crossover SUVs produced by Volkswagen. Based on the MEB platform, the ID.4 is the second model of the Volkswagen ID. series. The production version of the ID.4 debuted in September 2020 as the first fully-electric crossover SUV under the Volkswagen brand, while the coupe-shaped variant of the ID.4 is marketed as the Volkswagen ID.5 and was presented in November 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID.4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/1920px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg",
+  "sketchfab": {
+    "uid": "898fcce37f0948499d1b4c1effc051d1",
+    "name": "2021 Volkswagen ID.4 X",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

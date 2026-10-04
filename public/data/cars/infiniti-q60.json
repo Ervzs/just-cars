@@ -1,0 +1,42 @@
+{
+  "id": "infiniti-q60",
+  "make": "Infiniti",
+  "model": "Q60",
+  "years": [
+    2014,
+    2015,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": null,
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Infiniti Q60 is a 2-door luxury coupe manufactured by Japanese automaker Nissan. It is the successor to the Infiniti G coupe and convertible. The Q60 nameplate was first used as a rebadging of Infiniti G Line. A new version was introduced in early 2016, as a 2017 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_Q60",
+  "image": null,
+  "sketchfab": {
+    "uid": "9b77cb24878e43899cb94ebb285b20ee",
+    "name": "Infiniti Q60 Widebody kit",
+    "author": "All-Wide",
+    "authorUrl": "https://sketchfab.com/dsm350",
+    "license": "CC Attribution"
+  }
+}

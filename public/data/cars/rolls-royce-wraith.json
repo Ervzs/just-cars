@@ -1,0 +1,42 @@
+{
+  "id": "rolls-royce-wraith",
+  "make": "Rolls-Royce",
+  "model": "Wraith",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "6.6L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1938_Rolls-Royce_Wraith_sedan_%2826963238950%29_%28cropped%29.jpg/960px-1938_Rolls-Royce_Wraith_sedan_%2826963238950%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "6.6L 12-cyl",
+    "displacementL": 6.6,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Rolls-Royce Wraith was built by Rolls-Royce at their Derby factory from 1938 to 1939 and supplied to independent coachbuilders as a rolling chassis.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Wraith_(1938)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1938_Rolls-Royce_Wraith_sedan_%2826963238950%29_%28cropped%29.jpg/1920px-1938_Rolls-Royce_Wraith_sedan_%2826963238950%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "1307dfd4be4440869687e62ad9f6ac66",
+    "name": "Rolls Royce Wraith",
+    "author": "Eihab_3D",
+    "authorUrl": "https://sketchfab.com/ehabjundi5",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mercedes-benz-cla-class",
+  "make": "Mercedes-Benz",
+  "model": "CLA-Class",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/960px-Mercedes-Benz_C118_IMG_2673.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AM8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 39,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-Benz CLA is a series of luxury subcompact executive cars manufactured by Mercedes-Benz since 2013. The first generation was a four-door sedan based on the platform of the W176 A-Class and W246 B-Class compact cars, marketed as a four-door coupé. In 2015, Mercedes-Benz expanded the CLA family to include a station wagon configuration which it markets as a Shooting Brake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/1920px-Mercedes-Benz_C118_IMG_2673.jpg",
+  "sketchfab": {
+    "uid": "cfad96d57543486f8d666510ee8c95f1",
+    "name": "2014 Mercedes-Benz CLA-Class",
+    "author": "Franco",
+    "authorUrl": "https://sketchfab.com/billowous",
+    "license": "Free Standard"
+  }
+}

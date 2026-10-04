@@ -1,0 +1,35 @@
+{
+  "id": "volkswagen-id-buzz",
+  "make": "Volkswagen",
+  "model": "ID. Buzz",
+  "years": [
+    2025
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/960px-Volkswagen_ID._Buzz_1X7A6263.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 90,
+    "mpgHighway": 75,
+    "mpgCombined": 83,
+    "evRangeMiles": 234
+  },
+  "description": "The Volkswagen ID. Buzz is a battery electric minivan produced by German manufacturer Volkswagen. Based on the dedicated battery electric MEB platform, it is the first production electric minivan from Volkswagen and part of the Volkswagen ID. series. A retro styled minivan, the design of the ID. Buzz is inspired by the Volkswagen Type 2 (T1) Microbus.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/1920px-Volkswagen_ID._Buzz_1X7A6263.jpg",
+  "sketchfab": {
+    "uid": "9e7a3d129960447bb353a444185c47c3",
+    "name": "Volkswagen ID. BUZZ",
+    "author": "Sloftm_Carz",
+    "authorUrl": "https://sketchfab.com/SLBofficial",
+    "license": "CC Attribution"
+  }
+}

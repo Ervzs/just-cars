@@ -1,0 +1,40 @@
+{
+  "id": "rolls-royce-dawn",
+  "make": "Rolls-Royce",
+  "model": "Dawn",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "6.6L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg/960px-2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "6.6L 12-cyl",
+    "displacementL": 6.6,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Rolls-Royce Dawn is a convertible luxury grand tourer manufactured by Rolls-Royce Motor Cars. It was announced at the 2015 Frankfurt Motor Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Dawn",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg/1920px-2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg",
+  "sketchfab": {
+    "uid": "0765c8e6583949adbcd6c4607b263fda",
+    "name": "2016 Rolls-Royce Dawn",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

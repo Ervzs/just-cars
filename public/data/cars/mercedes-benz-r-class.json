@@ -1,0 +1,42 @@
+{
+  "id": "mercedes-benz-r-class",
+  "make": "Mercedes-Benz",
+  "model": "R-Class",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg/960px-2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 7-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 21,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Mercedes-Benz R-Class is a mid-size luxury MPV introduced by Mercedes-Benz in 2005 for the 2006 model year. Following the success of the smaller A- and B-Class MPVs, Mercedes in collaboration with coachbuilder Stola presented a concept vehicle, Vision GST, at the 2002 Detroit Auto Show and a second one, Vision R presented at the 2004 Detroit Auto Show, subsequently introducing the production version at 2005 New York International Auto Show. The R-Class was manufactured in Vance, Alabama until 2015 when its production was shifted to Mishawaka, Indiana for a smaller volume production until 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_R-Class",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg/1920px-2010_Mercedes-Benz_R350L_Grand_Edition_CDi_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "d68a20ea5fac4e0897b7fb978fdf6e31",
+    "name": "Mercedes-Benz R-Class",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "buick-lesabre",
+  "make": "Buick",
+  "model": "LeSabre",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg/960px-1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Buick LeSabre is a full-size car made by the division Buick of General Motors from 1959 until 2005. Prior to 1959, this position had been retained by the full-size Buick Special model (1936–58). The \"LeSabre\", which is French for \"the sabre\", was Buick's entry-level full-size car throughout all eight of its generations. The LeSabre was available as a 2-door convertible, sedan or hardtop, a 4-door sedan or hardtop and station wagon throughout its production.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_LeSabre",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg/1920px-1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg",
+  "sketchfab": {
+    "uid": "fb1f1cccc6974d0d9e72248ab475e514",
+    "name": "buick lesabre concept",
+    "author": "coptrum",
+    "authorUrl": "https://sketchfab.com/coptrum",
+    "license": "CC Attribution"
+  }
+}

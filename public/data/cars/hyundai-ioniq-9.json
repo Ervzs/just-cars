@@ -1,0 +1,36 @@
+{
+  "id": "hyundai-ioniq-9",
+  "make": "Hyundai",
+  "model": "Ioniq 9",
+  "years": [
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hyundai_Ioniq_9_IMG_5950.jpg/960px-Hyundai_Ioniq_9_IMG_5950.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 103,
+    "mpgHighway": 81,
+    "mpgCombined": 92,
+    "evRangeMiles": 335
+  },
+  "description": "The Hyundai Ioniq 9 is a battery electric mid-size crossover SUV with three-row seating produced by Hyundai since 2025.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hyundai_Ioniq_9_IMG_5950.jpg/1920px-Hyundai_Ioniq_9_IMG_5950.jpg",
+  "sketchfab": {
+    "uid": "174c37496b7c4047aa553ed065a6f55e",
+    "name": "Hyundai Ioniq 9",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

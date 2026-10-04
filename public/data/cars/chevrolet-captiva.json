@@ -1,0 +1,38 @@
+{
+  "id": "chevrolet-captiva",
+  "make": "Chevrolet",
+  "model": "Captiva",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chevrolet_Captiva_LTZ_2.2_D_4WD_%28Facelift%29_%E2%80%93_Frontansicht%2C_18._M%C3%A4rz_2012%2C_Wuppertal.jpg/960px-Chevrolet_Captiva_LTZ_2.2_D_4WD_%28Facelift%29_%E2%80%93_Frontansicht%2C_18._M%C3%A4rz_2012%2C_Wuppertal.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Captiva is a compact crossover SUV marketed by General Motors. The first generation was developed by GM Korea, based on the GM Theta platform and derived from the S3X concept car revealed in 2004. Released in 2006, it was sold internationally as the Chevrolet Captiva, in Australia and New Zealand as the Holden Captiva and in South Korea as the Daewoo Winstorm prior to the adoption of its international name in 2011, when the Daewoo brand was discontinued. The vehicle shares much its underpinnings with the similarly-styled Opel/Vauxhall Antara / second-generation Saturn Vue, with the Captiva offering optional third-row seating.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Captiva",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chevrolet_Captiva_LTZ_2.2_D_4WD_%28Facelift%29_%E2%80%93_Frontansicht%2C_18._M%C3%A4rz_2012%2C_Wuppertal.jpg/1920px-Chevrolet_Captiva_LTZ_2.2_D_4WD_%28Facelift%29_%E2%80%93_Frontansicht%2C_18._M%C3%A4rz_2012%2C_Wuppertal.jpg",
+  "sketchfab": {
+    "uid": "e951a6fb3c8640cf9090cb7974d080ad",
+    "name": "2024 Chevrolet Captiva Premier XL",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

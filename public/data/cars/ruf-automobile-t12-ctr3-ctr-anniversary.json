@@ -1,0 +1,29 @@
+{
+  "id": "ruf-automobile-t12-ctr3-ctr-anniversary",
+  "make": "RUF Automobile",
+  "model": "T12/CTR3/CTR Anniversary",
+  "years": [
+    2023
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Manual 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "isuzu-vehicross",
+  "make": "Isuzu",
+  "model": "Vehicross",
+  "years": [
+    2000,
+    2001
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Isuzu-VehiCross.jpg/960px-Isuzu-VehiCross.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu VehiCROSS is a compact SUV manufactured by Isuzu from 1997 through 2001.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_VehiCROSS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Isuzu-VehiCross.jpg/1920px-Isuzu-VehiCross.jpg",
+  "sketchfab": {
+    "uid": "220deb885f4241bca16ce1c70c9d0c2e",
+    "name": "Isuzu VehiCROSS",
+    "author": "Dani Satellite",
+    "authorUrl": "https://sketchfab.com/dani-satellite",
+    "license": "CC Attribution"
+  }
+}

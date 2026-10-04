@@ -1,0 +1,38 @@
+{
+  "id": "dodge-dart",
+  "make": "Dodge",
+  "model": "Dart",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg/960px-1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic (AM6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 36,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Dodge Dart is a line of passenger cars produced by Dodge from the 1959 to 1976 model years in North America, with production extended to later years in various other markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Dart",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg/1920px-1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "e99e368cab3449068a1ab7465c188066",
+    "name": "2023 Dodge Dart X Edition - Asphalt 8",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

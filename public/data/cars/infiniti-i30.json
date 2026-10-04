@@ -1,0 +1,30 @@
+{
+  "id": "infiniti-i30",
+  "make": "Infiniti",
+  "model": "I30",
+  "years": [
+    2000,
+    2001
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NISSAN_CEFIRO.jpg/960px-NISSAN_CEFIRO.jpg",
+  "has3d": false,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Nissan Cefiro  is a mid-size passenger car manufactured and marketed by Nissan Motors over three generations. Almost all Cefiro's were marketed as four-door sedans, though a five-door wagon body style was briefly available (1997–2000). In most cases, the Cefiro used Nissan's VQ six-cylinder engines, named Ward's 10 Best Engines more than ten years running.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Cefiro",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NISSAN_CEFIRO.jpg/1920px-NISSAN_CEFIRO.jpg",
+  "sketchfab": null
+}

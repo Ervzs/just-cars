@@ -1,0 +1,30 @@
+{
+  "id": "pontiac-g3",
+  "make": "Pontiac",
+  "model": "G3",
+  "years": [
+    2009,
+    2010
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2003-2004_Daewoo_Kalos_%28T200%29_SE_5-door_hatchback_%282011-01-12%29.jpg/960px-2003-2004_Daewoo_Kalos_%28T200%29_SE_5-door_hatchback_%282011-01-12%29.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 34,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Daewoo Kalos is a subcompact automobile initially launched in 2002. The Kalos was developed by the initially-independent South Korean manufacturer Daewoo, later GM Korea. Originally marketed as the Daewoo Kalos across most of the world, it was later marketed as the Chevrolet Aveo. The car thus became the first generation of the Chevrolet Aveo nameplate from the Chevrolet division of the American manufacturer General Motors. The model received the T200 internal codes during the car's development. The T250 code was designated for the model's major facelift.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daewoo_Kalos",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2003-2004_Daewoo_Kalos_%28T200%29_SE_5-door_hatchback_%282011-01-12%29.jpg/1920px-2003-2004_Daewoo_Kalos_%28T200%29_SE_5-door_hatchback_%282011-01-12%29.jpg",
+  "sketchfab": null
+}

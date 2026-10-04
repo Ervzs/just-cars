@@ -1,0 +1,41 @@
+{
+  "id": "kia-cadenza",
+  "make": "Kia",
+  "model": "Cadenza",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2016_Kia_Cadenza_in_Platinum_Graphite%2C_Front_Right%2C_08-02-2022.jpg/960px-2016_Kia_Cadenza_in_Platinum_Graphite%2C_Front_Right%2C_08-02-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Kia Cadenza, also known in South Korea as Kia K7 is a full-size/executive car manufactured by Kia, produced from 2009 to 2021. It was first launched in 2009 to replace the Opirus/Amanti.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Cadenza",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2016_Kia_Cadenza_in_Platinum_Graphite%2C_Front_Right%2C_08-02-2022.jpg/1920px-2016_Kia_Cadenza_in_Platinum_Graphite%2C_Front_Right%2C_08-02-2022.jpg",
+  "sketchfab": {
+    "uid": "bd18e66bcc2d4940a2f1bb8585f8d8a3",
+    "name": "Kia Cadenza 2016",
+    "author": "DR1KING100K",
+    "authorUrl": "https://sketchfab.com/DR1KING100K",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jaguar-s-type",
+  "make": "Jaguar",
+  "model": "S-type",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/1966-Jaguar-S-type.jpg/500px-1966-Jaguar-S-type.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 26,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "Jaguar S-Type is the name of two vehicles:Jaguar S-Type (1963) (1963–1968)\nJaguar S-Type (1999) (1999–2008)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_S-Type",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/1966-Jaguar-S-type.jpg/500px-1966-Jaguar-S-type.jpg",
+  "sketchfab": {
+    "uid": "3f2b76192f424392a45e37a498cd1002",
+    "name": "Jaguar S-Type R V8 engine",
+    "author": "thetyke",
+    "authorUrl": "https://sketchfab.com/thetyke",
+    "license": "CC Attribution"
+  }
+}

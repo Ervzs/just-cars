@@ -1,0 +1,31 @@
+{
+  "id": "isuzu-axiom",
+  "make": "Isuzu",
+  "model": "Axiom",
+  "years": [
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Isuzu--Axiom.jpg/960px-Isuzu--Axiom.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu Axiom is a mid-size SUV introduced by Isuzu in 2001 for the 2002 model year. The Axiom is derived from the Isuzu Rodeo and was intended to be Isuzu's response to the popularity of car-based SUVs, such as the Toyota Highlander, replacing the Trooper as Isuzu's flagship vehicle in the United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Axiom",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Isuzu--Axiom.jpg/1920px-Isuzu--Axiom.jpg",
+  "sketchfab": null
+}

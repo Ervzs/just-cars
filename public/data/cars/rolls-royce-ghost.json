@@ -1,0 +1,52 @@
+{
+  "id": "rolls-royce-ghost",
+  "make": "Rolls-Royce",
+  "model": "Ghost",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "6.7L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg/960px-2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "6.7L 12-cyl",
+    "displacementL": 6.7,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Rolls-Royce Ghost is a full-sized luxury car manufactured by Rolls-Royce Motor Cars. The \"Ghost\" nameplate, named in honour of the Silver Ghost, a car first produced in 1906, was announced in April 2009 at the Auto Shanghai show. The production model was officially unveiled at the 2009 Frankfurt Motor Show. The Ghost Extended Wheelbase was introduced in 2011. During development, the Ghost was known as the \"RR04\". It was designed as a smaller, \"more measured, more realistic car\" than the Phantom, aiming for a lower price category for Rolls-Royce models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Ghost",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg/1920px-2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "1f614e803fc24946b83bdc2dd9926d62",
+    "name": "Rolls Royce Ghost",
+    "author": "kurojishi",
+    "authorUrl": "https://sketchfab.com/kurojishi",
+    "license": "CC Attribution"
+  }
+}

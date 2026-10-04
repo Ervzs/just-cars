@@ -1,0 +1,29 @@
+{
+  "id": "ferrari-f80",
+  "make": "Ferrari",
+  "model": "F80",
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.9L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/FerrariF80_%28resized%29_%28cropped%29.jpg/960px-FerrariF80_%28resized%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.9L 6-cyl",
+    "displacementL": 2.9,
+    "cylinders": 6,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 20,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari F80 is a limited production mid-engine, hybrid sports car built by the Italian automobile manufacturer Ferrari. Designed and named to commemorate the 80th anniversary of the company, it serves as Ferrari's flagship vehicle, and a successor to LaFerrari.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_F80",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/FerrariF80_%28resized%29_%28cropped%29.jpg/1920px-FerrariF80_%28resized%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "lotus-emira",
+  "make": "Lotus",
+  "model": "Emira",
+  "years": [
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg/960px-2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Lotus Emira is a sports car manufactured by the British company Lotus Cars. It was originally intended to be the firm's final vehicle powered by an internal combustion engine, however this plan has been canceled, and Lotus is now intending to manufacture plug-in hybrids.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Emira",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg/1920px-2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "cea1fdedebca461dabba65d3df809d9e",
+    "name": "2022 Lotus Emira V6",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

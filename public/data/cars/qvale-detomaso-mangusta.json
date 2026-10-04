@@ -1,0 +1,29 @@
+{
+  "id": "qvale-detomaso-mangusta",
+  "make": "Qvale",
+  "model": "Detomaso Mangusta",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Regular",
+  "engine": "4.6L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Qvale_Mangusta_94.jpg/960px-Qvale_Mangusta_94.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "4.6L 8-cyl",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 28,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Qvale Mangusta is a sports car produced in limited numbers by the Italian automaker Qvale between 1999 and 2002. During development and very early production, it was developed from the De Tomaso Biguá concept car shown to the general public at the 1996 Geneva Motor Show. When the car started production, it was renamed De Tomaso Mangusta before De Tomaso became disassociated from the project and all subsequent cars received Qvale badging.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Qvale_Mangusta",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Qvale_Mangusta_94.jpg/1920px-Qvale_Mangusta_94.jpg",
+  "sketchfab": null
+}

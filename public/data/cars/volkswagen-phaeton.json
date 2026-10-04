@@ -1,0 +1,37 @@
+{
+  "id": "volkswagen-phaeton",
+  "make": "Volkswagen",
+  "model": "Phaeton",
+  "years": [
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2005_VW_Phaeton.jpg/960px-2005_VW_Phaeton.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Phaeton is a full-size sedan/saloon manufactured by the German automobile manufacturer Volkswagen, described by Volkswagen as their \"premium class\" vehicle. Introduced at the 2002 Geneva Motor Show, the Phaeton was marketed worldwide. Sales in North America ended in 2006 and global sales ended in 2016.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Phaeton",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2005_VW_Phaeton.jpg/960px-2005_VW_Phaeton.jpg",
+  "sketchfab": {
+    "uid": "7d678c6fa85e4242aa3d8183c87026bd",
+    "name": "Volkswagen Phaeton",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

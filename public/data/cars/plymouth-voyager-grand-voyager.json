@@ -1,0 +1,29 @@
+{
+  "id": "plymouth-voyager-grand-voyager",
+  "make": "Plymouth",
+  "model": "Voyager/Grand Voyager",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/3rd_Plymouth_Grand_Voyager.jpg/960px-3rd_Plymouth_Grand_Voyager.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 3-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "Plymouth Voyager is a nameplate for a range of vans that were marketed by Plymouth from 1974 to 2000. One of the few light trucks marketed by the division, the Voyager was initially a full-size van, later becoming one of the first minivans successfully marketed in North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth_Voyager",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/3rd_Plymouth_Grand_Voyager.jpg/1920px-3rd_Plymouth_Grand_Voyager.jpg",
+  "sketchfab": null
+}

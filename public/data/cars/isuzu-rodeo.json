@@ -1,0 +1,39 @@
+{
+  "id": "isuzu-rodeo",
+  "make": "Isuzu",
+  "model": "Rodeo",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg/960px-1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 21,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu Rodeo is an automotive nameplate that was used by the Japanese automobile manufacturer Isuzu between 1988 and 2004. Isuzu has utilized the \"Rodeo\" name on two different vehicles—a compact pickup truck sold in Japan, and a midsize SUV offered in North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Rodeo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg/1920px-1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg",
+  "sketchfab": {
+    "uid": "cc5a645a0afb443ea7c8ef0e398e1ad7",
+    "name": "3D Scanned Isuzu Rodeo (2001) [Free]",
+    "author": "agent",
+    "authorUrl": "https://sketchfab.com/agentmooshroom5",
+    "license": "CC Attribution"
+  }
+}

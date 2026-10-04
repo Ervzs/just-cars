@@ -1,0 +1,38 @@
+{
+  "id": "saturn-aura",
+  "make": "Saturn",
+  "model": "Aura",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Gasoline or E85",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg/960px-Saturn_Aura_XR_--_08-28-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 33,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Saturn Aura is a four-door, five-passenger front engine/front-wheel drive mid-sized sedan manufactured and marketed by GM's Saturn subsidiary over a single generation from 2006 to 2009. The car launched one year before the seventh generation Chevrolet Malibu, its most closely related platform companion.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Aura",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg/1920px-Saturn_Aura_XR_--_08-28-2009.jpg",
+  "sketchfab": {
+    "uid": "225de756721548479e325dea64aba321",
+    "name": "Photoscanned Saturn Aura",
+    "author": "Spiicy",
+    "authorUrl": "https://sketchfab.com/spiiiiicy",
+    "license": "CC Attribution"
+  }
+}

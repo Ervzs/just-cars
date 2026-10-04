@@ -1,0 +1,45 @@
+{
+  "id": "acura-tsx",
+  "make": "Acura",
+  "model": "TSX",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2010_Acura_TSX_--_03-15-2010.jpg/960px-2010_Acura_TSX_--_03-15-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Acura TSX is a compact executive car manufactured by Honda and sold through its Acura division from the 2004 to 2014 model years. The TSX spanned two generations, both derived from the corresponding Japanese/European versions of the Honda Accord, which were more compact and sporting-oriented than their larger North American counterpart. The latter Accord platform was also used for the Acura TL, which slotted above the TSX in Acura's lineup. All TSXs were built in Sayama, Saitama, Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_TSX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2010_Acura_TSX_--_03-15-2010.jpg/1920px-2010_Acura_TSX_--_03-15-2010.jpg",
+  "sketchfab": {
+    "uid": "e19491d9e6834fbcb1a871333c8b84d9",
+    "name": "2010 Acura TSX",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

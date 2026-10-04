@@ -1,0 +1,38 @@
+{
+  "id": "ferrari-812-superfast",
+  "make": "Ferrari",
+  "model": "812 Superfast",
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ferrari_812_Superfast_S-A_6.5.jpg/960px-2019_Ferrari_812_Superfast_S-A_6.5.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari 812 Superfast is a front mid-engine, rear-wheel-drive grand tourer produced by the Italian sports car manufacturer Ferrari that made its debut at the 2017 Geneva Motor Show. The 812 Superfast is the successor to the F12berlinetta.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_812_Superfast",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2019_Ferrari_812_Superfast_S-A_6.5.jpg/1920px-2019_Ferrari_812_Superfast_S-A_6.5.jpg",
+  "sketchfab": {
+    "uid": "6716d40cad6c4f7db9c42e2db3a94ce3",
+    "name": "2018 Ferrari 812 Superfast",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lucid-air",
+  "make": "Lucid",
+  "model": "Air",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg/960px-2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 129,
+    "mpgHighway": 126,
+    "mpgCombined": 128,
+    "evRangeMiles": 512
+  },
+  "description": "The Lucid Air is a battery electric four-door luxury sedan produced by Lucid Motors. The vehicle was announced in December 2016 and sales began in 2021 as the brand's first car. It has been positively reviewed by critics and is known for its range and performance capabilities.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucid_Air",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg/1920px-2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "c486ddb208704f0c8a4c131f9c82eaf7",
+    "name": "Lucid Air Sapphire",
+    "author": "dannzjs",
+    "authorUrl": "https://sketchfab.com/dannzjs",
+    "license": "CC Attribution"
+  }
+}

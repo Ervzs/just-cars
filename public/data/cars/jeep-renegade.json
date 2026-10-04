@@ -1,0 +1,43 @@
+{
+  "id": "jeep-renegade",
+  "make": "Jeep",
+  "model": "Renegade",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg/960px-Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "1.3L 4-cyl",
+    "displacementL": 1.3,
+    "cylinders": 4,
+    "transmission": "Automatic 9-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Jeep Renegade is a subcompact crossover SUV produced by Stellantis under their Jeep marque. It was first shown to the public in March 2014 at the Geneva Motor Show and production started in late August of that year. The Renegade is the smallest vehicle currently marketed by Jeep, until the arrival of the Avenger. It slots between the Avenger and the Compass. It is based on the FCA Small Wide 4×4 platform, which is also shared with other FCA models, including those from Fiat and Alfa Romeo brands.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Renegade",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg/1920px-Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "192f7e81dce84c6780434f692a0f96c5",
+    "name": "Jeep Renegade 2016",
+    "author": "Jose Bronze",
+    "authorUrl": "https://sketchfab.com/pinceladas3d",
+    "license": "CC Attribution"
+  }
+}

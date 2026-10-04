@@ -1,0 +1,30 @@
+{
+  "id": "porsche-turbo-4-911-cab",
+  "make": "Porsche",
+  "model": "Turbo 4 911 Cab",
+  "years": [
+    2004,
+    2005
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 20,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ford-e350-wagon",
+  "make": "Ford",
+  "model": "E350 Wagon",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Vans, Passenger Type",
+  "fuelType": "Gasoline or E85",
+  "engine": "5.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ford_E-Series_wagon.jpg/960px-Ford_E-Series_wagon.jpg",
+  "has3d": false,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "5.4L 8-cyl",
+    "displacementL": 5.4,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 15,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Ford E-Series is a range of full-size vans produced by the Ford Motor Company since 1961. Introduced as a replacement for the Ford F-Series panel van, the line has spanned four generations. Sold in both retail and commercial markets, the E-Series has been offered as passenger and cargo vans, as well as in cutaway and stripped-chassis configurations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_E-Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ford_E-Series_wagon.jpg/1920px-Ford_E-Series_wagon.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "volkswagen-tiguan",
+  "make": "Volkswagen",
+  "model": "Tiguan",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Volkswagen_Tiguan_III_IMG_8823_%28cropped%29.jpg/960px-Volkswagen_Tiguan_III_IMG_8823_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Tiguan is a sport utility vehicle produced by German manufacturer Volkswagen since 2007, sitting between the smaller T-Roc and the larger Touareg in the company's crossover SUV range. The first generation was based on the PQ46 platform, while the second generation, released in 2016, utilizes the Volkswagen Group MQB A2 platform. It is generally considered to be a medium-sized SUV in Europe, while in North America it is considered to be a compact crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Tiguan",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Volkswagen_Tiguan_III_IMG_8823_%28cropped%29.jpg/1920px-Volkswagen_Tiguan_III_IMG_8823_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "c8780d08e8dc4050a1287fa99c31824c",
+    "name": "2022 Volkswagen Tiguan L - Allspace",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

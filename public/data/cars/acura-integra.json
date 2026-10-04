@@ -1,0 +1,40 @@
+{
+  "id": "acura-integra",
+  "make": "Acura",
+  "model": "Integra",
+  "years": [
+    2000,
+    2001,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2002_Honda_Integra_%28DC5%29_Special_Edition_coupe_%282015-07-24%29_01.jpg/960px-2002_Honda_Integra_%28DC5%29_Special_Edition_coupe_%282015-07-24%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 37,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "description": "The Honda Integra , sold in North America as the Acura Integra and later the Acura RSX, is an automobile produced by the Japanese company Honda from 1985 until 2006, and then since 2021. It succeeded the Quint as a more luxurious and sport-oriented derivative of the Civic. The Integra was one of the launch models for Acura in the US in 1986 alongside the Acura Legend. Throughout its production run, the Integra was highly regarded for its handling and performance. The 1995–2001 Integra Type R is widely regarded as one of the best front-wheel-drive cars of all time.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Integra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2002_Honda_Integra_%28DC5%29_Special_Edition_coupe_%282015-07-24%29_01.jpg/1920px-2002_Honda_Integra_%28DC5%29_Special_Edition_coupe_%282015-07-24%29_01.jpg",
+  "sketchfab": {
+    "uid": "343a13e17f544a788b9b02fbfc6c58b7",
+    "name": "2001 Acura Integra Type-R",
+    "author": "OUTPISTON",
+    "authorUrl": "https://sketchfab.com/outpiston",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lexus-ct",
+  "make": "Lexus",
+  "model": "CT",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018_Lexus_CT_200h_Premier_CVT_1.8_Front.jpg/960px-2018_Lexus_CT_200h_Premier_CVT_1.8_Front.jpg",
+  "has3d": false,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 43,
+    "mpgHighway": 40,
+    "mpgCombined": 42,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus CT  is a hybrid electric automobile sold by Lexus, a luxury division of Toyota, as a premium compact hatchback. The CT, consisting of a single model called the CT 200h, is a luxury hybrid based on the Toyota Prius drivetrain and Toyota MC platform chassis, and is the first luxury compact and hatchback hybrid. It is the first production model in Lexus's family to introduce the \"Spindle Grille\" design as seen in its fascia. It also superseded the IS as the smallest car in the Lexus lineup. It made its debut at the March 2010 Geneva International Motor Show, six months after the unveiling of the LF-Ch concept car; it is primarily targeted at the European market but was sold worldwide and was introduced to North American markets at the April 2010 New York International Auto Show. Lexus has trademarked the names CT 200h, CT 300h, and CT 400h. The design by Takeshi Tanabe was approved in 2008 and patented on 11 September 2009.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_CT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018_Lexus_CT_200h_Premier_CVT_1.8_Front.jpg/1920px-2018_Lexus_CT_200h_Premier_CVT_1.8_Front.jpg",
+  "sketchfab": null
+}

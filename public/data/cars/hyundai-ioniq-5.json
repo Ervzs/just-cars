@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-ioniq-5",
+  "make": "Hyundai",
+  "model": "Ioniq 5",
+  "years": [
+    2022,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/960px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 116,
+    "mpgHighway": 96,
+    "mpgCombined": 106,
+    "evRangeMiles": 290
+  },
+  "description": "The Hyundai Ioniq 5 is a battery electric compact crossover SUV produced by Hyundai since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/1920px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",
+  "sketchfab": {
+    "uid": "675e78311e8440d88714bd212cb7a8fb",
+    "name": "Hyundai Ioniq 5 - Lowpoly",
+    "author": "andikapratamaw",
+    "authorUrl": "https://sketchfab.com/andikapratamaw",
+    "license": "CC Attribution"
+  }
+}

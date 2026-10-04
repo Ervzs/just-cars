@@ -1,0 +1,43 @@
+{
+  "id": "aston-martin-dbs",
+  "make": "Aston Martin",
+  "model": "DBS",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.2L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Aston_Martin_DBS_Vantage_LC25.jpg/960px-1968_Aston_Martin_DBS_Vantage_LC25.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "5.2L 12-cyl",
+    "displacementL": 5.2,
+    "cylinders": 12,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 22,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Aston Martin DBS is a grand tourer produced by the British manufacturer Aston Martin Lagonda Limited from 1967 to 1972.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DBS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Aston_Martin_DBS_Vantage_LC25.jpg/1920px-1968_Aston_Martin_DBS_Vantage_LC25.jpg",
+  "sketchfab": {
+    "uid": "26dae088d5d34eafb3197e48344fb931",
+    "name": "2020 Aston Martin DBS GT Zagato",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

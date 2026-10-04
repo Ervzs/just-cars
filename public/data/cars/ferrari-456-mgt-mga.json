@@ -1,0 +1,32 @@
+{
+  "id": "ferrari-456-mgt-mga",
+  "make": "Ferrari",
+  "model": "456 MGT/MGA",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.5L 12-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "5.5L 12-cyl",
+    "displacementL": 5.5,
+    "cylinders": 12,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 14,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

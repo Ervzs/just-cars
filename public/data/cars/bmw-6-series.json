@@ -1,0 +1,49 @@
+{
+  "id": "bmw-6-series",
+  "make": "BMW",
+  "model": "6 Series",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/BMW_640d_GT_xDrive_1X7A0311.jpg/960px-BMW_640d_GT_xDrive_1X7A0311.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 29,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The BMW 6 Series is a range of grand tourers produced by BMW since 1976. It is the successor to the E9 Coupé and is currently in its fourth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_6_Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/BMW_640d_GT_xDrive_1X7A0311.jpg/1920px-BMW_640d_GT_xDrive_1X7A0311.jpg",
+  "sketchfab": {
+    "uid": "87dedbcfccaf4a77a22637f1af50a133",
+    "name": "2015 BMW 6-Series Gran Coupe (F06)",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

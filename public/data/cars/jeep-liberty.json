@@ -1,0 +1,40 @@
+{
+  "id": "jeep-liberty",
+  "make": "Jeep",
+  "model": "Liberty",
+  "years": [
+    2002,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2nd_Jeep_Liberty_--_08-16-2010.jpg/960px-2nd_Jeep_Liberty_--_08-16-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Jeep Liberty is a four-door unibody compact SUV manufactured and marketed by Jeep for model years 2002–2012 over two generations, internally designated the KJ (2002–2007) and KK (2008–2012), respectively. Both generations were marketed globally, including as the Jeep Cherokee outside North America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Liberty",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2nd_Jeep_Liberty_--_08-16-2010.jpg/1920px-2nd_Jeep_Liberty_--_08-16-2010.jpg",
+  "sketchfab": {
+    "uid": "1e09be6a53104602bf718b24bd38e888",
+    "name": "Jeep Liberty MK2 2008-2012",
+    "author": "Merc_TV",
+    "authorUrl": "https://sketchfab.com/szymonpasterczyk",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "volkswagen-cc",
+  "make": "Volkswagen",
+  "model": "CC",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/VW_Passat_CC_2.0_TDI_DSG_Reflexsilber.JPG/960px-VW_Passat_CC_2.0_TDI_DSG_Reflexsilber.JPG",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen CC, initially sold as the Volkswagen Passat CC, is a car built by German marque Volkswagen from 2008 to 2016. It is a variant of the Volkswagen Passat that trades headroom and cargo space for a coupé-like profile and sweeping roofline. The CC debuted in January 2008, at the North American International Auto Show in Detroit and was discontinued after the 2017 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_CC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/VW_Passat_CC_2.0_TDI_DSG_Reflexsilber.JPG/1920px-VW_Passat_CC_2.0_TDI_DSG_Reflexsilber.JPG",
+  "sketchfab": {
+    "uid": "9655958045b6483f9c049a9bf8c1f98a",
+    "name": "Volkswagen Passat CC",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

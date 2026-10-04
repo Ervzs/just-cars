@@ -1,0 +1,50 @@
+{
+  "id": "chrysler-pacifica",
+  "make": "Chrysler",
+  "model": "Pacifica",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg/960px-2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic 9-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "Chrysler Pacifica is a nameplate used by Chrysler for a variety of vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Pacifica",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg/1920px-2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "99ec73d456f245c9ae28b3384127f750",
+    "name": "Chrysler Pacifica 2008",
+    "author": "Doz3",
+    "authorUrl": "https://sketchfab.com/Doz3",
+    "license": "CC Attribution"
+  }
+}

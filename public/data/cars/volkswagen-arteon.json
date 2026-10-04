@@ -1,0 +1,40 @@
+{
+  "id": "volkswagen-arteon",
+  "make": "Volkswagen",
+  "model": "Arteon",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Volkswagen_Arteon_2.0.jpg/960px-2018_Volkswagen_Arteon_2.0.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Arteon is a car manufactured by German car manufacturer Volkswagen. Described as a large family car or a mid-size car, it is available in five-door liftback or estate body styles. The Arteon was unveiled on 6 March 2017, at the Geneva Motor Show, and at the Chicago Auto Show for the North American market. It is a direct successor to the CC; however, Volkswagen announced that the Arteon is positioned to be more upmarket than the CC. The vehicle is based on the MQB platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Arteon",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Volkswagen_Arteon_2.0.jpg/1920px-2018_Volkswagen_Arteon_2.0.jpg",
+  "sketchfab": {
+    "uid": "8d125c0f4f4a40a0ac40e082b1502a46",
+    "name": "Volkswagen Arteon",
+    "author": "geyges",
+    "authorUrl": "https://sketchfab.com/geyges",
+    "license": "Free Standard"
+  }
+}

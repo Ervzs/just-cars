@@ -1,0 +1,33 @@
+{
+  "id": "fiat-500-l",
+  "make": "Fiat",
+  "model": "500 L",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2014_Fiat_500L_Lounge_1.4.jpg/960px-2014_Fiat_500L_Lounge_1.4.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Fiat 500L is a car which was manufactured by Fiat Serbia from 2012 to 2022 and marketed by Fiat globally. A five-door mini MPV based on a variant of the FCA Small Wide platform, it was initially only produced in a two-row, five-seater confugration, with a lengthened three-row, seven-seater version called the 500L Living introduced in 2013 for the European market. In 2017, the 500L received an intermediate facelift, with revised front and rear fascias along with In-car entertainment updates and interior revisions. By early 2018, production reached 500,000 units. The 500L was discontinued in the North American market after model year 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiat_500L",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2014_Fiat_500L_Lounge_1.4.jpg/1920px-2014_Fiat_500L_Lounge_1.4.jpg",
+  "sketchfab": null
+}

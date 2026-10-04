@@ -1,0 +1,35 @@
+{
+  "id": "audi-rs-6",
+  "make": "Audi",
+  "model": "RS 6",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg/960px-2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 20,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Audi RS 6 is a high-performance variant of the Audi A6 range, produced by the high-performance subsidiary company Audi Sport GmbH, for its parent company Audi AG, a subsidiary of the Volkswagen Group, from 2002 onwards.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_RS_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg/1920px-2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "99aa71f747b0453eb58334414d34397c",
+    "name": "Audi RS 6 Avant (C8)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

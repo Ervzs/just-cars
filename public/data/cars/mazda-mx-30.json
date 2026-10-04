@@ -1,0 +1,36 @@
+{
+  "id": "mazda-mx-30",
+  "make": "Mazda",
+  "model": "MX-30",
+  "years": [
+    2022,
+    2023
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2021_Mazda_MX-30_Front.jpg/960px-2021_Mazda_MX-30_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 98,
+    "mpgHighway": 85,
+    "mpgCombined": 92,
+    "evRangeMiles": 100
+  },
+  "description": "The Mazda MX-30 is a subcompact crossover SUV produced by Mazda and sold as a battery electric (BEV), plug-in hybrid (PHEV) or mild hybrid (MHEV) variant. Based on the CX-30, it was unveiled at the 2019 Tokyo Motor Show. Production of the vehicle, which is Mazda's first mass-produced electric car, began at their Ujina factory on 19 May 2020.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_MX-30",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2021_Mazda_MX-30_Front.jpg/1920px-2021_Mazda_MX-30_Front.jpg",
+  "sketchfab": {
+    "uid": "fd7eaec26ab24ca2b4153a60d7a51df1",
+    "name": "2021 Mazda MX-30",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

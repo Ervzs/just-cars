@@ -1,0 +1,35 @@
+{
+  "id": "lamborghini-diablo",
+  "make": "Lamborghini",
+  "model": "Diablo",
+  "years": [
+    2001
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.0L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/960px-1995_Lamborghini_Diablo_SE_30.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "6.0L 12-cyl",
+    "displacementL": 6,
+    "cylinders": 12,
+    "transmission": "Manual 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 9,
+    "mpgHighway": 12,
+    "mpgCombined": 11,
+    "evRangeMiles": null
+  },
+  "description": "The Lamborghini Diablo, is a series of high-performance V12, longitudinal, mid-engined sports cars in the supercar market segment, built by Italian automobile manufacturer Lamborghini from 1990 through 2001. It is the first production Lamborghini with a top speed in excess of 200 mph (322 km/h).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamborghini_Diablo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/1920px-1995_Lamborghini_Diablo_SE_30.jpg",
+  "sketchfab": {
+    "uid": "fe8ae38d041d4d2ab75d7368d2ff43d4",
+    "name": "LAMBORGHINI DIABLO SV",
+    "author": "temich",
+    "authorUrl": "https://sketchfab.com/temich_",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

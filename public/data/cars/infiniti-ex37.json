@@ -1,0 +1,29 @@
+{
+  "id": "infiniti-ex37",
+  "make": "Infiniti",
+  "model": "EX37",
+  "years": [
+    2013
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/960px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Infiniti QX50, formerly the Infiniti EX until 2013, is a crossover SUV marketed by Infiniti, Nissan's luxury division between 2007 and 2025. It was produced over two generations: one generation under both EX and QX50 nameplates, and the second generation under the QX50 nameplate. The first generation model was also marketed as the Nissan Skyline Crossover in Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_QX50",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/1920px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "volvo-v70",
+  "make": "Volvo",
+  "model": "V70",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Midsize Station Wagons",
+  "fuelType": "Regular",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg/960px-3rd_Volvo_V70_--_09-18-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo V70 is an executive car manufactured and marketed by Volvo Cars from 1996 to 2016 across three generations.\nThe name V70 combines the letter V, standing for versatility, and 70, denoting relative platform size.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_V70",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg/960px-3rd_Volvo_V70_--_09-18-2009.jpg",
+  "sketchfab": {
+    "uid": "61bb5ad577754b8ead80a85e94cbf644",
+    "name": "Volvo V70",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

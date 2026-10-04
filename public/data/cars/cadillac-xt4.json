@@ -1,0 +1,41 @@
+{
+  "id": "cadillac-xt4",
+  "make": "Cadillac",
+  "model": "XT4",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg/960px-Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 29,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Cadillac XT4 is a subcompact luxury crossover SUV manufactured since the 2019 model year by the luxury Cadillac division of General Motors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_XT4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg/960px-Cadillac_XT4_0001_China_2019-03-13_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "a116497563b347b39e8c93ebc76a2d70",
+    "name": "Cadillac xt4 2018",
+    "author": "Davidson",
+    "authorUrl": "https://sketchfab.com/Davidson741",
+    "license": "CC Attribution"
+  }
+}

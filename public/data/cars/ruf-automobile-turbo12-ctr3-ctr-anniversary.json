@@ -1,0 +1,29 @@
+{
+  "id": "ruf-automobile-turbo12-ctr3-ctr-anniversary",
+  "make": "RUF Automobile",
+  "model": "TURBO12/CTR3/CTR ANNIVERSARY",
+  "years": [
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Manual 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

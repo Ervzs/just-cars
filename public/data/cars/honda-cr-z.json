@@ -1,0 +1,40 @@
+{
+  "id": "honda-cr-z",
+  "make": "Honda",
+  "model": "CR-Z",
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg/960px-2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 37,
+    "mpgCombined": 33,
+    "evRangeMiles": null
+  },
+  "description": "The Honda CR-Z is a sport compact hybrid electric vehicle manufactured by Honda and marketed as a \"sport hybrid coupe.\" It combines a gasoline-electric hybrid drivetrain with features typical of a sports car, including a standard six-speed manual transmission and a 2+2 seating layout.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_CR-Z",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg/1920px-2014_Honda_CR-Z_Sport-T_i-VTEC_1.5_Front.jpg",
+  "sketchfab": {
+    "uid": "f0c58b5b2dcc4c9dad39fe8ebe65a02c",
+    "name": "2011 Honda CR-Z",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

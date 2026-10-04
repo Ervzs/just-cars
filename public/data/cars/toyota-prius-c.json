@@ -1,0 +1,42 @@
+{
+  "id": "toyota-prius-c",
+  "make": "Toyota",
+  "model": "Prius c",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2012_Toyota_Prius_c_%28NHP10R%29_hatchback_%282015-07-03%29_01.jpg/960px-2012_Toyota_Prius_c_%28NHP10R%29_hatchback_%282015-07-03%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 48,
+    "mpgHighway": 43,
+    "mpgCombined": 46,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota Prius c (c stands for \"city\"), also known as the Toyota Aqua (Japanese: トヨタ・アクア, Hepburn: Toyota Akua); \"aqua\" is Latin for water) in Japan, is a full hybrid gasoline-electric subcompact/supermini hatchback manufactured and marketed by Toyota. The Prius c is the third member of the Prius family, and combines the features of a Yaris-sized car with a hybrid powertrain. The Prius c is priced lower than the conventional Prius and has a higher fuel economy in city driving under United States Environmental Protection Agency test cycles. The Prius c was ranked by the EPA as the 2012 most fuel efficient compact car when plug-in electric vehicles are excluded.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_Prius_C",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2012_Toyota_Prius_c_%28NHP10R%29_hatchback_%282015-07-03%29_01.jpg/1920px-2012_Toyota_Prius_c_%28NHP10R%29_hatchback_%282015-07-03%29_01.jpg",
+  "sketchfab": {
+    "uid": "4833ca15b8e14f3e94853fe38c28b3dd",
+    "name": "2012 Toyota Prius c",
+    "author": "CharlieAsunci",
+    "authorUrl": "https://sketchfab.com/LatvianModeler",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

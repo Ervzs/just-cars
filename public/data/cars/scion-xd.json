@@ -1,0 +1,41 @@
+{
+  "id": "scion-xd",
+  "make": "Scion",
+  "model": "xD",
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Scion_xD_in_Silver%2C_front_right.jpg/960px-2008_Scion_xD_in_Silver%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "description": "The Scion xD is a subcompact hatchback that was marketed in the U.S. and Canada by Japanese manufacturer Toyota beginning with the 2008 model year, as a five-door subcompact hatchback — replacing the xA. The Scion xD and the second generation xB were first shown to the public on February 8, 2007 at the Chicago Auto Show.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_xD",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Scion_xD_in_Silver%2C_front_right.jpg/1920px-2008_Scion_xD_in_Silver%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "78f2fe1740d9485e9b4d61f772ea70d8",
+    "name": "2008 Scion Xd",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

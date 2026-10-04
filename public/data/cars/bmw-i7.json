@@ -1,0 +1,39 @@
+{
+  "id": "bmw-i7",
+  "make": "BMW",
+  "model": "i7",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BMW_7-Series_%28G70%29_750e_IMG_9358.jpg/960px-BMW_7-Series_%28G70%29_750e_IMG_9358.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 90,
+    "mpgHighway": 90,
+    "mpgCombined": 90,
+    "evRangeMiles": 354
+  },
+  "description": "G70 is the internal designation for the seventh generation of the BMW 7 Series, a range of Full-size luxury cars produced by the German luxury vehicle manufacturer BMW since July 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BMW_7-Series_%28G70%29_750e_IMG_9358.jpg/1920px-BMW_7-Series_%28G70%29_750e_IMG_9358.jpg",
+  "sketchfab": {
+    "uid": "e5454f274c4f44fa84e274c2583d7f5c",
+    "name": "2023 BMW i7",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

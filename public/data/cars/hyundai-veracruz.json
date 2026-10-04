@@ -1,0 +1,40 @@
+{
+  "id": "hyundai-veracruz",
+  "make": "Hyundai",
+  "model": "Veracruz",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.8L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg/960px-2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "3.8L 6-cyl",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "transmission": "Automatic 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 22,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Hyundai Veracruz, also known as the Hyundai ix55 in the European Union and Russia, is a mid-size crossover that was manufactured by the South Korean manufacturer Hyundai from 2006 to 2015. The Veracruz was sold in the United States, Canada, South Korea, China, Morocco, South America and the Middle East.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Veracruz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg/1920px-2012_Hyundai_Veracruz_GL_AWD_in_Boulder_Gray%2C_Front_Left%2C_08-22-2023.jpg",
+  "sketchfab": {
+    "uid": "82876de1b064450cb8f033a2d3e90758",
+    "name": "Hyundai ix55- Veracruz 2011",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

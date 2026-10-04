@@ -1,0 +1,38 @@
+{
+  "id": "mini-roadster",
+  "make": "MINI",
+  "model": "Roadster",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg/960px-2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 33,
+    "mpgCombined": 29,
+    "evRangeMiles": null
+  },
+  "description": "The Mini Coupé and Mini Roadster are two-seater sports cars that were engineered and manufactured by German automaker BMW under the Mini marque between 2011 and 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Coup%C3%A9_and_Roadster",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg/1280px-2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg",
+  "sketchfab": {
+    "uid": "016f43239d6644bea388ce48a245a372",
+    "name": "2015 Mini Cooper S Roadster",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

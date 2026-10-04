@@ -1,0 +1,31 @@
+{
+  "id": "isuzu-trooper",
+  "make": "Isuzu",
+  "model": "Trooper",
+  "years": [
+    2000,
+    2001,
+    2002
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Isuzu_Trooper_--_03-16-2012.JPG/960px-Isuzu_Trooper_--_03-16-2012.JPG",
+  "has3d": false,
+  "representativeYear": 2002,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "The Isuzu Trooper is a mid-size SUV manufactured and marketed by Isuzu between September 1981 and September 2002 over two generations, the first, produced between 1981 and 1991; and the second (UBS) produced between 1991 and 2002, the latter with a mid-cycle refresh in 1998. In its earliest iterations, the Trooper was based on the company's first generation Isuzu Faster/Chevrolet LUV pickup.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isuzu_Trooper",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Isuzu_Trooper_--_03-16-2012.JPG/1280px-Isuzu_Trooper_--_03-16-2012.JPG",
+  "sketchfab": null
+}

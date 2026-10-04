@@ -1,0 +1,30 @@
+{
+  "id": "chrysler-concorde-lhs",
+  "make": "Chrysler",
+  "model": "Concorde/LHS",
+  "years": [
+    2003,
+    2004
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2002-04_Chrysler-Concorde.jpg/960px-2002-04_Chrysler-Concorde.jpg",
+  "has3d": false,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Chrysler Concorde is a full-size car that was produced by Chrysler from 1992 to 2004. It assumed the C-body Chrysler New Yorker Salon's position as the entry-level full-size sedan in the Chrysler brand lineup. One of Chrysler's three original Chrysler LH platform models, it has a front-engine, front-wheel-drive layout.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysler_Concorde",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2002-04_Chrysler-Concorde.jpg/1280px-2002-04_Chrysler-Concorde.jpg",
+  "sketchfab": null
+}

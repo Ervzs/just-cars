@@ -1,0 +1,30 @@
+{
+  "id": "bmw-alpina-7-series",
+  "make": "BMW Alpina",
+  "model": "7 Series",
+  "years": [
+    2007,
+    2008
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "4.4L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "4.4L 8-cyl",
+    "displacementL": 4.4,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

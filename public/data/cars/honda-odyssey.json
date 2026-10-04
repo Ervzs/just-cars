@@ -35,7 +35,7 @@
   "vehicleClass": "Minivan - 2WD",
   "fuelType": "Regular",
   "engine": "3.5L 6-cyl",
-  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/69/1979_Honda_Odyssey_FL250b.jpg",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2021_Honda_Odyssey_Absolute_e%E2%88%B6HEV_in_Platinum_White_Pearl%2C_front_left.jpg/960px-2021_Honda_Odyssey_Absolute_e%E2%88%B6HEV_in_Platinum_White_Pearl%2C_front_left.jpg",
   "has3d": true,
   "representativeYear": 2027,
   "specs": {
@@ -49,9 +49,9 @@
     "mpgCombined": 22,
     "evRangeMiles": null
   },
-  "description": "Honda Odyssey can refer to three motor vehicles manufactured by Honda:",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Odyssey",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/1979_Honda_Odyssey_FL250b.jpg",
+  "description": "The Honda Odyssey  is a minivan manufactured by Japanese automaker Honda since 1994, marketed in most of the world and currently in its fifth generation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Odyssey_(international)",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2021_Honda_Odyssey_Absolute_e%E2%88%B6HEV_in_Platinum_White_Pearl%2C_front_left.jpg/1920px-2021_Honda_Odyssey_Absolute_e%E2%88%B6HEV_in_Platinum_White_Pearl%2C_front_left.jpg",
   "sketchfab": {
     "uid": "24abc0e850f64705906c910e91a6ac4a",
     "name": "2001 Honda Odyssey EX",

@@ -1,0 +1,31 @@
+{
+  "id": "dodge-hornet",
+  "make": "Dodge",
+  "model": "Hornet",
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular Gas and Electricity",
+  "engine": "1.3L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg/960px-2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg",
+  "has3d": false,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "1.3L 4-cyl",
+    "displacementL": 1.3,
+    "cylinders": 4,
+    "transmission": "Automatic 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 29,
+    "mpgCombined": 29,
+    "evRangeMiles": 360
+  },
+  "description": "The Dodge Hornet is a compact crossover SUV marketed by Dodge exclusively in North America from the 2023 through 2025 model years. Produced in Italy, it is a rebadged, restyled variant of the Alfa Romeo Tonale at a lower price. The all-wheel-drive vehicle was positioned as the brand's smallest and most affordable model, its first plug-in hybrid, and its first new model since 2011. Due to slow sales and the impact of the Second Trump Administration's new 25% tariff on imports, the Hornet was discontinued after the 2025 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Hornet",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg/1920px-2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg",
+  "sketchfab": null
+}

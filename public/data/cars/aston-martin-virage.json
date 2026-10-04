@@ -1,0 +1,35 @@
+{
+  "id": "aston-martin-virage",
+  "make": "Aston Martin",
+  "model": "Virage",
+  "years": [
+    2012
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.9L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Aston_Martin_Virage.jpg/960px-Aston_Martin_Virage.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "5.9L 12-cyl",
+    "displacementL": 5.9,
+    "cylinders": 12,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "The Aston Martin Virage is an automobile produced by British luxury automobile manufacturer Aston Martin as a replacement for its V8 models. Introduced at the Birmingham Motor Show in 1988, it was joined by the high-performance Vantage in 1993, after which the name of the base model was changed to V8 Coupé in 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_Virage",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Aston_Martin_Virage.jpg/1920px-Aston_Martin_Virage.jpg",
+  "sketchfab": {
+    "uid": "67861c5f24df4a7797af89d0152a22e0",
+    "name": "Aston Martin Virage 1989 (cyberpunk)",
+    "author": "Fastomas",
+    "authorUrl": "https://sketchfab.com/Fastomas",
+    "license": "CC Attribution"
+  }
+}

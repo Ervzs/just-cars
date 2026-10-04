@@ -1,0 +1,42 @@
+{
+  "id": "ford-gt",
+  "make": "Ford",
+  "model": "GT",
+  "years": [
+    2005,
+    2006,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg/960px-Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Ford GT is a mid-engine two-seater sports car manufactured and marketed by American automobile manufacturer Ford for the 2005 model year in conjunction with the company's 2003 centenary. The second generation Ford GT became available for the 2017 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_GT",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg/1920px-Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "ee5db1918a2b4c8cbe0388b67dee4b17",
+    "name": "Ford GT 2006",
+    "author": "Pooya_dh",
+    "authorUrl": "https://sketchfab.com/Pooya_dh",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

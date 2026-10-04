@@ -1,0 +1,39 @@
+{
+  "id": "ford-maverick",
+  "make": "Ford",
+  "model": "Maverick",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Pickup Trucks 2WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1973_Ford_Maverick_01_%28cropped%29.jpg/960px-1973_Ford_Maverick_01_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "Ford has marketed the following automobiles models using the Ford Maverick nameplate:The Ford Maverick (1970–1977), a compact car sold in North America and Brazil during the 1970s\nThe rebadged Nissan Patrol Y60 sold by Ford Australia under the Button car plan from 1988 to 1994\nThe rebadged Spanish-built Nissan Terrano II, sold by Ford of Europe from 1993 to 1999\nThe European and Chinese version of the Ford Escape, sold from 2001 to 2005\nThe Ford Maverick (2022), a compact pickup truck sold in the Americas",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Maverick",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1973_Ford_Maverick_01_%28cropped%29.jpg/960px-1973_Ford_Maverick_01_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "2638ec54385441da8a096094052ae045",
+    "name": "Ford Maverick Truck Bed - Artec Leo 3D Scanner",
+    "author": "GoMeasure3D",
+    "authorUrl": "https://sketchfab.com/gomeasure3d",
+    "license": "CC Attribution"
+  }
+}

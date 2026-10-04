@@ -1,0 +1,37 @@
+{
+  "id": "kia-ev9",
+  "make": "Kia",
+  "model": "EV9",
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kia_EV9_1X7A2472.jpg/960px-Kia_EV9_1X7A2472.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 101,
+    "mpgHighway": 76,
+    "mpgCombined": 88,
+    "evRangeMiles": 230
+  },
+  "description": "The Kia EV9 is a battery electric mid-size crossover SUV with three-row seating produced by Kia since 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kia_EV9_1X7A2472.jpg/1920px-Kia_EV9_1X7A2472.jpg",
+  "sketchfab": {
+    "uid": "1e3c87edd3224342bc4eac5bf15a2d90",
+    "name": "2024 Kia EV9 GT-Line",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

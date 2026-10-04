@@ -1,0 +1,49 @@
+{
+  "id": "tesla-model-s",
+  "make": "Tesla",
+  "model": "Model S",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg/960px-Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 132,
+    "mpgHighway": 116,
+    "mpgCombined": 124,
+    "evRangeMiles": 410
+  },
+  "description": "The Tesla Model S is a battery-electric, four-door full-size car that the American automaker Tesla produced from 2012 to 2026. The automaker's second vehicle, the Model S has been described as one of the most influential electric cars in the industry. Its various accolades include the Motor Trend Car of the Year Award in 2013.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla_Model_S",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg/1920px-Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "4ffda5b281cf4021977aec3205129a54",
+    "name": "Tesla Model S Prior Design",
+    "author": "RPMRender",
+    "authorUrl": "https://sketchfab.com/RPMRender",
+    "license": "Free Standard"
+  }
+}

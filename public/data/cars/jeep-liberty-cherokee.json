@@ -1,0 +1,33 @@
+{
+  "id": "jeep-liberty-cherokee",
+  "make": "Jeep",
+  "model": "Liberty/Cherokee",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/26_Jeep_Cherokee_Limited_AZIAS.jpg/960px-26_Jeep_Cherokee_Limited_AZIAS.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/26_Jeep_Cherokee_Limited_AZIAS.jpg/1920px-26_Jeep_Cherokee_Limited_AZIAS.jpg",
+  "sketchfab": null
+}

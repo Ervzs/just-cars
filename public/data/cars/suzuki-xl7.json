@@ -1,0 +1,37 @@
+{
+  "id": "suzuki-xl7",
+  "make": "Suzuki",
+  "model": "XL7",
+  "years": [
+    2007,
+    2008,
+    2009
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg/960px-Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg",
+  "has3d": true,
+  "representativeYear": 2009,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Suzuki Ertiga is a series of multi-purpose vehicles (MPV) manufactured by the Japanese carmaker Suzuki since 2012, designed primarily for emerging markets. The first generation was heavily based on the second-generation Swift while the second generation introduced in 2018 is made larger and based on the HEARTECT platform. A crossover-styled version was introduced in 2019 as a separate model called the Suzuki XL6 in India and Suzuki XL7 for worldwide markets. The largest markets for the Ertiga are India and Indonesia, where the model is mainly manufactured. The vehicle has also been exported to other South Asian and Southeast Asian markets, along with several markets in Africa, Middle East, Pacific Islands, Caribbean and Latin America.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Ertiga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg/1920px-Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg",
+  "sketchfab": {
+    "uid": "459aa204645e46499540d763eff24084",
+    "name": "Suzuki-xl7",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

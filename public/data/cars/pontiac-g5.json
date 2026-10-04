@@ -1,0 +1,38 @@
+{
+  "id": "pontiac-g5",
+  "make": "Pontiac",
+  "model": "G5",
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Chevrolet_Cobalt_sedan_--_03-16-2012.JPG/960px-Chevrolet_Cobalt_sedan_--_03-16-2012.JPG",
+  "has3d": true,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Cobalt is a compact car that was introduced by Chevrolet in 2004 for the 2005 model year. The Cobalt replaced both the Cavalier and the Toyota-based Geo/Chevrolet Prizm as Chevrolet's compact car. The Cobalt was available as both a coupe and sedan, as well as a sport compact version dubbed the Cobalt SS. Like the Chevrolet HHR and the Saturn ION, it was based on the GM Delta platform.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cobalt",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Chevrolet_Cobalt_sedan_--_03-16-2012.JPG/1280px-Chevrolet_Cobalt_sedan_--_03-16-2012.JPG",
+  "sketchfab": {
+    "uid": "14c7c5d33a264a9c8de921aa77487941",
+    "name": "Pontiac G5",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

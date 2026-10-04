@@ -1,0 +1,40 @@
+{
+  "id": "chevrolet-hhr",
+  "make": "Chevrolet",
+  "model": "HHR",
+  "years": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg/960px-2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet HHR is a retro-styled, high-roofed, five-door, five-passenger, front-wheel drive wagon designed by Bryan Nesbitt and launched by the American automaker Chevrolet at the 2005 Los Angeles Auto Show as a 2006 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_HHR",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg/1920px-2010_Chevrolet_HHR_LS%2C_front_left%2C_09-09-2023.jpg",
+  "sketchfab": {
+    "uid": "be5da37a2a5c4ea58253eb9643656b7a",
+    "name": "Chevrolet HHR",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

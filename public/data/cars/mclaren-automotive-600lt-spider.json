@@ -1,0 +1,29 @@
+{
+  "id": "mclaren-automotive-600lt-spider",
+  "make": "McLaren Automotive",
+  "model": "600LT Spider",
+  "years": [
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.8L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.8L 8-cyl",
+    "displacementL": 3.8,
+    "cylinders": 8,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "McLaren Automotive is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. As of March 2025, McLaren Automotive is wholly owned by CYVN Holdings LLC, owned by the government of Abu Dhabi.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/McLaren_Automotive",
+  "image": null,
+  "sketchfab": null
+}

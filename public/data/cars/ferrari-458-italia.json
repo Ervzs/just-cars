@@ -1,0 +1,40 @@
+{
+  "id": "ferrari-458-italia",
+  "make": "Ferrari",
+  "model": "458 Italia",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg/960px-Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "4.5L 8-cyl",
+    "displacementL": 4.5,
+    "cylinders": 8,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 17,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari 458 Italia is an Italian mid-engine sports car produced by Ferrari. The 458 is the successor of the F430, and was first officially unveiled at the 2009 Frankfurt Motor Show. It was succeeded by the 488 GTB in 2015.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_458",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg/1920px-Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg",
+  "sketchfab": {
+    "uid": "bb6c7fa565c04ec59cd9d0e0a4d0098c",
+    "name": "2011 Ferrari 458 Italia",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

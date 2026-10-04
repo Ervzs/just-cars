@@ -1,0 +1,39 @@
+{
+  "id": "acura-rsx",
+  "make": "Acura",
+  "model": "RSX",
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Acura_RSX_--_10-04-2010.jpg/960px-Acura_RSX_--_10-04-2010.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Acura RSX is an automobile nameplate used by Honda for its upmarket brand Acura. The nameplate has been used for two different car models:A rebadged Japanese market Honda Integra sold between 2001 and 2006.\nA cancelled battery electric coupe SUV that was slated for production in 2026.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_RSX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Acura_RSX_--_10-04-2010.jpg/1280px-Acura_RSX_--_10-04-2010.jpg",
+  "sketchfab": {
+    "uid": "4528666c1a6b41128a01b35b09a770a2",
+    "name": "Acura RSX (DC8)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

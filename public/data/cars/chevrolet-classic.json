@@ -1,0 +1,37 @@
+{
+  "id": "chevrolet-classic",
+  "make": "Chevrolet",
+  "model": "Classic",
+  "years": [
+    2004,
+    2005,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Chevrolet_classic_front_right.jpg/960px-Chevrolet_classic_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "General Motors used the Chevrolet Classic nameplate for the following vehicles:The second generation Chevrolet Corsa, produced in Argentina and Brazil from 2002 to 2016\nThe fifth generation Chevrolet Malibu, produced in the United States from 2004 to 2005 for use by fleets and car rental companies.\nThe sixth generation Chevrolet Malibu, produced in the United States for 2008 for use by fleets and car rental companies.\nThe seventh generation Chevrolet Malibu, to be produced in the United States for 2013 for use by fleets and car rental companies. GM shelved plans for the seventh generation Malibu Classic where the company decided to commence production of the eighth generation - the ninth generation Impala introduced in the 2006 model year took the place of the Chevrolet Classic as the Impala Limited.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Classic",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Chevrolet_classic_front_right.jpg/960px-Chevrolet_classic_front_right.jpg",
+  "sketchfab": {
+    "uid": "b010716e8ded4665ba7ef87c31cce5c1",
+    "name": "1975 Chevrolet Caprice Classic Convertible",
+    "author": "eightismore",
+    "authorUrl": "https://sketchfab.com/eightismore",
+    "license": "CC Attribution"
+  }
+}

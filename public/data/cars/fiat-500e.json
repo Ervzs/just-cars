@@ -1,0 +1,44 @@
+{
+  "id": "fiat-500e",
+  "make": "Fiat",
+  "model": "500e",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Fiat-500-vorne2.jpg/960px-Fiat-500-vorne2.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 127,
+    "mpgHighway": 104,
+    "mpgCombined": 116,
+    "evRangeMiles": 149
+  },
+  "description": "The Fiat 500e, also known as the 500 elettrica, is either a battery-electric car or mild-hybrid engine car by Italian manufacturer Fiat as the third generation of its 500 city cars, following the original 500 (1957–1975) and second-generation 500 (2007–2024). The third-generation 500e is manufactured at the Mirafiori plant in Turin, Italy, starting in 2020, and was sold alongside the second-generation 500, which was manufactured in Tychy, Poland until 2024. It was scheduled to be launched at the Geneva Motor Show but that event was canceled due to the COVID-19 pandemic; it was launched on 4 March 2020 in Milan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiat_500e",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Fiat-500-vorne2.jpg/1920px-Fiat-500-vorne2.jpg",
+  "sketchfab": {
+    "uid": "718834728f8a4948bb71bb0cb7619a85",
+    "name": "Fiat 500E trunk cargo area scan with seats down",
+    "author": "yoshimitsuspeed",
+    "authorUrl": "https://sketchfab.com/yoshimitsuspeed",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

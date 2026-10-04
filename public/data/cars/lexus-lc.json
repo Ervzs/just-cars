@@ -1,0 +1,43 @@
+{
+  "id": "lexus-lc",
+  "make": "Lexus",
+  "model": "LC",
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023_Lexus_LC500_in_Atomic_Silver%2C_front_left.jpg/960px-2023_Lexus_LC500_in_Atomic_Silver%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "5.0L 8-cyl",
+    "displacementL": 5,
+    "cylinders": 8,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 25,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus LC  is a grand tourer manufactured by Lexus, a luxury division of Toyota. Based on the 2012 LF-LC Concept, it was revealed at the 2016 North American International Auto Show in Detroit. It replaced the SC, which was produced from 1991 to 2010. The LC is the first Lexus model to utilize the GA-L platform, which, along with other components, is shared with the full-size XF50 series LS sedan. According to Lexus, the name \"LC\" stands for \"Luxury Coupe\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2023_Lexus_LC500_in_Atomic_Silver%2C_front_left.jpg/1920px-2023_Lexus_LC500_in_Atomic_Silver%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "3f6118da005a457a9ce6d737e5d1e37d",
+    "name": "Lexus LC-500",
+    "author": "Socksthecat",
+    "authorUrl": "https://sketchfab.com/Socksthecat",
+    "license": "CC Attribution"
+  }
+}

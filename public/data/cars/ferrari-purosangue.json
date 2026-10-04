@@ -1,0 +1,37 @@
+{
+  "id": "ferrari-purosangue",
+  "make": "Ferrari",
+  "model": "Purosangue",
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ferrari_Purosangue_DSC_7008.jpg/960px-Ferrari_Purosangue_DSC_7008.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari Purosangue is a high-performance mid-size luxury crossover SUV by Italian automobile manufacturer Ferrari that was introduced on 13 September 2022. It is Ferrari's first production 4-door vehicle and sport utility vehicle, and competes with other high-performance SUVs, such as the Lamborghini Urus and Aston Martin DBX.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_Purosangue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ferrari_Purosangue_DSC_7008.jpg/1920px-Ferrari_Purosangue_DSC_7008.jpg",
+  "sketchfab": {
+    "uid": "541dc84c37174356a7b0efd44904593d",
+    "name": "2023 Ferrari Purosangue",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

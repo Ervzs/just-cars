@@ -1,0 +1,30 @@
+{
+  "id": "subaru-uncharted",
+  "make": "Subaru",
+  "model": "Uncharted",
+  "years": [
+    2026,
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Toyota_C-HR%2B_Teamplayer_%E2%80%93_f_05042026.jpg/960px-Toyota_C-HR%2B_Teamplayer_%E2%80%93_f_05042026.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 140,
+    "mpgHighway": 118,
+    "mpgCombined": 129,
+    "evRangeMiles": 308
+  },
+  "description": "The Toyota C-HR+ is a battery electric compact crossover SUV (C-segment) manufactured by Toyota. The vehicle was unveiled in March 2025. It was released in Europe in October 2025. In North America, the vehicle is marketed simply as the Toyota C-HR. A Subaru version is marketed as the Subaru Uncharted.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_C-HR%2B",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Toyota_C-HR%2B_Teamplayer_%E2%80%93_f_05042026.jpg/1920px-Toyota_C-HR%2B_Teamplayer_%E2%80%93_f_05042026.jpg",
+  "sketchfab": null
+}

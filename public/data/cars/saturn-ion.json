@@ -1,0 +1,39 @@
+{
+  "id": "saturn-ion",
+  "make": "Saturn",
+  "model": "Ion",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2005-Saturn-Ion-2.jpg/960px-2005-Saturn-Ion-2.jpg",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "description": "The Saturn Ion is a compact car sold by Saturn between the 2003 and 2007 model years. Based on the GM Delta platform, the Ion replaced the Saturn S-Series in 2002,\nand was replaced by the new Saturn Astra in 2008. Production of the Ion ended on March 29, 2007. The Ion was the last Saturn passenger car built at the Spring Hill, Tennessee, plant which was originally linked to the company's branding, with Saturn owners attending \"homecoming\" events at the plant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Ion",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2005-Saturn-Ion-2.jpg/1280px-2005-Saturn-Ion-2.jpg",
+  "sketchfab": {
+    "uid": "8cd8a8f9b2ce430e8ebee7b9d60e1fa6",
+    "name": "2003 Saturn Ion Redline",
+    "author": "DogeAvalon2006",
+    "authorUrl": "https://sketchfab.com/amirbuilds2000",
+    "license": "Free Standard"
+  }
+}

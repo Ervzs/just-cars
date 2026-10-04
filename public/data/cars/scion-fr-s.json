@@ -1,0 +1,38 @@
+{
+  "id": "scion-fr-s",
+  "make": "Scion",
+  "model": "FR-S",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/960px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota 86 and the Subaru BRZ are 2+2 sports cars jointly developed by Toyota and Subaru, manufactured at Subaru's Ōta, Gunma assembly plant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_86",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/1920px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg",
+  "sketchfab": {
+    "uid": "191e88b99ed143e5a011dfd4d25c0eea",
+    "name": "scion fr-s",
+    "author": "amogusstrikesback2",
+    "authorUrl": "https://sketchfab.com/amogusstrikesback2",
+    "license": "CC Attribution"
+  }
+}

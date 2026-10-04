@@ -1,0 +1,36 @@
+{
+  "id": "cadillac-catera",
+  "make": "Cadillac",
+  "model": "Catera",
+  "years": [
+    2000,
+    2001
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg/960px-1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Cadillac Catera is a compact executive car marketed from 1997 to 2001 by Cadillac over a single generation in the United States, Canada, and GCC.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_Catera",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg/1920px-1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg",
+  "sketchfab": {
+    "uid": "e7734e708dfc4f9a8fa68f4cbc2ed502",
+    "name": "2000 Cadillac Catera",
+    "author": "zairiq-zairiq-123-pixar-cars-bfdi",
+    "authorUrl": "https://sketchfab.com/zairiqzairiqpixarcarsbfdi",
+    "license": "CC Attribution"
+  }
+}

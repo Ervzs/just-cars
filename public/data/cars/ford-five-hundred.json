@@ -1,0 +1,37 @@
+{
+  "id": "ford-five-hundred",
+  "make": "Ford",
+  "model": "Five Hundred",
+  "years": [
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Regular",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ford_Five_Hundred_--_09-07-2009.jpg/960px-Ford_Five_Hundred_--_09-07-2009.jpg",
+  "has3d": true,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Ford Five Hundred is a full-size four-door, five-passenger, front-engine front- or all-wheel drive, high-roof sedan manufactured in Chicago and marketed in North America and Mexico by Ford in a single generation for the 2005 to 2007 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Five_Hundred",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ford_Five_Hundred_--_09-07-2009.jpg/1280px-Ford_Five_Hundred_--_09-07-2009.jpg",
+  "sketchfab": {
+    "uid": "5fabaa329e57447790063befd8925493",
+    "name": "Ford Five Hundred",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

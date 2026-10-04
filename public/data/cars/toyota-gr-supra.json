@@ -1,0 +1,41 @@
+{
+  "id": "toyota-gr-supra",
+  "make": "Toyota",
+  "model": "GR Supra",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_Toyota_GR_Supra_%28United_States%29.png/960px-2020_Toyota_GR_Supra_%28United_States%29.png",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 31,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Toyota GR Supra is a sports car manufactured by Magna Steyr for Toyota from 2019 to 2026. The fifth-generation Supra, the GR Supra was sold under and developed by Toyota Gazoo Racing (TGR) brand in collaboration with BMW. It is the successor of the A80 Supra, which ceased production in 2002.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyota_GR_Supra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_Toyota_GR_Supra_%28United_States%29.png/1920px-2020_Toyota_GR_Supra_%28United_States%29.png",
+  "sketchfab": {
+    "uid": "9231f2d5e71a43dd87603dc0b339d99d",
+    "name": "Toyota GR Supra",
+    "author": "thelightning",
+    "authorUrl": "https://sketchfab.com/thelightning",
+    "license": "CC Attribution"
+  }
+}

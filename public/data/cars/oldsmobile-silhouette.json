@@ -1,0 +1,39 @@
+{
+  "id": "oldsmobile-silhouette",
+  "make": "Oldsmobile",
+  "model": "Silhouette",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "3.4L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2001-2004_Oldsmobile_Silhouette_--_01-20-2012.jpg/960px-2001-2004_Oldsmobile_Silhouette_--_01-20-2012.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.4L 6-cyl",
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 24,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Oldsmobile Silhouette is a minivan manufactured by General Motors from 1990 to 2004 over two generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldsmobile_Silhouette",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2001-2004_Oldsmobile_Silhouette_--_01-20-2012.jpg/1920px-2001-2004_Oldsmobile_Silhouette_--_01-20-2012.jpg",
+  "sketchfab": {
+    "uid": "ee17a446353c495c90f7947eb8326415",
+    "name": "Oldsmobile Silhouette 2004",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

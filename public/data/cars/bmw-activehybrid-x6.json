@@ -1,0 +1,30 @@
+{
+  "id": "bmw-activehybrid-x6",
+  "make": "BMW",
+  "model": "ActiveHybrid X6",
+  "years": [
+    2010,
+    2011
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "4.4L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/960px-BMW_G06_IMG_3142.jpg",
+  "has3d": false,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "4.4L 8-cyl",
+    "displacementL": 4.4,
+    "cylinders": 8,
+    "transmission": "Automatic (S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 19,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW. The BMW X6 is the originator of the sports activity coupé (SAC), referencing its sloping rear roof design. It combines the attributes of an SUV with the stance of a coupé. It is built in BMW's North American plant in Greer, South Carolina alongside the BMW X5, whose platform it shares. Prior to the release of the X7, the X6 was considered a flagship SUV for BMW.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/1920px-BMW_G06_IMG_3142.jpg",
+  "sketchfab": null
+}

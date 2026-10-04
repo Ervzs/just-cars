@@ -1,0 +1,37 @@
+{
+  "id": "fiat-500-x",
+  "make": "Fiat",
+  "model": "500 X",
+  "years": [
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "1.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1936Fiat500CoupeTopolino.jpg/960px-1936Fiat500CoupeTopolino.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "1.4L 4-cyl",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Fiat 500, commonly known as \"Topolino\", is an Italian city car produced and manufactured by Fiat from 1936 to 1955.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiat_500_%22Topolino%22",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1936Fiat500CoupeTopolino.jpg/1920px-1936Fiat500CoupeTopolino.jpg",
+  "sketchfab": {
+    "uid": "f412bdec4b494692b9d5d9c03f4178ad",
+    "name": "Fiat 500 x Outlaw",
+    "author": "Subin",
+    "authorUrl": "https://sketchfab.com/subink",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "daewoo-nubira",
+  "make": "Daewoo",
+  "model": "Nubira",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg/960px-1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "Daewoo Nubira is a compact car which was produced by the South Korean automaker Daewoo from 1997 to 2002 as a 4-door sedan, 5-door hatchback and a 5-door station wagon.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daewoo_Nubira",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg/1920px-1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg",
+  "sketchfab": {
+    "uid": "f498b654dacf478a9ff12ec6ff97d291",
+    "name": "Daewoo nubira 1997",
+    "author": "teenlin3",
+    "authorUrl": "https://sketchfab.com/teenlin3",
+    "license": "CC Attribution"
+  }
+}

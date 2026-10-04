@@ -16,11 +16,15 @@ const OUT = new URL('../public/data/', import.meta.url)
 const sleep = ms => new Promise(r => setTimeout(r, ms))
 
 // Cached, throttled, retrying GET. Returns text, or null on 404.
+const cacheFile = url => new URL(createHash('sha1').update(url).digest('hex'), CACHE)
+const cached = async url => { try { return JSON.parse(await readFile(cacheFile(url), 'utf8')) } catch { return null } }
 async function get(url) {
-  const file = new URL(createHash('sha1').update(url).digest('hex'), CACHE)
-  try { return JSON.parse(await readFile(file, 'utf8')).body } catch {}
+  const file = cacheFile(url)
+  const hit = await cached(url)
+  if (hit) return hit.body
   for (let attempt = 1; ; attempt++) {
     await sleep(DELAY_MS)
+    let wait = 2000 * 2 ** attempt // 4s, 8s, 16s, 32s
     try {
       const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: url.endsWith('.csv') ? '*/*' : 'application/json' } })
       if (res.ok || res.status === 404) {
@@ -29,11 +33,12 @@ async function get(url) {
         return body
       }
       if (res.status !== 429 && res.status < 500) throw new Error(`${res.status} ${url}`)
-      if (attempt >= 3) throw new Error(`${res.status} after retries: ${url}`)
+      if (attempt >= 5) throw new Error(`${res.status} after retries: ${url}`)
+      wait = Math.max(wait, 1000 * (Number(res.headers.get('retry-after')) || 0))
     } catch (e) {
-      if (attempt >= 3 || /^\d{3} /.test(e.message)) throw e
+      if (attempt >= 5 || /^\d{3} /.test(e.message)) throw e
     }
-    await sleep(1000 * 2 ** attempt)
+    await sleep(wait)
   }
 }
 const getJson = async url => JSON.parse((await get(url)) ?? 'null')
@@ -55,7 +60,7 @@ async function loadEpa() {
   for (const line of lines) {
     const r = Object.fromEntries(parseLine(line).map((v, i) => [h[i], v]))
     if (+r.year < YEAR_FROM || (MAKES && !MAKES.includes(r.make))) continue
-    const key = `${r.make}|${r.baseModel}`
+    const key = slug(`${r.make} ${r.baseModel}`) // merges case variants like LEAF/Leaf
     if (!groups.has(key)) groups.set(key, [])
     groups.get(key).push(r)
   }
@@ -101,33 +106,46 @@ function toCar(rows) {
 // ---- Wikipedia ----
 const WIKI = 'https://en.wikipedia.org'
 const summary = title => getJson(`${WIKI}/api/rest_v1/page/summary/${encodeURIComponent(title.replaceAll(' ', '_'))}`)
-const okPage = p => p && p.type !== 'disambiguation' && p.extract
+const okPage = p => p && p.type !== 'disambiguation' && p.extract && !/\b(may|can) refer to\b/.test(p.extract)
 
 async function findWiki(make, model) {
   const direct = await summary(`${make} ${model}`)
   if (okPage(direct)) return direct
   const q = encodeURIComponent(`${make} ${model} car`)
   const hits = (await getJson(`${WIKI}/w/api.php?action=query&list=search&srlimit=5&format=json&srsearch=${q}`))?.query?.search ?? []
-  const exact = hits.find(h => norm(h.title) === norm(`${make} ${model}`))
-  for (const h of exact ? [exact] : hits.filter(h => norm(h.title).startsWith(norm(make)))) {
+  // Exact title first, then any hit that starts with the make (e.g. "Honda Odyssey (North America)").
+  const exact = hits.filter(h => norm(h.title) === norm(`${make} ${model}`))
+  for (const h of [...exact, ...hits.filter(h => !exact.includes(h) && norm(h.title).startsWith(norm(make)))]) {
     const p = await summary(h.title)
     if (okPage(p)) return p
   }
   return null
 }
 
-// Wikimedia only serves certain thumbnail widths; fall back to the original if smaller.
+// Wikimedia serves only standard thumbnail widths, and upload.wikimedia.org rate-limits
+// hotlinks, so always use the thumb host at the largest standard width the original allows.
+const WIDTHS = [1920, 1280, 960, 500, 330]
 function sized(page, width) {
-  const t = page.thumbnail, o = page.originalimage
+  const t = page.thumbnail
   if (!t) return null
-  if (o?.width >= width && /\/\d+px-/.test(t.source)) return t.source.replace(/\/\d+px-/, `/${width}px-`).replace(/\?.*$/, '')
-  return (o?.source ?? t.source).replace(/\?.*$/, '')
+  const w = WIDTHS.find(w => w <= width && w <= (page.originalimage?.width ?? 0))
+  const src = t.source.replace(/\?.*$/, '')
+  return w && /\/\d+px-/.test(src) ? src.replace(/\/\d+px-/, `/${w}px-`) : src
 }
 
 // ---- Sketchfab ----
+// Sketchfab has an hourly-ish search quota. Once it refuses, use cached results only;
+// the cars it skipped get filled in by the next run.
+let sketchfabSkipped = 0
 async function findModel(make, model) {
-  const q = encodeURIComponent(`${make} ${model}`)
-  const res = await getJson(`https://api.sketchfab.com/v3/search?type=models&downloadable=true&count=10&q=${q}`)
+  const url = `https://api.sketchfab.com/v3/search?type=models&downloadable=true&count=10&q=${encodeURIComponent(`${make} ${model}`)}`
+  let res
+  if (sketchfabSkipped && !(await cached(url))) return sketchfabSkipped++, null
+  try { res = JSON.parse((await get(url)) ?? 'null') } catch (e) {
+    console.warn(`
+Sketchfab unavailable (${e.message}), using cache only for the rest of this run`)
+    return sketchfabSkipped++, null
+  }
   // Whole-word match on make and model, so "6" or "GT" don't match any name containing them.
   const words = s => ` ${s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()} `
   const m = res?.results?.find(m => words(m.name).includes(words(model)) && words(m.name).includes(words(make)))
@@ -166,4 +184,5 @@ console.log(`\n\nCars: ${cars.length}
 With description: ${pct(c => c.description)}
 With photo: ${pct(c => c.image)}
 With 3D: ${pct(c => c.has3d)}
-No Wikipedia match: ${cars.filter(c => !c.description).map(c => c.id).join(', ') || 'none'}`)
+No Wikipedia match: ${cars.filter(c => !c.description).map(c => c.id).join(', ') || 'none'}${sketchfabSkipped ? `
+Sketchfab skipped for ${sketchfabSkipped} cars (rate limited). Rerun later to fill them in.` : ''}`)

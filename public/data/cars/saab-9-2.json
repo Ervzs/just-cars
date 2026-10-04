@@ -1,0 +1,30 @@
+{
+  "id": "saab-9-2",
+  "make": "Saab",
+  "model": "9-2",
+  "years": [
+    2005,
+    2006
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 23,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Saab 9-2 was a small family car that was proposed in February 2010 to have been added to Saab's production line by 2014, under its then new ownership, Spyker Cars though some commentators considered the project a pipe dream.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saab_9-2",
+  "image": null,
+  "sketchfab": null
+}

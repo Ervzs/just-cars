@@ -1,0 +1,29 @@
+{
+  "id": "ford-th-nk",
+  "make": "Ford",
+  "model": "Th!nk",
+  "years": [
+    2001
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/960px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
+  "has3d": false,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": null,
+    "drive": null,
+    "mpgCity": 74,
+    "mpgHighway": 58,
+    "mpgCombined": 65,
+    "evRangeMiles": 29
+  },
+  "description": "The Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln brand. The company is listed on the New York Stock Exchange under the single-letter ticker symbol F and is controlled by the Ford family. They have minority ownership but a plurality of the voting power.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/1920px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg",
+  "sketchfab": null
+}

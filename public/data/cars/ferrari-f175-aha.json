@@ -1,0 +1,29 @@
+{
+  "id": "ferrari-f175-aha",
+  "make": "Ferrari",
+  "model": "F175 AHA",
+  "years": [
+    2023
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 15,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ford-postal-vehicle",
+  "make": "Ford",
+  "model": "Postal Vehicle",
+  "years": [
+    2000
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Old_and_New_Ford_Police_Interceptors_of_West_Vancouver_Police_Department.jpg/960px-Old_and_New_Ford_Police_Interceptors_of_West_Vancouver_Police_Department.jpg",
+  "has3d": false,
+  "representativeYear": 2000,
+  "specs": {
+    "engine": "4.0L 6-cyl",
+    "displacementL": 4,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 17,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "Ford police vehicles constitute the automobiles manufactured and sold by the Ford Motor Company for use as police cars and other car-based emergency vehicles. Though Ford has been producing police-oriented fleet vehicle variants of their full-size Ford sedans since the 1950s, the primary nameplate used by Ford for police vehicles since 1992 has been the Ford Police Interceptor, consisting of existing Ford models modified and sold for frontline police and emergency service use. A similar nameplate, the Ford Police Responder, was introduced in the mid-2010s, consisting of special-duty police vehicles not intended to be used in frontline roles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_police_vehicles",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Old_and_New_Ford_Police_Interceptors_of_West_Vancouver_Police_Department.jpg/1280px-Old_and_New_Ford_Police_Interceptors_of_West_Vancouver_Police_Department.jpg",
+  "sketchfab": null
+}

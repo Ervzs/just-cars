@@ -1,0 +1,40 @@
+{
+  "id": "alfa-romeo-4c",
+  "make": "Alfa Romeo",
+  "model": "4C",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg/960px-Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (AM6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 34,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Alfa Romeo 4C is a two-seat sports car which was manufactured by Maserati and marketed by Alfa Romeo from 2013 until 2020. It was initially made only as a two-door coupé, with a two-door roadster version added in 2015. It has a rear mid-engine, rear-wheel-drive layout, with the 4C name referring to its straight-four engine. The 4C was designed by Marco Tencone and Lorenzo Ramaciotti at Centro Stile Alfa Romeo and was the first car sold in the United States by the Italian brand since 1995.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_4C",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg/1920px-Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg",
+  "sketchfab": {
+    "uid": "4bc4e244c1a94d41995f85e29ca8130d",
+    "name": "Alfa Romeo 4C",
+    "author": "Casacade Models",
+    "authorUrl": "https://sketchfab.com/CasacadeOperations",
+    "license": "CC Attribution"
+  }
+}

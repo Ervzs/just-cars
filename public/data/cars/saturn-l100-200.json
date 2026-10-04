@@ -1,0 +1,31 @@
+{
+  "id": "saturn-l100-200",
+  "make": "Saturn",
+  "model": "L100/200",
+  "years": [
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/960px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Saturn L-Series is a line of automobiles, sedans and station wagons that were made by Saturn Corporation in Wilmington, Delaware for 2000–2005 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_L-Series",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/1920px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg",
+  "sketchfab": null
+}

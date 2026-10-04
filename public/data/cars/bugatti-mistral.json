@@ -1,0 +1,35 @@
+{
+  "id": "bugatti-mistral",
+  "make": "Bugatti",
+  "model": "Mistral",
+  "years": [
+    2025
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "8.0L 16-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/960px-Bugatti_Mistral_2.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "8.0L 16-cyl",
+    "displacementL": 8,
+    "cylinders": 16,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 8,
+    "mpgHighway": 12,
+    "mpgCombined": 9,
+    "evRangeMiles": null
+  },
+  "description": "The Bugatti Mistral, also called the Bugatti W16 Mistral, is a mid-engine two-seater sports car manufactured in Molsheim, France, by French automobile manufacturer Bugatti Automobiles S.A.S. It was revealed on 19 August 2022. The Mistral is the fastest roadster in the world with a top speed achievement of 453.91 km/h in November 2024. Deliveries to customers began in early 2024. All 99 units were pre-sold at a price of €5 million.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugatti_Mistral",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/1920px-Bugatti_Mistral_2.jpg",
+  "sketchfab": {
+    "uid": "4b2538c3e42749f6a2e99b4c04685e69",
+    "name": "2024 Bugatti Mistral",
+    "author": "Galaxy Car Showroom",
+    "authorUrl": "https://sketchfab.com/adrianaflak09",
+    "license": "CC Attribution"
+  }
+}

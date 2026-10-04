@@ -1,0 +1,35 @@
+{
+  "id": "infiniti-q45",
+  "make": "Infiniti",
+  "model": "Q45",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Infiniti_Q45_--_08-12-2010.jpg/960px-Infiniti_Q45_--_08-12-2010.jpg",
+  "has3d": false,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "4.5L 8-cyl",
+    "displacementL": 4.5,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Infiniti Q45 is a full-size luxury sedan that was marketed by the Infiniti division of Nissan from the 1990 to 2006 model years. The inaugural product line and flagship sedan of the brand, the Q45 competed directly against the Acura Legend and Lexus LS 400, as multiple Japanese automobile manufacturers began to establish dedicated luxury-vehicle brands in North America during the late 1980s.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Infiniti_Q45",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Infiniti_Q45_--_08-12-2010.jpg/960px-Infiniti_Q45_--_08-12-2010.jpg",
+  "sketchfab": null
+}

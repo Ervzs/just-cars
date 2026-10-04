@@ -1,0 +1,38 @@
+{
+  "id": "ferrari-gtc4lusso",
+  "make": "Ferrari",
+  "model": "GTC4Lusso",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/960px-Ferrari_GTC4Lusso_IMG_4353.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM7)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Ferrari GTC4Lusso is a four-seat grand touring car produced by Italian automobile manufacturer Ferrari from 2016 to 2020. The GTC4Lusso is a successor to the Ferrari FF.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_GTC4Lusso",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/1920px-Ferrari_GTC4Lusso_IMG_4353.jpg",
+  "sketchfab": {
+    "uid": "89c6c9438c804542b05f4c55ca6f9e95",
+    "name": "ferrari gtc4lusso",
+    "author": "amogusstrikesback2",
+    "authorUrl": "https://sketchfab.com/amogusstrikesback2",
+    "license": "CC Attribution"
+  }
+}

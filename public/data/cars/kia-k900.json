@@ -1,0 +1,34 @@
+{
+  "id": "kia-k900",
+  "make": "Kia",
+  "model": "K900",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg/960px-Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.3L 6-cyl",
+    "displacementL": 3.3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Kia K9, also known as the Kia K900 in the United States and Canada and the Kia Quoris in other export markets, is a full-size luxury car manufactured and marketed by Kia, since 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K9",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg/1920px-Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg",
+  "sketchfab": null
+}

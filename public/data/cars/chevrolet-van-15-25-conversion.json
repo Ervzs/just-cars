@@ -1,0 +1,34 @@
+{
+  "id": "chevrolet-van-15-25-conversion",
+  "make": "Chevrolet",
+  "model": "Van 15/25 Conversion",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Vans, Cargo Type",
+  "fuelType": "Regular",
+  "engine": "5.3L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/960px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "5.3L 8-cyl",
+    "displacementL": 5.3,
+    "cylinders": 8,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 16,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Express is a series of full-size vans produced by General Motors since 1996. The successor to the Chevrolet G-series van, the Express is produced in passenger and cargo variants. Alongside the standard van body, the line is offered as a cutaway van chassis, which is a chassis cab variant developed for commercial-grade applications, including ambulances, buses, motorhomes, and small trucks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Express",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/1920px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "lotus-esprit",
+  "make": "Lotus",
+  "model": "Esprit",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.5L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/960px-1999_Lotus_Esprit_V8_type_918.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "3.5L 8-cyl",
+    "displacementL": 3.5,
+    "cylinders": 8,
+    "transmission": "Manual 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Lotus Esprit is a sports car built by Lotus Cars from 1976 to 2004 at their Hethel, England factory. It has a rear mid-engine, rear-wheel-drive layout. Together with the Lotus Elise / Exige, it is one of Lotus' most long-lived models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Esprit",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/1920px-1999_Lotus_Esprit_V8_type_918.jpg",
+  "sketchfab": {
+    "uid": "79fef7f8b1174bf69305e8c28431d26d",
+    "name": "Lotus Esprit Hover GT 2076",
+    "author": "maomornity",
+    "authorUrl": "https://sketchfab.com/maomornity",
+    "license": "CC Attribution"
+  }
+}

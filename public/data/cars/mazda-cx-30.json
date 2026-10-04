@@ -1,0 +1,41 @@
+{
+  "id": "mazda-cx-30",
+  "make": "Mazda",
+  "model": "CX-30",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mazda_CX-30_Touring%2C_2020_front.jpg/960px-Mazda_CX-30_Touring%2C_2020_front.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 31,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda CX-30 is a subcompact crossover SUV produced by Mazda. Based on the fourth-generation Mazda3, it debuted at the 2019 Geneva Motor Show, to slot in between the CX-3 and the CX-5. It went on sale in Japan on 24 October 2019, with global units being produced at Mazda's Hiroshima factory, North and South American units built in Salamanca, Guanajuato, Mexico, Thailand and initial Australian units made at the AutoAlliance Thailand plant in Rayong, and China-market units produced in Nanjing by Changan Mazda.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-30",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mazda_CX-30_Touring%2C_2020_front.jpg/1920px-Mazda_CX-30_Touring%2C_2020_front.jpg",
+  "sketchfab": {
+    "uid": "e5260672b3614b6abb1e00c9d487ba6c",
+    "name": "2020 Mazda CX-30",
+    "author": "Res1n",
+    "authorUrl": "https://sketchfab.com/Res1n",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kia-ev3",
+  "make": "Kia",
+  "model": "EV3",
+  "years": [
+    2027
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/960px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 110,
+    "mpgHighway": 96,
+    "mpgCombined": 103,
+    "evRangeMiles": 280
+  },
+  "description": "The Kia EV3 is a battery electric (C-segment) compact crossover SUV manufactured and marketed by Kia since 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_EV3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/1920px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hummer-h3t",
+  "make": "Hummer",
+  "model": "H3T",
+  "years": [
+    2009,
+    2010
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "3.7L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/2007_Hummer_H3_--_NHTSA.jpg/960px-2007_Hummer_H3_--_NHTSA.jpg",
+  "has3d": false,
+  "representativeYear": 2010,
+  "specs": {
+    "engine": "3.7L 5-cyl",
+    "displacementL": 3.7,
+    "cylinders": 5,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Hummer H3 is an off-road vehicle that was produced by General Motors and marketed by Hummer from 2005 to 2010. The smallest model of the Hummer lineup, it was offered as a 5-door SUV or a 4-door pickup truck known as the H3T. Unlike the larger H1 and H2 models, the H3 was not developed by AM General. It was introduced for the 2006 model year, based on a modified GMT355 that underpinned the Chevrolet Colorado/GMC Canyon compact pickup trucks that were also built at GM's Shreveport Operations in Shreveport, Louisiana, and the Port Elizabeth plant in South Africa. While mechanically related to the Colorado and Canyon, GM claims they share only 10% of their components, with the chassis modified and reinforced for heavy off-road duties.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hummer_H3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/2007_Hummer_H3_--_NHTSA.jpg/960px-2007_Hummer_H3_--_NHTSA.jpg",
+  "sketchfab": null
+}

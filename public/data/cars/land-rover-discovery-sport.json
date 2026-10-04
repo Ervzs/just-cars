@@ -1,0 +1,35 @@
+{
+  "id": "land-rover-discovery-sport",
+  "make": "Land Rover",
+  "model": "Discovery Sport",
+  "years": [
+    2021
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/960px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 23,
+    "mpgCombined": 20,
+    "evRangeMiles": null
+  },
+  "description": "The Land Rover Discovery Sport is a compact luxury crossover SUV produced by British automotive company Jaguar Land Rover since 2014. Sold under their Land Rover marque, it has been their best-selling model since 2017.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Land_Rover_Discovery_Sport",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/1920px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "e76b061eaf574febbf7b791f4d5744ac",
+    "name": "Land Rover Discovery Sport Interior",
+    "author": "Jimbo Jones",
+    "authorUrl": "https://sketchfab.com/Jimbo.Jones",
+    "license": "CC Attribution"
+  }
+}

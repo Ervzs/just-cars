@@ -1,0 +1,29 @@
+{
+  "id": "aston-martin-db-ar1",
+  "make": "Aston Martin",
+  "model": "DB AR1",
+  "years": [
+    2003
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.9L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1999_Aston_Martin_DB7_Vantage.jpg/960px-1999_Aston_Martin_DB7_Vantage.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "5.9L 12-cyl",
+    "displacementL": 5.9,
+    "cylinders": 12,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 10,
+    "mpgHighway": 17,
+    "mpgCombined": 12,
+    "evRangeMiles": null
+  },
+  "description": "The Aston Martin DB7 is a car that was produced by British luxury car manufacturer Aston Martin from September 1994 to December 2004. It was designed by Ian Callum and Keith Helfet as a grand tourer in coupé and convertible bodystyles. The prototype was complete by November 1992 and debuted at the Geneva Motor Show in March 1993. The six-cylinder DB7 was positioned as an \"entry-level\" model below the hand-built V8 Virage introduced a few years earlier. At the time, the DB7 was the most-produced Aston Martin automobile in the company’s history, with more than 7,000 built before it was replaced by the DB9 in 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1999_Aston_Martin_DB7_Vantage.jpg/1920px-1999_Aston_Martin_DB7_Vantage.jpg",
+  "sketchfab": null
+}

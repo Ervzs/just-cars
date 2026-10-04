@@ -1,0 +1,48 @@
+{
+  "id": "buick-encore",
+  "make": "Buick",
+  "model": "Encore",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Gasoline or E85",
+  "engine": "1.2L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg/960px-2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.2L 3-cyl",
+    "displacementL": 1.2,
+    "cylinders": 3,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 30,
+    "mpgHighway": 31,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Buick Encore is a subcompact crossover SUV built by General Motors from 2012 to 2022. It is a subcompact crossover SUV marketed by Buick and its fourth SUV overall after the Rendezvous, Rainier, and Enclave.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buick_Encore",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg/1920px-2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg",
+  "sketchfab": {
+    "uid": "b4f79b2450db458996bb2fc19888a7d6",
+    "name": "2015 Buick Encore Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

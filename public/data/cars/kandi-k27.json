@@ -1,0 +1,29 @@
+{
+  "id": "kandi-k27",
+  "make": "Kandi",
+  "model": "K27",
+  "years": [
+    2021
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kandi_K27.jpg/960px-Kandi_K27.jpg",
+  "has3d": false,
+  "representativeYear": 2021,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 127,
+    "mpgHighway": 102,
+    "mpgCombined": 114,
+    "evRangeMiles": 59
+  },
+  "description": "The Kandi K27 is a city car produced by the Chinese manufacturer Kandi Technologies.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kandi_K27",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kandi_K27.jpg/1920px-Kandi_K27.jpg",
+  "sketchfab": null
+}

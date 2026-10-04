@@ -1,0 +1,47 @@
+{
+  "id": "jeep-cherokee",
+  "make": "Jeep",
+  "model": "Cherokee",
+  "years": [
+    2000,
+    2001,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/26_Jeep_Cherokee_Limited_AZIAS.jpg/960px-26_Jeep_Cherokee_Limited_AZIAS.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 39,
+    "mpgHighway": 35,
+    "mpgCombined": 37,
+    "evRangeMiles": null
+  },
+  "description": "The Jeep Cherokee is a line of sport utility vehicles (SUV) manufactured and marketed by Jeep over six generations. Marketed initially as a variant of the Jeep Wagoneer (SJ), the Cherokee has evolved from a full-size station wagon to one of the first compact SUVs and into its latest generation as a crossover SUV.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeep_Cherokee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/26_Jeep_Cherokee_Limited_AZIAS.jpg/1920px-26_Jeep_Cherokee_Limited_AZIAS.jpg",
+  "sketchfab": {
+    "uid": "3fdd9619be2c4e7b809888d08cbdab88",
+    "name": "Jeep Cherokee",
+    "author": "Renafox",
+    "authorUrl": "https://sketchfab.com/kryik1023",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "chevrolet-cavalier",
+  "make": "Chevrolet",
+  "model": "Cavalier",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.2L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/1996_Chevrolet_Cavalier_coupe%2C_front_right%2C_06-07-2024.jpg/960px-1996_Chevrolet_Cavalier_coupe%2C_front_right%2C_06-07-2024.jpg",
+  "has3d": true,
+  "representativeYear": 2005,
+  "specs": {
+    "engine": "2.2L 4-cyl",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Cavalier is a line of compact cars produced by Chevrolet. Serving as the replacement of the Chevrolet Monza, the Cavalier was the second Chevrolet model line to adopt front-wheel drive. Three versions of the Cavalier have been sold, including three generations sold in North America from model years 1982 to 2005, a version produced by SAIC-GM for China from 2016 to 2021, and a SAIC-GM version produced for Mexico since the 2019 model year.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Cavalier",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/1996_Chevrolet_Cavalier_coupe%2C_front_right%2C_06-07-2024.jpg/1920px-1996_Chevrolet_Cavalier_coupe%2C_front_right%2C_06-07-2024.jpg",
+  "sketchfab": {
+    "uid": "2ef109ba438d4ec8b4ecfb8b5baec655",
+    "name": "Chevrolet Cavalier",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

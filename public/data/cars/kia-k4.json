@@ -1,0 +1,37 @@
+{
+  "id": "kia-k4",
+  "make": "Kia",
+  "model": "K4",
+  "years": [
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg/960px-2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "description": "The Kia K4 is a compact car (C-segment) manufactured by South Korean automaker Kia since 2024. It is a replacement for the Kia Forte/K3/Cerato, while the K3 nameplate was transferred to a subcompact car.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_K4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg/1920px-2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg",
+  "sketchfab": {
+    "uid": "cb1b8e7c551347a993adcc6e2cc3b960",
+    "name": "kia k4 gt",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution"
+  }
+}

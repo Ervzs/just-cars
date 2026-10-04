@@ -1,0 +1,31 @@
+{
+  "id": "lucid-gravity",
+  "make": "Lucid",
+  "model": "Gravity",
+  "years": [
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg/960px-Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg",
+  "has3d": false,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 113,
+    "mpgHighway": 103,
+    "mpgCombined": 108,
+    "evRangeMiles": 450
+  },
+  "description": "The Lucid Gravity is a battery electric mid-size luxury crossover SUV produced by the American company Lucid Motors since late 2024. It is the brand's first SUV and second vehicle overall, and has a multitude of different features and amentities.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucid_Gravity",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg/1920px-Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg",
+  "sketchfab": null
+}

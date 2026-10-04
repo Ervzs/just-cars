@@ -1,0 +1,39 @@
+{
+  "id": "volvo-v40",
+  "make": "Volvo",
+  "model": "V40",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "1.9L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg/960px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "1.9L 4-cyl",
+    "displacementL": 1.9,
+    "cylinders": 4,
+    "transmission": "Automatic 5-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo S40 is a series of subcompact executive cars marketed and produced by the Swedish manufacturer Volvo Cars from 1995 to 2012, offered as a more mainstream alternative to the compact executive Volvo 850 and later the Volvo S60 to compete in a lower pricing bracket. The S40 was more or less positioned against premium-leaning small family cars like the Volkswagen Jetta, as well as some mass-market large family cars.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_S40",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg/1920px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "299852c2ebde4209a4007dbf2e2165e3",
+    "name": "2018 Volvo V40",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

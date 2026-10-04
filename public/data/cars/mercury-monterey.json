@@ -1,0 +1,32 @@
+{
+  "id": "mercury-monterey",
+  "make": "Mercury",
+  "model": "Monterey",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007
+  ],
+  "vehicleClass": "Minivan - 2WD",
+  "fuelType": "Regular",
+  "engine": "4.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1953_Mercury_Monterey_Special_Custom_Convertible_in_Coral%2C_front_left.jpg/960px-1953_Mercury_Monterey_Special_Custom_Convertible_in_Coral%2C_front_left.jpg",
+  "has3d": false,
+  "representativeYear": 2007,
+  "specs": {
+    "engine": "4.2L 6-cyl",
+    "displacementL": 4.2,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "description": "The Mercury Monterey is a series of full-size cars that were manufactured and marketed by the Mercury division of Ford from 1950 to 1974. Deriving its name from Monterey Bay, the initial Mercury Monterey served as the top-of-the-line two-door sedan model for 1950 and 1951 to compete with the hardtop models of Oldsmobile and Buick. It came with a vinyl roof covering, upgraded upholstery, and other features. The hardtop was introduced for 1952. During its production, the Monterey would be offered in multiple body styles, ranging from coupes, convertibles, sedans, hardtops, and station wagons.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercury_Monterey",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1953_Mercury_Monterey_Special_Custom_Convertible_in_Coral%2C_front_left.jpg/1920px-1953_Mercury_Monterey_Special_Custom_Convertible_in_Coral%2C_front_left.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cadillac-ct5",
+  "make": "Cadillac",
+  "model": "CT5",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg/960px-2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S10)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Cadillac CT5 is a mid-size luxury car manufactured and marketed by General Motors under the Cadillac brand since 2019. It is the replacement for the Cadillac CTS.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cadillac_CT5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg/1920px-2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg",
+  "sketchfab": {
+    "uid": "fee53419bf07472abec92f155de467a7",
+    "name": "Cadillac CT5",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

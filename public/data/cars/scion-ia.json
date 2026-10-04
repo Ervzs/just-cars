@@ -1,0 +1,29 @@
+{
+  "id": "scion-ia",
+  "make": "Scion",
+  "model": "iA",
+  "years": [
+    2016
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mazda2_Skyactiv-G_90_Homura_%28III%2C_2._Facelift%29_%E2%80%93_f_19052026.jpg/960px-Mazda2_Skyactiv-G_90_Homura_%28III%2C_2._Facelift%29_%E2%80%93_f_19052026.jpg",
+  "has3d": false,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 31,
+    "mpgHighway": 40,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda 2  is a subcompact/supermini (B-segment) car, which has been available as a 4-door sedan and a 5 door hatchback manufactured and marketed by Mazda since 2002, currently in its third generation. An entry-level model of the brand in markets outside Japan, the Mazda2 is positioned below the Mazda3. The Mazda2 has also been marketed as the Mazda Demio, while its direct predecessor was exported as the Mazda 121.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda2",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mazda2_Skyactiv-G_90_Homura_%28III%2C_2._Facelift%29_%E2%80%93_f_19052026.jpg/1920px-Mazda2_Skyactiv-G_90_Homura_%28III%2C_2._Facelift%29_%E2%80%93_f_19052026.jpg",
+  "sketchfab": null
+}

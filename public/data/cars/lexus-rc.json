@@ -1,0 +1,45 @@
+{
+  "id": "lexus-rc",
+  "make": "Lexus",
+  "model": "RC",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg/960px-2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus RC  is a compact executive two-door coupé manufactured by Lexus, Toyota's luxury division. The RC which according to Lexus stands for \"Radical Coupe\" is a two-door coupé version of the Lexus IS (XE30). The RC is designated as the XC10 series. The RC borrowed styling from the LF-LC concept and was previewed by the LF-CC concept, being designed as a proposal by Pansoo Kwon from 2010 to early 2012 and approved by supervising designers Yasuo Kajino and Tatsuya Takei.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_RC",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg/1920px-2018_Lexus_RC_300h_F_Sport_LSS%2B_CVT_2.5.jpg",
+  "sketchfab": {
+    "uid": "2cb8265d1ce84bc4a3145ce641c1435f",
+    "name": "Lexus RC F (USC10)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "suzuki-kizashi",
+  "make": "Suzuki",
+  "model": "Kizashi",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg/960px-Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 30,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "description": "The Suzuki Kizashi is a mid-size car manufactured by Japanese automaker Suzuki. It was unveiled in the United States on July 30, 2009. The Kizashi went on sale in Japan on October 21, 2009, in North America on December 1, 2009, and in Australia and New Zealand on May 11, 2010. It is the first mid-size Suzuki automobile sold in the Australian market. In February 2011, the Kizashi became available to the Indian market. The car was also available in European markets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suzuki_Kizashi",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg/1920px-Suzuki_Kizashi_2.4_4x4_CVT_%E2%80%93_Frontansicht%2C_8._Juli_2012%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": {
+    "uid": "57ee96bd84454daa81f89d5fcbdcf2c3",
+    "name": "2011 Suzuki Kizashi Sport",
+    "author": "Raysh",
+    "authorUrl": "https://sketchfab.com/Raysh_.",
+    "license": "CC Attribution"
+  }
+}

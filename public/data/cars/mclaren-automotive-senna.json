@@ -1,0 +1,29 @@
+{
+  "id": "mclaren-automotive-senna",
+  "make": "McLaren Automotive",
+  "model": "Senna",
+  "years": [
+    2019
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 7-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

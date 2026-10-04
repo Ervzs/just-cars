@@ -1,0 +1,37 @@
+{
+  "id": "lexus-hs",
+  "make": "Lexus",
+  "model": "HS",
+  "years": [
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lexus_HS250h.jpg/960px-Lexus_HS250h.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 35,
+    "mpgHighway": 33,
+    "mpgCombined": 34,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus HS is a dedicated hybrid vehicle introduced by Lexus as a compact executive car sedan in 2009. Using the Toyota New MC platform, it is classified as a compact under Japanese regulations concerning vehicle exterior dimensions and engine displacement. Presented at the North American International Auto Show in January 2009, the HS 250h went on sale in July 2009 in Japan, followed by the United States in August 2009 as a 2010 model.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_HS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lexus_HS250h.jpg/1920px-Lexus_HS250h.jpg",
+  "sketchfab": {
+    "uid": "5ce7caad49cd4d47924b7254199ef28e",
+    "name": "Lexus HS",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

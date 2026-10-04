@@ -1,0 +1,43 @@
+{
+  "id": "bmw-x7",
+  "make": "BMW",
+  "model": "X7",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/BMW_G07_1X7A1696.jpg/960px-BMW_G07_1X7A1696.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 25,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The BMW X7 is a full-size luxury crossover sport utility vehicle manufactured by BMW. It is BMW's largest and second most expensive SUV in its line-up, and is considered a flagship SUV for the brand, and borrows design cues from the 6th and 7th generations of the BMW 7 Series.The X7 was first announced by BMW in March 2014. It was officially unveiled on October 17, 2018, with pre-orders being taken online. The X7 has been available at dealers since March 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_X7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/BMW_G07_1X7A1696.jpg/1920px-BMW_G07_1X7A1696.jpg",
+  "sketchfab": {
+    "uid": "5664218111d345c6b79c64ae48c6dd8b",
+    "name": "BMW X7 M60i",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

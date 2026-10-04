@@ -1,0 +1,49 @@
+{
+  "id": "maserati-granturismo",
+  "make": "Maserati",
+  "model": "Granturismo",
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/960px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 8-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 27,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Maserati GranTurismo and GranCabrio are a series of grand tourers produced by the Italian manufacturer Maserati, succeeding the Maserati Coupé and Spyder.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maserati_GranTurismo",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/1920px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg",
+  "sketchfab": {
+    "uid": "d9ffe9c06a7c47a6a422da0df1bf789b",
+    "name": "2018 Maserati GranTurismo",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

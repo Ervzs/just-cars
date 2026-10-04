@@ -1,0 +1,45 @@
+{
+  "id": "bentley-bentayga",
+  "make": "Bentley",
+  "model": "Bentayga",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium and Electricity",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/960px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 23,
+    "mpgCombined": 21,
+    "evRangeMiles": 440
+  },
+  "description": "The Bentley Bentayga is a luxury SUV produced by British marque Bentley Motors. Introduced in late 2015, it is the brand's first luxury crossover SUV. Its unibody is manufactured at the Volkswagen Zwickau-Mosel Plant in Germany, then painted and assembled at Bentley's factory in Crewe, United Kingdom.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bentley_Bentayga",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/1920px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg",
+  "sketchfab": {
+    "uid": "a55c070fb65d46cf9f5e13e11502500e",
+    "name": "2018 Bentley Bentayga V8",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

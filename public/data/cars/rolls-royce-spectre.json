@@ -1,0 +1,38 @@
+{
+  "id": "rolls-royce-spectre",
+  "make": "Rolls-Royce",
+  "model": "Spectre",
+  "years": [
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/960px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 80,
+    "mpgHighway": 84,
+    "mpgCombined": 82,
+    "evRangeMiles": 324
+  },
+  "description": "The Rolls-Royce Spectre is a full-sized luxury electric grand tourer manufactured by Rolls-Royce Motor Cars. The Spectre was formally launched in Napa Valley, California in 2023. The first deliveries of the car were made in the last quarter of 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolls-Royce_Spectre",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/1920px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg",
+  "sketchfab": {
+    "uid": "3bcee524fb4d4f18a043b0b9d8dbdbe7",
+    "name": "Rolls-Royce Spectre",
+    "author": "panderlaike_design",
+    "authorUrl": "https://sketchfab.com/panderlaike_design",
+    "license": "CC Attribution"
+  }
+}

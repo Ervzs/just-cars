@@ -1,0 +1,37 @@
+{
+  "id": "mini-paceman",
+  "make": "MINI",
+  "model": "Paceman",
+  "years": [
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/960px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 29,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "description": "The Mini Paceman is a three-door subcompact SUV sold by German automobile manufacturer BMW under the Mini brand. It is the three-door counterpart of the R60 Mini Countryman. It was introduced as the Paceman Concept at the 2011 North American International Auto Show. The production model debuted in September 2012.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mini_Paceman",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/1920px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "575432ded80a41c5973e10ce742eeb3c",
+    "name": "Mini Cooper Paceman",
+    "author": "Vyacheslav",
+    "authorUrl": "https://sketchfab.com/Vedunov.s",
+    "license": "CC Attribution"
+  }
+}

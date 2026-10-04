@@ -1,0 +1,48 @@
+{
+  "id": "mazda-cx-5",
+  "make": "Mazda",
+  "model": "CX-5",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/960px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.5L 4-cyl",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 30,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "description": "The Mazda CX-5 is a compact crossover SUV produced by Mazda since 2012, a successor to both the Tribute and the slightly larger CX-7. It is Mazda's first model to feature the \"Kodo\" design language and the first model to be fully developed with a range of technologies branded as Skyactiv, including a rigid, lightweight platform combined with a series of engines and transmissions to reduce emissions and fuel consumption. It debuted in 2011.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda_CX-5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/1920px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg",
+  "sketchfab": {
+    "uid": "0ca0354c7b2a41bbb84c835ff046e8e5",
+    "name": "Mazda CX-5",
+    "author": "tnnv",
+    "authorUrl": "https://sketchfab.com/tnnv",
+    "license": "CC Attribution"
+  }
+}

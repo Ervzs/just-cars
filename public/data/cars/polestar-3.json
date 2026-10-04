@@ -1,0 +1,30 @@
+{
+  "id": "polestar-3",
+  "make": "Polestar",
+  "model": "3",
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Polestar_3_Auto_Zuerich_2023_1X7A1307.jpg/960px-Polestar_3_Auto_Zuerich_2023_1X7A1307.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 95,
+    "mpgHighway": 84,
+    "mpgCombined": 90,
+    "evRangeMiles": 312
+  },
+  "description": "The Polestar 3 is a battery electric mid-size luxury crossover SUV produced by Swedish manufacturer Polestar, an affiliate of Geely Holding and Volvo Cars, since 2024. The Polestar 3 is the first vehicle to use the SPA2 platform, a vehicle platform which is dedicated to battery-electric vehicles.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Polestar_3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Polestar_3_Auto_Zuerich_2023_1X7A1307.jpg/1920px-Polestar_3_Auto_Zuerich_2023_1X7A1307.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "volkswagen-touareg",
+  "make": "Volkswagen",
+  "model": "Touareg",
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "3.6L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/960px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "3.6L 6-cyl",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "description": "The Volkswagen Touareg is a mid-size luxury crossover SUV produced by Volkswagen from August 2002 until March 2026. The vehicle takes its name from the nomadic Tuareg people, inhabitants of the Saharan interior in North Africa. It served as Volkswagen's flagship SUV throughout its production life and was built exclusively at the Volkswagen Bratislava Plant in Slovakia, with CKD assembly in Malaysia commencing in 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touareg",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/1920px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg",
+  "sketchfab": {
+    "uid": "07c302e35be64fd5acd20d0e06f5b26a",
+    "name": "Volkswagen Touareg",
+    "author": "David_Holiday",
+    "authorUrl": "https://sketchfab.com/David_Holiday",
+    "license": "CC Attribution"
+  }
+}

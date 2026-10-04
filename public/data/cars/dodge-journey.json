@@ -1,0 +1,46 @@
+{
+  "id": "dodge-journey",
+  "make": "Dodge",
+  "model": "Journey",
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg/960px-2012_Dodge_Journey_--_NHTSA_3.jpg",
+  "has3d": true,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 25,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "description": "The Dodge Journey is a mid-size crossover SUV manufactured and marketed by Fiat Chrysler Automobiles' Dodge brand for model years 2009 to 2020 over a single generation, with a facelift for the 2011 model year. The Journey was styled by Ryan Nagode, and was marketed globally in both left- and right-hand drive, including as the Fiat Freemont.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Journey",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg/1920px-2012_Dodge_Journey_--_NHTSA_3.jpg",
+  "sketchfab": {
+    "uid": "d946a4571c3a46878160e25ebe322e52",
+    "name": "Dodge_ Journey_2011",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

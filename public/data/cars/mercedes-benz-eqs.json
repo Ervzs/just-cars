@@ -1,0 +1,40 @@
+{
+  "id": "mercedes-benz-eqs",
+  "make": "Mercedes-Benz",
+  "model": "EQS",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg/960px-Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 80,
+    "mpgHighway": 78,
+    "mpgCombined": 79,
+    "evRangeMiles": 312
+  },
+  "description": "The Mercedes-Benz EQS (V297) is a battery electric full-size luxury liftback produced by German automobile manufacturer Mercedes-Benz Group. Part of the Mercedes-EQ family, it was released in September 2021 in Germany and the fourth quarter of 2021 in the United States.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg/1920px-Mercedes-Benz_V297_Classic-Days_2022_DSC_0016.jpg",
+  "sketchfab": {
+    "uid": "b351c436890f4198b6aae86ffc9b0222",
+    "name": "2024 Mercedes-Benz EQS 580",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

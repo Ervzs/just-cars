@@ -1,0 +1,36 @@
+{
+  "id": "audi-rs-3",
+  "make": "Audi",
+  "model": "RS 3",
+  "years": [
+    2017,
+    2018
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/960px-Audi_A3_8Y_Sedan_IMG_5936.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "The Audi A3 is a small family car (C-segment) manufactured and marketed by the German automaker Audi AG since September 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/1920px-Audi_A3_8Y_Sedan_IMG_5936.jpg",
+  "sketchfab": {
+    "uid": "ac46035624574c02bf1ec46d4b1087b5",
+    "name": "Audi RS 3 Sportback",
+    "author": "JUSTGAME",
+    "authorUrl": "https://sketchfab.com/JUSTGAME",
+    "license": "CC Attribution"
+  }
+}

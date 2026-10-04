@@ -1,0 +1,53 @@
+{
+  "id": "ford-focus",
+  "make": "Ford",
+  "model": "Focus",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "1.0L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/960px-2018_Ford_Focus_ST-Line_X_1.0.jpg",
+  "has3d": true,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "1.0L 3-cyl",
+    "displacementL": 1,
+    "cylinders": 3,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 38,
+    "mpgCombined": 31,
+    "evRangeMiles": null
+  },
+  "description": "The Ford Focus is a compact car manufactured by Ford from 1998 until 2025. It was created under Alexander Trotman's Ford 2000 plan, which aimed to globalize model development and sell one compact vehicle worldwide. The original Focus was primarily designed by Ford of Europe's German and British teams. Production of the fourth generation Focus began in 2018 in Germany and China. In 2025, Ford announced that the Focus would no longer be built, in line with an announcement made in 2022.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Focus",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/1920px-2018_Ford_Focus_ST-Line_X_1.0.jpg",
+  "sketchfab": {
+    "uid": "9bc5e9e5edd5487f97d8501a22c3c8b5",
+    "name": "Ford Focus Sedan",
+    "author": "BHP3D",
+    "authorUrl": "https://sketchfab.com/BHP3D",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ferrari-f167-aba",
+  "make": "Ferrari",
+  "model": "F167 ABA",
+  "years": [
+    2025
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "6.5L 12-cyl",
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "6.5L 12-cyl",
+    "displacementL": 6.5,
+    "cylinders": 12,
+    "transmission": "Automatic (AM8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 19,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

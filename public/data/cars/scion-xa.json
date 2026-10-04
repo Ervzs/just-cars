@@ -1,0 +1,37 @@
+{
+  "id": "scion-xa",
+  "make": "Scion",
+  "model": "xA",
+  "years": [
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Regular",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/06-Scion-xA.jpg/960px-06-Scion-xA.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 35,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Scion xA is a five-door subcompact hatchback marketed in the US from 2004 to 2006 — as an export model of the Japanese domestic market Toyota Ist. Based on the first generation Toyota Vitz hatchback, the xA shared a platform with the Toyota Platz sedan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scion_xA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/06-Scion-xA.jpg/1920px-06-Scion-xA.jpg",
+  "sketchfab": {
+    "uid": "5efacc87f25d4863955e234f8db268df",
+    "name": "Scion-XA TRD-Racing 2005 scale1-50 for 3D-print",
+    "author": "fishermans garage",
+    "authorUrl": "https://sketchfab.com/fishermans",
+    "license": "CC Attribution"
+  }
+}

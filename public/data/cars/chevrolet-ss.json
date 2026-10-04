@@ -1,0 +1,38 @@
+{
+  "id": "chevrolet-ss",
+  "make": "Chevrolet",
+  "model": "SS",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "6.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chevrolet_SS_%2812057799956%29.jpg/960px-Chevrolet_SS_%2812057799956%29.jpg",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "6.2L 8-cyl",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 22,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet SS is a performance full-size sedan sold by Chevrolet from 2013 to 2017, as a rebadge of the Holden Commodore exclusive to the United States. It was sold in the 2014–2017 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_SS",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chevrolet_SS_%2812057799956%29.jpg/1920px-Chevrolet_SS_%2812057799956%29.jpg",
+  "sketchfab": {
+    "uid": "37ecedd9b5284cbfae74956eea2ad3fd",
+    "name": "1967 Chevrolet Camaro SS 350 Coupe",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

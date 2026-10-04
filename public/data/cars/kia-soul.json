@@ -1,0 +1,50 @@
+{
+  "id": "kia-soul",
+  "make": "Kia",
+  "model": "Soul",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg/960px-2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 27,
+    "mpgHighway": 33,
+    "mpgCombined": 30,
+    "evRangeMiles": null
+  },
+  "description": "The Kia Soul is a subcompact crossover hatchback manufactured and marketed by Kia, produced from 2008 to 2025, in over three generations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kia_Soul",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg/1920px-2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg",
+  "sketchfab": {
+    "uid": "a29232f2dcba4424a8d62e5bf1474bc1",
+    "name": "Kia Soul 2023",
+    "author": "slowpoly",
+    "authorUrl": "https://sketchfab.com/slowpoly",
+    "license": "CC Attribution"
+  }
+}

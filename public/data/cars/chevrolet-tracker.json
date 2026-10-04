@@ -1,0 +1,39 @@
+{
+  "id": "chevrolet-tracker",
+  "make": "Chevrolet",
+  "model": "Tracker",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 2WD",
+  "fuelType": "Regular",
+  "engine": "2.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%2798_Chevy_Tracker.jpg/960px-%2798_Chevy_Tracker.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "2.5L 6-cyl",
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 20,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet Tracker is an automotive nameplate that has been used by Chevrolet for two different vehicle lines.Chevrolet Tracker (Americas), compact SUV produced since 1988, spanning two generations based on the Suzuki Vitara/Escudo/Sidekick\nChevrolet Trax, subcompact crossover that is marketed as the Tracker in South America and Russia until 2020\nChevrolet Tracker (2019), subcompact crossover for Chinese and Latin American markets, replacing the Chevrolet Trax",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_Tracker",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%2798_Chevy_Tracker.jpg/1280px-%2798_Chevy_Tracker.jpg",
+  "sketchfab": {
+    "uid": "43e7378889b34e9cabf23e6f386d4b87",
+    "name": "2022 Chevrolet Tracker RS 335T",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ferrari-sf90-spider",
+  "make": "Ferrari",
+  "model": "SF90 Spider",
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium and Electricity",
+  "engine": "3.9L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg/960px-Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "3.9L 8-cyl",
+    "displacementL": 3.9,
+    "cylinders": 8,
+    "transmission": "Automatic (AM8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 19,
+    "mpgCombined": 17,
+    "evRangeMiles": 330
+  },
+  "description": "The Ferrari SF90 Stradale is a mid-engine PHEV sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with 90 standing for the 90th anniversary of the Scuderia Ferrari racing team and also \"Stradale\", an Italian word for \"made for the road\".",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg/1920px-Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "8f8ef613e39746668b4f0268a3176dde",
+    "name": "2021 Ferrari SF90 Spider",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution"
+  }
+}

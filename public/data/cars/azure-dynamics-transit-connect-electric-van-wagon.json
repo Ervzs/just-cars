@@ -1,0 +1,29 @@
+{
+  "id": "azure-dynamics-transit-connect-electric-van-wagon",
+  "make": "Azure Dynamics",
+  "model": "Transit Connect Electric Van/Wagon",
+  "years": [
+    2012
+  ],
+  "vehicleClass": "Special Purpose Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 62,
+    "mpgHighway": 62,
+    "mpgCombined": 62,
+    "evRangeMiles": 56
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

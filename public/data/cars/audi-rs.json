@@ -1,0 +1,43 @@
+{
+  "id": "audi-rs",
+  "make": "Audi",
+  "model": "RS",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/RS_S_AA.png/500px-RS_S_AA.png",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "description": "Audi S and RS models are a range of high performance versions of certain car models of the German automotive company Audi AG. These cars primarily focus on enhanced \"sport\" performance. Production of Audi \"S\" cars began in 1990 with the S2 Coupé, whilst the first \"RS\" car appeared four years later with the Audi RS 2 Avant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_S_and_RS_models",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/RS_S_AA.png/500px-RS_S_AA.png",
+  "sketchfab": {
+    "uid": "cbd7067f4cd1492299c57126ed95a823",
+    "name": "Audi RS E- Tron Widebody",
+    "author": "blakebella",
+    "authorUrl": "https://sketchfab.com/blakebella",
+    "license": "CC Attribution-NonCommercial-NoDerivs"
+  }
+}

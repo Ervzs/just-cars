@@ -1,0 +1,53 @@
+{
+  "id": "nissan-rogue",
+  "make": "Nissan",
+  "model": "Rogue",
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Regular",
+  "engine": "1.5L 3-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg/960px-2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 3-cyl",
+    "displacementL": 1.5,
+    "cylinders": 3,
+    "transmission": "Automatic (AV-S8)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 36,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "description": "The Nissan Rogue is a compact crossover SUV produced by the Japanese automobile manufacturer Nissan. It made its debut in October 2007 for the 2008 model year. Beginning in 2013 for the 2014 model year, the model has been merged with the X-Trail sold outside the North American market, making them identical.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nissan_Rogue",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg/1920px-2024_Nissan_Rogue_SV_Moonroof_in_Gun_Metallic%2C_front_right%2C_2026-06-14.jpg",
+  "sketchfab": {
+    "uid": "48fa53c7743745949b9cb518b7b67579",
+    "name": "2022 Nissan Rogue",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

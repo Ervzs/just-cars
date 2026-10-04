@@ -1,0 +1,38 @@
+{
+  "id": "hyundai-ioniq-6",
+  "make": "Hyundai",
+  "model": "Ioniq 6",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2027
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg/960px-2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 93,
+    "mpgHighway": 82,
+    "mpgCombined": 88,
+    "evRangeMiles": 245
+  },
+  "description": "The Hyundai Ioniq 6 is a battery electric mid-size fastback sedan produced by Hyundai Motor Company. It is the second vehicle marketed under the electric car-focused Ioniq sub-brand after the Ioniq 5, and the fourth model developed on the Hyundai Electric Global Modular Platform (E-GMP). The vehicle was first sold in South Korea in late 2022, with deliveries in the United States beginning in March 2023.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg/1920px-2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg",
+  "sketchfab": {
+    "uid": "64b7bfb50f304e428089f61a63e4dd11",
+    "name": "2022 Hyundai Ioniq 6",
+    "author": "RADMATTER12",
+    "authorUrl": "https://sketchfab.com/RADMATTER12",
+    "license": "CC Attribution"
+  }
+}

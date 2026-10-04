@@ -1,0 +1,35 @@
+{
+  "id": "lexus-lfa",
+  "make": "Lexus",
+  "model": "LFA",
+  "years": [
+    2012
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "4.8L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lexus_LFA_001.JPG/960px-Lexus_LFA_001.JPG",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "4.8L 10-cyl",
+    "displacementL": 4.8,
+    "cylinders": 10,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 16,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "description": "The Lexus LFA  is a two-door sports car produced between 2010 and 2012 by the Japanese carmaker Toyota under its luxury marque, Lexus. Lexus built 500 units over its production span of two years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lexus_LFA",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lexus_LFA_001.JPG/1280px-Lexus_LFA_001.JPG",
+  "sketchfab": {
+    "uid": "83d062d1cd144e6a944c7415ef864889",
+    "name": "2011 Lexus LFA",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

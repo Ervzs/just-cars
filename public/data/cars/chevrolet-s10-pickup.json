@@ -1,0 +1,39 @@
+{
+  "id": "chevrolet-s10-pickup",
+  "make": "Chevrolet",
+  "model": "S10 Pickup",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "vehicleClass": "Standard Pickup Trucks 4WD",
+  "fuelType": "Regular",
+  "engine": "4.3L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/960px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg",
+  "has3d": true,
+  "representativeYear": 2004,
+  "specs": {
+    "engine": "4.3L 6-cyl",
+    "displacementL": 4.3,
+    "cylinders": 6,
+    "transmission": "Automatic 4-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 14,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "description": "The Chevrolet El Camino is a coupé utility vehicle that was produced by Chevrolet in 1959 and 1960, and from 1964 to 1987. Unlike a standard pickup truck, the El Camino was adapted from the standard two-door Chevrolet station wagon platform and integrated the cab and cargo bed into the body.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chevrolet_El_Camino",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/1920px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg",
+  "sketchfab": {
+    "uid": "d75cc6826e68446ca0341b7748af3b7e",
+    "name": "Chevrolet S10 Pickup, Cheyenne Pickup, Van",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

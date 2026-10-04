@@ -1,0 +1,35 @@
+{
+  "id": "jaguar-x-type",
+  "make": "Jaguar",
+  "model": "X-Type",
+  "years": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jaguar_X-TYPE.jpg/960px-Jaguar_X-TYPE.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 22,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "description": "The Jaguar X-Type is a compact executive car that was manufactured and marketed by Jaguar Cars from 2001 to 2009 for a single generation. Internally designated \"X400\", the X-Type was produced in four-door saloon car and five-door estate car body styles, becoming Jaguar's first estate car to enter series production. The X-Type has a front-mounted engine and either front-wheel drive or all-wheel drive, and was Jaguar's first front-wheel drive car. It was also the first Jaguar with a diesel engine or a four-cylinder engine. The X-Type is considered a large family car by EuroNCAP and a compact car by the United States Environmental Protection Agency.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaguar_X-Type",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jaguar_X-TYPE.jpg/1920px-Jaguar_X-TYPE.jpg",
+  "sketchfab": null
+}

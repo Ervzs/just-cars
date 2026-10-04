@@ -1,0 +1,31 @@
+{
+  "id": "bugatti-rimac-nevera",
+  "make": "Bugatti Rimac",
+  "model": "Nevera",
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": null,
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "4-Wheel Drive",
+    "mpgCity": 50,
+    "mpgHighway": 51,
+    "mpgCombined": 51,
+    "evRangeMiles": 174
+  },
+  "description": null,
+  "wikipediaUrl": null,
+  "image": null,
+  "sketchfab": null
+}

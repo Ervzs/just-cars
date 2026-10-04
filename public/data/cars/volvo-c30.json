@@ -1,0 +1,40 @@
+{
+  "id": "volvo-c30",
+  "make": "Volvo",
+  "model": "C30",
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Regular",
+  "engine": "2.5L 5-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Volvo_C30_1.6_front_20100918.jpg/960px-Volvo_C30_1.6_front_20100918.jpg",
+  "has3d": true,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "2.5L 5-cyl",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Volvo C30 is a three-door, front-engine, front-wheel-drive premium compact hatchback manufactured and marketed by Volvo Cars from 2006 to 2013, in a single generation. Powered by inline-four and straight-five engines, the C30 is a variant of the Volvo S40/V50/C70 range, sharing the same Ford C1/Volvo P1 platform. Volvo marketed the C30 as a premium hatchback / sports coupe.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volvo_C30",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Volvo_C30_1.6_front_20100918.jpg/1920px-Volvo_C30_1.6_front_20100918.jpg",
+  "sketchfab": {
+    "uid": "5fb13d2daeb5480e8be44e475e2acf59",
+    "name": "Volvo C30 R-Design",
+    "author": "Gerda",
+    "authorUrl": "https://sketchfab.com/koelkastasbers",
+    "license": "Free Standard"
+  }
+}

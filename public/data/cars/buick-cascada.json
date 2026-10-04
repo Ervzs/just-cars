@@ -1,0 +1,32 @@
+{
+  "id": "buick-cascada",
+  "make": "Buick",
+  "model": "Cascada",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "1.6L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Opel_Cascada_1.6_EDIT_Innovation_%E2%80%93_Frontansicht%2C_23._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/960px-Opel_Cascada_1.6_EDIT_Innovation_%E2%80%93_Frontansicht%2C_23._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "1.6L 4-cyl",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Opel Cascada is a four-passenger fabric-roof convertible, manufactured and marketed by Opel across a single generation for model years 2013 through 2019, prioritizing year-round touring comfort over sportiness.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel_Cascada",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Opel_Cascada_1.6_EDIT_Innovation_%E2%80%93_Frontansicht%2C_23._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/1920px-Opel_Cascada_1.6_EDIT_Innovation_%E2%80%93_Frontansicht%2C_23._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

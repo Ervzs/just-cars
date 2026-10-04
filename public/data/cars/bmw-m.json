@@ -35,7 +35,7 @@
   "vehicleClass": "Subcompact Cars",
   "fuelType": "Premium",
   "engine": "3.0L 6-cyl",
-  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/BMW_M_Grey-Colour_RGB.svg/960px-BMW_M_Grey-Colour_RGB.svg.png",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/BMW_M_Grey-Colour_RGB.svg/500px-BMW_M_Grey-Colour_RGB.svg.png",
   "has3d": true,
   "representativeYear": 2027,
   "specs": {
@@ -51,7 +51,7 @@
   },
   "description": "BMW M GmbH, formerly known as BMW Motorsport GmbH, is a subsidiary of the German automobile BMW AG that manufactures high-performance luxury cars.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/BMW_M",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/BMW_M_Grey-Colour_RGB.svg/960px-BMW_M_Grey-Colour_RGB.svg.png",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/BMW_M_Grey-Colour_RGB.svg/500px-BMW_M_Grey-Colour_RGB.svg.png",
   "sketchfab": {
     "uid": "9cba50132a864bd79bfab48bd631574d",
     "name": "2016 BMW X6 M",

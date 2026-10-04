@@ -1,0 +1,42 @@
+{
+  "id": "dodge-avenger",
+  "make": "Dodge",
+  "model": "Avenger",
+  "years": [
+    2000,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg/960px-2012_Dodge_Avenger_--_NHTSA.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic 4-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Dodge Avenger is a front-wheel drive, mid-sized sedan that was marketed by Dodge. The Avenger made its North American debut in 1994 for the 1995 model year as a coupe that was produced until 2000. The model name was reintroduced to the market as a four-door sedan in 2007 for the 2008 model year. The Dodge Avenger name was used on the South African market Hillman Avengers in 1975 and 1976.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodge_Avenger",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg/1920px-2012_Dodge_Avenger_--_NHTSA.jpg",
+  "sketchfab": {
+    "uid": "c7d7891c6d1d454cb278f7d1a71bbc6b",
+    "name": "2010 Dodge Avenger Photoscan",
+    "author": "Giz",
+    "authorUrl": "https://sketchfab.com/Gizmitt",
+    "license": "CC Attribution"
+  }
+}

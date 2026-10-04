@@ -1,0 +1,47 @@
+{
+  "id": "mitsubishi-galant",
+  "make": "Mitsubishi",
+  "model": "Galant",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Regular",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2009_Mitsubishi_Galant.jpg/960px-2009_Mitsubishi_Galant.jpg",
+  "has3d": true,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Automatic (S4)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "description": "The Mitsubishi Galant  is an automobile which was produced by Japanese manufacturer Mitsubishi from 1969 until 2012. The model name was derived from the French word galant, meaning \"chivalrous\". There have been nine distinct generations with total cumulative sales exceeding five million units. It began as a compact sedan, but over the course of its life evolved into a mid-size car. Initial production was based in Japan, with manufacturing later moved to other countries.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Galant",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2009_Mitsubishi_Galant.jpg/1920px-2009_Mitsubishi_Galant.jpg",
+  "sketchfab": {
+    "uid": "eb59fdf7593f42d99c7c96bc85381657",
+    "name": "Mitsubishi Galant 8",
+    "author": "IQTO",
+    "authorUrl": "https://sketchfab.com/iqto",
+    "license": "CC Attribution"
+  }
+}
