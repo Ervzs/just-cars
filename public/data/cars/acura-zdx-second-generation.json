@@ -1,0 +1,38 @@
+{
+  "id": "acura-zdx-second-generation",
+  "make": "Acura",
+  "model": "ZDX",
+  "generation": "Second generation",
+  "aka": [
+    "MSX"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 2WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2024_Acura_ZDX_Type_S_in_Cosmic_Black_Metallic%2C_front_right%2C_2024-11-06.jpg/960px-2024_Acura_ZDX_Type_S_in_Cosmic_Black_Metallic%2C_front_right%2C_2024-11-06.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A1)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 100,
+    "mpgHighway": 83,
+    "mpgCombined": 91,
+    "evRangeMiles": 327
+  },
+  "variants": [
+    "ZDX"
+  ],
+  "description": "The Acura ZDX is a mid-size luxury crossover SUV developed by Japanese manufacturer Honda for its upmarket brand Acura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_ZDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2024_Acura_ZDX_Type_S_in_Cosmic_Black_Metallic%2C_front_right%2C_2024-11-06.jpg/1920px-2024_Acura_ZDX_Type_S_in_Cosmic_Black_Metallic%2C_front_right%2C_2024-11-06.jpg",
+  "sketchfab": null
+}

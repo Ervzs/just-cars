@@ -1,0 +1,51 @@
+{
+  "id": "audi-a4-b7",
+  "make": "Audi",
+  "model": "A4",
+  "generation": "B7",
+  "aka": [
+    "A4 3.2 FSI quattro",
+    "A4 S Line",
+    "A4 allroad quattro",
+    "A4 allroad",
+    "A4 B8",
+    "A4 Super2000",
+    "A4L",
+    "A4 Quattro"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "1.8L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2005_Audi_A4_T_S_Line_1.8_Front.jpg/960px-2005_Audi_A4_T_S_Line_1.8_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "1.8L 4-cyl",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "transmission": "Automatic (variable gear ratios)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A4"
+  ],
+  "description": "The Audi A4 is a line of luxury compact executive cars produced from 1994 to 2025 by the German car manufacturer Audi, a subsidiary of the Volkswagen Group. The A4 has been built in five generations and is based on the Volkswagen Group B platform. The first generation A4 succeeded the Audi 80. The automaker's internal numbering treats the A4 as a continuation of the Audi 80 lineage, with the initial A4 designated as the B5-series, followed by the B6, B7, B8, and the B9.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2005_Audi_A4_T_S_Line_1.8_Front.jpg/1920px-2005_Audi_A4_T_S_Line_1.8_Front.jpg",
+  "sketchfab": {
+    "uid": "fd2e6813f8224d58b104dfbfc1ab3173",
+    "name": "2005 Audi A4 3.2 FSI quattro",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "acura-cl-first-generation",
+  "make": "Acura",
+  "model": "CL",
+  "generation": "First generation",
+  "aka": [
+    "CL-X",
+    "CLX concept"
+  ],
+  "years": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/1998-1999_Acura_CL_--_04-11-2012_2.JPG/960px-1998-1999_Acura_CL_--_04-11-2012_2.JPG",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Acura CL is a midsize four passenger coupe manufactured and marketed by Honda's Acura brand across two generations from 1997–2003 model years.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_CL",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/1998-1999_Acura_CL_--_04-11-2012_2.JPG/1920px-1998-1999_Acura_CL_--_04-11-2012_2.JPG",
+  "sketchfab": null
+}

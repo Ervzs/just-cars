@@ -1,0 +1,52 @@
+{
+  "id": "aston-martin-vanquish-second-generation",
+  "make": "Aston Martin",
+  "model": "Vanquish",
+  "generation": "Second generation",
+  "aka": [
+    "V12 Vanquish",
+    "Vanquish S",
+    "Aston-Martin Vanquish",
+    "Vanq S",
+    "The Aston Martin Vanquish"
+  ],
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "6.0L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2015_Aston_Martin_Vanquish%2C_front_left_%28Lisbon%29.jpg/960px-2015_Aston_Martin_Vanquish%2C_front_left_%28Lisbon%29.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "6.0L 12-cyl",
+    "displacementL": 6,
+    "cylinders": 12,
+    "transmission": "Automatic (S8)",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Vanquish"
+  ],
+  "description": "The Aston Martin Vanquish is a grand tourer introduced by British luxury automobile manufacturer Aston Martin in 2001 as a successor to the Aston Martin Virage (1993).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_Vanquish",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2015_Aston_Martin_Vanquish%2C_front_left_%28Lisbon%29.jpg/1920px-2015_Aston_Martin_Vanquish%2C_front_left_%28Lisbon%29.jpg",
+  "sketchfab": {
+    "uid": "1cd7dbc488dc4b4e9bf49fd0a552a7fc",
+    "name": "2017 Aston Martin Vanquish Zagato",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

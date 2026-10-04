@@ -1,0 +1,43 @@
+{
+  "id": "audi-q3-third-generation",
+  "make": "Audi",
+  "model": "Q3",
+  "generation": "Third generation",
+  "aka": [
+    "Q3 Sportback"
+  ],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Audi_Q3_1.5_TFSI_e-hybrid_S_line_%28FJ%29_%E2%80%93_h_29032026.jpg/960px-Audi_Q3_1.5_TFSI_e-hybrid_S_line_%28FJ%29_%E2%80%93_h_29032026.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q3"
+  ],
+  "description": "The Audi Q3 is a subcompact luxury crossover SUV produced by Audi since 2011. The Q3 has a transverse-mounted front engine. It was unveiled in April 2007 at the Shanghai motor show. A coupe SUV variant has been produced since the second generation, called the Q3 Sportback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Audi_Q3_1.5_TFSI_e-hybrid_S_line_%28FJ%29_%E2%80%93_h_29032026.jpg/1920px-Audi_Q3_1.5_TFSI_e-hybrid_S_line_%28FJ%29_%E2%80%93_h_29032026.jpg",
+  "sketchfab": {
+    "uid": "8a98eabcce994019a25ca89a142a82c5",
+    "name": "Audi Q3",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

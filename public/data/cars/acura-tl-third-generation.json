@@ -1,0 +1,40 @@
+{
+  "id": "acura-tl-third-generation",
+  "make": "Acura",
+  "model": "TL",
+  "generation": "Third generation",
+  "aka": [
+    "3.2 TL"
+  ],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.2L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/07-08_Acura_TL.jpg/960px-07-08_Acura_TL.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "3.2L 6-cyl",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "transmission": "Automatic (S5)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 18,
+    "mpgHighway": 26,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "TL"
+  ],
+  "description": "The Acura TL is an entry-level luxury sedan that was manufactured by Acura, the luxury division of Honda. It was introduced in 1995 for the 1996 model year, to replace the Acura Vigor and was badged for the Japanese market from 1996 to 2000 as the Honda Inspire and from 1996 to 2004 as the Honda Saber. The TL was Acura's best-selling model until it was outsold by the MDX in 2007. In 2005, it ranked as the second best-selling luxury sedan in the United States behind the BMW 3 Series, but sales decreased after the 2008 model year. Four generations of the Acura TL were produced, with the final generation premiering in 2008 for the 2009 model year, and ending production in 2014, when it was replaced together with the TSX by the TLX.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_TL",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/07-08_Acura_TL.jpg/1920px-07-08_Acura_TL.jpg",
+  "sketchfab": null
+}

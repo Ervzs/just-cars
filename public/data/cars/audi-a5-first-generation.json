@@ -1,0 +1,51 @@
+{
+  "id": "audi-a5-first-generation",
+  "make": "Audi",
+  "model": "A5",
+  "generation": "First generation",
+  "aka": [
+    "RS5",
+    "A5 Sportback"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Audi_A5_Coup%C3%A9_2.0_TFSI_quattro_S_tronic_Gletscherwei%C3%9F_Facelift.JPG/960px-Audi_A5_Coup%C3%A9_2.0_TFSI_quattro_S_tronic_Gletscherwei%C3%9F_Facelift.JPG",
+  "has3d": true,
+  "representativeYear": 2015,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A5"
+  ],
+  "description": "The Audi A5 is a series of compact executive and grand touring coupé cars produced by the German automobile manufacturer Audi since June 2007. The A5 range also includes the coupe, cabriolet, and \"Sportback\"—a five-door liftback with a fastback roofline—derived from the Audi A4 saloon and estate models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Audi_A5_Coup%C3%A9_2.0_TFSI_quattro_S_tronic_Gletscherwei%C3%9F_Facelift.JPG/1920px-Audi_A5_Coup%C3%A9_2.0_TFSI_quattro_S_tronic_Gletscherwei%C3%9F_Facelift.JPG",
+  "sketchfab": {
+    "uid": "6cc9ad5e96454be29bcd9bac66aa5320",
+    "name": "2010 Audi A5 Sportback",
+    "author": "Res1n",
+    "authorUrl": "https://sketchfab.com/Res1n",
+    "license": "CC Attribution"
+  }
+}

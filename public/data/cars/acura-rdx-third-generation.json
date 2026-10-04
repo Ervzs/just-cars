@@ -1,0 +1,47 @@
+{
+  "id": "acura-rdx-third-generation",
+  "make": "Acura",
+  "model": "RDX",
+  "generation": "Third generation",
+  "aka": [],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2019_Acura_RDX_A-Spec_front_blue_4.2.18.jpg/960px-2019_Acura_RDX_A-Spec_front_blue_4.2.18.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 27,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RDX"
+  ],
+  "description": "The Acura RDX is a compact luxury crossover SUV produced by Honda for their Acura brand since 2006 for the 2007 model year as the second crossover SUV offering from the brand after the mid-size MDX. Since it was introduced, it has shared its platform with the Honda Civic and CR-V.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_RDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2019_Acura_RDX_A-Spec_front_blue_4.2.18.jpg/1920px-2019_Acura_RDX_A-Spec_front_blue_4.2.18.jpg",
+  "sketchfab": {
+    "uid": "c8feb4e8e54b43ac9bed2354a9406996",
+    "name": "Acura RDX Prototype",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

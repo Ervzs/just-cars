@@ -1,0 +1,50 @@
+{
+  "id": "alfa-romeo-stelvio",
+  "make": "Alfa Romeo",
+  "model": "Stelvio",
+  "generation": null,
+  "aka": [
+    "C-SUV"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg/960px-Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic 8-spd",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 28,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Stelvio"
+  ],
+  "description": "The Alfa Romeo Stelvio is a luxury crossover SUV produced by the Italian manufacturer Alfa Romeo since 2016. As a D-segment model it slots above the smaller Tonale model in the marque's SUV range. It was first revealed at the 2016 Los Angeles Auto Show and entered production at the Cassino Plant at the end of 2016. In 2018 it was Alfa Romeo's best-selling model, with roughly 43,000 sold that year. In 2024, it had fallen behind the Tonale in the U.S. as sales dropped to just 3,162 from 12,043 in 2018.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Stelvio",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg/1280px-Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg",
+  "sketchfab": {
+    "uid": "b6e382aee4a44fb3b1222d7191470640",
+    "name": "2017 Alfa Romeo Stelvio Quadrifoglio",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

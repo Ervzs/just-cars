@@ -1,0 +1,57 @@
+{
+  "id": "audi-a3-second-generation",
+  "make": "Audi",
+  "model": "A3",
+  "generation": "Second generation",
+  "aka": [
+    "A3 3.2 quattro",
+    "A3 TDI clubsport quattro concept",
+    "RS3",
+    "a3 tdi",
+    "RS3 Sportback",
+    "A3 3.2L Quattro",
+    "A3 e-tron",
+    "A3 Sportback e-tron"
+  ],
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Audi_s3_front.jpg/960px-Audi_s3_front.jpg",
+  "has3d": true,
+  "representativeYear": 2011,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 30,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A3"
+  ],
+  "description": "The Audi A3 is a small family car (C-segment) manufactured and marketed by the German automaker Audi AG since September 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Audi_s3_front.jpg/1920px-Audi_s3_front.jpg",
+  "sketchfab": {
+    "uid": "b0eb581f30b941b3a2278194489c5374",
+    "name": "2009 Audi A3 2.0T",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

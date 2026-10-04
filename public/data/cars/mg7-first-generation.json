@@ -1,11 +1,9 @@
 {
   "id": "mg7-first-generation",
   "make": "MG",
-  "model": "MG7",
+  "model": "7",
   "generation": "First generation",
-  "aka": [
-    "7"
-  ],
+  "aka": [],
   "years": [
     2007,
     2008,

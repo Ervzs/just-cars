@@ -1,0 +1,49 @@
+{
+  "id": "acura-zdx-first-generation",
+  "make": "Acura",
+  "model": "ZDX",
+  "generation": "First generation",
+  "aka": [
+    "MSX"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_Acura_ZDX_Advance_--_NHTSA_2.jpg/960px-2010_Acura_ZDX_Advance_--_NHTSA_2.jpg",
+  "has3d": false,
+  "representativeYear": 2013,
+  "specs": {
+    "engine": "3.7L 6-cyl",
+    "displacementL": 3.7,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ZDX"
+  ],
+  "description": "The Acura ZDX is a mid-size luxury crossover SUV developed by Japanese manufacturer Honda for its upmarket brand Acura.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_ZDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_Acura_ZDX_Advance_--_NHTSA_2.jpg/1280px-2010_Acura_ZDX_Advance_--_NHTSA_2.jpg",
+  "sketchfab": null
+}

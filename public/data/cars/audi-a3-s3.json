@@ -1,0 +1,35 @@
+{
+  "id": "audi-a3-s3",
+  "make": "Audi",
+  "model": "A3",
+  "generation": "S3",
+  "aka": [
+    "A3 3.2 quattro",
+    "A3 TDI clubsport quattro concept",
+    "RS3",
+    "a3 tdi",
+    "RS3 Sportback",
+    "A3 3.2L Quattro",
+    "A3 e-tron",
+    "A3 Sportback e-tron"
+  ],
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": null,
+  "fuelType": null,
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2000_Audi_S3_%288L%29_quattro_3-door_hatchback_%282015-05-29%29_01.jpg/960px-2000_Audi_S3_%288L%29_quattro_3-door_hatchback_%282015-05-29%29_01.jpg",
+  "has3d": false,
+  "representativeYear": null,
+  "specs": null,
+  "variants": [],
+  "description": "The Audi A3 is a small family car (C-segment) manufactured and marketed by the German automaker Audi AG since September 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2000_Audi_S3_%288L%29_quattro_3-door_hatchback_%282015-05-29%29_01.jpg/1920px-2000_Audi_S3_%288L%29_quattro_3-door_hatchback_%282015-05-29%29_01.jpg",
+  "sketchfab": null
+}

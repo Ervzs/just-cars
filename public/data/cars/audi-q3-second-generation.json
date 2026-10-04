@@ -1,0 +1,48 @@
+{
+  "id": "audi-q3-second-generation",
+  "make": "Audi",
+  "model": "Q3",
+  "generation": "Second generation",
+  "aka": [
+    "Q3 Sportback"
+  ],
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Regular",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Audi_Q3_Sportback_IMG_6018.jpg/960px-Audi_Q3_Sportback_IMG_6018.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q3"
+  ],
+  "description": "The Audi Q3 is a subcompact luxury crossover SUV produced by Audi since 2011. The Q3 has a transverse-mounted front engine. It was unveiled in April 2007 at the Shanghai motor show. A coupe SUV variant has been produced since the second generation, called the Q3 Sportback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Audi_Q3_Sportback_IMG_6018.jpg/1920px-Audi_Q3_Sportback_IMG_6018.jpg",
+  "sketchfab": {
+    "uid": "97dccbc18cfb4f1e973fc75e278c6f66",
+    "name": "2023 Audi Q3 40 TFSI",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

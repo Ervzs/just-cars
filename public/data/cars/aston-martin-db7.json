@@ -1,0 +1,52 @@
+{
+  "id": "aston-martin-db7",
+  "make": "Aston Martin",
+  "model": "DB7",
+  "generation": null,
+  "aka": [
+    "DB7 Coupe",
+    "DB7 V12 Vantage",
+    "DB7 V12 Vantage Volante",
+    "DB7 V12 GT",
+    "DB7 Volante",
+    "DB AR1",
+    "DB7 Vantage",
+    "DB7 Zagato"
+  ],
+  "years": [
+    2000,
+    2003
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.9L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1999_Aston_Martin_DB7_Vantage.jpg/960px-1999_Aston_Martin_DB7_Vantage.jpg",
+  "has3d": true,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "5.9L 12-cyl",
+    "displacementL": 5.9,
+    "cylinders": 12,
+    "transmission": "Automatic 5-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 11,
+    "mpgHighway": 18,
+    "mpgCombined": 13,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "DB-7 Vantage",
+    "DB-7 GT",
+    "DB AR1"
+  ],
+  "description": "The Aston Martin DB7 is a car that was produced by British luxury car manufacturer Aston Martin from September 1994 to December 2004. It was designed by Ian Callum and Keith Helfet as a grand tourer in coupé and convertible bodystyles. The prototype was complete by November 1992 and debuted at the Geneva Motor Show in March 1993. The six-cylinder DB7 was positioned as an \"entry-level\" model below the hand-built V8 Virage introduced a few years earlier. At the time, the DB7 was the most-produced Aston Martin automobile in the company’s history, with more than 7,000 built before it was replaced by the DB9 in 2004.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1999_Aston_Martin_DB7_Vantage.jpg/1920px-1999_Aston_Martin_DB7_Vantage.jpg",
+  "sketchfab": {
+    "uid": "72af2bf8502a4fc389b595cf21b57f33",
+    "name": "Aston Martin DB7 Vantage",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

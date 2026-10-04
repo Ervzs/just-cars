@@ -1,14 +1,12 @@
 {
   "id": "mg4-ev-first-generation",
   "make": "MG",
-  "model": "MG4 EV",
+  "model": "4 EV",
   "generation": "First generation",
   "aka": [
     "Mulan",
-    "MG4 Electric",
     "4 Electric",
-    "4 EV",
-    "MG4 EV Urban",
+    "4 EV Urban",
     "Urban"
   ],
   "years": [

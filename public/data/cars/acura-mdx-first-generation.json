@@ -1,0 +1,47 @@
+{
+  "id": "acura-mdx-first-generation",
+  "make": "Acura",
+  "model": "MDX",
+  "generation": "First generation",
+  "aka": [
+    "Honda MDX"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006
+  ],
+  "vehicleClass": "Sport Utility Vehicle - 4WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Acura-MDX.jpg/960px-Acura-MDX.jpg",
+  "has3d": true,
+  "representativeYear": 2006,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic 5-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 21,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MDX"
+  ],
+  "description": "The Acura MDX is a mid-size luxury crossover SUV with three-row seating produced by the Japanese automaker Honda under its luxury Acura division since 2000. The alphanumeric moniker stands for \"Multi-Dimensional\" luxury. It has ranked as the second-best selling mid-size luxury SUV after the Lexus RX in the U.S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_MDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Acura-MDX.jpg/1920px-Acura-MDX.jpg",
+  "sketchfab": {
+    "uid": "2aa71e7fe1fa4de48b23ee335be96947",
+    "name": "2003 Acura MDX",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

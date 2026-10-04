@@ -1,0 +1,43 @@
+{
+  "id": "audi-a3-third-generation",
+  "make": "Audi",
+  "model": "A3",
+  "generation": "Third generation",
+  "aka": [
+    "A3 3.2 quattro",
+    "A3 TDI clubsport quattro concept",
+    "RS3",
+    "a3 tdi",
+    "RS3 Sportback",
+    "A3 3.2L Quattro",
+    "A3 e-tron",
+    "A3 Sportback e-tron"
+  ],
+  "years": [
+    2012
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Diesel",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Audi_A3_Sportback_1.6_TDI_Ambition_%288V%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_D%C3%BCsseldorf.jpg/960px-Audi_A3_Sportback_1.6_TDI_Ambition_%288V%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_D%C3%BCsseldorf.jpg",
+  "has3d": false,
+  "representativeYear": 2012,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 37,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A3"
+  ],
+  "description": "The Audi A3 is a small family car (C-segment) manufactured and marketed by the German automaker Audi AG since September 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Audi_A3_Sportback_1.6_TDI_Ambition_%288V%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_D%C3%BCsseldorf.jpg/1920px-Audi_A3_Sportback_1.6_TDI_Ambition_%288V%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_D%C3%BCsseldorf.jpg",
+  "sketchfab": null
+}

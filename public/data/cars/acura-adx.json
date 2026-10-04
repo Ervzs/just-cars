@@ -1,0 +1,35 @@
+{
+  "id": "acura-adx",
+  "make": "Acura",
+  "model": "ADX",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2025,
+    2026
+  ],
+  "vehicleClass": "Small Station Wagons",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_Acura_ADX_A-Spec%2C_front_7.19.25.jpg/960px-2025_Acura_ADX_A-Spec%2C_front_7.19.25.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 25,
+    "mpgHighway": 30,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "ADX"
+  ],
+  "description": "The Acura ADX is a subcompact luxury crossover SUV marketed by Acura, the luxury brand of Japanese manufacturer Honda. It is engineered on the same advanced global architecture as the Acura Integra, eleventh generation Civic, sixth generation CR-V, and Honda ZR-V/HR-V.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_ADX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_Acura_ADX_A-Spec%2C_front_7.19.25.jpg/1920px-2025_Acura_ADX_A-Spec%2C_front_7.19.25.jpg",
+  "sketchfab": null
+}

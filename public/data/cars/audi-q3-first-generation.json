@@ -1,0 +1,48 @@
+{
+  "id": "audi-q3-first-generation",
+  "make": "Audi",
+  "model": "Q3",
+  "generation": "First generation",
+  "aka": [
+    "Q3 Sportback"
+  ],
+  "years": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Audi_Q3_2.0_TDI_quattro_S_tronic_Karibubraun.JPG/960px-Audi_Q3_2.0_TDI_quattro_S_tronic_Karibubraun.JPG",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q3"
+  ],
+  "description": "The Audi Q3 is a subcompact luxury crossover SUV produced by Audi since 2011. The Q3 has a transverse-mounted front engine. It was unveiled in April 2007 at the Shanghai motor show. A coupe SUV variant has been produced since the second generation, called the Q3 Sportback.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Audi_Q3_2.0_TDI_quattro_S_tronic_Karibubraun.JPG/1920px-Audi_Q3_2.0_TDI_quattro_S_tronic_Karibubraun.JPG",
+  "sketchfab": {
+    "uid": "d95e025603c9449997be95048d10af68",
+    "name": "2014 Audi Q3",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

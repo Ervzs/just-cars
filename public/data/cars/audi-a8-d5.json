@@ -1,0 +1,47 @@
+{
+  "id": "audi-a8-d5",
+  "make": "Audi",
+  "model": "A8",
+  "generation": "D5",
+  "aka": [
+    "A8L",
+    "A8 W12",
+    "A8 D4",
+    "A8 D5"
+  ],
+  "years": [
+    2017,
+    2018,
+    2019
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2018_Audi_A8_50_TDi_Quattro_Automatic_3.0_Front.jpg/960px-2018_Audi_A8_50_TDi_Quattro_Automatic_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2019,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A8"
+  ],
+  "description": "The Audi A8 is a full-size luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and currently in its fourth generation, the A8 has been offered with either front- or permanent all-wheel drive and in short- and long-wheelbase variants. The first two generations employed the Volkswagen Group D platform, with the current generation deriving from the MLB platform. After the original model's 1994 release, Audi released the second generation in late 2002, the third in late 2009, and the fourth and current iteration in 2017. Noted as the first mass-market car with an aluminium chassis, all A8 models have used this construction method co-developed with Alcoa and marketed as the Audi Space Frame.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2018_Audi_A8_50_TDi_Quattro_Automatic_3.0_Front.jpg/1920px-2018_Audi_A8_50_TDi_Quattro_Automatic_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "cd094d03f7684809900a929a9c88c8db",
+    "name": "Audi A8 Custom 2018",
+    "author": "everhard",
+    "authorUrl": "https://sketchfab.com/everhard",
+    "license": "CC Attribution"
+  }
+}

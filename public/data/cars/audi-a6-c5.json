@@ -1,0 +1,47 @@
+{
+  "id": "audi-a6-c5",
+  "make": "Audi",
+  "model": "A6",
+  "generation": "C5",
+  "aka": [
+    "A6 Hybrid",
+    "A6L",
+    "A6 C7",
+    "A6 Avant",
+    "C4",
+    "4A"
+  ],
+  "years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.7L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Audi_A6_C5_front_20081009.jpg/960px-Audi_A6_C5_front_20081009.jpg",
+  "has3d": false,
+  "representativeYear": 2003,
+  "specs": {
+    "engine": "2.7L 6-cyl",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "transmission": "Manual 6-spd",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 16,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A6"
+  ],
+  "description": "The Audi A6 is an executive car manufactured by the German company Audi since 1994. Now in its sixth generation, the successor to the Audi 100 is manufactured in Neckarsulm, Germany, and is available in saloon and estate configurations, the latter marketed by Audi as the Avant. Audi's internal numbering treats the A6 as a continuation of the Audi 100 lineage, with the initial A6 designated as a member of the C4-series, followed by the C5, C6, C7, C8 and the C9. The related Audi A7 is essentially a Sportback (liftback) version of the C7-series and C8-series A6 but is marketed under its own separate identity and model designation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Audi_A6_C5_front_20081009.jpg/1280px-Audi_A6_C5_front_20081009.jpg",
+  "sketchfab": null
+}

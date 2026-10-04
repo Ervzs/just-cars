@@ -1,0 +1,53 @@
+{
+  "id": "audi-a7-first-generation",
+  "make": "Audi",
+  "model": "A7",
+  "generation": "First generation",
+  "aka": [
+    "S7",
+    "RS7",
+    "A7L"
+  ],
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Audi_A7_3.0_TFSI_quattro_S_line_Facelift_Heck.JPG/960px-Audi_A7_3.0_TFSI_quattro_S_line_Facelift_Heck.JPG",
+  "has3d": true,
+  "representativeYear": 2017,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 29,
+    "mpgCombined": 24,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A7",
+    "S7",
+    "RS 7"
+  ],
+  "description": "The Audi A7 is an executive five-door liftback produced by Audi since 2010. The coupé variant of the Audi A6 saloon/estate, the Audi A7 features a sloping roofline with a steeply raked rear window and integrated boot lid, and four frameless doors. A sport version called the S7 has been made since 2012, and a high-performance model called the RS 7 has been in production since 2013. An extended-wheelbase three-box, four-door saloon derivative called the A7L has been produced in China since 2021.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Audi_A7_3.0_TFSI_quattro_S_line_Facelift_Heck.JPG/1920px-Audi_A7_3.0_TFSI_quattro_S_line_Facelift_Heck.JPG",
+  "sketchfab": {
+    "uid": "a5b6383c37fb47c6bc9e927b4eaef563",
+    "name": "Audi A7 Sportback 2017",
+    "author": "BloxBloger",
+    "authorUrl": "https://sketchfab.com/BloxBloger",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

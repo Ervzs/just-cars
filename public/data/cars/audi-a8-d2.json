@@ -1,0 +1,52 @@
+{
+  "id": "audi-a8-d2",
+  "make": "Audi",
+  "model": "A8",
+  "generation": "D2",
+  "aka": [
+    "A8L",
+    "A8 W12",
+    "A8 D4",
+    "A8 D5"
+  ],
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "4.2L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/A8_white.jpg/960px-A8_white.jpg",
+  "has3d": true,
+  "representativeYear": 2001,
+  "specs": {
+    "engine": "4.2L 8-cyl",
+    "displacementL": 4.2,
+    "cylinders": 8,
+    "transmission": "Automatic (S5)",
+    "drive": "4-Wheel or All-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 23,
+    "mpgCombined": 18,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A8"
+  ],
+  "description": "The Audi A8 is a full-size luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and currently in its fourth generation, the A8 has been offered with either front- or permanent all-wheel drive and in short- and long-wheelbase variants. The first two generations employed the Volkswagen Group D platform, with the current generation deriving from the MLB platform. After the original model's 1994 release, Audi released the second generation in late 2002, the third in late 2009, and the fourth and current iteration in 2017. Noted as the first mass-market car with an aluminium chassis, all A8 models have used this construction method co-developed with Alcoa and marketed as the Audi Space Frame.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/A8_white.jpg/1920px-A8_white.jpg",
+  "sketchfab": {
+    "uid": "b12a219f716b4b3face897768838fb26",
+    "name": "1999 Audi A8 D2",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

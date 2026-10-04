@@ -1,0 +1,38 @@
+{
+  "id": "acura-tsx-first-generation",
+  "make": "Acura",
+  "model": "TSX",
+  "generation": "First generation",
+  "aka": [],
+  "years": [
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.4L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2005_Acura_TSX%2C_front_left_%28Mineola%29.jpg/960px-2005_Acura_TSX%2C_front_left_%28Mineola%29.jpg",
+  "has3d": false,
+  "representativeYear": 2008,
+  "specs": {
+    "engine": "2.4L 4-cyl",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "transmission": "Manual 6-spd",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 28,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "TSX"
+  ],
+  "description": "The Acura TSX is a compact executive car manufactured by Honda and sold through its Acura division from the 2004 to 2014 model years. The TSX spanned two generations, both derived from the corresponding Japanese/European versions of the Honda Accord, which were more compact and sporting-oriented than their larger North American counterpart. The latter Accord platform was also used for the Acura TL, which slotted above the TSX in Acura's lineup. All TSXs were built in Sayama, Saitama, Japan.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_TSX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2005_Acura_TSX%2C_front_left_%28Mineola%29.jpg/1920px-2005_Acura_TSX%2C_front_left_%28Mineola%29.jpg",
+  "sketchfab": null
+}

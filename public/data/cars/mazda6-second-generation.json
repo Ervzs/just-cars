@@ -1,14 +1,14 @@
 {
   "id": "mazda6-second-generation",
   "make": "Mazda",
-  "model": "Mazda6",
+  "model": "6",
   "generation": "Second generation",
   "aka": [
-    "6",
     "Atenza and Mazda6",
     "Atenza",
     "6 MPS",
-    "Mazdaspeed6"
+    "Mazdaspeed6",
+    "Mazda6"
   ],
   "years": [
     2007,
@@ -21,7 +21,7 @@
   "fuelType": "Regular",
   "engine": "2.5L 4-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2011_Mazda6_%28GH_Series_2_MY10%29_Luxury_Sports_hatchback_%282011-08-17%29_01.jpg/960px-2011_Mazda6_%28GH_Series_2_MY10%29_Luxury_Sports_hatchback_%282011-08-17%29_01.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2011,
   "specs": {
     "engine": "2.5L 4-cyl",
@@ -40,5 +40,11 @@
   "description": "The Mazda 6  is a mid-size sedan produced by Mazda from 2002 to 2024, replacing the long-produced Capella/626.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda6",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2011_Mazda6_%28GH_Series_2_MY10%29_Luxury_Sports_hatchback_%282011-08-17%29_01.jpg/1920px-2011_Mazda6_%28GH_Series_2_MY10%29_Luxury_Sports_hatchback_%282011-08-17%29_01.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "6f697b08d4bc49879ec58ccdce983b01",
+    "name": "2011 Mazda 6 Wagon",
+    "author": "Res1n",
+    "authorUrl": "https://sketchfab.com/Res1n",
+    "license": "CC Attribution"
+  }
 }

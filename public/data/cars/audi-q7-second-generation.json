@@ -1,0 +1,58 @@
+{
+  "id": "audi-q7-second-generation",
+  "make": "Audi",
+  "model": "Q7",
+  "generation": "Second generation",
+  "aka": [
+    "Q7 Hybrid",
+    "Q7 e-tron",
+    "Q7 PHEV",
+    "Q7 e-Tron Quattro TDI",
+    "Q7 e-tron Quattro",
+    "SQ7"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018_Audi_SQ7_front.jpg/960px-2018_Audi_SQ7_front.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q7",
+    "SQ7"
+  ],
+  "description": "The Audi Q7 is a 2- and 3-row E-segment SUV made by the German manufacturer Audi, unveiled in September 2005 at the Frankfurt Motor Show. Production of the Q7 began in November 2005 at the Volkswagen Bratislava Plant in Bratislava, Slovakia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018_Audi_SQ7_front.jpg/1920px-2018_Audi_SQ7_front.jpg",
+  "sketchfab": {
+    "uid": "65917c52e0b24f1289126128600ed7aa",
+    "name": "2015 Audi Q7",
+    "author": "razor24",
+    "authorUrl": "https://sketchfab.com/razor24",
+    "license": "CC Attribution"
+  }
+}

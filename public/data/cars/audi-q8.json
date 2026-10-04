@@ -1,0 +1,51 @@
+{
+  "id": "audi-q8",
+  "make": "Audi",
+  "model": "Q8",
+  "generation": null,
+  "aka": [
+    "SQ8"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg/960px-2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 23,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q8",
+    "SQ8"
+  ],
+  "description": "The Audi Q8 is a mid-size luxury crossover SUV made by Audi that was launched in 2018. It is being produced at the Volkswagen Bratislava Plant.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg/1920px-2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg",
+  "sketchfab": {
+    "uid": "bf68dd80cdd7449eb34d7f39d58861cb",
+    "name": "2023 Audi Q8",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

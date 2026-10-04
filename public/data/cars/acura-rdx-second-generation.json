@@ -1,0 +1,39 @@
+{
+  "id": "acura-rdx-second-generation",
+  "make": "Acura",
+  "model": "RDX",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 2WD",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Edmonton_Motor_Show_2014_%2813815288523%29.jpg/960px-Edmonton_Motor_Show_2014_%2813815288523%29.jpg",
+  "has3d": false,
+  "representativeYear": 2018,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (S6)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "RDX"
+  ],
+  "description": "The Acura RDX is a compact luxury crossover SUV produced by Honda for their Acura brand since 2006 for the 2007 model year as the second crossover SUV offering from the brand after the mid-size MDX. Since it was introduced, it has shared its platform with the Honda Civic and CR-V.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_RDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Edmonton_Motor_Show_2014_%2813815288523%29.jpg/1920px-Edmonton_Motor_Show_2014_%2813815288523%29.jpg",
+  "sketchfab": null
+}

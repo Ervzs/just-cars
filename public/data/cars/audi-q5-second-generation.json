@@ -1,0 +1,55 @@
+{
+  "id": "audi-q5-second-generation",
+  "make": "Audi",
+  "model": "Q5",
+  "generation": "Second generation",
+  "aka": [
+    "Q5 Hybrid",
+    "SQ5",
+    "Q5 FCEV",
+    "Q5 Sportback",
+    "Q5L"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/AUDI_Q5L_China_%2865%29.jpg/960px-AUDI_Q5L_China_%2865%29.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 29,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q5",
+    "SQ5"
+  ],
+  "description": "The Audi Q5 is a series of compact luxury crossover SUVs produced by the German luxury car manufacturer Audi from 2008. The original first-generation model was the third member of the B8 family to be released after the Audi A5 and fourth-generation A4, all being based on the Audi MLB platform. The second generation Q5 debuted in 2018 and shares the Audi MLB Evo platform with the corresponding B9 versions of the A4 and A5.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/AUDI_Q5L_China_%2865%29.jpg/1920px-AUDI_Q5L_China_%2865%29.jpg",
+  "sketchfab": {
+    "uid": "feed105b37ad4b65b6841604f2428468",
+    "name": "2023 Audi Q5 e-tron",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "audi-a8-d4",
+  "make": "Audi",
+  "model": "A8",
+  "generation": "D4",
+  "aka": [
+    "A8L",
+    "A8 W12",
+    "A8 D4",
+    "A8 D5"
+  ],
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2012_Audi_A8_%284H%29_4.2_quattro_sedan_%282018-10-12%29_01.jpg/960px-2012_Audi_A8_%284H%29_4.2_quattro_sedan_%282018-10-12%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2016,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 29,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A8"
+  ],
+  "description": "The Audi A8 is a full-size luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and currently in its fourth generation, the A8 has been offered with either front- or permanent all-wheel drive and in short- and long-wheelbase variants. The first two generations employed the Volkswagen Group D platform, with the current generation deriving from the MLB platform. After the original model's 1994 release, Audi released the second generation in late 2002, the third in late 2009, and the fourth and current iteration in 2017. Noted as the first mass-market car with an aluminium chassis, all A8 models have used this construction method co-developed with Alcoa and marketed as the Audi Space Frame.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2012_Audi_A8_%284H%29_4.2_quattro_sedan_%282018-10-12%29_01.jpg/1920px-2012_Audi_A8_%284H%29_4.2_quattro_sedan_%282018-10-12%29_01.jpg",
+  "sketchfab": {
+    "uid": "034ca2941e704dcfb286cd1800c08e08",
+    "name": "2011 Audi A8",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "honda-integra-fifth-generation",
+  "make": "Acura",
+  "model": "Honda Integra",
+  "generation": "Fifth generation",
+  "aka": [
+    "Rover 416i",
+    "Integra",
+    "Integra Type-R",
+    "Honda Quint Integra",
+    "Gsr blades",
+    "Honda Integra Type R",
+    "Integra GS-R",
+    "Honda Integra VTi-R"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "1.5L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2023_Acura_Integra_A-Spec%2C_front_4.3.23.jpg/960px-2023_Acura_Integra_A-Spec%2C_front_4.3.23.jpg",
+  "has3d": false,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "1.5L 4-cyl",
+    "displacementL": 1.5,
+    "cylinders": 4,
+    "transmission": "Automatic (AV-S7)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 29,
+    "mpgHighway": 37,
+    "mpgCombined": 32,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Integra"
+  ],
+  "description": "The Honda Integra , sold in North America as the Acura Integra and later the Acura RSX, is an automobile produced by the Japanese company Honda from 1985 until 2006, and then since 2021. It succeeded the Quint as a more luxurious and sport-oriented derivative of the Civic. The Integra was one of the launch models for Acura in the US in 1986 alongside the Acura Legend. Throughout its production run, the Integra was highly regarded for its handling and performance. The 1995–2001 Integra Type R is widely regarded as one of the best front-wheel-drive cars of all time.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_Integra",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2023_Acura_Integra_A-Spec%2C_front_4.3.23.jpg/1920px-2023_Acura_Integra_A-Spec%2C_front_4.3.23.jpg",
+  "sketchfab": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "honda-nsx-second-generation",
+  "make": "Acura",
+  "model": "Honda NSX",
+  "generation": "Second generation",
+  "aka": [
+    "nsx",
+    "Yamasa Raggio"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "3.5L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FoS20162016_0625_151036AA_%2827826100631%29.jpg/960px-FoS20162016_0625_151036AA_%2827826100631%29.jpg",
+  "has3d": false,
+  "representativeYear": 2022,
+  "specs": {
+    "engine": "3.5L 6-cyl",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S9)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 21,
+    "mpgHighway": 22,
+    "mpgCombined": 21,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "NSX"
+  ],
+  "description": "The Honda NSX is a two-seater sports car manufactured by Honda over two generations. The first generation was produced from 1990 until 2006, whilst the second generation was made from 2016 to 2022. The first generation was introduced as a two-door coupé, with a two-door targa top variant later added, and has a rear mid-engine, rear-wheel-drive layout. The second generation is only a coupé, and has a rear mid-engine, all-wheel-drive layout. The first generation has a transversely-mounted naturally-aspirated engine with a V6 configuration, whilst the second generation has a twin-turbocharged V6 engine supplemented by multiple electric motors in a petrol-electric hybrid drivetrain.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Honda_NSX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FoS20162016_0625_151036AA_%2827826100631%29.jpg/1920px-FoS20162016_0625_151036AA_%2827826100631%29.jpg",
+  "sketchfab": null
+}

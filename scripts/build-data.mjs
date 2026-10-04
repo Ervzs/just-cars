@@ -63,6 +63,12 @@ const slug = s => s.normalize('NFKD').toLowerCase().replace(/[^a-z0-9]+/g, '-').
 const words = s => ` ${s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()} `
 const num = s => (s === '' || s == null ? null : Number(s))
 const span = (a, b) => Array.from({ length: Math.max(0, b - a + 1) }, (_, i) => a + i)
+// "Toyota Hilux" -> "Hilux", "Mazda6" -> "6"; the card already shows the make.
+const stripMake = (t, make) =>
+  t.toLowerCase().startsWith(make.toLowerCase()) && /^[\s\d]/.test(t.slice(make.length)) ? t.slice(make.length).trim() : t
+assert.equal(stripMake('Mazda6', 'Mazda'), '6')
+assert.equal(stripMake('Toyota Hilux', 'Toyota'), 'Hilux')
+assert.equal(stripMake('MazdaSpeed3', 'Mazda'), 'MazdaSpeed3')
 const wantMake = m => !MAKES || MAKES.some(x => norm(x) === norm(m))
 
 // ---- FuelEconomy.gov ----
@@ -174,7 +180,7 @@ async function aliases(title, make, model) {
   const seen = new Set([norm(model)])
   return Object.values(pages).flatMap(p => p.redirects ?? []).map(r => r.title)
     .filter(t => !/[()/]|generation/i.test(t))
-    .map(t => (t.toLowerCase().startsWith(make.toLowerCase() + ' ') ? t.slice(make.length + 1) : t))
+    .map(t => stripMake(t, make))
     .filter(n => !seen.has(norm(n)) && seen.add(norm(n)))
     .slice(0, 8)
 }
@@ -239,7 +245,7 @@ for (const [i, a] of list.entries()) {
   const { make, page, rows } = a
   const title = page?.title ?? `${make} ${a.variants[0]}`
   process.stdout.write(`\rArticles ${i + 1}/${list.length} ${title}`.padEnd(70))
-  const model = title.toLowerCase().startsWith(make.toLowerCase() + ' ') ? title.slice(make.length + 1) : title
+  const model = stripMake(title, make)
   const gens = page ? await generations(page.title) : []
   const epaYears = [...new Set(rows.map(r => +r.year))]
   const articleYears = epaYears.length ? epaYears : page ? extractYears(page.extract) : []

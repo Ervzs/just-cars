@@ -1,0 +1,42 @@
+{
+  "id": "aston-martin-valour",
+  "make": "Aston Martin",
+  "model": "Valour",
+  "generation": null,
+  "aka": [
+    "Valiant"
+  ],
+  "years": [
+    2024
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.2L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2024_Aston_Martin_Valour.jpg/960px-2024_Aston_Martin_Valour.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "5.2L 12-cyl",
+    "displacementL": 5.2,
+    "cylinders": 12,
+    "transmission": "Manual 6-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 12,
+    "mpgHighway": 18,
+    "mpgCombined": 14,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Valour"
+  ],
+  "description": "The Aston Martin Valour is a sports car produced by the British luxury carmaker Aston Martin. It was first presented in July 2023. The production is limited to 110 examples, to celebrate the carmaker's 110th anniversary.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_Valour",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2024_Aston_Martin_Valour.jpg/1920px-2024_Aston_Martin_Valour.jpg",
+  "sketchfab": {
+    "uid": "0c36c7adb6d742e9bc27444880eb2f02",
+    "name": "Aston Martin Valour 2024 | www.vecarz.com",
+    "author": "vecarz",
+    "authorUrl": "https://sketchfab.com/heynic",
+    "license": "CC Attribution"
+  }
+}

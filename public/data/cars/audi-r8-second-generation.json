@@ -1,0 +1,61 @@
+{
+  "id": "audi-r8-second-generation",
+  "make": "Audi",
+  "model": "R8",
+  "generation": "Second generation",
+  "aka": [
+    "LeMans",
+    "R8 Road Car",
+    "rate",
+    "Volkswagen Rayra",
+    "VW Rayra",
+    "Rayra",
+    "R8 TDI Le Mans",
+    "R8 LMS"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Two Seaters",
+  "fuelType": "Premium",
+  "engine": "5.2L 10-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2016_Audi_R8_Plus_Quattro_V10_S-A_5.2.jpg/960px-2016_Audi_R8_Plus_Quattro_V10_S-A_5.2.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "5.2L 10-cyl",
+    "displacementL": 5.2,
+    "cylinders": 10,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "mpgCombined": 15,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "R8",
+    "R8 Spyder"
+  ],
+  "description": "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system. It was introduced by the German car manufacturer Audi AG in 2006. Production ended in the first quarter of 2024.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_R8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2016_Audi_R8_Plus_Quattro_V10_S-A_5.2.jpg/1280px-2016_Audi_R8_Plus_Quattro_V10_S-A_5.2.jpg",
+  "sketchfab": {
+    "uid": "68e525eb6e3c4476b09da2c498afb81b",
+    "name": "AC - Audi R8 Lms 2016 [FREE]",
+    "author": "Meshava",
+    "authorUrl": "https://sketchfab.com/7093",
+    "license": "Free Standard"
+  }
+}

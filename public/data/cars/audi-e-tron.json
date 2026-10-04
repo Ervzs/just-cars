@@ -1,0 +1,49 @@
+{
+  "id": "audi-e-tron",
+  "make": "Audi",
+  "model": "e-tron",
+  "generation": null,
+  "aka": [
+    "R4",
+    "R5",
+    "A1 e-tron",
+    "e-tron concept car"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Electricity",
+  "engine": null,
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/960px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": null,
+    "displacementL": null,
+    "cylinders": null,
+    "transmission": "Automatic (A2)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 78,
+    "mpgHighway": 79,
+    "mpgCombined": 79,
+    "evRangeMiles": 226
+  },
+  "variants": [
+    "e-tron"
+  ],
+  "description": "The Audi e-tron is a series of electric and hybrid cars shown by Audi from 2009 onwards. In 2012 Audi unveiled a plug-in hybrid version, the A3 Sportback e-tron, released to retail customers in Europe in August 2014, and slated for the U.S. in 2015. A decade after the unveiling of the first e-tron concept at the 2009 International Motor Show Germany, Audi's first fully electric e-tron SUV went into production in 2019.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_e-tron",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/1920px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+  "sketchfab": {
+    "uid": "2a9de0433cd94d5086f3dd0365b4a461",
+    "name": "2018 | Audi E-tron Vision Gran Turismo",
+    "author": "kevin (ケビン)",
+    "authorUrl": "https://sketchfab.com/sohyalebret",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "acura-mdx-fourth-generation",
+  "make": "Acura",
+  "model": "MDX",
+  "generation": "Fourth generation",
+  "aka": [
+    "Honda MDX"
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2022_Acura_MDX_A-Spec%2C_front_4.16.21.jpg/960px-2022_Acura_MDX_A-Spec%2C_front_4.16.21.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S10)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 17,
+    "mpgHighway": 21,
+    "mpgCombined": 19,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MDX"
+  ],
+  "description": "The Acura MDX is a mid-size luxury crossover SUV with three-row seating produced by the Japanese automaker Honda under its luxury Acura division since 2000. The alphanumeric moniker stands for \"Multi-Dimensional\" luxury. It has ranked as the second-best selling mid-size luxury SUV after the Lexus RX in the U.S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_MDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2022_Acura_MDX_A-Spec%2C_front_4.16.21.jpg/1920px-2022_Acura_MDX_A-Spec%2C_front_4.16.21.jpg",
+  "sketchfab": {
+    "uid": "838937c4b12345c9a242ea620d93e89e",
+    "name": "Acura MDX",
+    "author": "toigamach",
+    "authorUrl": "https://sketchfab.com/toigamach",
+    "license": "CC Attribution"
+  }
+}

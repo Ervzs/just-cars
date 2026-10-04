@@ -1,0 +1,48 @@
+{
+  "id": "aston-martin-vanquish-third-generation",
+  "make": "Aston Martin",
+  "model": "Vanquish",
+  "generation": "Third generation",
+  "aka": [
+    "V12 Vanquish",
+    "Vanquish S",
+    "Aston-Martin Vanquish",
+    "Vanq S",
+    "The Aston Martin Vanquish"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "5.2L 12-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg/960px-Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "5.2L 12-cyl",
+    "displacementL": 5.2,
+    "cylinders": 12,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 13,
+    "mpgHighway": 21,
+    "mpgCombined": 16,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Vanquish"
+  ],
+  "description": "The Aston Martin Vanquish is a grand tourer introduced by British luxury automobile manufacturer Aston Martin in 2001 as a successor to the Aston Martin Virage (1993).",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_Vanquish",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg/1920px-Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg",
+  "sketchfab": {
+    "uid": "1fd8678b48ae45cab3378adc4be1c3e6",
+    "name": "2025 Aston Martin Vanquish Volante",
+    "author": "SIU Car Garage",
+    "authorUrl": "https://sketchfab.com/Game_mode",
+    "license": "CC Attribution-NonCommercial"
+  }
+}

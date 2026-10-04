@@ -1,0 +1,45 @@
+{
+  "id": "audi-a5-third-generation",
+  "make": "Audi",
+  "model": "A5",
+  "generation": "Third generation",
+  "aka": [
+    "RS5",
+    "A5 Sportback"
+  ],
+  "years": [
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Audi_A5_S_line_%28B10%29_%E2%80%93_h_01032025.jpg/960px-Audi_A5_S_line_%28B10%29_%E2%80%93_h_01032025.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A5"
+  ],
+  "description": "The Audi A5 is a series of compact executive and grand touring coupé cars produced by the German automobile manufacturer Audi since June 2007. The A5 range also includes the coupe, cabriolet, and \"Sportback\"—a five-door liftback with a fastback roofline—derived from the Audi A4 saloon and estate models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Audi_A5_S_line_%28B10%29_%E2%80%93_h_01032025.jpg/1920px-Audi_A5_S_line_%28B10%29_%E2%80%93_h_01032025.jpg",
+  "sketchfab": {
+    "uid": "511412fd4a584f22836a6ea359c2f36b",
+    "name": "Audi A5 Sportback (A5II)",
+    "author": "Mona x Supercars",
+    "authorUrl": "https://sketchfab.com/Car2022",
+    "license": "CC Attribution"
+  }
+}

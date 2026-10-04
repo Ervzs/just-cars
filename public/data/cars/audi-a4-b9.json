@@ -1,0 +1,60 @@
+{
+  "id": "audi-a4-b9",
+  "make": "Audi",
+  "model": "A4",
+  "generation": "B9",
+  "aka": [
+    "A4 3.2 FSI quattro",
+    "A4 S Line",
+    "A4 allroad quattro",
+    "A4 allroad",
+    "A4 B8",
+    "A4 Super2000",
+    "A4L",
+    "A4 Quattro"
+  ],
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Audi_A4_%288W%29_sport_quattro_sedan_%282018-10-19%29_02.jpg/960px-2017_Audi_A4_%288W%29_sport_quattro_sedan_%282018-10-19%29_02.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 32,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A4"
+  ],
+  "description": "The Audi A4 is a line of luxury compact executive cars produced from 1994 to 2025 by the German car manufacturer Audi, a subsidiary of the Volkswagen Group. The A4 has been built in five generations and is based on the Volkswagen Group B platform. The first generation A4 succeeded the Audi 80. The automaker's internal numbering treats the A4 as a continuation of the Audi 80 lineage, with the initial A4 designated as the B5-series, followed by the B6, B7, B8, and the B9.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Audi_A4_%288W%29_sport_quattro_sedan_%282018-10-19%29_02.jpg/1920px-2017_Audi_A4_%288W%29_sport_quattro_sedan_%282018-10-19%29_02.jpg",
+  "sketchfab": {
+    "uid": "b5861ddefcb8478b858b3150aa44cd7f",
+    "name": "Audi A4 (B5)",
+    "author": "MMC Works",
+    "authorUrl": "https://sketchfab.com/mmcworks",
+    "license": "CC Attribution"
+  }
+}

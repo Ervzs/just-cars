@@ -1,0 +1,43 @@
+{
+  "id": "acura-mdx-third-generation",
+  "make": "Acura",
+  "model": "MDX",
+  "generation": "Third generation",
+  "aka": [
+    "Honda MDX"
+  ],
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "vehicleClass": "Small Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2019_Acura_MDX_SH-AWD_front_in_white_NYIAS_2019.jpg/960px-2019_Acura_MDX_SH-AWD_front_in_white_NYIAS_2019.jpg",
+  "has3d": false,
+  "representativeYear": 2020,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 26,
+    "mpgHighway": 27,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "MDX"
+  ],
+  "description": "The Acura MDX is a mid-size luxury crossover SUV with three-row seating produced by the Japanese automaker Honda under its luxury Acura division since 2000. The alphanumeric moniker stands for \"Multi-Dimensional\" luxury. It has ranked as the second-best selling mid-size luxury SUV after the Lexus RX in the U.S.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_MDX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2019_Acura_MDX_SH-AWD_front_in_white_NYIAS_2019.jpg/1920px-2019_Acura_MDX_SH-AWD_front_in_white_NYIAS_2019.jpg",
+  "sketchfab": null
+}

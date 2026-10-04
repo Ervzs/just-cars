@@ -1,0 +1,45 @@
+{
+  "id": "acura-tlx-second-generation",
+  "make": "Acura",
+  "model": "TLX",
+  "generation": "Second generation",
+  "aka": [],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Acura_TLX_Advance%2C_front_7.8.22.jpg/960px-2021_Acura_TLX_Advance%2C_front_7.8.22.jpg",
+  "has3d": true,
+  "representativeYear": 2025,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S10)",
+    "drive": "Front-Wheel Drive",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "mpgCombined": 25,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "TLX"
+  ],
+  "description": "The Acura TLX is a four-door entry-level luxury sedan that was produced by Acura, a luxury division of Honda, from 2014 through 2025. It was the successor to both the TL and TSX models. The discontinuation of the RLX after the 2020 model year left the TLX as the flagship sedan in Acura's lineup. Acura ended production of the TLX with the 2025 model year due to declining sales.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acura_TLX",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Acura_TLX_Advance%2C_front_7.8.22.jpg/1920px-2021_Acura_TLX_Advance%2C_front_7.8.22.jpg",
+  "sketchfab": {
+    "uid": "041ea5b7ee1741caae446f8d704b3690",
+    "name": "acura tlx type s",
+    "author": "MattDoesBlender",
+    "authorUrl": "https://sketchfab.com/MattDoesBlender",
+    "license": "CC Attribution"
+  }
+}

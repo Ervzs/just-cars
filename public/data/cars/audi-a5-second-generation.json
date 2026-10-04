@@ -1,0 +1,50 @@
+{
+  "id": "audi-a5-second-generation",
+  "make": "Audi",
+  "model": "A5",
+  "generation": "Second generation",
+  "aka": [
+    "RS5",
+    "A5 Sportback"
+  ],
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2017_Audi_A5_S_Line_Quattro_2.0_Front.jpg/960px-2017_Audi_A5_S_Line_Quattro_2.0_Front.jpg",
+  "has3d": true,
+  "representativeYear": 2023,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 32,
+    "mpgCombined": 27,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A5"
+  ],
+  "description": "The Audi A5 is a series of compact executive and grand touring coupé cars produced by the German automobile manufacturer Audi since June 2007. The A5 range also includes the coupe, cabriolet, and \"Sportback\"—a five-door liftback with a fastback roofline—derived from the Audi A4 saloon and estate models.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A5",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2017_Audi_A5_S_Line_Quattro_2.0_Front.jpg/1920px-2017_Audi_A5_S_Line_Quattro_2.0_Front.jpg",
+  "sketchfab": {
+    "uid": "aa9b8d495d324fa1adfe6eab519e21a9",
+    "name": "Audi A5 Sportback S Line - 2021",
+    "author": "Unn Tech",
+    "authorUrl": "https://sketchfab.com/unntech",
+    "license": "CC Attribution"
+  }
+}

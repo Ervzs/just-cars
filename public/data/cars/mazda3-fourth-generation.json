@@ -1,13 +1,13 @@
 {
   "id": "mazda3-fourth-generation",
   "make": "Mazda",
-  "model": "Mazda3",
+  "model": "3",
   "generation": "Fourth generation",
   "aka": [
-    "3",
     "BK3P",
     "Axela",
     "MazdaThree",
+    "Mazda3",
     "3 SP25"
   ],
   "years": [
@@ -24,7 +24,7 @@
   "fuelType": "Regular",
   "engine": "2.5L 4-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2019_Mazda3%2C_Front_Right%2C_10-07-2020.jpg/960px-2019_Mazda3%2C_Front_Right%2C_10-07-2020.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2026,
   "specs": {
     "engine": "2.5L 4-cyl",
@@ -43,5 +43,11 @@
   "description": "The Mazda3 is a compact car manufactured by Mazda since 2003 over four generations. The body styles have been a 5-door hatchback and 4-door sedan across all generations. It was sold as the Mazda Axela  in Japan until 2019. From 2013 until 2019, it was called the Mazda 3 Axela in China.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda3",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2019_Mazda3%2C_Front_Right%2C_10-07-2020.jpg/1920px-2019_Mazda3%2C_Front_Right%2C_10-07-2020.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "a72de3f3c1604409a7e6fc6be9854c9d",
+    "name": "2020 Mazda 3 Hatchback",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
 }

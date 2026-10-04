@@ -1,0 +1,51 @@
+{
+  "id": "audi-a8-s8",
+  "make": "Audi",
+  "model": "A8",
+  "generation": "S8",
+  "aka": [
+    "A8L",
+    "A8 W12",
+    "A8 D4",
+    "A8 D5"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Large Cars",
+  "fuelType": "Premium",
+  "engine": "3.0L 6-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Audi_S8_D5_IMG_3491.jpg/960px-Audi_S8_D5_IMG_3491.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "3.0L 6-cyl",
+    "displacementL": 3,
+    "cylinders": 6,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 19,
+    "mpgHighway": 27,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A8"
+  ],
+  "description": "The Audi A8 is a full-size luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and currently in its fourth generation, the A8 has been offered with either front- or permanent all-wheel drive and in short- and long-wheelbase variants. The first two generations employed the Volkswagen Group D platform, with the current generation deriving from the MLB platform. After the original model's 1994 release, Audi released the second generation in late 2002, the third in late 2009, and the fourth and current iteration in 2017. Noted as the first mass-market car with an aluminium chassis, all A8 models have used this construction method co-developed with Alcoa and marketed as the Audi Space Frame.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A8",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Audi_S8_D5_IMG_3491.jpg/1920px-Audi_S8_D5_IMG_3491.jpg",
+  "sketchfab": {
+    "uid": "922075ee49aa40869f532e7080522fd6",
+    "name": "Audi A8",
+    "author": "dannzjs",
+    "authorUrl": "https://sketchfab.com/dannzjs",
+    "license": "CC Attribution"
+  }
+}

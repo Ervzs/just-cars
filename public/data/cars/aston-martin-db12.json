@@ -1,0 +1,44 @@
+{
+  "id": "aston-martin-db12",
+  "make": "Aston Martin",
+  "model": "DB12",
+  "generation": null,
+  "aka": [],
+  "years": [
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "vehicleClass": "Minicompact Cars",
+  "fuelType": "Premium",
+  "engine": "4.0L 8-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/960px-Aston_Martin_DB12_1X7A1921.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "4.0L 8-cyl",
+    "displacementL": 4,
+    "cylinders": 8,
+    "transmission": "Automatic 8-spd",
+    "drive": "Rear-Wheel Drive",
+    "mpgCity": 15,
+    "mpgHighway": 22,
+    "mpgCombined": 17,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "DB12 V8",
+    "DB12 S"
+  ],
+  "description": "The Aston Martin DB12 is a grand touring car produced by the British car manufacturer Aston Martin. The car was unveiled in May 2023 as a replacement for the DB11.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Martin_DB12",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/1920px-Aston_Martin_DB12_1X7A1921.jpg",
+  "sketchfab": {
+    "uid": "f603d93210c04f2b8a8308afaa9da87d",
+    "name": "2024 Aston Martin DB12",
+    "author": "tonielpro520",
+    "authorUrl": "https://sketchfab.com/tonielpro520",
+    "license": "CC Attribution"
+  }
+}

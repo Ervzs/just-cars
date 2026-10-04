@@ -1,10 +1,9 @@
 {
   "id": "mazda2-third-generation",
   "make": "Mazda",
-  "model": "Mazda2",
+  "model": "2",
   "generation": "Third generation",
   "aka": [
-    "2",
     "Hazumi",
     "Scion iA",
     "Toyota Yaris R",
@@ -30,7 +29,7 @@
   "fuelType": "Regular",
   "engine": "1.5L 4-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Mazda2_%28DJ%29_Genki_hatchback_%282018-08-27%29_03.jpg/960px-2015_Mazda2_%28DJ%29_Genki_hatchback_%282018-08-27%29_03.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2021,
   "specs": {
     "engine": "1.5L 4-cyl",
@@ -50,5 +49,11 @@
   "description": "The Mazda 2  is a subcompact/supermini (B-segment) car, which has been available as a 4-door sedan and a 5 door hatchback manufactured and marketed by Mazda since 2002, currently in its third generation. An entry-level model of the brand in markets outside Japan, the Mazda2 is positioned below the Mazda3. The Mazda2 has also been marketed as the Mazda Demio, while its direct predecessor was exported as the Mazda 121.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda2",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Mazda2_%28DJ%29_Genki_hatchback_%282018-08-27%29_03.jpg/1920px-2015_Mazda2_%28DJ%29_Genki_hatchback_%282018-08-27%29_03.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "137e835475d5460bba22dc5ee0f58360",
+    "name": "2015 Autoexe Mazda 2 / Demio Aero Kit DE-03",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
 }

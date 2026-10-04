@@ -1,0 +1,53 @@
+{
+  "id": "audi-a6-s6-2",
+  "make": "Audi",
+  "model": "A6",
+  "generation": "S6",
+  "aka": [
+    "A6 Hybrid",
+    "A6L",
+    "A6 C7",
+    "A6 Avant",
+    "C4",
+    "4A"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "vehicleClass": "Midsize Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Audi_S6_C8_at_IAA_2019_IMG_0305.jpg/960px-Audi_S6_C8_at_IAA_2019_IMG_0305.jpg",
+  "has3d": true,
+  "representativeYear": 2024,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 23,
+    "mpgHighway": 33,
+    "mpgCombined": 26,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A6"
+  ],
+  "description": "The Audi A6 is an executive car manufactured by the German company Audi since 1994. Now in its sixth generation, the successor to the Audi 100 is manufactured in Neckarsulm, Germany, and is available in saloon and estate configurations, the latter marketed by Audi as the Avant. Audi's internal numbering treats the A6 as a continuation of the Audi 100 lineage, with the initial A6 designated as a member of the C4-series, followed by the C5, C6, C7, C8 and the C9. The related Audi A7 is essentially a Sportback (liftback) version of the C7-series and C8-series A6 but is marketed under its own separate identity and model designation.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A6",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Audi_S6_C8_at_IAA_2019_IMG_0305.jpg/1920px-Audi_S6_C8_at_IAA_2019_IMG_0305.jpg",
+  "sketchfab": {
+    "uid": "45903ad838ec4566be29320df1516ef3",
+    "name": "Audi A6 2019",
+    "author": "Nieve5677",
+    "authorUrl": "https://sketchfab.com/niev",
+    "license": "CC Attribution"
+  }
+}

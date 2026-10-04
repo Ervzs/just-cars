@@ -1,0 +1,48 @@
+{
+  "id": "audi-q7-third-generation",
+  "make": "Audi",
+  "model": "Q7",
+  "generation": "Third generation",
+  "aka": [
+    "Q7 Hybrid",
+    "Q7 e-tron",
+    "Q7 PHEV",
+    "Q7 e-Tron Quattro TDI",
+    "Q7 e-tron Quattro",
+    "SQ7"
+  ],
+  "years": [
+    2026
+  ],
+  "vehicleClass": "Standard Sport Utility Vehicle 4WD",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Audi_Q7_%28G8%29_IMG_7166.jpg/960px-Audi_Q7_%28G8%29_IMG_7166.jpg",
+  "has3d": true,
+  "representativeYear": 2026,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 26,
+    "mpgCombined": 22,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "Q7",
+    "SQ7"
+  ],
+  "description": "The Audi Q7 is a 2- and 3-row E-segment SUV made by the German manufacturer Audi, unveiled in September 2005 at the Frankfurt Motor Show. Production of the Q7 began in November 2005 at the Volkswagen Bratislava Plant in Bratislava, Slovakia.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_Q7",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Audi_Q7_%28G8%29_IMG_7166.jpg/1920px-Audi_Q7_%28G8%29_IMG_7166.jpg",
+  "sketchfab": {
+    "uid": "1bd807b75ca744c2b639740ecd7ff6fa",
+    "name": "Audi Q7",
+    "author": "Savelliy 07",
+    "authorUrl": "https://sketchfab.com/savelliy07",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "audi-a3-fourth-generation",
+  "make": "Audi",
+  "model": "A3",
+  "generation": "Fourth generation",
+  "aka": [
+    "A3 3.2 quattro",
+    "A3 TDI clubsport quattro concept",
+    "RS3",
+    "a3 tdi",
+    "RS3 Sportback",
+    "A3 3.2L Quattro",
+    "A3 e-tron",
+    "A3 Sportback e-tron"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "vehicleClass": "Subcompact Cars",
+  "fuelType": "Premium",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Audi_A3_8Y_40_TFSI_e_IMG_3837.jpg/960px-Audi_A3_8Y_40_TFSI_e_IMG_3837.jpg",
+  "has3d": true,
+  "representativeYear": 2027,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (AM-S7)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 24,
+    "mpgHighway": 33,
+    "mpgCombined": 28,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A3"
+  ],
+  "description": "The Audi A3 is a small family car (C-segment) manufactured and marketed by the German automaker Audi AG since September 1996.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Audi_A3_8Y_40_TFSI_e_IMG_3837.jpg/1920px-Audi_A3_8Y_40_TFSI_e_IMG_3837.jpg",
+  "sketchfab": {
+    "uid": "5856963f5c664e01b3181eaa75523f5f",
+    "name": "Audi A3 2022",
+    "author": "smussull",
+    "authorUrl": "https://sketchfab.com/smussull",
+    "license": "CC Attribution"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "audi-a4-b8",
+  "make": "Audi",
+  "model": "A4",
+  "generation": "B8",
+  "aka": [
+    "A4 3.2 FSI quattro",
+    "A4 S Line",
+    "A4 allroad quattro",
+    "A4 allroad",
+    "A4 B8",
+    "A4 Super2000",
+    "A4L",
+    "A4 Quattro"
+  ],
+  "years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "vehicleClass": "Compact Cars",
+  "fuelType": "Premium or E85",
+  "engine": "2.0L 4-cyl",
+  "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2009_Audi_A4_%288K_MY10%29_2.0_TDI_sedan_%282015-07-09%29_01.jpg/960px-2009_Audi_A4_%288K_MY10%29_2.0_TDI_sedan_%282015-07-09%29_01.jpg",
+  "has3d": true,
+  "representativeYear": 2014,
+  "specs": {
+    "engine": "2.0L 4-cyl",
+    "displacementL": 2,
+    "cylinders": 4,
+    "transmission": "Automatic (S8)",
+    "drive": "All-Wheel Drive",
+    "mpgCity": 20,
+    "mpgHighway": 28,
+    "mpgCombined": 23,
+    "evRangeMiles": null
+  },
+  "variants": [
+    "A4"
+  ],
+  "description": "The Audi A4 is a line of luxury compact executive cars produced from 1994 to 2025 by the German car manufacturer Audi, a subsidiary of the Volkswagen Group. The A4 has been built in five generations and is based on the Volkswagen Group B platform. The first generation A4 succeeded the Audi 80. The automaker's internal numbering treats the A4 as a continuation of the Audi 80 lineage, with the initial A4 designated as the B5-series, followed by the B6, B7, B8, and the B9.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audi_A4",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2009_Audi_A4_%288K_MY10%29_2.0_TDI_sedan_%282015-07-09%29_01.jpg/1920px-2009_Audi_A4_%288K_MY10%29_2.0_TDI_sedan_%282015-07-09%29_01.jpg",
+  "sketchfab": {
+    "uid": "101fe36c91244631b2ce6c012520e85e",
+    "name": "2010 Audi A4 Allroad (B8)",
+    "author": "DisneyCars",
+    "authorUrl": "https://sketchfab.com/supercarmodels",
+    "license": "CC Attribution"
+  }
+}

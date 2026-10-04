@@ -1,10 +1,9 @@
 {
   "id": "mazda2-second-generation",
   "make": "Mazda",
-  "model": "Mazda2",
+  "model": "2",
   "generation": "Second generation",
   "aka": [
-    "2",
     "Hazumi",
     "Scion iA",
     "Toyota Yaris R",
@@ -24,7 +23,7 @@
   "fuelType": "Regular",
   "engine": "1.5L 4-cyl",
   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg/960px-2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg",
-  "has3d": false,
+  "has3d": true,
   "representativeYear": 2013,
   "specs": {
     "engine": "1.5L 4-cyl",
@@ -43,5 +42,11 @@
   "description": "The Mazda 2  is a subcompact/supermini (B-segment) car, which has been available as a 4-door sedan and a 5 door hatchback manufactured and marketed by Mazda since 2002, currently in its third generation. An entry-level model of the brand in markets outside Japan, the Mazda2 is positioned below the Mazda3. The Mazda2 has also been marketed as the Mazda Demio, while its direct predecessor was exported as the Mazda 121.",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazda2",
   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg/1920px-2010_Mazda2_%28DH_Series_2%29_Maxx_sedan_%282015-11-11%29_02.jpg",
-  "sketchfab": null
+  "sketchfab": {
+    "uid": "1f3ef39f1c95445197ac5076a2d696c2",
+    "name": "2011 Mazda 2 / Demio",
+    "author": "Ddiaz Design",
+    "authorUrl": "https://sketchfab.com/ddiaz-design",
+    "license": "CC Attribution-NonCommercial-ShareAlike"
+  }
 }

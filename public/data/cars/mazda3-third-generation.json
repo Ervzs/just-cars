@@ -1,13 +1,13 @@
 {
   "id": "mazda3-third-generation",
   "make": "Mazda",
-  "model": "Mazda3",
+  "model": "3",
   "generation": "Third generation",
   "aka": [
-    "3",
     "BK3P",
     "Axela",
     "MazdaThree",
+    "Mazda3",
     "3 SP25"
   ],
   "years": [
