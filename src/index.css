@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+@theme {
+  --color-paper: #F2F4F1;
+  --color-ink: #172430;
+  --color-muted: #56636E;
+  --color-green: #1F6F4A;
+  --color-blue: #2C5A86;
+  --color-line: #C9D0CC;
+  --color-skel: #E3E7E4;
+  --font-sans: Archivo, ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Archivo's width axis carries the hierarchy (design A). */
+.cond { font-stretch: 70%; }
+.xcond { font-stretch: 62%; }
+
+body { background: var(--color-paper); color: var(--color-ink); }
+:focus-visible { outline: 3px solid var(--color-blue); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
