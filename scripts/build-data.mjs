@@ -27,7 +27,8 @@ const BRAND_CATEGORIES = {
 }
 
 const CACHE = new URL('./.cache/', import.meta.url)
-const OUT = new URL('../public/data/', import.meta.url)
+// Limited test runs (max or make filter) write elsewhere so they never replace the real catalog.
+const OUT = new URL(MAKES || MAX_ARTICLES < Infinity ? './.out-test/' : '../public/data/', import.meta.url)
 const sleep = ms => new Promise(r => setTimeout(r, ms))
 
 // Cached, throttled, retrying GET. Returns text, or null on 404.

@@ -66,7 +66,7 @@ export function filterCars(cars: CarSummary[], p: URLSearchParams) {
   const make = p.get('make'), cls = p.get('class'), fuel = p.get('fuel'), only3d = p.get('3d') === '1'
   const from = Number(p.get('from')) || 0, to = Number(p.get('to')) || 9999
   const out = cars.filter(c =>
-    (!q || `${c.make} ${c.model} ${c.aka.join(' ')}`.toLowerCase().includes(q)) &&
+    (!q || `${c.make} ${c.model} ${c.aka?.join(' ') ?? ''}`.toLowerCase().includes(q)) &&
     (!make || c.make === make) &&
     (!cls || c.vehicleClass === cls) &&
     (!fuel || c.fuelType === fuel) &&

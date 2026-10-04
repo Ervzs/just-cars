@@ -30,8 +30,8 @@ export default function CarPage() {
   const s = car?.specs
   const unit = car?.fuelType === 'Electricity' ? 'MPGe' : 'mpg'
   const rows = car ? ([
-    ['Also known as', car.aka.join(', ')],
-    ['Variants', car.variants.length > 1 && car.variants.join(', ')],
+    ['Also known as', car.aka?.join(', ')],
+    ['Variants', car.variants?.length > 1 && car.variants.join(', ')],
     ['Engine', s?.engine],
     ['Transmission', s?.transmission],
     ['Drive', s?.drive],
