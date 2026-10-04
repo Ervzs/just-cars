@@ -139,7 +139,7 @@ export default function HomePage() {
           </div>
         ) : (
           <div className="grid grid-cols-[repeat(auto-fill,minmax(min(100%,260px),1fr))] gap-5">
-            {shown.map(c => <Card key={c.id} car={c} query={params.toString()} />)}
+            {shown.map((c, i) => <Card key={c.id} car={c} query={params.toString()} eager={i < 4} />)}
           </div>
         )}
 
@@ -161,11 +161,14 @@ export default function HomePage() {
   )
 }
 
-function Card({ car: c, query }: { car: CarSummary; query: string }) {
+function Card({ car: c, query, eager }: { car: CarSummary; query: string; eager: boolean }) {
   return (
     <Link to={`/cars/${c.id}${query ? `?${query}` : ''}`} className="group block border-2 border-ink bg-white">
       <div className="relative aspect-3/2 border-b-2 border-ink bg-skel">
-        {c.thumbnail && <img src={c.thumbnail} alt="" loading="lazy" className="size-full object-cover" />}
+        {c.thumbnail && (
+          <img src={c.thumbnail} alt="" loading={eager ? "eager" : "lazy"} className="size-full object-cover" sizes="(min-width: 640px) 330px, 100vw"
+            srcSet={`${c.thumbnail.replace("/960px-", "/500px-")} 500w, ${c.thumbnail} 960w`} />
+        )}
         {c.has3d && <span className="cond absolute top-0 right-0 bg-ink px-2.5 py-1 text-[15px] font-extrabold text-white">3D</span>}
       </div>
       <div className="px-3.5 pt-3 pb-3.5">
