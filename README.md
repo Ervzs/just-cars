@@ -6,7 +6,7 @@ A static site showcasing cars from around the world since 2000, one card per gen
 
 ```sh
 npm install
-npm run dev        # http://localhost:5173
+npm run dev        # http://localhost:5173/just-cars/
 ```
 
 ## Data
@@ -15,7 +15,4 @@ npm run dev        # http://localhost:5173
 
 ## Deploy
 
-The build is a static `dist/` folder. SPA fallback routing is already configured for both hosts (`vercel.json` and `public/_redirects`).
-
-- **Vercel:** import the repo, framework preset "Vite", build command `npm run build`, output directory `dist`.
-- **Netlify:** import the repo, build command `npm run build`, publish directory `dist`.
+Every push to `main` builds and publishes the site to **GitHub Pages** (`https://ervzs.github.io/just-cars/`) via `.github/workflows/deploy.yml`. One-time setup: repo **Settings → Pages → Source: GitHub Actions**. Details in [deploy.md](deploy.md).
