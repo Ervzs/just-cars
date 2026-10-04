@@ -60,17 +60,29 @@ export const useIndex = () => useJson<CarSummary[]>('/data/index.json')
 export const yearRange = (years: number[]) =>
   years.length > 1 ? `${years[0]}–${years.at(-1)}` : years.length ? `${years[0]}` : ''
 
+// Spacing and punctuation don't matter: "mazda6", "Mazda 6" and "MAZDA-6" all match.
+const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '')
+const nameMatch = (c: CarSummary, q: string) => norm(`${c.make}${c.model}`).includes(q)
+
+// The other-market name a car matched by, when its own name didn't ("Hilux Surf" for the 4Runner).
+export function soldAs(c: CarSummary, query: string | null) {
+  const q = norm(query ?? '')
+  return q && !nameMatch(c, q) ? c.aka?.find(a => norm(`${c.make}${a}`).includes(q) || norm(a).includes(q)) ?? null : null
+}
+
 // One filter used by the grid and by prev/next on the car page, driven by the URL query.
 export function filterCars(cars: CarSummary[], p: URLSearchParams) {
-  const q = (p.get('q') ?? '').trim().toLowerCase()
+  const q = norm(p.get('q') ?? '')
   const make = p.get('make'), cls = p.get('class'), fuel = p.get('fuel'), only3d = p.get('3d') === '1'
   const from = Number(p.get('from')) || 0, to = Number(p.get('to')) || 9999
   const out = cars.filter(c =>
-    (!q || `${c.make} ${c.model} ${c.aka?.join(' ') ?? ''}`.toLowerCase().includes(q)) &&
+    (!q || nameMatch(c, q) || soldAs(c, q) !== null) &&
     (!make || c.make === make) &&
     (!cls || c.vehicleClass === cls) &&
     (!fuel || c.fuelType === fuel) &&
     (!only3d || c.has3d) &&
     (!(p.has('from') || p.has('to')) || c.years.some(y => y >= from && y <= to)))
-  return p.get('sort') === 'new' ? out.sort((a, b) => (b.years.at(-1) ?? 0) - (a.years.at(-1) ?? 0)) : out
+  if (p.get('sort') === 'new') return out.sort((a, b) => (b.years.at(-1) ?? 0) - (a.years.at(-1) ?? 0))
+  // With a search, cars matching by their own name come before other-market-name matches (stable sort).
+  return q ? out.sort((a, b) => Number(!nameMatch(a, q)) - Number(!nameMatch(b, q))) : out
 }

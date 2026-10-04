@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router'
-import { filterCars, useIndex, yearRange, type CarSummary } from '../data'
+import { filterCars, soldAs, useIndex, yearRange, type CarSummary } from '../data'
 
 const PER_PAGE = 24
 const uniq = (xs: (string | null)[]) => [...new Set(xs.filter(x => x !== null))].sort((a, b) => a.localeCompare(b))
@@ -111,7 +111,7 @@ export default function HomePage() {
           <label>
             Sort{' '}
             <select className="bg-transparent font-semibold text-ink" value={params.get('sort') ?? ''} onChange={e => set('sort', e.target.value)}>
-              <option value="">Make A–Z</option>
+              <option value="">{params.get('q') ? 'Best match' : 'Make A–Z'}</option>
               <option value="new">Newest first</option>
             </select>
           </label>
@@ -162,6 +162,7 @@ export default function HomePage() {
 }
 
 function Card({ car: c, query, eager }: { car: CarSummary; query: string; eager: boolean }) {
+  const alias = soldAs(c, new URLSearchParams(query).get('q'))
   const engine = c.engine ?? (c.fuelType === 'Electricity' ? 'Electric' : null)
   const rows = ([['Years', yearRange(c.years)], ['Class', c.vehicleClass], ['Engine', engine]] as const).filter(r => r[1])
   return (
@@ -177,6 +178,7 @@ function Card({ car: c, query, eager }: { car: CarSummary; query: string; eager:
         <p className="text-sm text-muted">{c.make}</p>
         <h3 className="cond text-[30px] leading-none font-extrabold [overflow-wrap:anywhere] decoration-[3px] underline-offset-4 group-hover:underline">{c.model}</h3>
         {c.generation && <p className="mt-1 text-sm font-semibold">{c.generation}</p>}
+        {alias && <p className="mt-0.5 text-sm text-muted">Sold as {alias}</p>}
         <dl className="mt-3 grid grid-cols-[auto_1fr] border-t border-ink text-sm [&>*]:border-b [&>*]:border-line [&>*]:py-1.5">
           {rows.map(([k, v]) => [
             <dt key={k} className="pr-4 text-muted">{k}</dt>,
